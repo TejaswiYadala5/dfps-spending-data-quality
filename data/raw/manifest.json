@@ -1,0 +1,211 @@
+{
+  "fetched_at_utc": "2026-10-11T02:36:22+00:00",
+  "sources": [
+    {
+      "file": "exp_fy2016.csv",
+      "dataset_id": "w7z7-5uku",
+      "rows": 217,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "capital_outlays",
+        "county_name",
+        "highway_construction",
+        "intergovernmental_payments",
+        "labor_costs",
+        "misc",
+        "operating_expenses",
+        "public_assistance",
+        "total"
+      ],
+      "url": "https://data.texas.gov/d/w7z7-5uku",
+      "fiscal_year": 2016
+    },
+    {
+      "file": "exp_fy2018.csv",
+      "dataset_id": "f2iw-dtqt",
+      "rows": 2630,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "amount",
+        "county",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/f2iw-dtqt",
+      "fiscal_year": 2018
+    },
+    {
+      "file": "exp_fy2019.csv",
+      "dataset_id": "2x5x-m677",
+      "rows": 1330,
+      "columns": [
+        "agency",
+        "agency_name",
+        "amount",
+        "county_name",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/2x5x-m677",
+      "fiscal_year": 2019
+    },
+    {
+      "file": "exp_fy2020.csv",
+      "dataset_id": "aact-g69n",
+      "rows": 5558,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "amount",
+        "county",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/aact-g69n",
+      "fiscal_year": 2020
+    },
+    {
+      "file": "exp_fy2021.csv",
+      "dataset_id": "tup7-smjg",
+      "rows": 1248,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "amount",
+        "county",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/tup7-smjg",
+      "fiscal_year": 2021
+    },
+    {
+      "file": "exp_fy2022.csv",
+      "dataset_id": "xys8-xb33",
+      "rows": 1366,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "agency_number_and_name",
+        "amount",
+        "county",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/xys8-xb33",
+      "fiscal_year": 2022
+    },
+    {
+      "file": "exp_fy2023.csv",
+      "dataset_id": "iyey-5sid",
+      "rows": 1220,
+      "columns": [
+        "agency_name",
+        "agency_name_and_number",
+        "amount",
+        "county",
+        "expenditure_category",
+        "fiscal_year",
+        "number"
+      ],
+      "url": "https://data.texas.gov/d/iyey-5sid",
+      "fiscal_year": 2023
+    },
+    {
+      "file": "exp_fy2024.csv",
+      "dataset_id": "2zpi-yjjs",
+      "rows": 1226,
+      "columns": [
+        "agency_name",
+        "agency_number",
+        "agency_number_and_name",
+        "amount",
+        "county",
+        "fiscal_year",
+        "major_spending_category"
+      ],
+      "url": "https://data.texas.gov/d/2zpi-yjjs",
+      "fiscal_year": 2024
+    },
+    {
+      "file": "exp_summary_2023.csv",
+      "dataset_id": "fnb3-hipf",
+      "rows": 1220,
+      "columns": [
+        "agency",
+        "agency_name",
+        "agency_number_and_name",
+        "amount",
+        "expenditure_category",
+        "fy"
+      ],
+      "url": "https://data.texas.gov/d/fnb3-hipf"
+    },
+    {
+      "file": "cps_removals.csv",
+      "dataset_id": "xmtn-e5c8",
+      "rows": 4526,
+      "columns": [
+        "county",
+        "fiscal_year",
+        "region",
+        "removal_stage",
+        "removals"
+      ],
+      "url": "https://data.texas.gov/d/xmtn-e5c8"
+    },
+    {
+      "file": "cpi_victims.csv",
+      "dataset_id": "v63e-6dss",
+      "rows": 4992,
+      "columns": [
+        "confirmed_victims",
+        "county",
+        "fiscal_year",
+        "region",
+        "victims"
+      ],
+      "url": "https://data.texas.gov/d/v63e-6dss"
+    },
+    {
+      "file": "aps_investigations.csv",
+      "dataset_id": "3zr8-huug",
+      "rows": 2524,
+      "columns": [
+        "completed_investigations",
+        "county",
+        "fiscal_year",
+        "region"
+      ],
+      "url": "https://data.texas.gov/d/3zr8-huug"
+    },
+    {
+      "file": "child_population.csv",
+      "dataset_id": "x5xb-idr6",
+      "rows": 2550,
+      "columns": [
+        "child_population",
+        "county",
+        "of_children_in_total_population",
+        "region",
+        "total_population",
+        "year"
+      ],
+      "url": "https://data.texas.gov/d/x5xb-idr6"
+    },
+    {
+      "file": "cps_children_served.csv",
+      "dataset_id": "v7mp-wh8p",
+      "rows": 2401,
+      "columns": [
+        "children",
+        "county",
+        "fiscal_year",
+        "region"
+      ],
+      "url": "https://data.texas.gov/d/v7mp-wh8p"
+    }
+  ]
+}

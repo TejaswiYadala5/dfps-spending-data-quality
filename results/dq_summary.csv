@@ -1,0 +1,16 @@
+rule_id,dimension,rule,severity,action,records_checked,records_failed,dollars_affected,years_affected
+DQ-01,Completeness,County is populated on every expenditure record,Warning,"Kept and reported as ""Unattributed""; never dropped",16097,155,1382738168.22,"FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024"
+DQ-02,Validity,County matches the official Texas county list,Critical,Resolved through ref_county_alias crosswalk; non-counties routed to Unattributed,16097,60,5208720.72,"FY2016, FY2020, FY2021, FY2022, FY2023, FY2024"
+DQ-03,Validity,Amount uses plain numeric format,Info,"Standardized: stripped ""$"" and thousands separators",16097,1707,,"FY2016, FY2023"
+DQ-04,Validity,Amount is parseable after standard cleaning,Critical,Would block load; none found,16097,0,,
+DQ-05,Validity,"Placeholder (""-"" or ""$ -"") used instead of a number",Info,Treated as 0 per source convention,16097,869,,FY2016
+DQ-06,Consistency,Fiscal year on record matches the fiscal year in the file title,Warning,Records re-assigned to their own fiscal year (recovers FY2017),16097,1316,1897748017.4,FY2017
+DQ-07,Validity,Spending category maps to an analysis group,Critical,Unmapped categories would be flagged; none found,16097,0,0.0,
+DQ-08,Uniqueness,One record per county x category x fiscal year (expected grain),Warning,Aggregated to expected grain; amounts summed,14578,5241,2137234897.27,FY2020
+DQ-09,Uniqueness,No fully identical duplicate records,Warning,"Kept: grain is not unique in source, so identical rows can be legitimate split payments",14578,1,7.72,FY2020
+DQ-10,Accuracy,Amount is non-negative,Warning,Kept: negative amounts are reversals/refunds and net against spending,16097,24,-6036757.74,"FY2017, FY2019, FY2020, FY2021, FY2022"
+DQ-11,Completeness,Every Texas county has DFPS spending recorded in the year,Info,Reported; county shown with $0 attributed spending,2286,92,,"FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024"
+DQ-12,Consistency,Service-data records map to a Texas county,Info,"Out of State / Unknown records excluded from county metrics, retained in statewide totals",14443,62,,"FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025"
+DQ-13,Completeness,Child population is populated for every county-year,Warning,Per-capita rates set to NULL where population missing,2540,0,,
+DQ-14,Consistency,Yearly extracts share one column layout,Warning,Each layout mapped explicitly in sql/02_staging.sql,40,8,,"FY2016, FY2018, FY2019, FY2022, FY2023"
+DQ-15,Uniqueness,A file published at one row per county contains each county once (FY2016),Critical,Kept and summed; flagged for source confirmation - may be mis-keyed counties,217,6,4679203.0,FY2016

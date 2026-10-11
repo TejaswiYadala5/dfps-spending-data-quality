@@ -1,0 +1,42 @@
+check_id,check_name,fiscal_year,breakdown,source_a,amount_a,source_b,amount_b,variance,tolerance,status
+REC-01,Source file total vs. pipeline output,2016,All categories,Raw extract (parsed),1325769943.0,fact_expenditure (county + unattributed),1325769943.0,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2017,All categories,Raw extract (parsed),1897748017.4,fact_expenditure (county + unattributed),1897748017.4,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2018,All categories,Raw extract (parsed),2001644512.74,fact_expenditure (county + unattributed),2001644512.74,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2019,All categories,Raw extract (parsed),2098918003.31,fact_expenditure (county + unattributed),2098918003.31,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2020,All categories,Raw extract (parsed),2162181578.39,fact_expenditure (county + unattributed),2162181578.39,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2021,All categories,Raw extract (parsed),2232311615.22,fact_expenditure (county + unattributed),2232311615.22,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2022,All categories,Raw extract (parsed),2294360435.12,fact_expenditure (county + unattributed),2294360435.12,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2023,All categories,Raw extract (parsed),2318716516.97,fact_expenditure (county + unattributed),2318716516.97,0.0,0.01,PASS
+REC-01,Source file total vs. pipeline output,2024,All categories,Raw extract (parsed),2482388146.39,fact_expenditure (county + unattributed),2482388146.39,0.0,0.01,PASS
+REC-02,Dollars dropped by a naive county join (informational),2016,All categories,Raw extract (parsed),1325769943.0,Inner join to official county list,1324523179.0,-1246764.0,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2017,All categories,Raw extract (parsed),1897748017.4,Inner join to official county list,1814981025.68,-82766991.72,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2018,All categories,Raw extract (parsed),2001644512.74,Inner join to official county list,1914896516.39,-86747996.35,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2019,All categories,Raw extract (parsed),2098918003.31,Inner join to official county list,1996808215.26,-102109788.05,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2020,All categories,Raw extract (parsed),2162181578.39,Inner join to official county list,2032365507.26,-129816071.13,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2021,All categories,Raw extract (parsed),2232311615.22,Inner join to official county list,2045135021.8,-187176593.42,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2022,All categories,Raw extract (parsed),2294360435.12,Inner join to official county list,2062589764.76,-231770670.36,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2023,All categories,Raw extract (parsed),2318716516.97,Inner join to official county list,2077329666.47,-241386850.5,,INFO
+REC-02,Dollars dropped by a naive county join (informational),2024,All categories,Raw extract (parsed),2482388146.39,Inner join to official county list,2157462982.98,-324925163.41,,INFO
+REC-03,FY2023 Comptroller summary vs. county detail,2023,CLAIMS AND JUDGMENTS,County detail (exp_fy2023),249342.14,Agency summary (exp_summary_2023),249342.14,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,COMMUNICATIONS AND UTILITIES,County detail (exp_fy2023),17201339.39,Agency summary (exp_summary_2023),17201339.39,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,EMPLOYEE BENEFITS,County detail (exp_fy2023),220826977.72,Agency summary (exp_summary_2023),220826977.72,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,OTHER EXPENDITURES,County detail (exp_fy2023),47817484.11,Agency summary (exp_summary_2023),47817484.11,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,PRINTING AND REPRODUCTION,County detail (exp_fy2023),392803.83,Agency summary (exp_summary_2023),392803.83,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,PROFESSIONAL SERVICE AND FEES,County detail (exp_fy2023),60621797.08,Agency summary (exp_summary_2023),60621797.08,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,PUBLIC ASSISTANCE PAYMENTS,County detail (exp_fy2023),1143486071.72,Agency summary (exp_summary_2023),1143486071.72,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,RENTALS AND LEASES,County detail (exp_fy2023),1210873.91,Agency summary (exp_summary_2023),1210873.91,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,REPAIRS AND MAINTENANCE,County detail (exp_fy2023),1634305.8900000001,Agency summary (exp_summary_2023),1634305.8900000001,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,SALARIES AND WAGES,County detail (exp_fy2023),757349483.76,Agency summary (exp_summary_2023),757349483.76,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,SUPPLIES AND MATERIALS,County detail (exp_fy2023),2845334.4899999998,Agency summary (exp_summary_2023),2845334.4899999998,0.0,1.0,PASS
+REC-03,FY2023 Comptroller summary vs. county detail,2023,TRAVEL,County detail (exp_fy2023),65080702.93,Agency summary (exp_summary_2023),65080702.93,0.0,1.0,PASS
+REC-04,FY2016 published total column vs. sum of components,2016,All counties,Sum of 7 component columns,1325769943.0,Published total column,1325769940.0,-3.0,5.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2016,All ages,Sum of counties,27782691.0,All Counties row,27782691.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2017,All ages,Sum of counties,28245982.0,All Counties row,28245982.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2018,All ages,Sum of counties,28716123.0,All Counties row,28716123.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2019,All ages,Sum of counties,29193268.0,All Counties row,29193268.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2020,All ages,Sum of counties,29677668.0,All Counties row,29677668.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2021,All ages,Sum of counties,30168926.0,All Counties row,30168926.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2022,All ages,Sum of counties,30667390.0,All Counties row,30667390.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2023,All ages,Sum of counties,31172832.0,All Counties row,31172832.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2024,All ages,Sum of counties,31685234.0,All Counties row,31685234.0,0.0,0.0,PASS
+REC-05,Total population: county sum vs. statewide control row,2025,All ages,Sum of counties,32204920.0,All Counties row,32204920.0,0.0,0.0,PASS

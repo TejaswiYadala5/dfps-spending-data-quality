@@ -1,0 +1,4527 @@
+county,fiscal_year,region,removal_stage,removals
+Anderson,2025,4-Tyler,Family Preservation,8
+Anderson,2025,4-Tyler,Investigation,31
+Andrews,2025,9-Midland,Family Preservation,2
+Andrews,2025,9-Midland,Investigation,2
+Angelina,2025,5-Beaumont,Family Preservation,13
+Angelina,2025,5-Beaumont,Investigation,27
+Aransas,2025,11-Edinburg,Family Preservation,1
+Aransas,2025,11-Edinburg,Investigation,19
+Archer,2025,2-Abilene,Family Preservation,0
+Archer,2025,2-Abilene,Investigation,3
+Atascosa,2025,8-San Antonio,Family Preservation,5
+Atascosa,2025,8-San Antonio,Investigation,12
+Austin,2025,6-Houston,Family Preservation,3
+Austin,2025,6-Houston,Investigation,0
+Bailey,2025,1-Lubbock,Family Preservation,1
+Bailey,2025,1-Lubbock,Investigation,0
+Bandera,2025,8-San Antonio,Family Preservation,6
+Bandera,2025,8-San Antonio,Investigation,2
+Bastrop,2025,7-Austin,Family Preservation,4
+Bastrop,2025,7-Austin,Investigation,22
+Bee,2025,11-Edinburg,Family Preservation,5
+Bee,2025,11-Edinburg,Investigation,11
+Bell,2025,7-Austin,Family Preservation,71
+Bell,2025,7-Austin,Investigation,271
+Bexar,2025,8-San Antonio,Family Preservation,474
+Bexar,2025,8-San Antonio,Investigation,669
+Blanco,2025,7-Austin,Family Preservation,0
+Blanco,2025,7-Austin,Investigation,3
+Bosque,2025,7-Austin,Family Preservation,0
+Bosque,2025,7-Austin,Investigation,13
+Bowie,2025,4-Tyler,Family Preservation,22
+Bowie,2025,4-Tyler,Investigation,45
+Brazoria,2025,6-Houston,Family Preservation,23
+Brazoria,2025,6-Houston,Investigation,27
+Brazos,2025,7-Austin,Family Preservation,13
+Brazos,2025,7-Austin,Investigation,65
+Brewster,2025,10-El Paso,Family Preservation,0
+Brewster,2025,10-El Paso,Investigation,1
+Briscoe,2025,1-Lubbock,Family Preservation,0
+Briscoe,2025,1-Lubbock,Investigation,1
+Brooks,2025,11-Edinburg,Family Preservation,4
+Brooks,2025,11-Edinburg,Investigation,5
+Brown,2025,2-Abilene,Family Preservation,12
+Brown,2025,2-Abilene,Investigation,21
+Burleson,2025,7-Austin,Family Preservation,0
+Burleson,2025,7-Austin,Investigation,5
+Burnet,2025,7-Austin,Family Preservation,7
+Burnet,2025,7-Austin,Investigation,13
+Caldwell,2025,7-Austin,Family Preservation,9
+Caldwell,2025,7-Austin,Investigation,11
+Calhoun,2025,8-San Antonio,Family Preservation,7
+Calhoun,2025,8-San Antonio,Investigation,0
+Callahan,2025,2-Abilene,Family Preservation,5
+Callahan,2025,2-Abilene,Investigation,9
+Cameron,2025,11-Edinburg,Family Preservation,152
+Cameron,2025,11-Edinburg,Investigation,58
+Camp,2025,4-Tyler,Family Preservation,0
+Camp,2025,4-Tyler,Investigation,4
+Carson,2025,1-Lubbock,Family Preservation,1
+Carson,2025,1-Lubbock,Investigation,0
+Cass,2025,4-Tyler,Family Preservation,10
+Cass,2025,4-Tyler,Investigation,20
+Chambers,2025,6-Houston,Family Preservation,3
+Chambers,2025,6-Houston,Investigation,1
+Cherokee,2025,4-Tyler,Family Preservation,14
+Cherokee,2025,4-Tyler,Investigation,40
+Childress,2025,1-Lubbock,Family Preservation,3
+Childress,2025,1-Lubbock,Investigation,4
+Clay,2025,2-Abilene,Family Preservation,4
+Clay,2025,2-Abilene,Investigation,5
+Cochran,2025,1-Lubbock,Family Preservation,0
+Cochran,2025,1-Lubbock,Investigation,2
+Coleman,2025,2-Abilene,Family Preservation,0
+Coleman,2025,2-Abilene,Investigation,5
+Collin,2025,3-Arlington,Family Preservation,40
+Collin,2025,3-Arlington,Investigation,101
+Colorado,2025,6-Houston,Family Preservation,1
+Colorado,2025,6-Houston,Investigation,0
+Comal,2025,8-San Antonio,Family Preservation,37
+Comal,2025,8-San Antonio,Investigation,32
+Comanche,2025,2-Abilene,Family Preservation,6
+Comanche,2025,2-Abilene,Investigation,29
+Cooke,2025,3-Arlington,Family Preservation,10
+Cooke,2025,3-Arlington,Investigation,11
+Coryell,2025,7-Austin,Family Preservation,4
+Coryell,2025,7-Austin,Investigation,41
+Crane,2025,9-Midland,Family Preservation,0
+Crane,2025,9-Midland,Investigation,1
+Crockett,2025,9-Midland,Family Preservation,0
+Crockett,2025,9-Midland,Investigation,3
+Crosby,2025,1-Lubbock,Family Preservation,2
+Crosby,2025,1-Lubbock,Investigation,1
+Culberson,2025,10-El Paso,Family Preservation,0
+Culberson,2025,10-El Paso,Investigation,6
+Dallam,2025,1-Lubbock,Family Preservation,2
+Dallam,2025,1-Lubbock,Investigation,9
+Dallas,2025,3-Arlington,Family Preservation,155
+Dallas,2025,3-Arlington,Investigation,680
+DeWitt,2025,8-San Antonio,Family Preservation,0
+DeWitt,2025,8-San Antonio,Investigation,9
+Deaf Smith,2025,1-Lubbock,Family Preservation,0
+Deaf Smith,2025,1-Lubbock,Investigation,6
+Delta,2025,4-Tyler,Family Preservation,0
+Delta,2025,4-Tyler,Investigation,2
+Denton,2025,3-Arlington,Family Preservation,63
+Denton,2025,3-Arlington,Investigation,149
+Dimmit,2025,8-San Antonio,Family Preservation,1
+Dimmit,2025,8-San Antonio,Investigation,5
+Donley,2025,1-Lubbock,Family Preservation,0
+Donley,2025,1-Lubbock,Investigation,2
+Duval,2025,11-Edinburg,Family Preservation,5
+Duval,2025,11-Edinburg,Investigation,8
+Eastland,2025,2-Abilene,Family Preservation,6
+Eastland,2025,2-Abilene,Investigation,27
+Ector,2025,9-Midland,Family Preservation,25
+Ector,2025,9-Midland,Investigation,68
+El Paso,2025,10-El Paso,Family Preservation,28
+El Paso,2025,10-El Paso,Investigation,73
+Ellis,2025,3-Arlington,Family Preservation,5
+Ellis,2025,3-Arlington,Investigation,21
+Erath,2025,3-Arlington,Family Preservation,1
+Erath,2025,3-Arlington,Investigation,10
+Falls,2025,7-Austin,Family Preservation,0
+Falls,2025,7-Austin,Investigation,20
+Fannin,2025,3-Arlington,Family Preservation,0
+Fannin,2025,3-Arlington,Investigation,7
+Fayette,2025,7-Austin,Family Preservation,7
+Fayette,2025,7-Austin,Investigation,10
+Fisher,2025,2-Abilene,Family Preservation,11
+Fisher,2025,2-Abilene,Investigation,0
+Floyd,2025,1-Lubbock,Family Preservation,0
+Floyd,2025,1-Lubbock,Investigation,1
+Foard,2025,2-Abilene,Family Preservation,0
+Foard,2025,2-Abilene,Investigation,1
+Fort Bend,2025,6-Houston,Family Preservation,7
+Fort Bend,2025,6-Houston,Investigation,13
+Franklin,2025,4-Tyler,Family Preservation,5
+Franklin,2025,4-Tyler,Investigation,1
+Frio,2025,8-San Antonio,Family Preservation,0
+Frio,2025,8-San Antonio,Investigation,14
+Gaines,2025,9-Midland,Family Preservation,0
+Gaines,2025,9-Midland,Investigation,4
+Galveston,2025,6-Houston,Family Preservation,33
+Galveston,2025,6-Houston,Investigation,57
+Garza,2025,1-Lubbock,Family Preservation,0
+Garza,2025,1-Lubbock,Investigation,6
+Gillespie,2025,8-San Antonio,Family Preservation,0
+Gillespie,2025,8-San Antonio,Investigation,4
+Goliad,2025,8-San Antonio,Family Preservation,7
+Goliad,2025,8-San Antonio,Investigation,1
+Gonzales,2025,8-San Antonio,Family Preservation,4
+Gonzales,2025,8-San Antonio,Investigation,5
+Gray,2025,1-Lubbock,Family Preservation,3
+Gray,2025,1-Lubbock,Investigation,10
+Grayson,2025,3-Arlington,Family Preservation,5
+Grayson,2025,3-Arlington,Investigation,58
+Gregg,2025,4-Tyler,Family Preservation,13
+Gregg,2025,4-Tyler,Investigation,58
+Grimes,2025,7-Austin,Family Preservation,0
+Grimes,2025,7-Austin,Investigation,3
+Guadalupe,2025,8-San Antonio,Family Preservation,19
+Guadalupe,2025,8-San Antonio,Investigation,24
+Hale,2025,1-Lubbock,Family Preservation,9
+Hale,2025,1-Lubbock,Investigation,13
+Hall,2025,1-Lubbock,Family Preservation,0
+Hall,2025,1-Lubbock,Investigation,1
+Hamilton,2025,7-Austin,Family Preservation,0
+Hamilton,2025,7-Austin,Investigation,6
+Hansford,2025,1-Lubbock,Family Preservation,0
+Hansford,2025,1-Lubbock,Investigation,2
+Hardeman,2025,2-Abilene,Family Preservation,1
+Hardeman,2025,2-Abilene,Investigation,0
+Hardin,2025,5-Beaumont,Family Preservation,9
+Hardin,2025,5-Beaumont,Investigation,18
+Harris,2025,6-Houston,Family Preservation,229
+Harris,2025,6-Houston,Investigation,742
+Harrison,2025,4-Tyler,Family Preservation,4
+Harrison,2025,4-Tyler,Investigation,27
+Haskell,2025,2-Abilene,Family Preservation,0
+Haskell,2025,2-Abilene,Investigation,1
+Hays,2025,7-Austin,Family Preservation,11
+Hays,2025,7-Austin,Investigation,53
+Hemphill,2025,1-Lubbock,Family Preservation,0
+Hemphill,2025,1-Lubbock,Investigation,1
+Henderson,2025,4-Tyler,Family Preservation,25
+Henderson,2025,4-Tyler,Investigation,25
+Hidalgo,2025,11-Edinburg,Family Preservation,112
+Hidalgo,2025,11-Edinburg,Investigation,108
+Hill,2025,7-Austin,Family Preservation,7
+Hill,2025,7-Austin,Investigation,37
+Hockley,2025,1-Lubbock,Family Preservation,2
+Hockley,2025,1-Lubbock,Investigation,0
+Hood,2025,3-Arlington,Family Preservation,12
+Hood,2025,3-Arlington,Investigation,18
+Hopkins,2025,4-Tyler,Family Preservation,2
+Hopkins,2025,4-Tyler,Investigation,14
+Houston,2025,5-Beaumont,Family Preservation,1
+Houston,2025,5-Beaumont,Investigation,8
+Howard,2025,9-Midland,Family Preservation,4
+Howard,2025,9-Midland,Investigation,6
+Hunt,2025,3-Arlington,Family Preservation,22
+Hunt,2025,3-Arlington,Investigation,40
+Hutchinson,2025,1-Lubbock,Family Preservation,7
+Hutchinson,2025,1-Lubbock,Investigation,26
+Jack,2025,2-Abilene,Family Preservation,0
+Jack,2025,2-Abilene,Investigation,3
+Jackson,2025,8-San Antonio,Family Preservation,5
+Jackson,2025,8-San Antonio,Investigation,2
+Jasper,2025,5-Beaumont,Family Preservation,6
+Jasper,2025,5-Beaumont,Investigation,10
+Jefferson,2025,5-Beaumont,Family Preservation,48
+Jefferson,2025,5-Beaumont,Investigation,107
+Jim Wells,2025,11-Edinburg,Family Preservation,16
+Jim Wells,2025,11-Edinburg,Investigation,20
+Johnson,2025,3-Arlington,Family Preservation,21
+Johnson,2025,3-Arlington,Investigation,56
+Jones,2025,2-Abilene,Family Preservation,3
+Jones,2025,2-Abilene,Investigation,4
+Karnes,2025,8-San Antonio,Family Preservation,13
+Karnes,2025,8-San Antonio,Investigation,9
+Kaufman,2025,3-Arlington,Family Preservation,16
+Kaufman,2025,3-Arlington,Investigation,59
+Kendall,2025,8-San Antonio,Family Preservation,4
+Kendall,2025,8-San Antonio,Investigation,3
+Kenedy,2025,11-Edinburg,Family Preservation,0
+Kenedy,2025,11-Edinburg,Investigation,1
+Kerr,2025,8-San Antonio,Family Preservation,15
+Kerr,2025,8-San Antonio,Investigation,13
+Kimble,2025,9-Midland,Family Preservation,0
+Kimble,2025,9-Midland,Investigation,1
+Kleberg,2025,11-Edinburg,Family Preservation,14
+Kleberg,2025,11-Edinburg,Investigation,27
+La Salle,2025,8-San Antonio,Family Preservation,2
+La Salle,2025,8-San Antonio,Investigation,2
+Lamar,2025,4-Tyler,Family Preservation,17
+Lamar,2025,4-Tyler,Investigation,31
+Lamb,2025,1-Lubbock,Family Preservation,3
+Lamb,2025,1-Lubbock,Investigation,3
+Lampasas,2025,7-Austin,Family Preservation,2
+Lampasas,2025,7-Austin,Investigation,15
+Lavaca,2025,8-San Antonio,Family Preservation,1
+Lavaca,2025,8-San Antonio,Investigation,15
+Lee,2025,7-Austin,Family Preservation,1
+Lee,2025,7-Austin,Investigation,3
+Leon,2025,7-Austin,Family Preservation,1
+Leon,2025,7-Austin,Investigation,12
+Liberty,2025,6-Houston,Family Preservation,9
+Liberty,2025,6-Houston,Investigation,19
+Limestone,2025,7-Austin,Family Preservation,1
+Limestone,2025,7-Austin,Investigation,8
+Live Oak,2025,11-Edinburg,Family Preservation,0
+Live Oak,2025,11-Edinburg,Investigation,5
+Llano,2025,7-Austin,Family Preservation,0
+Llano,2025,7-Austin,Investigation,11
+Lubbock,2025,1-Lubbock,Family Preservation,36
+Lubbock,2025,1-Lubbock,Investigation,158
+Lynn,2025,1-Lubbock,Family Preservation,0
+Lynn,2025,1-Lubbock,Investigation,4
+Madison,2025,7-Austin,Family Preservation,1
+Madison,2025,7-Austin,Investigation,0
+Marion,2025,4-Tyler,Family Preservation,0
+Marion,2025,4-Tyler,Investigation,6
+Matagorda,2025,6-Houston,Family Preservation,7
+Matagorda,2025,6-Houston,Investigation,29
+Maverick,2025,8-San Antonio,Family Preservation,5
+Maverick,2025,8-San Antonio,Investigation,2
+McCulloch,2025,9-Midland,Family Preservation,3
+McCulloch,2025,9-Midland,Investigation,1
+McLennan,2025,7-Austin,Family Preservation,60
+McLennan,2025,7-Austin,Investigation,143
+Medina,2025,8-San Antonio,Family Preservation,8
+Medina,2025,8-San Antonio,Investigation,15
+Midland,2025,9-Midland,Family Preservation,11
+Midland,2025,9-Midland,Investigation,23
+Milam,2025,7-Austin,Family Preservation,4
+Milam,2025,7-Austin,Investigation,17
+Mills,2025,7-Austin,Family Preservation,1
+Mills,2025,7-Austin,Investigation,0
+Mitchell,2025,2-Abilene,Family Preservation,4
+Mitchell,2025,2-Abilene,Investigation,6
+Montague,2025,2-Abilene,Family Preservation,2
+Montague,2025,2-Abilene,Investigation,11
+Montgomery,2025,6-Houston,Family Preservation,16
+Montgomery,2025,6-Houston,Investigation,61
+Moore,2025,1-Lubbock,Family Preservation,3
+Moore,2025,1-Lubbock,Investigation,11
+Morris,2025,4-Tyler,Family Preservation,14
+Morris,2025,4-Tyler,Investigation,5
+Nacogdoches,2025,5-Beaumont,Family Preservation,2
+Nacogdoches,2025,5-Beaumont,Investigation,33
+Navarro,2025,3-Arlington,Family Preservation,6
+Navarro,2025,3-Arlington,Investigation,14
+Newton,2025,5-Beaumont,Family Preservation,4
+Newton,2025,5-Beaumont,Investigation,8
+Nolan,2025,2-Abilene,Family Preservation,2
+Nolan,2025,2-Abilene,Investigation,18
+Nueces,2025,11-Edinburg,Family Preservation,80
+Nueces,2025,11-Edinburg,Investigation,149
+Ochiltree,2025,1-Lubbock,Family Preservation,0
+Ochiltree,2025,1-Lubbock,Investigation,1
+Oldham,2025,1-Lubbock,Family Preservation,2
+Oldham,2025,1-Lubbock,Investigation,0
+Orange,2025,5-Beaumont,Family Preservation,22
+Orange,2025,5-Beaumont,Investigation,30
+Palo Pinto,2025,3-Arlington,Family Preservation,15
+Palo Pinto,2025,3-Arlington,Investigation,15
+Panola,2025,4-Tyler,Family Preservation,0
+Panola,2025,4-Tyler,Investigation,10
+Parker,2025,3-Arlington,Family Preservation,9
+Parker,2025,3-Arlington,Investigation,20
+Parmer,2025,1-Lubbock,Family Preservation,0
+Parmer,2025,1-Lubbock,Investigation,4
+Pecos,2025,9-Midland,Family Preservation,4
+Pecos,2025,9-Midland,Investigation,12
+Polk,2025,5-Beaumont,Family Preservation,6
+Polk,2025,5-Beaumont,Investigation,11
+Potter,2025,1-Lubbock,Family Preservation,23
+Potter,2025,1-Lubbock,Investigation,80
+Rains,2025,4-Tyler,Family Preservation,1
+Rains,2025,4-Tyler,Investigation,6
+Randall,2025,1-Lubbock,Family Preservation,15
+Randall,2025,1-Lubbock,Investigation,58
+Reagan,2025,9-Midland,Family Preservation,0
+Reagan,2025,9-Midland,Investigation,1
+Red River,2025,4-Tyler,Family Preservation,7
+Red River,2025,4-Tyler,Investigation,13
+Reeves,2025,9-Midland,Family Preservation,2
+Reeves,2025,9-Midland,Investigation,3
+Roberts,2025,1-Lubbock,Family Preservation,0
+Roberts,2025,1-Lubbock,Investigation,1
+Robertson,2025,7-Austin,Family Preservation,6
+Robertson,2025,7-Austin,Investigation,6
+Rockwall,2025,3-Arlington,Family Preservation,5
+Rockwall,2025,3-Arlington,Investigation,14
+Runnels,2025,2-Abilene,Family Preservation,0
+Runnels,2025,2-Abilene,Investigation,3
+Rusk,2025,4-Tyler,Family Preservation,7
+Rusk,2025,4-Tyler,Investigation,6
+Sabine,2025,5-Beaumont,Family Preservation,0
+Sabine,2025,5-Beaumont,Investigation,5
+San Jacinto,2025,5-Beaumont,Family Preservation,4
+San Jacinto,2025,5-Beaumont,Investigation,13
+San Patricio,2025,11-Edinburg,Family Preservation,22
+San Patricio,2025,11-Edinburg,Investigation,51
+San Saba,2025,7-Austin,Family Preservation,0
+San Saba,2025,7-Austin,Investigation,1
+Scurry,2025,2-Abilene,Family Preservation,3
+Scurry,2025,2-Abilene,Investigation,3
+Shackelford,2025,2-Abilene,Family Preservation,2
+Shackelford,2025,2-Abilene,Investigation,2
+Shelby,2025,5-Beaumont,Family Preservation,0
+Shelby,2025,5-Beaumont,Investigation,10
+Sherman,2025,1-Lubbock,Family Preservation,0
+Sherman,2025,1-Lubbock,Investigation,1
+Smith,2025,4-Tyler,Family Preservation,25
+Smith,2025,4-Tyler,Investigation,128
+Somervell,2025,3-Arlington,Family Preservation,3
+Somervell,2025,3-Arlington,Investigation,3
+Starr,2025,11-Edinburg,Family Preservation,8
+Starr,2025,11-Edinburg,Investigation,4
+Stephens,2025,2-Abilene,Family Preservation,4
+Stephens,2025,2-Abilene,Investigation,5
+Tarrant,2025,3-Arlington,Family Preservation,115
+Tarrant,2025,3-Arlington,Investigation,408
+Taylor,2025,2-Abilene,Family Preservation,64
+Taylor,2025,2-Abilene,Investigation,100
+Terry,2025,1-Lubbock,Family Preservation,10
+Terry,2025,1-Lubbock,Investigation,5
+Titus,2025,4-Tyler,Family Preservation,3
+Titus,2025,4-Tyler,Investigation,10
+Tom Green,2025,9-Midland,Family Preservation,23
+Tom Green,2025,9-Midland,Investigation,49
+Travis,2025,7-Austin,Family Preservation,95
+Travis,2025,7-Austin,Investigation,159
+Trinity,2025,5-Beaumont,Family Preservation,0
+Trinity,2025,5-Beaumont,Investigation,13
+Tyler,2025,5-Beaumont,Family Preservation,0
+Tyler,2025,5-Beaumont,Investigation,12
+Unknown,2025,Unknown,Family Preservation,0
+Unknown,2025,Unknown,Investigation,1
+Upshur,2025,4-Tyler,Family Preservation,6
+Upshur,2025,4-Tyler,Investigation,32
+Uvalde,2025,8-San Antonio,Family Preservation,0
+Uvalde,2025,8-San Antonio,Investigation,11
+Val Verde,2025,8-San Antonio,Family Preservation,10
+Val Verde,2025,8-San Antonio,Investigation,6
+Van Zandt,2025,4-Tyler,Family Preservation,13
+Van Zandt,2025,4-Tyler,Investigation,26
+Victoria,2025,8-San Antonio,Family Preservation,20
+Victoria,2025,8-San Antonio,Investigation,12
+Walker,2025,6-Houston,Family Preservation,0
+Walker,2025,6-Houston,Investigation,4
+Waller,2025,6-Houston,Family Preservation,0
+Waller,2025,6-Houston,Investigation,8
+Ward,2025,9-Midland,Family Preservation,9
+Ward,2025,9-Midland,Investigation,15
+Washington,2025,7-Austin,Family Preservation,7
+Washington,2025,7-Austin,Investigation,5
+Webb,2025,11-Edinburg,Family Preservation,65
+Webb,2025,11-Edinburg,Investigation,24
+Wharton,2025,6-Houston,Family Preservation,7
+Wharton,2025,6-Houston,Investigation,6
+Wheeler,2025,1-Lubbock,Family Preservation,5
+Wheeler,2025,1-Lubbock,Investigation,3
+Wichita,2025,2-Abilene,Family Preservation,14
+Wichita,2025,2-Abilene,Investigation,81
+Wilbarger,2025,2-Abilene,Family Preservation,2
+Wilbarger,2025,2-Abilene,Investigation,8
+Willacy,2025,11-Edinburg,Family Preservation,11
+Willacy,2025,11-Edinburg,Investigation,13
+Williamson,2025,7-Austin,Family Preservation,13
+Williamson,2025,7-Austin,Investigation,78
+Wilson,2025,8-San Antonio,Family Preservation,8
+Wilson,2025,8-San Antonio,Investigation,8
+Winkler,2025,9-Midland,Family Preservation,0
+Winkler,2025,9-Midland,Investigation,1
+Wise,2025,3-Arlington,Family Preservation,7
+Wise,2025,3-Arlington,Investigation,6
+Wood,2025,4-Tyler,Family Preservation,7
+Wood,2025,4-Tyler,Investigation,19
+Yoakum,2025,1-Lubbock,Family Preservation,0
+Yoakum,2025,1-Lubbock,Investigation,2
+Young,2025,2-Abilene,Family Preservation,2
+Young,2025,2-Abilene,Investigation,11
+Zapata,2025,11-Edinburg,Family Preservation,3
+Zapata,2025,11-Edinburg,Investigation,6
+Zavala,2025,8-San Antonio,Family Preservation,0
+Zavala,2025,8-San Antonio,Investigation,7
+Anderson,2024,4-Tyler,Family Preservation,10
+Anderson,2024,4-Tyler,Investigation,11
+Andrews,2024,9-Midland,Family Preservation,2
+Andrews,2024,9-Midland,Investigation,1
+Angelina,2024,5-Beaumont,Family Preservation,13
+Angelina,2024,5-Beaumont,Investigation,27
+Aransas,2024,11-Edinburg,Family Preservation,3
+Aransas,2024,11-Edinburg,Investigation,5
+Archer,2024,2-Abilene,Family Preservation,0
+Archer,2024,2-Abilene,Investigation,3
+Armstrong,2024,1-Lubbock,Family Preservation,0
+Armstrong,2024,1-Lubbock,Investigation,1
+Atascosa,2024,8-San Antonio,Family Preservation,20
+Atascosa,2024,8-San Antonio,Investigation,8
+Bailey,2024,1-Lubbock,Family Preservation,0
+Bailey,2024,1-Lubbock,Investigation,1
+Bandera,2024,8-San Antonio,Family Preservation,7
+Bandera,2024,8-San Antonio,Investigation,8
+Bastrop,2024,7-Austin,Family Preservation,11
+Bastrop,2024,7-Austin,Investigation,21
+Baylor,2024,2-Abilene,Family Preservation,0
+Baylor,2024,2-Abilene,Investigation,4
+Bee,2024,11-Edinburg,Family Preservation,0
+Bee,2024,11-Edinburg,Investigation,3
+Bell,2024,7-Austin,Family Preservation,45
+Bell,2024,7-Austin,Investigation,293
+Bexar,2024,8-San Antonio,Family Preservation,384
+Bexar,2024,8-San Antonio,Investigation,618
+Blanco,2024,7-Austin,Family Preservation,2
+Blanco,2024,7-Austin,Investigation,2
+Bosque,2024,7-Austin,Family Preservation,0
+Bosque,2024,7-Austin,Investigation,14
+Bowie,2024,4-Tyler,Family Preservation,9
+Bowie,2024,4-Tyler,Investigation,30
+Brazoria,2024,6-Houston,Family Preservation,16
+Brazoria,2024,6-Houston,Investigation,21
+Brazos,2024,7-Austin,Family Preservation,10
+Brazos,2024,7-Austin,Investigation,64
+Brewster,2024,10-El Paso,Family Preservation,0
+Brewster,2024,10-El Paso,Investigation,2
+Brooks,2024,11-Edinburg,Family Preservation,5
+Brooks,2024,11-Edinburg,Investigation,0
+Brown,2024,2-Abilene,Family Preservation,4
+Brown,2024,2-Abilene,Investigation,19
+Burleson,2024,7-Austin,Family Preservation,9
+Burleson,2024,7-Austin,Investigation,3
+Burnet,2024,7-Austin,Family Preservation,3
+Burnet,2024,7-Austin,Investigation,31
+Caldwell,2024,7-Austin,Family Preservation,0
+Caldwell,2024,7-Austin,Investigation,14
+Calhoun,2024,8-San Antonio,Family Preservation,4
+Calhoun,2024,8-San Antonio,Investigation,1
+Callahan,2024,2-Abilene,Family Preservation,1
+Callahan,2024,2-Abilene,Investigation,9
+Cameron,2024,11-Edinburg,Family Preservation,104
+Cameron,2024,11-Edinburg,Investigation,70
+Camp,2024,4-Tyler,Family Preservation,1
+Camp,2024,4-Tyler,Investigation,4
+Carson,2024,1-Lubbock,Family Preservation,0
+Carson,2024,1-Lubbock,Investigation,4
+Cass,2024,4-Tyler,Family Preservation,10
+Cass,2024,4-Tyler,Investigation,18
+Castro,2024,1-Lubbock,Family Preservation,4
+Castro,2024,1-Lubbock,Investigation,2
+Chambers,2024,6-Houston,Family Preservation,0
+Chambers,2024,6-Houston,Investigation,7
+Cherokee,2024,4-Tyler,Family Preservation,12
+Cherokee,2024,4-Tyler,Investigation,20
+Clay,2024,2-Abilene,Family Preservation,3
+Clay,2024,2-Abilene,Investigation,6
+Coleman,2024,2-Abilene,Family Preservation,2
+Coleman,2024,2-Abilene,Investigation,12
+Collin,2024,3-Arlington,Family Preservation,27
+Collin,2024,3-Arlington,Investigation,95
+Colorado,2024,6-Houston,Family Preservation,4
+Colorado,2024,6-Houston,Investigation,0
+Comal,2024,8-San Antonio,Family Preservation,15
+Comal,2024,8-San Antonio,Investigation,42
+Comanche,2024,2-Abilene,Family Preservation,11
+Comanche,2024,2-Abilene,Investigation,13
+Cooke,2024,3-Arlington,Family Preservation,0
+Cooke,2024,3-Arlington,Investigation,10
+Coryell,2024,7-Austin,Family Preservation,1
+Coryell,2024,7-Austin,Investigation,37
+Cottle,2024,2-Abilene,Family Preservation,0
+Cottle,2024,2-Abilene,Investigation,1
+Crosby,2024,1-Lubbock,Family Preservation,0
+Crosby,2024,1-Lubbock,Investigation,3
+Dallam,2024,1-Lubbock,Family Preservation,4
+Dallam,2024,1-Lubbock,Investigation,25
+Dallas,2024,3-Arlington,Family Preservation,85
+Dallas,2024,3-Arlington,Investigation,690
+DeWitt,2024,8-San Antonio,Family Preservation,5
+DeWitt,2024,8-San Antonio,Investigation,6
+Deaf Smith,2024,1-Lubbock,Family Preservation,0
+Deaf Smith,2024,1-Lubbock,Investigation,8
+Delta,2024,4-Tyler,Family Preservation,0
+Delta,2024,4-Tyler,Investigation,2
+Denton,2024,3-Arlington,Family Preservation,65
+Denton,2024,3-Arlington,Investigation,133
+Dickens,2024,1-Lubbock,Family Preservation,0
+Dickens,2024,1-Lubbock,Investigation,1
+Dimmit,2024,8-San Antonio,Family Preservation,0
+Dimmit,2024,8-San Antonio,Investigation,6
+Donley,2024,1-Lubbock,Family Preservation,5
+Donley,2024,1-Lubbock,Investigation,2
+Duval,2024,11-Edinburg,Family Preservation,0
+Duval,2024,11-Edinburg,Investigation,11
+Eastland,2024,2-Abilene,Family Preservation,11
+Eastland,2024,2-Abilene,Investigation,23
+Ector,2024,9-Midland,Family Preservation,20
+Ector,2024,9-Midland,Investigation,51
+Edwards,2024,8-San Antonio,Family Preservation,1
+Edwards,2024,8-San Antonio,Investigation,0
+El Paso,2024,10-El Paso,Family Preservation,37
+El Paso,2024,10-El Paso,Investigation,71
+Ellis,2024,3-Arlington,Family Preservation,9
+Ellis,2024,3-Arlington,Investigation,35
+Erath,2024,3-Arlington,Family Preservation,4
+Erath,2024,3-Arlington,Investigation,11
+Falls,2024,7-Austin,Family Preservation,9
+Falls,2024,7-Austin,Investigation,25
+Fannin,2024,3-Arlington,Family Preservation,0
+Fannin,2024,3-Arlington,Investigation,12
+Fayette,2024,7-Austin,Family Preservation,8
+Fayette,2024,7-Austin,Investigation,6
+Fisher,2024,2-Abilene,Family Preservation,5
+Fisher,2024,2-Abilene,Investigation,0
+Floyd,2024,1-Lubbock,Family Preservation,0
+Floyd,2024,1-Lubbock,Investigation,4
+Fort Bend,2024,6-Houston,Family Preservation,11
+Fort Bend,2024,6-Houston,Investigation,13
+Franklin,2024,4-Tyler,Family Preservation,1
+Franklin,2024,4-Tyler,Investigation,2
+Freestone,2024,7-Austin,Family Preservation,0
+Freestone,2024,7-Austin,Investigation,15
+Frio,2024,8-San Antonio,Family Preservation,8
+Frio,2024,8-San Antonio,Investigation,10
+Gaines,2024,9-Midland,Family Preservation,1
+Gaines,2024,9-Midland,Investigation,2
+Galveston,2024,6-Houston,Family Preservation,32
+Galveston,2024,6-Houston,Investigation,67
+Garza,2024,1-Lubbock,Family Preservation,0
+Garza,2024,1-Lubbock,Investigation,4
+Gillespie,2024,8-San Antonio,Family Preservation,3
+Gillespie,2024,8-San Antonio,Investigation,3
+Gonzales,2024,8-San Antonio,Family Preservation,6
+Gonzales,2024,8-San Antonio,Investigation,14
+Gray,2024,1-Lubbock,Family Preservation,3
+Gray,2024,1-Lubbock,Investigation,8
+Grayson,2024,3-Arlington,Family Preservation,5
+Grayson,2024,3-Arlington,Investigation,26
+Gregg,2024,4-Tyler,Family Preservation,20
+Gregg,2024,4-Tyler,Investigation,58
+Grimes,2024,7-Austin,Family Preservation,0
+Grimes,2024,7-Austin,Investigation,6
+Guadalupe,2024,8-San Antonio,Family Preservation,16
+Guadalupe,2024,8-San Antonio,Investigation,17
+Hale,2024,1-Lubbock,Family Preservation,9
+Hale,2024,1-Lubbock,Investigation,22
+Hamilton,2024,7-Austin,Family Preservation,0
+Hamilton,2024,7-Austin,Investigation,4
+Hansford,2024,1-Lubbock,Family Preservation,0
+Hansford,2024,1-Lubbock,Investigation,2
+Hardeman,2024,2-Abilene,Family Preservation,0
+Hardeman,2024,2-Abilene,Investigation,5
+Hardin,2024,5-Beaumont,Family Preservation,5
+Hardin,2024,5-Beaumont,Investigation,7
+Harris,2024,6-Houston,Family Preservation,73
+Harris,2024,6-Houston,Investigation,487
+Harrison,2024,4-Tyler,Family Preservation,1
+Harrison,2024,4-Tyler,Investigation,17
+Hartley,2024,1-Lubbock,Family Preservation,1
+Hartley,2024,1-Lubbock,Investigation,0
+Haskell,2024,2-Abilene,Family Preservation,1
+Haskell,2024,2-Abilene,Investigation,2
+Hays,2024,7-Austin,Family Preservation,10
+Hays,2024,7-Austin,Investigation,37
+Hemphill,2024,1-Lubbock,Family Preservation,4
+Hemphill,2024,1-Lubbock,Investigation,2
+Henderson,2024,4-Tyler,Family Preservation,14
+Henderson,2024,4-Tyler,Investigation,35
+Hidalgo,2024,11-Edinburg,Family Preservation,68
+Hidalgo,2024,11-Edinburg,Investigation,97
+Hill,2024,7-Austin,Family Preservation,2
+Hill,2024,7-Austin,Investigation,37
+Hockley,2024,1-Lubbock,Family Preservation,3
+Hockley,2024,1-Lubbock,Investigation,6
+Hood,2024,3-Arlington,Family Preservation,6
+Hood,2024,3-Arlington,Investigation,20
+Hopkins,2024,4-Tyler,Family Preservation,10
+Hopkins,2024,4-Tyler,Investigation,14
+Houston,2024,5-Beaumont,Family Preservation,4
+Houston,2024,5-Beaumont,Investigation,11
+Howard,2024,9-Midland,Family Preservation,4
+Howard,2024,9-Midland,Investigation,11
+Hunt,2024,3-Arlington,Family Preservation,24
+Hunt,2024,3-Arlington,Investigation,33
+Hutchinson,2024,1-Lubbock,Family Preservation,1
+Hutchinson,2024,1-Lubbock,Investigation,12
+Jack,2024,2-Abilene,Family Preservation,1
+Jack,2024,2-Abilene,Investigation,4
+Jackson,2024,8-San Antonio,Family Preservation,1
+Jackson,2024,8-San Antonio,Investigation,0
+Jasper,2024,5-Beaumont,Family Preservation,1
+Jasper,2024,5-Beaumont,Investigation,7
+Jefferson,2024,5-Beaumont,Family Preservation,22
+Jefferson,2024,5-Beaumont,Investigation,135
+Jim Hogg,2024,11-Edinburg,Family Preservation,2
+Jim Hogg,2024,11-Edinburg,Investigation,3
+Jim Wells,2024,11-Edinburg,Family Preservation,24
+Jim Wells,2024,11-Edinburg,Investigation,32
+Johnson,2024,3-Arlington,Family Preservation,13
+Johnson,2024,3-Arlington,Investigation,59
+Jones,2024,2-Abilene,Family Preservation,2
+Jones,2024,2-Abilene,Investigation,1
+Karnes,2024,8-San Antonio,Family Preservation,4
+Karnes,2024,8-San Antonio,Investigation,0
+Kaufman,2024,3-Arlington,Family Preservation,10
+Kaufman,2024,3-Arlington,Investigation,28
+Kendall,2024,8-San Antonio,Family Preservation,3
+Kendall,2024,8-San Antonio,Investigation,5
+Kent,2024,2-Abilene,Family Preservation,2
+Kent,2024,2-Abilene,Investigation,0
+Kerr,2024,8-San Antonio,Family Preservation,14
+Kerr,2024,8-San Antonio,Investigation,18
+Kimble,2024,9-Midland,Family Preservation,6
+Kimble,2024,9-Midland,Investigation,2
+Kleberg,2024,11-Edinburg,Family Preservation,27
+Kleberg,2024,11-Edinburg,Investigation,13
+Knox,2024,2-Abilene,Family Preservation,0
+Knox,2024,2-Abilene,Investigation,3
+La Salle,2024,8-San Antonio,Family Preservation,5
+La Salle,2024,8-San Antonio,Investigation,0
+Lamar,2024,4-Tyler,Family Preservation,21
+Lamar,2024,4-Tyler,Investigation,19
+Lamb,2024,1-Lubbock,Family Preservation,0
+Lamb,2024,1-Lubbock,Investigation,4
+Lampasas,2024,7-Austin,Family Preservation,0
+Lampasas,2024,7-Austin,Investigation,12
+Lavaca,2024,8-San Antonio,Family Preservation,6
+Lavaca,2024,8-San Antonio,Investigation,1
+Lee,2024,7-Austin,Family Preservation,0
+Lee,2024,7-Austin,Investigation,3
+Leon,2024,7-Austin,Family Preservation,0
+Leon,2024,7-Austin,Investigation,4
+Liberty,2024,6-Houston,Family Preservation,0
+Liberty,2024,6-Houston,Investigation,20
+Limestone,2024,7-Austin,Family Preservation,1
+Limestone,2024,7-Austin,Investigation,14
+Live Oak,2024,11-Edinburg,Family Preservation,2
+Live Oak,2024,11-Edinburg,Investigation,4
+Llano,2024,7-Austin,Family Preservation,0
+Llano,2024,7-Austin,Investigation,13
+Lubbock,2024,1-Lubbock,Family Preservation,54
+Lubbock,2024,1-Lubbock,Investigation,178
+Lynn,2024,1-Lubbock,Family Preservation,2
+Lynn,2024,1-Lubbock,Investigation,3
+Madison,2024,7-Austin,Family Preservation,0
+Madison,2024,7-Austin,Investigation,5
+Marion,2024,4-Tyler,Family Preservation,0
+Marion,2024,4-Tyler,Investigation,5
+Matagorda,2024,6-Houston,Family Preservation,8
+Matagorda,2024,6-Houston,Investigation,15
+Maverick,2024,8-San Antonio,Family Preservation,6
+Maverick,2024,8-San Antonio,Investigation,8
+McCulloch,2024,9-Midland,Family Preservation,4
+McCulloch,2024,9-Midland,Investigation,5
+McLennan,2024,7-Austin,Family Preservation,26
+McLennan,2024,7-Austin,Investigation,147
+Medina,2024,8-San Antonio,Family Preservation,9
+Medina,2024,8-San Antonio,Investigation,11
+Midland,2024,9-Midland,Family Preservation,2
+Midland,2024,9-Midland,Investigation,12
+Milam,2024,7-Austin,Family Preservation,2
+Milam,2024,7-Austin,Investigation,17
+Mills,2024,7-Austin,Family Preservation,0
+Mills,2024,7-Austin,Investigation,1
+Mitchell,2024,2-Abilene,Family Preservation,2
+Mitchell,2024,2-Abilene,Investigation,2
+Montague,2024,2-Abilene,Family Preservation,0
+Montague,2024,2-Abilene,Investigation,11
+Montgomery,2024,6-Houston,Family Preservation,14
+Montgomery,2024,6-Houston,Investigation,76
+Moore,2024,1-Lubbock,Family Preservation,2
+Moore,2024,1-Lubbock,Investigation,10
+Morris,2024,4-Tyler,Family Preservation,3
+Morris,2024,4-Tyler,Investigation,7
+Motley,2024,1-Lubbock,Family Preservation,0
+Motley,2024,1-Lubbock,Investigation,4
+Nacogdoches,2024,5-Beaumont,Family Preservation,2
+Nacogdoches,2024,5-Beaumont,Investigation,29
+Navarro,2024,3-Arlington,Family Preservation,6
+Navarro,2024,3-Arlington,Investigation,12
+Newton,2024,5-Beaumont,Family Preservation,0
+Newton,2024,5-Beaumont,Investigation,8
+Nolan,2024,2-Abilene,Family Preservation,12
+Nolan,2024,2-Abilene,Investigation,14
+Nueces,2024,11-Edinburg,Family Preservation,35
+Nueces,2024,11-Edinburg,Investigation,229
+Ochiltree,2024,1-Lubbock,Family Preservation,0
+Ochiltree,2024,1-Lubbock,Investigation,2
+Oldham,2024,1-Lubbock,Family Preservation,0
+Oldham,2024,1-Lubbock,Investigation,2
+Orange,2024,5-Beaumont,Family Preservation,10
+Orange,2024,5-Beaumont,Investigation,29
+Palo Pinto,2024,3-Arlington,Family Preservation,6
+Palo Pinto,2024,3-Arlington,Investigation,2
+Panola,2024,4-Tyler,Family Preservation,2
+Panola,2024,4-Tyler,Investigation,12
+Parker,2024,3-Arlington,Family Preservation,13
+Parker,2024,3-Arlington,Investigation,31
+Parmer,2024,1-Lubbock,Family Preservation,0
+Parmer,2024,1-Lubbock,Investigation,2
+Pecos,2024,9-Midland,Family Preservation,0
+Pecos,2024,9-Midland,Investigation,14
+Polk,2024,5-Beaumont,Family Preservation,3
+Polk,2024,5-Beaumont,Investigation,5
+Potter,2024,1-Lubbock,Family Preservation,18
+Potter,2024,1-Lubbock,Investigation,68
+Presidio,2024,10-El Paso,Family Preservation,0
+Presidio,2024,10-El Paso,Investigation,1
+Rains,2024,4-Tyler,Family Preservation,0
+Rains,2024,4-Tyler,Investigation,2
+Randall,2024,1-Lubbock,Family Preservation,21
+Randall,2024,1-Lubbock,Investigation,45
+Reagan,2024,9-Midland,Family Preservation,0
+Reagan,2024,9-Midland,Investigation,2
+Red River,2024,4-Tyler,Family Preservation,5
+Red River,2024,4-Tyler,Investigation,5
+Reeves,2024,9-Midland,Family Preservation,0
+Reeves,2024,9-Midland,Investigation,9
+Robertson,2024,7-Austin,Family Preservation,1
+Robertson,2024,7-Austin,Investigation,23
+Rockwall,2024,3-Arlington,Family Preservation,1
+Rockwall,2024,3-Arlington,Investigation,15
+Runnels,2024,2-Abilene,Family Preservation,3
+Runnels,2024,2-Abilene,Investigation,0
+Rusk,2024,4-Tyler,Family Preservation,5
+Rusk,2024,4-Tyler,Investigation,14
+Sabine,2024,5-Beaumont,Family Preservation,0
+Sabine,2024,5-Beaumont,Investigation,4
+San Augustine,2024,5-Beaumont,Family Preservation,2
+San Augustine,2024,5-Beaumont,Investigation,2
+San Jacinto,2024,5-Beaumont,Family Preservation,0
+San Jacinto,2024,5-Beaumont,Investigation,2
+San Patricio,2024,11-Edinburg,Family Preservation,27
+San Patricio,2024,11-Edinburg,Investigation,23
+San Saba,2024,7-Austin,Family Preservation,0
+San Saba,2024,7-Austin,Investigation,4
+Scurry,2024,2-Abilene,Family Preservation,0
+Scurry,2024,2-Abilene,Investigation,12
+Shackelford,2024,2-Abilene,Family Preservation,2
+Shackelford,2024,2-Abilene,Investigation,0
+Shelby,2024,5-Beaumont,Family Preservation,7
+Shelby,2024,5-Beaumont,Investigation,18
+Smith,2024,4-Tyler,Family Preservation,29
+Smith,2024,4-Tyler,Investigation,93
+Somervell,2024,3-Arlington,Family Preservation,4
+Somervell,2024,3-Arlington,Investigation,3
+Starr,2024,11-Edinburg,Family Preservation,4
+Starr,2024,11-Edinburg,Investigation,5
+Stephens,2024,2-Abilene,Family Preservation,1
+Stephens,2024,2-Abilene,Investigation,3
+Swisher,2024,1-Lubbock,Family Preservation,9
+Swisher,2024,1-Lubbock,Investigation,1
+Tarrant,2024,3-Arlington,Family Preservation,112
+Tarrant,2024,3-Arlington,Investigation,534
+Taylor,2024,2-Abilene,Family Preservation,139
+Taylor,2024,2-Abilene,Investigation,142
+Terry,2024,1-Lubbock,Family Preservation,3
+Terry,2024,1-Lubbock,Investigation,3
+Titus,2024,4-Tyler,Family Preservation,3
+Titus,2024,4-Tyler,Investigation,10
+Tom Green,2024,9-Midland,Family Preservation,16
+Tom Green,2024,9-Midland,Investigation,25
+Travis,2024,7-Austin,Family Preservation,82
+Travis,2024,7-Austin,Investigation,188
+Trinity,2024,5-Beaumont,Family Preservation,3
+Trinity,2024,5-Beaumont,Investigation,1
+Tyler,2024,5-Beaumont,Family Preservation,8
+Tyler,2024,5-Beaumont,Investigation,1
+Unknown,2024,Unknown,Family Preservation,0
+Unknown,2024,Unknown,Investigation,2
+Upshur,2024,4-Tyler,Family Preservation,5
+Upshur,2024,4-Tyler,Investigation,8
+Upton,2024,9-Midland,Family Preservation,1
+Upton,2024,9-Midland,Investigation,0
+Uvalde,2024,8-San Antonio,Family Preservation,0
+Uvalde,2024,8-San Antonio,Investigation,2
+Val Verde,2024,8-San Antonio,Family Preservation,3
+Val Verde,2024,8-San Antonio,Investigation,2
+Van Zandt,2024,4-Tyler,Family Preservation,9
+Van Zandt,2024,4-Tyler,Investigation,26
+Victoria,2024,8-San Antonio,Family Preservation,13
+Victoria,2024,8-San Antonio,Investigation,19
+Walker,2024,6-Houston,Family Preservation,0
+Walker,2024,6-Houston,Investigation,13
+Waller,2024,6-Houston,Family Preservation,2
+Waller,2024,6-Houston,Investigation,6
+Ward,2024,9-Midland,Family Preservation,4
+Ward,2024,9-Midland,Investigation,7
+Washington,2024,7-Austin,Family Preservation,2
+Washington,2024,7-Austin,Investigation,9
+Webb,2024,11-Edinburg,Family Preservation,37
+Webb,2024,11-Edinburg,Investigation,77
+Wharton,2024,6-Houston,Family Preservation,11
+Wharton,2024,6-Houston,Investigation,17
+Wheeler,2024,1-Lubbock,Family Preservation,2
+Wheeler,2024,1-Lubbock,Investigation,0
+Wichita,2024,2-Abilene,Family Preservation,18
+Wichita,2024,2-Abilene,Investigation,105
+Wilbarger,2024,2-Abilene,Family Preservation,1
+Wilbarger,2024,2-Abilene,Investigation,9
+Willacy,2024,11-Edinburg,Family Preservation,9
+Willacy,2024,11-Edinburg,Investigation,5
+Williamson,2024,7-Austin,Family Preservation,21
+Williamson,2024,7-Austin,Investigation,48
+Wilson,2024,8-San Antonio,Family Preservation,0
+Wilson,2024,8-San Antonio,Investigation,6
+Winkler,2024,9-Midland,Family Preservation,2
+Winkler,2024,9-Midland,Investigation,7
+Wise,2024,3-Arlington,Family Preservation,6
+Wise,2024,3-Arlington,Investigation,28
+Wood,2024,4-Tyler,Family Preservation,14
+Wood,2024,4-Tyler,Investigation,18
+Yoakum,2024,1-Lubbock,Family Preservation,0
+Yoakum,2024,1-Lubbock,Investigation,2
+Young,2024,2-Abilene,Family Preservation,1
+Young,2024,2-Abilene,Investigation,9
+Zapata,2024,11-Edinburg,Family Preservation,0
+Zapata,2024,11-Edinburg,Investigation,2
+Zavala,2024,8-San Antonio,Family Preservation,6
+Zavala,2024,8-San Antonio,Investigation,9
+Anderson,2023,4-Tyler,Family Preservation,0
+Anderson,2023,4-Tyler,Investigation,9
+Andrews,2023,9-Midland,Family Preservation,2
+Andrews,2023,9-Midland,Investigation,3
+Angelina,2023,5-Beaumont,Family Preservation,25
+Angelina,2023,5-Beaumont,Investigation,58
+Aransas,2023,11-Edinburg,Family Preservation,6
+Aransas,2023,11-Edinburg,Investigation,15
+Archer,2023,2-Abilene,Family Preservation,1
+Archer,2023,2-Abilene,Investigation,3
+Armstrong,2023,1-Lubbock,Family Preservation,0
+Armstrong,2023,1-Lubbock,Investigation,2
+Atascosa,2023,8-San Antonio,Family Preservation,19
+Atascosa,2023,8-San Antonio,Investigation,11
+Austin,2023,6-Houston,Family Preservation,0
+Austin,2023,6-Houston,Investigation,1
+Bailey,2023,1-Lubbock,Family Preservation,0
+Bailey,2023,1-Lubbock,Investigation,1
+Bandera,2023,8-San Antonio,Family Preservation,4
+Bandera,2023,8-San Antonio,Investigation,5
+Bastrop,2023,7-Austin,Family Preservation,2
+Bastrop,2023,7-Austin,Investigation,45
+Baylor,2023,2-Abilene,Family Preservation,2
+Baylor,2023,2-Abilene,Investigation,7
+Bee,2023,11-Edinburg,Family Preservation,6
+Bee,2023,11-Edinburg,Investigation,27
+Bell,2023,7-Austin,Family Preservation,48
+Bell,2023,7-Austin,Investigation,428
+Bexar,2023,8-San Antonio,Family Preservation,252
+Bexar,2023,8-San Antonio,Investigation,733
+Blanco,2023,7-Austin,Family Preservation,0
+Blanco,2023,7-Austin,Investigation,5
+Bosque,2023,7-Austin,Family Preservation,0
+Bosque,2023,7-Austin,Investigation,20
+Bowie,2023,4-Tyler,Family Preservation,10
+Bowie,2023,4-Tyler,Investigation,43
+Brazoria,2023,6-Houston,Family Preservation,13
+Brazoria,2023,6-Houston,Investigation,39
+Brazos,2023,7-Austin,Family Preservation,21
+Brazos,2023,7-Austin,Investigation,60
+Briscoe,2023,1-Lubbock,Family Preservation,0
+Briscoe,2023,1-Lubbock,Investigation,2
+Brooks,2023,11-Edinburg,Family Preservation,0
+Brooks,2023,11-Edinburg,Investigation,1
+Brown,2023,2-Abilene,Family Preservation,6
+Brown,2023,2-Abilene,Investigation,15
+Burleson,2023,7-Austin,Family Preservation,0
+Burleson,2023,7-Austin,Investigation,6
+Burnet,2023,7-Austin,Family Preservation,5
+Burnet,2023,7-Austin,Investigation,44
+Caldwell,2023,7-Austin,Family Preservation,3
+Caldwell,2023,7-Austin,Investigation,19
+Calhoun,2023,8-San Antonio,Family Preservation,1
+Calhoun,2023,8-San Antonio,Investigation,3
+Callahan,2023,2-Abilene,Family Preservation,8
+Callahan,2023,2-Abilene,Investigation,11
+Cameron,2023,11-Edinburg,Family Preservation,75
+Cameron,2023,11-Edinburg,Investigation,42
+Camp,2023,4-Tyler,Family Preservation,2
+Camp,2023,4-Tyler,Investigation,7
+Cass,2023,4-Tyler,Family Preservation,8
+Cass,2023,4-Tyler,Investigation,15
+Castro,2023,1-Lubbock,Family Preservation,0
+Castro,2023,1-Lubbock,Investigation,1
+Chambers,2023,6-Houston,Family Preservation,0
+Chambers,2023,6-Houston,Investigation,5
+Cherokee,2023,4-Tyler,Family Preservation,8
+Cherokee,2023,4-Tyler,Investigation,47
+Childress,2023,1-Lubbock,Family Preservation,1
+Childress,2023,1-Lubbock,Investigation,7
+Clay,2023,2-Abilene,Family Preservation,0
+Clay,2023,2-Abilene,Investigation,1
+Coleman,2023,2-Abilene,Family Preservation,3
+Coleman,2023,2-Abilene,Investigation,6
+Collin,2023,3-Arlington,Family Preservation,20
+Collin,2023,3-Arlington,Investigation,100
+Comal,2023,8-San Antonio,Family Preservation,30
+Comal,2023,8-San Antonio,Investigation,37
+Comanche,2023,2-Abilene,Family Preservation,14
+Comanche,2023,2-Abilene,Investigation,21
+Cooke,2023,3-Arlington,Family Preservation,5
+Cooke,2023,3-Arlington,Investigation,14
+Coryell,2023,7-Austin,Family Preservation,17
+Coryell,2023,7-Austin,Investigation,59
+Cottle,2023,2-Abilene,Family Preservation,2
+Cottle,2023,2-Abilene,Investigation,0
+Crockett,2023,9-Midland,Family Preservation,0
+Crockett,2023,9-Midland,Investigation,4
+Crosby,2023,1-Lubbock,Family Preservation,1
+Crosby,2023,1-Lubbock,Investigation,0
+Culberson,2023,10-El Paso,Family Preservation,0
+Culberson,2023,10-El Paso,Investigation,7
+Dallam,2023,1-Lubbock,Family Preservation,4
+Dallam,2023,1-Lubbock,Investigation,11
+Dallas,2023,3-Arlington,Family Preservation,61
+Dallas,2023,3-Arlington,Investigation,665
+Dawson,2023,9-Midland,Family Preservation,6
+Dawson,2023,9-Midland,Investigation,1
+DeWitt,2023,8-San Antonio,Family Preservation,4
+DeWitt,2023,8-San Antonio,Investigation,7
+Deaf Smith,2023,1-Lubbock,Family Preservation,0
+Deaf Smith,2023,1-Lubbock,Investigation,11
+Delta,2023,4-Tyler,Family Preservation,0
+Delta,2023,4-Tyler,Investigation,2
+Denton,2023,3-Arlington,Family Preservation,41
+Denton,2023,3-Arlington,Investigation,142
+Dimmit,2023,8-San Antonio,Family Preservation,0
+Dimmit,2023,8-San Antonio,Investigation,5
+Duval,2023,11-Edinburg,Family Preservation,9
+Duval,2023,11-Edinburg,Investigation,4
+Eastland,2023,2-Abilene,Family Preservation,4
+Eastland,2023,2-Abilene,Investigation,10
+Ector,2023,9-Midland,Family Preservation,60
+Ector,2023,9-Midland,Investigation,54
+El Paso,2023,10-El Paso,Family Preservation,20
+El Paso,2023,10-El Paso,Investigation,101
+Ellis,2023,3-Arlington,Family Preservation,9
+Ellis,2023,3-Arlington,Investigation,29
+Erath,2023,3-Arlington,Family Preservation,0
+Erath,2023,3-Arlington,Investigation,8
+Falls,2023,7-Austin,Family Preservation,4
+Falls,2023,7-Austin,Investigation,6
+Fannin,2023,3-Arlington,Family Preservation,0
+Fannin,2023,3-Arlington,Investigation,9
+Fayette,2023,7-Austin,Family Preservation,0
+Fayette,2023,7-Austin,Investigation,3
+Fisher,2023,2-Abilene,Family Preservation,1
+Fisher,2023,2-Abilene,Investigation,0
+Fort Bend,2023,6-Houston,Family Preservation,6
+Fort Bend,2023,6-Houston,Investigation,44
+Franklin,2023,4-Tyler,Family Preservation,0
+Franklin,2023,4-Tyler,Investigation,2
+Freestone,2023,7-Austin,Family Preservation,0
+Freestone,2023,7-Austin,Investigation,12
+Frio,2023,8-San Antonio,Family Preservation,3
+Frio,2023,8-San Antonio,Investigation,15
+Gaines,2023,9-Midland,Family Preservation,3
+Gaines,2023,9-Midland,Investigation,1
+Galveston,2023,6-Houston,Family Preservation,22
+Galveston,2023,6-Houston,Investigation,49
+Gillespie,2023,8-San Antonio,Family Preservation,11
+Gillespie,2023,8-San Antonio,Investigation,3
+Goliad,2023,8-San Antonio,Family Preservation,0
+Goliad,2023,8-San Antonio,Investigation,5
+Gonzales,2023,8-San Antonio,Family Preservation,0
+Gonzales,2023,8-San Antonio,Investigation,8
+Gray,2023,1-Lubbock,Family Preservation,0
+Gray,2023,1-Lubbock,Investigation,10
+Grayson,2023,3-Arlington,Family Preservation,8
+Grayson,2023,3-Arlington,Investigation,39
+Gregg,2023,4-Tyler,Family Preservation,8
+Gregg,2023,4-Tyler,Investigation,74
+Grimes,2023,7-Austin,Family Preservation,0
+Grimes,2023,7-Austin,Investigation,5
+Guadalupe,2023,8-San Antonio,Family Preservation,13
+Guadalupe,2023,8-San Antonio,Investigation,24
+Hale,2023,1-Lubbock,Family Preservation,0
+Hale,2023,1-Lubbock,Investigation,7
+Hall,2023,1-Lubbock,Family Preservation,1
+Hall,2023,1-Lubbock,Investigation,9
+Hamilton,2023,7-Austin,Family Preservation,1
+Hamilton,2023,7-Austin,Investigation,1
+Hardin,2023,5-Beaumont,Family Preservation,4
+Hardin,2023,5-Beaumont,Investigation,32
+Harris,2023,6-Houston,Family Preservation,66
+Harris,2023,6-Houston,Investigation,692
+Harrison,2023,4-Tyler,Family Preservation,3
+Harrison,2023,4-Tyler,Investigation,35
+Hartley,2023,1-Lubbock,Family Preservation,1
+Hartley,2023,1-Lubbock,Investigation,0
+Haskell,2023,2-Abilene,Family Preservation,2
+Haskell,2023,2-Abilene,Investigation,11
+Hays,2023,7-Austin,Family Preservation,13
+Hays,2023,7-Austin,Investigation,55
+Hemphill,2023,1-Lubbock,Family Preservation,0
+Hemphill,2023,1-Lubbock,Investigation,1
+Henderson,2023,4-Tyler,Family Preservation,14
+Henderson,2023,4-Tyler,Investigation,49
+Hidalgo,2023,11-Edinburg,Family Preservation,79
+Hidalgo,2023,11-Edinburg,Investigation,78
+Hill,2023,7-Austin,Family Preservation,4
+Hill,2023,7-Austin,Investigation,49
+Hockley,2023,1-Lubbock,Family Preservation,0
+Hockley,2023,1-Lubbock,Investigation,5
+Hood,2023,3-Arlington,Family Preservation,8
+Hood,2023,3-Arlington,Investigation,18
+Hopkins,2023,4-Tyler,Family Preservation,10
+Hopkins,2023,4-Tyler,Investigation,19
+Houston,2023,5-Beaumont,Family Preservation,0
+Houston,2023,5-Beaumont,Investigation,21
+Howard,2023,9-Midland,Family Preservation,11
+Howard,2023,9-Midland,Investigation,9
+Hunt,2023,3-Arlington,Family Preservation,9
+Hunt,2023,3-Arlington,Investigation,26
+Hutchinson,2023,1-Lubbock,Family Preservation,4
+Hutchinson,2023,1-Lubbock,Investigation,14
+Jack,2023,2-Abilene,Family Preservation,0
+Jack,2023,2-Abilene,Investigation,6
+Jackson,2023,8-San Antonio,Family Preservation,2
+Jackson,2023,8-San Antonio,Investigation,2
+Jasper,2023,5-Beaumont,Family Preservation,13
+Jasper,2023,5-Beaumont,Investigation,29
+Jefferson,2023,5-Beaumont,Family Preservation,21
+Jefferson,2023,5-Beaumont,Investigation,145
+Jim Hogg,2023,11-Edinburg,Family Preservation,2
+Jim Hogg,2023,11-Edinburg,Investigation,6
+Jim Wells,2023,11-Edinburg,Family Preservation,25
+Jim Wells,2023,11-Edinburg,Investigation,12
+Johnson,2023,3-Arlington,Family Preservation,15
+Johnson,2023,3-Arlington,Investigation,78
+Jones,2023,2-Abilene,Family Preservation,3
+Jones,2023,2-Abilene,Investigation,0
+Karnes,2023,8-San Antonio,Family Preservation,0
+Karnes,2023,8-San Antonio,Investigation,3
+Kaufman,2023,3-Arlington,Family Preservation,13
+Kaufman,2023,3-Arlington,Investigation,64
+Kendall,2023,8-San Antonio,Family Preservation,3
+Kendall,2023,8-San Antonio,Investigation,0
+Kerr,2023,8-San Antonio,Family Preservation,6
+Kerr,2023,8-San Antonio,Investigation,16
+Kimble,2023,9-Midland,Family Preservation,0
+Kimble,2023,9-Midland,Investigation,4
+Kleberg,2023,11-Edinburg,Family Preservation,13
+Kleberg,2023,11-Edinburg,Investigation,19
+Knox,2023,2-Abilene,Family Preservation,2
+Knox,2023,2-Abilene,Investigation,0
+La Salle,2023,8-San Antonio,Family Preservation,4
+La Salle,2023,8-San Antonio,Investigation,10
+Lamar,2023,4-Tyler,Family Preservation,22
+Lamar,2023,4-Tyler,Investigation,28
+Lamb,2023,1-Lubbock,Family Preservation,0
+Lamb,2023,1-Lubbock,Investigation,7
+Lampasas,2023,7-Austin,Family Preservation,4
+Lampasas,2023,7-Austin,Investigation,20
+Lavaca,2023,8-San Antonio,Family Preservation,0
+Lavaca,2023,8-San Antonio,Investigation,2
+Lee,2023,7-Austin,Family Preservation,0
+Lee,2023,7-Austin,Investigation,2
+Leon,2023,7-Austin,Family Preservation,5
+Leon,2023,7-Austin,Investigation,19
+Liberty,2023,6-Houston,Family Preservation,0
+Liberty,2023,6-Houston,Investigation,19
+Limestone,2023,7-Austin,Family Preservation,4
+Limestone,2023,7-Austin,Investigation,13
+Lipscomb,2023,1-Lubbock,Family Preservation,1
+Lipscomb,2023,1-Lubbock,Investigation,0
+Live Oak,2023,11-Edinburg,Family Preservation,0
+Live Oak,2023,11-Edinburg,Investigation,7
+Llano,2023,7-Austin,Family Preservation,0
+Llano,2023,7-Austin,Investigation,34
+Lubbock,2023,1-Lubbock,Family Preservation,47
+Lubbock,2023,1-Lubbock,Investigation,144
+Madison,2023,7-Austin,Family Preservation,0
+Madison,2023,7-Austin,Investigation,12
+Marion,2023,4-Tyler,Family Preservation,1
+Marion,2023,4-Tyler,Investigation,11
+Martin,2023,9-Midland,Family Preservation,2
+Martin,2023,9-Midland,Investigation,0
+Matagorda,2023,6-Houston,Family Preservation,15
+Matagorda,2023,6-Houston,Investigation,17
+Maverick,2023,8-San Antonio,Family Preservation,4
+Maverick,2023,8-San Antonio,Investigation,14
+McCulloch,2023,9-Midland,Family Preservation,0
+McCulloch,2023,9-Midland,Investigation,6
+McLennan,2023,7-Austin,Family Preservation,15
+McLennan,2023,7-Austin,Investigation,190
+Medina,2023,8-San Antonio,Family Preservation,5
+Medina,2023,8-San Antonio,Investigation,10
+Menard,2023,9-Midland,Family Preservation,2
+Menard,2023,9-Midland,Investigation,0
+Midland,2023,9-Midland,Family Preservation,10
+Midland,2023,9-Midland,Investigation,9
+Milam,2023,7-Austin,Family Preservation,9
+Milam,2023,7-Austin,Investigation,17
+Mills,2023,7-Austin,Family Preservation,0
+Mills,2023,7-Austin,Investigation,1
+Mitchell,2023,2-Abilene,Family Preservation,0
+Mitchell,2023,2-Abilene,Investigation,5
+Montague,2023,2-Abilene,Family Preservation,1
+Montague,2023,2-Abilene,Investigation,12
+Montgomery,2023,6-Houston,Family Preservation,14
+Montgomery,2023,6-Houston,Investigation,126
+Moore,2023,1-Lubbock,Family Preservation,8
+Moore,2023,1-Lubbock,Investigation,3
+Morris,2023,4-Tyler,Family Preservation,0
+Morris,2023,4-Tyler,Investigation,11
+Nacogdoches,2023,5-Beaumont,Family Preservation,11
+Nacogdoches,2023,5-Beaumont,Investigation,26
+Navarro,2023,3-Arlington,Family Preservation,7
+Navarro,2023,3-Arlington,Investigation,8
+Newton,2023,5-Beaumont,Family Preservation,5
+Newton,2023,5-Beaumont,Investigation,5
+Nolan,2023,2-Abilene,Family Preservation,1
+Nolan,2023,2-Abilene,Investigation,10
+Nueces,2023,11-Edinburg,Family Preservation,68
+Nueces,2023,11-Edinburg,Investigation,186
+Ochiltree,2023,1-Lubbock,Family Preservation,3
+Ochiltree,2023,1-Lubbock,Investigation,2
+Orange,2023,5-Beaumont,Family Preservation,3
+Orange,2023,5-Beaumont,Investigation,69
+Out of State,2023,Out of State,Family Preservation,0
+Out of State,2023,Out of State,Investigation,4
+Palo Pinto,2023,3-Arlington,Family Preservation,13
+Palo Pinto,2023,3-Arlington,Investigation,5
+Panola,2023,4-Tyler,Family Preservation,0
+Panola,2023,4-Tyler,Investigation,12
+Parker,2023,3-Arlington,Family Preservation,32
+Parker,2023,3-Arlington,Investigation,51
+Parmer,2023,1-Lubbock,Family Preservation,0
+Parmer,2023,1-Lubbock,Investigation,3
+Pecos,2023,9-Midland,Family Preservation,6
+Pecos,2023,9-Midland,Investigation,6
+Polk,2023,5-Beaumont,Family Preservation,4
+Polk,2023,5-Beaumont,Investigation,21
+Potter,2023,1-Lubbock,Family Preservation,15
+Potter,2023,1-Lubbock,Investigation,102
+Rains,2023,4-Tyler,Family Preservation,3
+Rains,2023,4-Tyler,Investigation,2
+Randall,2023,1-Lubbock,Family Preservation,6
+Randall,2023,1-Lubbock,Investigation,46
+Red River,2023,4-Tyler,Family Preservation,2
+Red River,2023,4-Tyler,Investigation,13
+Reeves,2023,9-Midland,Family Preservation,0
+Reeves,2023,9-Midland,Investigation,3
+Robertson,2023,7-Austin,Family Preservation,6
+Robertson,2023,7-Austin,Investigation,39
+Rockwall,2023,3-Arlington,Family Preservation,4
+Rockwall,2023,3-Arlington,Investigation,16
+Runnels,2023,2-Abilene,Family Preservation,5
+Runnels,2023,2-Abilene,Investigation,4
+Rusk,2023,4-Tyler,Family Preservation,0
+Rusk,2023,4-Tyler,Investigation,25
+Sabine,2023,5-Beaumont,Family Preservation,4
+Sabine,2023,5-Beaumont,Investigation,6
+San Augustine,2023,5-Beaumont,Family Preservation,1
+San Augustine,2023,5-Beaumont,Investigation,4
+San Jacinto,2023,5-Beaumont,Family Preservation,3
+San Jacinto,2023,5-Beaumont,Investigation,24
+San Patricio,2023,11-Edinburg,Family Preservation,7
+San Patricio,2023,11-Edinburg,Investigation,20
+San Saba,2023,7-Austin,Family Preservation,0
+San Saba,2023,7-Austin,Investigation,4
+Scurry,2023,2-Abilene,Family Preservation,12
+Scurry,2023,2-Abilene,Investigation,8
+Shelby,2023,5-Beaumont,Family Preservation,2
+Shelby,2023,5-Beaumont,Investigation,18
+Sherman,2023,1-Lubbock,Family Preservation,3
+Sherman,2023,1-Lubbock,Investigation,3
+Smith,2023,4-Tyler,Family Preservation,22
+Smith,2023,4-Tyler,Investigation,134
+Somervell,2023,3-Arlington,Family Preservation,1
+Somervell,2023,3-Arlington,Investigation,3
+Starr,2023,11-Edinburg,Family Preservation,4
+Starr,2023,11-Edinburg,Investigation,19
+Stephens,2023,2-Abilene,Family Preservation,6
+Stephens,2023,2-Abilene,Investigation,8
+Sutton,2023,9-Midland,Family Preservation,0
+Sutton,2023,9-Midland,Investigation,2
+Swisher,2023,1-Lubbock,Family Preservation,0
+Swisher,2023,1-Lubbock,Investigation,4
+Tarrant,2023,3-Arlington,Family Preservation,78
+Tarrant,2023,3-Arlington,Investigation,420
+Taylor,2023,2-Abilene,Family Preservation,116
+Taylor,2023,2-Abilene,Investigation,97
+Terry,2023,1-Lubbock,Family Preservation,0
+Terry,2023,1-Lubbock,Investigation,1
+Titus,2023,4-Tyler,Family Preservation,0
+Titus,2023,4-Tyler,Investigation,10
+Tom Green,2023,9-Midland,Family Preservation,14
+Tom Green,2023,9-Midland,Investigation,27
+Travis,2023,7-Austin,Family Preservation,48
+Travis,2023,7-Austin,Investigation,150
+Trinity,2023,5-Beaumont,Family Preservation,0
+Trinity,2023,5-Beaumont,Investigation,21
+Tyler,2023,5-Beaumont,Family Preservation,9
+Tyler,2023,5-Beaumont,Investigation,4
+Upshur,2023,4-Tyler,Family Preservation,3
+Upshur,2023,4-Tyler,Investigation,11
+Upton,2023,9-Midland,Family Preservation,3
+Upton,2023,9-Midland,Investigation,0
+Uvalde,2023,8-San Antonio,Family Preservation,3
+Uvalde,2023,8-San Antonio,Investigation,4
+Val Verde,2023,8-San Antonio,Family Preservation,5
+Val Verde,2023,8-San Antonio,Investigation,8
+Van Zandt,2023,4-Tyler,Family Preservation,13
+Van Zandt,2023,4-Tyler,Investigation,49
+Victoria,2023,8-San Antonio,Family Preservation,12
+Victoria,2023,8-San Antonio,Investigation,25
+Walker,2023,6-Houston,Family Preservation,2
+Walker,2023,6-Houston,Investigation,16
+Waller,2023,6-Houston,Family Preservation,0
+Waller,2023,6-Houston,Investigation,7
+Ward,2023,9-Midland,Family Preservation,6
+Ward,2023,9-Midland,Investigation,8
+Washington,2023,7-Austin,Family Preservation,5
+Washington,2023,7-Austin,Investigation,9
+Webb,2023,11-Edinburg,Family Preservation,43
+Webb,2023,11-Edinburg,Investigation,33
+Wharton,2023,6-Houston,Family Preservation,17
+Wharton,2023,6-Houston,Investigation,17
+Wheeler,2023,1-Lubbock,Family Preservation,0
+Wheeler,2023,1-Lubbock,Investigation,3
+Wichita,2023,2-Abilene,Family Preservation,20
+Wichita,2023,2-Abilene,Investigation,121
+Wilbarger,2023,2-Abilene,Family Preservation,0
+Wilbarger,2023,2-Abilene,Investigation,10
+Willacy,2023,11-Edinburg,Family Preservation,5
+Willacy,2023,11-Edinburg,Investigation,6
+Williamson,2023,7-Austin,Family Preservation,36
+Williamson,2023,7-Austin,Investigation,110
+Wilson,2023,8-San Antonio,Family Preservation,2
+Wilson,2023,8-San Antonio,Investigation,15
+Winkler,2023,9-Midland,Family Preservation,4
+Winkler,2023,9-Midland,Investigation,2
+Wise,2023,3-Arlington,Family Preservation,16
+Wise,2023,3-Arlington,Investigation,36
+Wood,2023,4-Tyler,Family Preservation,3
+Wood,2023,4-Tyler,Investigation,20
+Yoakum,2023,1-Lubbock,Family Preservation,1
+Yoakum,2023,1-Lubbock,Investigation,1
+Young,2023,2-Abilene,Family Preservation,4
+Young,2023,2-Abilene,Investigation,9
+Zapata,2023,11-Edinburg,Family Preservation,7
+Zapata,2023,11-Edinburg,Investigation,3
+Zavala,2023,8-San Antonio,Family Preservation,4
+Zavala,2023,8-San Antonio,Investigation,9
+Anderson,2022,4-Tyler,Family Preservation,6
+Anderson,2022,4-Tyler,Investigation,22
+Andrews,2022,9-Midland,Family Preservation,0
+Andrews,2022,9-Midland,Investigation,3
+Angelina,2022,5-Beaumont,Family Preservation,24
+Angelina,2022,5-Beaumont,Investigation,62
+Aransas,2022,11-Edinburg,Family Preservation,0
+Aransas,2022,11-Edinburg,Investigation,16
+Archer,2022,2-Abilene,Family Preservation,0
+Archer,2022,2-Abilene,Investigation,4
+Armstrong,2022,1-Lubbock,Family Preservation,0
+Armstrong,2022,1-Lubbock,Investigation,1
+Atascosa,2022,8-San Antonio,Family Preservation,0
+Atascosa,2022,8-San Antonio,Investigation,22
+Austin,2022,6-Houston,Family Preservation,0
+Austin,2022,6-Houston,Investigation,2
+Bailey,2022,1-Lubbock,Family Preservation,0
+Bailey,2022,1-Lubbock,Investigation,3
+Bandera,2022,8-San Antonio,Family Preservation,3
+Bandera,2022,8-San Antonio,Investigation,9
+Bastrop,2022,7-Austin,Family Preservation,3
+Bastrop,2022,7-Austin,Investigation,38
+Baylor,2022,2-Abilene,Family Preservation,0
+Baylor,2022,2-Abilene,Investigation,1
+Bee,2022,11-Edinburg,Family Preservation,7
+Bee,2022,11-Edinburg,Investigation,18
+Bell,2022,7-Austin,Family Preservation,24
+Bell,2022,7-Austin,Investigation,446
+Bexar,2022,8-San Antonio,Family Preservation,196
+Bexar,2022,8-San Antonio,Investigation,878
+Blanco,2022,7-Austin,Family Preservation,0
+Blanco,2022,7-Austin,Investigation,2
+Bosque,2022,7-Austin,Family Preservation,0
+Bosque,2022,7-Austin,Investigation,13
+Bowie,2022,4-Tyler,Family Preservation,7
+Bowie,2022,4-Tyler,Investigation,31
+Brazoria,2022,6-Houston,Family Preservation,5
+Brazoria,2022,6-Houston,Investigation,35
+Brazos,2022,7-Austin,Family Preservation,5
+Brazos,2022,7-Austin,Investigation,97
+Brewster,2022,10-El Paso,Family Preservation,0
+Brewster,2022,10-El Paso,Investigation,1
+Brooks,2022,11-Edinburg,Family Preservation,0
+Brooks,2022,11-Edinburg,Investigation,3
+Brown,2022,2-Abilene,Family Preservation,11
+Brown,2022,2-Abilene,Investigation,31
+Burleson,2022,7-Austin,Family Preservation,1
+Burleson,2022,7-Austin,Investigation,17
+Burnet,2022,7-Austin,Family Preservation,0
+Burnet,2022,7-Austin,Investigation,37
+Caldwell,2022,7-Austin,Family Preservation,4
+Caldwell,2022,7-Austin,Investigation,26
+Calhoun,2022,8-San Antonio,Family Preservation,1
+Calhoun,2022,8-San Antonio,Investigation,4
+Callahan,2022,2-Abilene,Family Preservation,7
+Callahan,2022,2-Abilene,Investigation,19
+Cameron,2022,11-Edinburg,Family Preservation,28
+Cameron,2022,11-Edinburg,Investigation,62
+Camp,2022,4-Tyler,Family Preservation,0
+Camp,2022,4-Tyler,Investigation,11
+Carson,2022,1-Lubbock,Family Preservation,0
+Carson,2022,1-Lubbock,Investigation,2
+Cass,2022,4-Tyler,Family Preservation,4
+Cass,2022,4-Tyler,Investigation,28
+Castro,2022,1-Lubbock,Family Preservation,0
+Castro,2022,1-Lubbock,Investigation,2
+Chambers,2022,6-Houston,Family Preservation,0
+Chambers,2022,6-Houston,Investigation,5
+Cherokee,2022,4-Tyler,Family Preservation,10
+Cherokee,2022,4-Tyler,Investigation,37
+Childress,2022,1-Lubbock,Family Preservation,0
+Childress,2022,1-Lubbock,Investigation,1
+Clay,2022,2-Abilene,Family Preservation,3
+Clay,2022,2-Abilene,Investigation,5
+Cochran,2022,1-Lubbock,Family Preservation,0
+Cochran,2022,1-Lubbock,Investigation,1
+Coke,2022,9-Midland,Family Preservation,0
+Coke,2022,9-Midland,Investigation,3
+Coleman,2022,2-Abilene,Family Preservation,0
+Coleman,2022,2-Abilene,Investigation,12
+Collin,2022,3-Arlington,Family Preservation,9
+Collin,2022,3-Arlington,Investigation,96
+Collingsworth,2022,1-Lubbock,Family Preservation,0
+Collingsworth,2022,1-Lubbock,Investigation,5
+Colorado,2022,6-Houston,Family Preservation,0
+Colorado,2022,6-Houston,Investigation,2
+Comal,2022,8-San Antonio,Family Preservation,15
+Comal,2022,8-San Antonio,Investigation,75
+Comanche,2022,2-Abilene,Family Preservation,2
+Comanche,2022,2-Abilene,Investigation,22
+Cooke,2022,3-Arlington,Family Preservation,4
+Cooke,2022,3-Arlington,Investigation,10
+Coryell,2022,7-Austin,Family Preservation,3
+Coryell,2022,7-Austin,Investigation,44
+Cottle,2022,2-Abilene,Family Preservation,0
+Cottle,2022,2-Abilene,Investigation,1
+Crockett,2022,9-Midland,Family Preservation,0
+Crockett,2022,9-Midland,Investigation,1
+Crosby,2022,1-Lubbock,Family Preservation,1
+Crosby,2022,1-Lubbock,Investigation,6
+Culberson,2022,10-El Paso,Family Preservation,4
+Culberson,2022,10-El Paso,Investigation,2
+Dallam,2022,1-Lubbock,Family Preservation,0
+Dallam,2022,1-Lubbock,Investigation,5
+Dallas,2022,3-Arlington,Family Preservation,47
+Dallas,2022,3-Arlington,Investigation,691
+Dawson,2022,9-Midland,Family Preservation,0
+Dawson,2022,9-Midland,Investigation,5
+DeWitt,2022,8-San Antonio,Family Preservation,0
+DeWitt,2022,8-San Antonio,Investigation,3
+Deaf Smith,2022,1-Lubbock,Family Preservation,6
+Deaf Smith,2022,1-Lubbock,Investigation,4
+Delta,2022,4-Tyler,Family Preservation,0
+Delta,2022,4-Tyler,Investigation,1
+Denton,2022,3-Arlington,Family Preservation,16
+Denton,2022,3-Arlington,Investigation,141
+Dimmit,2022,8-San Antonio,Family Preservation,0
+Dimmit,2022,8-San Antonio,Investigation,6
+Donley,2022,1-Lubbock,Family Preservation,0
+Donley,2022,1-Lubbock,Investigation,1
+Duval,2022,11-Edinburg,Family Preservation,3
+Duval,2022,11-Edinburg,Investigation,15
+Eastland,2022,2-Abilene,Family Preservation,3
+Eastland,2022,2-Abilene,Investigation,14
+Ector,2022,9-Midland,Family Preservation,31
+Ector,2022,9-Midland,Investigation,68
+El Paso,2022,10-El Paso,Family Preservation,41
+El Paso,2022,10-El Paso,Investigation,127
+Ellis,2022,3-Arlington,Family Preservation,3
+Ellis,2022,3-Arlington,Investigation,33
+Erath,2022,3-Arlington,Family Preservation,0
+Erath,2022,3-Arlington,Investigation,9
+Falls,2022,7-Austin,Family Preservation,0
+Falls,2022,7-Austin,Investigation,12
+Fannin,2022,3-Arlington,Family Preservation,0
+Fannin,2022,3-Arlington,Investigation,14
+Fayette,2022,7-Austin,Family Preservation,1
+Fayette,2022,7-Austin,Investigation,6
+Fisher,2022,2-Abilene,Family Preservation,0
+Fisher,2022,2-Abilene,Investigation,2
+Fort Bend,2022,6-Houston,Family Preservation,0
+Fort Bend,2022,6-Houston,Investigation,35
+Franklin,2022,4-Tyler,Family Preservation,0
+Franklin,2022,4-Tyler,Investigation,3
+Freestone,2022,7-Austin,Family Preservation,0
+Freestone,2022,7-Austin,Investigation,10
+Frio,2022,8-San Antonio,Family Preservation,0
+Frio,2022,8-San Antonio,Investigation,13
+Galveston,2022,6-Houston,Family Preservation,22
+Galveston,2022,6-Houston,Investigation,63
+Garza,2022,1-Lubbock,Family Preservation,0
+Garza,2022,1-Lubbock,Investigation,3
+Gillespie,2022,8-San Antonio,Family Preservation,0
+Gillespie,2022,8-San Antonio,Investigation,4
+Goliad,2022,8-San Antonio,Family Preservation,3
+Goliad,2022,8-San Antonio,Investigation,0
+Gonzales,2022,8-San Antonio,Family Preservation,0
+Gonzales,2022,8-San Antonio,Investigation,12
+Gray,2022,1-Lubbock,Family Preservation,7
+Gray,2022,1-Lubbock,Investigation,12
+Grayson,2022,3-Arlington,Family Preservation,1
+Grayson,2022,3-Arlington,Investigation,55
+Gregg,2022,4-Tyler,Family Preservation,11
+Gregg,2022,4-Tyler,Investigation,126
+Grimes,2022,7-Austin,Family Preservation,0
+Grimes,2022,7-Austin,Investigation,11
+Guadalupe,2022,8-San Antonio,Family Preservation,7
+Guadalupe,2022,8-San Antonio,Investigation,19
+Hale,2022,1-Lubbock,Family Preservation,5
+Hale,2022,1-Lubbock,Investigation,22
+Hamilton,2022,7-Austin,Family Preservation,5
+Hamilton,2022,7-Austin,Investigation,8
+Hardeman,2022,2-Abilene,Family Preservation,0
+Hardeman,2022,2-Abilene,Investigation,1
+Hardin,2022,5-Beaumont,Family Preservation,1
+Hardin,2022,5-Beaumont,Investigation,28
+Harris,2022,6-Houston,Family Preservation,27
+Harris,2022,6-Houston,Investigation,539
+Harrison,2022,4-Tyler,Family Preservation,4
+Harrison,2022,4-Tyler,Investigation,21
+Hartley,2022,1-Lubbock,Family Preservation,0
+Hartley,2022,1-Lubbock,Investigation,7
+Hays,2022,7-Austin,Family Preservation,7
+Hays,2022,7-Austin,Investigation,67
+Hemphill,2022,1-Lubbock,Family Preservation,0
+Hemphill,2022,1-Lubbock,Investigation,1
+Henderson,2022,4-Tyler,Family Preservation,29
+Henderson,2022,4-Tyler,Investigation,60
+Hidalgo,2022,11-Edinburg,Family Preservation,23
+Hidalgo,2022,11-Edinburg,Investigation,67
+Hill,2022,7-Austin,Family Preservation,0
+Hill,2022,7-Austin,Investigation,38
+Hockley,2022,1-Lubbock,Family Preservation,0
+Hockley,2022,1-Lubbock,Investigation,7
+Hood,2022,3-Arlington,Family Preservation,3
+Hood,2022,3-Arlington,Investigation,18
+Hopkins,2022,4-Tyler,Family Preservation,1
+Hopkins,2022,4-Tyler,Investigation,13
+Houston,2022,5-Beaumont,Family Preservation,3
+Houston,2022,5-Beaumont,Investigation,5
+Howard,2022,9-Midland,Family Preservation,6
+Howard,2022,9-Midland,Investigation,10
+Hunt,2022,3-Arlington,Family Preservation,2
+Hunt,2022,3-Arlington,Investigation,39
+Hutchinson,2022,1-Lubbock,Family Preservation,5
+Hutchinson,2022,1-Lubbock,Investigation,14
+Jack,2022,2-Abilene,Family Preservation,0
+Jack,2022,2-Abilene,Investigation,3
+Jackson,2022,8-San Antonio,Family Preservation,2
+Jackson,2022,8-San Antonio,Investigation,1
+Jasper,2022,5-Beaumont,Family Preservation,7
+Jasper,2022,5-Beaumont,Investigation,14
+Jefferson,2022,5-Beaumont,Family Preservation,31
+Jefferson,2022,5-Beaumont,Investigation,137
+Jim Hogg,2022,11-Edinburg,Family Preservation,0
+Jim Hogg,2022,11-Edinburg,Investigation,6
+Jim Wells,2022,11-Edinburg,Family Preservation,6
+Jim Wells,2022,11-Edinburg,Investigation,26
+Johnson,2022,3-Arlington,Family Preservation,13
+Johnson,2022,3-Arlington,Investigation,23
+Jones,2022,2-Abilene,Family Preservation,7
+Jones,2022,2-Abilene,Investigation,14
+Karnes,2022,8-San Antonio,Family Preservation,0
+Karnes,2022,8-San Antonio,Investigation,4
+Kaufman,2022,3-Arlington,Family Preservation,0
+Kaufman,2022,3-Arlington,Investigation,36
+Kendall,2022,8-San Antonio,Family Preservation,0
+Kendall,2022,8-San Antonio,Investigation,4
+Kerr,2022,8-San Antonio,Family Preservation,2
+Kerr,2022,8-San Antonio,Investigation,13
+Kimble,2022,9-Midland,Family Preservation,0
+Kimble,2022,9-Midland,Investigation,1
+Kleberg,2022,11-Edinburg,Family Preservation,2
+Kleberg,2022,11-Edinburg,Investigation,24
+Knox,2022,2-Abilene,Family Preservation,0
+Knox,2022,2-Abilene,Investigation,1
+La Salle,2022,8-San Antonio,Family Preservation,0
+La Salle,2022,8-San Antonio,Investigation,3
+Lamar,2022,4-Tyler,Family Preservation,14
+Lamar,2022,4-Tyler,Investigation,16
+Lamb,2022,1-Lubbock,Family Preservation,0
+Lamb,2022,1-Lubbock,Investigation,10
+Lampasas,2022,7-Austin,Family Preservation,1
+Lampasas,2022,7-Austin,Investigation,26
+Lavaca,2022,8-San Antonio,Family Preservation,0
+Lavaca,2022,8-San Antonio,Investigation,5
+Lee,2022,7-Austin,Family Preservation,0
+Lee,2022,7-Austin,Investigation,10
+Leon,2022,7-Austin,Family Preservation,2
+Leon,2022,7-Austin,Investigation,5
+Liberty,2022,6-Houston,Family Preservation,5
+Liberty,2022,6-Houston,Investigation,41
+Limestone,2022,7-Austin,Family Preservation,0
+Limestone,2022,7-Austin,Investigation,21
+Lipscomb,2022,1-Lubbock,Family Preservation,0
+Lipscomb,2022,1-Lubbock,Investigation,2
+Llano,2022,7-Austin,Family Preservation,5
+Llano,2022,7-Austin,Investigation,21
+Lubbock,2022,1-Lubbock,Family Preservation,31
+Lubbock,2022,1-Lubbock,Investigation,163
+Lynn,2022,1-Lubbock,Family Preservation,0
+Lynn,2022,1-Lubbock,Investigation,8
+Madison,2022,7-Austin,Family Preservation,0
+Madison,2022,7-Austin,Investigation,6
+Marion,2022,4-Tyler,Family Preservation,1
+Marion,2022,4-Tyler,Investigation,1
+Martin,2022,9-Midland,Family Preservation,0
+Martin,2022,9-Midland,Investigation,1
+Matagorda,2022,6-Houston,Family Preservation,16
+Matagorda,2022,6-Houston,Investigation,21
+Maverick,2022,8-San Antonio,Family Preservation,9
+Maverick,2022,8-San Antonio,Investigation,0
+McCulloch,2022,9-Midland,Family Preservation,2
+McCulloch,2022,9-Midland,Investigation,14
+McLennan,2022,7-Austin,Family Preservation,11
+McLennan,2022,7-Austin,Investigation,160
+Medina,2022,8-San Antonio,Family Preservation,3
+Medina,2022,8-San Antonio,Investigation,28
+Menard,2022,9-Midland,Family Preservation,0
+Menard,2022,9-Midland,Investigation,2
+Midland,2022,9-Midland,Family Preservation,4
+Midland,2022,9-Midland,Investigation,38
+Milam,2022,7-Austin,Family Preservation,5
+Milam,2022,7-Austin,Investigation,23
+Mills,2022,7-Austin,Family Preservation,0
+Mills,2022,7-Austin,Investigation,2
+Mitchell,2022,2-Abilene,Family Preservation,0
+Mitchell,2022,2-Abilene,Investigation,8
+Montague,2022,2-Abilene,Family Preservation,4
+Montague,2022,2-Abilene,Investigation,7
+Montgomery,2022,6-Houston,Family Preservation,5
+Montgomery,2022,6-Houston,Investigation,147
+Moore,2022,1-Lubbock,Family Preservation,0
+Moore,2022,1-Lubbock,Investigation,12
+Morris,2022,4-Tyler,Family Preservation,0
+Morris,2022,4-Tyler,Investigation,5
+Nacogdoches,2022,5-Beaumont,Family Preservation,6
+Nacogdoches,2022,5-Beaumont,Investigation,29
+Navarro,2022,3-Arlington,Family Preservation,2
+Navarro,2022,3-Arlington,Investigation,9
+Newton,2022,5-Beaumont,Family Preservation,1
+Newton,2022,5-Beaumont,Investigation,6
+Nolan,2022,2-Abilene,Family Preservation,3
+Nolan,2022,2-Abilene,Investigation,16
+Nueces,2022,11-Edinburg,Family Preservation,17
+Nueces,2022,11-Edinburg,Investigation,241
+Ochiltree,2022,1-Lubbock,Family Preservation,0
+Ochiltree,2022,1-Lubbock,Investigation,4
+Oldham,2022,1-Lubbock,Family Preservation,0
+Oldham,2022,1-Lubbock,Investigation,2
+Orange,2022,5-Beaumont,Family Preservation,4
+Orange,2022,5-Beaumont,Investigation,43
+Palo Pinto,2022,3-Arlington,Family Preservation,4
+Palo Pinto,2022,3-Arlington,Investigation,20
+Panola,2022,4-Tyler,Family Preservation,1
+Panola,2022,4-Tyler,Investigation,22
+Parker,2022,3-Arlington,Family Preservation,13
+Parker,2022,3-Arlington,Investigation,53
+Parmer,2022,1-Lubbock,Family Preservation,0
+Parmer,2022,1-Lubbock,Investigation,3
+Pecos,2022,9-Midland,Family Preservation,1
+Pecos,2022,9-Midland,Investigation,13
+Polk,2022,5-Beaumont,Family Preservation,2
+Polk,2022,5-Beaumont,Investigation,24
+Potter,2022,1-Lubbock,Family Preservation,20
+Potter,2022,1-Lubbock,Investigation,86
+Rains,2022,4-Tyler,Family Preservation,0
+Rains,2022,4-Tyler,Investigation,8
+Randall,2022,1-Lubbock,Family Preservation,5
+Randall,2022,1-Lubbock,Investigation,45
+Real,2022,8-San Antonio,Family Preservation,0
+Real,2022,8-San Antonio,Investigation,2
+Red River,2022,4-Tyler,Family Preservation,2
+Red River,2022,4-Tyler,Investigation,6
+Reeves,2022,9-Midland,Family Preservation,0
+Reeves,2022,9-Midland,Investigation,7
+Roberts,2022,1-Lubbock,Family Preservation,0
+Roberts,2022,1-Lubbock,Investigation,3
+Robertson,2022,7-Austin,Family Preservation,2
+Robertson,2022,7-Austin,Investigation,38
+Rockwall,2022,3-Arlington,Family Preservation,3
+Rockwall,2022,3-Arlington,Investigation,11
+Runnels,2022,2-Abilene,Family Preservation,4
+Runnels,2022,2-Abilene,Investigation,0
+Rusk,2022,4-Tyler,Family Preservation,1
+Rusk,2022,4-Tyler,Investigation,38
+Sabine,2022,5-Beaumont,Family Preservation,1
+Sabine,2022,5-Beaumont,Investigation,8
+San Augustine,2022,5-Beaumont,Family Preservation,0
+San Augustine,2022,5-Beaumont,Investigation,5
+San Jacinto,2022,5-Beaumont,Family Preservation,0
+San Jacinto,2022,5-Beaumont,Investigation,8
+San Patricio,2022,11-Edinburg,Family Preservation,12
+San Patricio,2022,11-Edinburg,Investigation,15
+San Saba,2022,7-Austin,Family Preservation,0
+San Saba,2022,7-Austin,Investigation,6
+Scurry,2022,2-Abilene,Family Preservation,4
+Scurry,2022,2-Abilene,Investigation,25
+Shelby,2022,5-Beaumont,Family Preservation,2
+Shelby,2022,5-Beaumont,Investigation,11
+Sherman,2022,1-Lubbock,Family Preservation,0
+Sherman,2022,1-Lubbock,Investigation,4
+Smith,2022,4-Tyler,Family Preservation,37
+Smith,2022,4-Tyler,Investigation,122
+Somervell,2022,3-Arlington,Family Preservation,0
+Somervell,2022,3-Arlington,Investigation,3
+Starr,2022,11-Edinburg,Family Preservation,1
+Starr,2022,11-Edinburg,Investigation,5
+Stephens,2022,2-Abilene,Family Preservation,2
+Stephens,2022,2-Abilene,Investigation,13
+Sterling,2022,9-Midland,Family Preservation,0
+Sterling,2022,9-Midland,Investigation,3
+Swisher,2022,1-Lubbock,Family Preservation,1
+Swisher,2022,1-Lubbock,Investigation,4
+Tarrant,2022,3-Arlington,Family Preservation,61
+Tarrant,2022,3-Arlington,Investigation,494
+Taylor,2022,2-Abilene,Family Preservation,69
+Taylor,2022,2-Abilene,Investigation,136
+Terry,2022,1-Lubbock,Family Preservation,0
+Terry,2022,1-Lubbock,Investigation,3
+Titus,2022,4-Tyler,Family Preservation,2
+Titus,2022,4-Tyler,Investigation,11
+Tom Green,2022,9-Midland,Family Preservation,24
+Tom Green,2022,9-Midland,Investigation,54
+Travis,2022,7-Austin,Family Preservation,40
+Travis,2022,7-Austin,Investigation,233
+Trinity,2022,5-Beaumont,Family Preservation,1
+Trinity,2022,5-Beaumont,Investigation,8
+Tyler,2022,5-Beaumont,Family Preservation,10
+Tyler,2022,5-Beaumont,Investigation,12
+Upshur,2022,4-Tyler,Family Preservation,3
+Upshur,2022,4-Tyler,Investigation,11
+Upton,2022,9-Midland,Family Preservation,0
+Upton,2022,9-Midland,Investigation,1
+Uvalde,2022,8-San Antonio,Family Preservation,0
+Uvalde,2022,8-San Antonio,Investigation,3
+Val Verde,2022,8-San Antonio,Family Preservation,3
+Val Verde,2022,8-San Antonio,Investigation,14
+Van Zandt,2022,4-Tyler,Family Preservation,5
+Van Zandt,2022,4-Tyler,Investigation,30
+Victoria,2022,8-San Antonio,Family Preservation,3
+Victoria,2022,8-San Antonio,Investigation,8
+Walker,2022,6-Houston,Family Preservation,0
+Walker,2022,6-Houston,Investigation,8
+Waller,2022,6-Houston,Family Preservation,2
+Waller,2022,6-Houston,Investigation,4
+Ward,2022,9-Midland,Family Preservation,0
+Ward,2022,9-Midland,Investigation,10
+Washington,2022,7-Austin,Family Preservation,2
+Washington,2022,7-Austin,Investigation,26
+Webb,2022,11-Edinburg,Family Preservation,45
+Webb,2022,11-Edinburg,Investigation,40
+Wharton,2022,6-Houston,Family Preservation,2
+Wharton,2022,6-Houston,Investigation,11
+Wheeler,2022,1-Lubbock,Family Preservation,1
+Wheeler,2022,1-Lubbock,Investigation,1
+Wichita,2022,2-Abilene,Family Preservation,3
+Wichita,2022,2-Abilene,Investigation,118
+Wilbarger,2022,2-Abilene,Family Preservation,2
+Wilbarger,2022,2-Abilene,Investigation,8
+Willacy,2022,11-Edinburg,Family Preservation,4
+Willacy,2022,11-Edinburg,Investigation,9
+Williamson,2022,7-Austin,Family Preservation,12
+Williamson,2022,7-Austin,Investigation,69
+Wilson,2022,8-San Antonio,Family Preservation,9
+Wilson,2022,8-San Antonio,Investigation,6
+Winkler,2022,9-Midland,Family Preservation,0
+Winkler,2022,9-Midland,Investigation,2
+Wise,2022,3-Arlington,Family Preservation,2
+Wise,2022,3-Arlington,Investigation,47
+Wood,2022,4-Tyler,Family Preservation,0
+Wood,2022,4-Tyler,Investigation,25
+Young,2022,2-Abilene,Family Preservation,1
+Young,2022,2-Abilene,Investigation,8
+Zapata,2022,11-Edinburg,Family Preservation,0
+Zapata,2022,11-Edinburg,Investigation,5
+Zavala,2022,8-San Antonio,Family Preservation,0
+Zavala,2022,8-San Antonio,Investigation,17
+Anderson,2021,4-Tyler,Family Preservation,5
+Anderson,2021,4-Tyler,Investigation,33
+Andrews,2021,9-Midland,Family Preservation,3
+Andrews,2021,9-Midland,Investigation,8
+Angelina,2021,5-Beaumont,Family Preservation,14
+Angelina,2021,5-Beaumont,Investigation,54
+Aransas,2021,11-Edinburg,Family Preservation,3
+Aransas,2021,11-Edinburg,Investigation,19
+Archer,2021,2-Abilene,Family Preservation,0
+Archer,2021,2-Abilene,Investigation,2
+Atascosa,2021,8-San Antonio,Family Preservation,31
+Atascosa,2021,8-San Antonio,Investigation,47
+Austin,2021,6-Houston,Family Preservation,1
+Austin,2021,6-Houston,Investigation,13
+Bandera,2021,8-San Antonio,Family Preservation,3
+Bandera,2021,8-San Antonio,Investigation,15
+Bastrop,2021,7-Austin,Family Preservation,19
+Bastrop,2021,7-Austin,Investigation,47
+Baylor,2021,2-Abilene,Family Preservation,0
+Baylor,2021,2-Abilene,Investigation,8
+Bee,2021,11-Edinburg,Family Preservation,16
+Bee,2021,11-Edinburg,Investigation,49
+Bell,2021,7-Austin,Family Preservation,82
+Bell,2021,7-Austin,Investigation,659
+Bexar,2021,8-San Antonio,Family Preservation,524
+Bexar,2021,8-San Antonio,Investigation,1198
+Blanco,2021,7-Austin,Family Preservation,0
+Blanco,2021,7-Austin,Investigation,7
+Bosque,2021,7-Austin,Family Preservation,1
+Bosque,2021,7-Austin,Investigation,24
+Bowie,2021,4-Tyler,Family Preservation,13
+Bowie,2021,4-Tyler,Investigation,45
+Brazoria,2021,6-Houston,Family Preservation,18
+Brazoria,2021,6-Houston,Investigation,69
+Brazos,2021,7-Austin,Family Preservation,30
+Brazos,2021,7-Austin,Investigation,123
+Brewster,2021,10-El Paso,Family Preservation,0
+Brewster,2021,10-El Paso,Investigation,3
+Briscoe,2021,1-Lubbock,Family Preservation,0
+Briscoe,2021,1-Lubbock,Investigation,1
+Brooks,2021,11-Edinburg,Family Preservation,7
+Brooks,2021,11-Edinburg,Investigation,11
+Brown,2021,2-Abilene,Family Preservation,30
+Brown,2021,2-Abilene,Investigation,73
+Burleson,2021,7-Austin,Family Preservation,0
+Burleson,2021,7-Austin,Investigation,23
+Burnet,2021,7-Austin,Family Preservation,6
+Burnet,2021,7-Austin,Investigation,57
+Caldwell,2021,7-Austin,Family Preservation,15
+Caldwell,2021,7-Austin,Investigation,31
+Calhoun,2021,8-San Antonio,Family Preservation,1
+Calhoun,2021,8-San Antonio,Investigation,7
+Callahan,2021,2-Abilene,Family Preservation,4
+Callahan,2021,2-Abilene,Investigation,16
+Cameron,2021,11-Edinburg,Family Preservation,107
+Cameron,2021,11-Edinburg,Investigation,132
+Camp,2021,4-Tyler,Family Preservation,3
+Camp,2021,4-Tyler,Investigation,16
+Carson,2021,1-Lubbock,Family Preservation,0
+Carson,2021,1-Lubbock,Investigation,5
+Cass,2021,4-Tyler,Family Preservation,14
+Cass,2021,4-Tyler,Investigation,32
+Castro,2021,1-Lubbock,Family Preservation,0
+Castro,2021,1-Lubbock,Investigation,7
+Chambers,2021,6-Houston,Family Preservation,2
+Chambers,2021,6-Houston,Investigation,17
+Cherokee,2021,4-Tyler,Family Preservation,28
+Cherokee,2021,4-Tyler,Investigation,36
+Childress,2021,1-Lubbock,Family Preservation,0
+Childress,2021,1-Lubbock,Investigation,5
+Clay,2021,2-Abilene,Family Preservation,8
+Clay,2021,2-Abilene,Investigation,8
+Cochran,2021,1-Lubbock,Family Preservation,0
+Cochran,2021,1-Lubbock,Investigation,4
+Coke,2021,9-Midland,Family Preservation,0
+Coke,2021,9-Midland,Investigation,1
+Coleman,2021,2-Abilene,Family Preservation,2
+Coleman,2021,2-Abilene,Investigation,12
+Collin,2021,3-Arlington,Family Preservation,25
+Collin,2021,3-Arlington,Investigation,136
+Collingsworth,2021,1-Lubbock,Family Preservation,0
+Collingsworth,2021,1-Lubbock,Investigation,3
+Colorado,2021,6-Houston,Family Preservation,0
+Colorado,2021,6-Houston,Investigation,12
+Comal,2021,8-San Antonio,Family Preservation,16
+Comal,2021,8-San Antonio,Investigation,93
+Comanche,2021,2-Abilene,Family Preservation,0
+Comanche,2021,2-Abilene,Investigation,14
+Concho,2021,9-Midland,Family Preservation,5
+Concho,2021,9-Midland,Investigation,2
+Cooke,2021,3-Arlington,Family Preservation,6
+Cooke,2021,3-Arlington,Investigation,40
+Coryell,2021,7-Austin,Family Preservation,5
+Coryell,2021,7-Austin,Investigation,117
+Cottle,2021,2-Abilene,Family Preservation,0
+Cottle,2021,2-Abilene,Investigation,4
+Crosby,2021,1-Lubbock,Family Preservation,0
+Crosby,2021,1-Lubbock,Investigation,8
+Culberson,2021,10-El Paso,Family Preservation,0
+Culberson,2021,10-El Paso,Investigation,3
+Dallam,2021,1-Lubbock,Family Preservation,0
+Dallam,2021,1-Lubbock,Investigation,20
+Dallas,2021,3-Arlington,Family Preservation,74
+Dallas,2021,3-Arlington,Investigation,1068
+Dawson,2021,9-Midland,Family Preservation,2
+Dawson,2021,9-Midland,Investigation,8
+DeWitt,2021,8-San Antonio,Family Preservation,13
+DeWitt,2021,8-San Antonio,Investigation,3
+Deaf Smith,2021,1-Lubbock,Family Preservation,1
+Deaf Smith,2021,1-Lubbock,Investigation,18
+Denton,2021,3-Arlington,Family Preservation,48
+Denton,2021,3-Arlington,Investigation,283
+Dickens,2021,1-Lubbock,Family Preservation,0
+Dickens,2021,1-Lubbock,Investigation,6
+Dimmit,2021,8-San Antonio,Family Preservation,0
+Dimmit,2021,8-San Antonio,Investigation,12
+Donley,2021,1-Lubbock,Family Preservation,2
+Donley,2021,1-Lubbock,Investigation,2
+Duval,2021,11-Edinburg,Family Preservation,14
+Duval,2021,11-Edinburg,Investigation,9
+Eastland,2021,2-Abilene,Family Preservation,12
+Eastland,2021,2-Abilene,Investigation,34
+Ector,2021,9-Midland,Family Preservation,33
+Ector,2021,9-Midland,Investigation,134
+El Paso,2021,10-El Paso,Family Preservation,59
+El Paso,2021,10-El Paso,Investigation,158
+Ellis,2021,3-Arlington,Family Preservation,8
+Ellis,2021,3-Arlington,Investigation,16
+Erath,2021,3-Arlington,Family Preservation,4
+Erath,2021,3-Arlington,Investigation,22
+Falls,2021,7-Austin,Family Preservation,1
+Falls,2021,7-Austin,Investigation,18
+Fannin,2021,3-Arlington,Family Preservation,4
+Fannin,2021,3-Arlington,Investigation,22
+Fayette,2021,7-Austin,Family Preservation,16
+Fayette,2021,7-Austin,Investigation,15
+Fisher,2021,2-Abilene,Family Preservation,1
+Fisher,2021,2-Abilene,Investigation,11
+Foard,2021,2-Abilene,Family Preservation,2
+Foard,2021,2-Abilene,Investigation,0
+Fort Bend,2021,6-Houston,Family Preservation,11
+Fort Bend,2021,6-Houston,Investigation,43
+Franklin,2021,4-Tyler,Family Preservation,1
+Franklin,2021,4-Tyler,Investigation,8
+Freestone,2021,7-Austin,Family Preservation,4
+Freestone,2021,7-Austin,Investigation,13
+Frio,2021,8-San Antonio,Family Preservation,11
+Frio,2021,8-San Antonio,Investigation,16
+Gaines,2021,9-Midland,Family Preservation,0
+Gaines,2021,9-Midland,Investigation,1
+Galveston,2021,6-Houston,Family Preservation,59
+Galveston,2021,6-Houston,Investigation,141
+Garza,2021,1-Lubbock,Family Preservation,0
+Garza,2021,1-Lubbock,Investigation,10
+Gillespie,2021,8-San Antonio,Family Preservation,5
+Gillespie,2021,8-San Antonio,Investigation,11
+Goliad,2021,8-San Antonio,Family Preservation,6
+Goliad,2021,8-San Antonio,Investigation,2
+Gonzales,2021,8-San Antonio,Family Preservation,7
+Gonzales,2021,8-San Antonio,Investigation,3
+Gray,2021,1-Lubbock,Family Preservation,5
+Gray,2021,1-Lubbock,Investigation,47
+Grayson,2021,3-Arlington,Family Preservation,7
+Grayson,2021,3-Arlington,Investigation,83
+Gregg,2021,4-Tyler,Family Preservation,36
+Gregg,2021,4-Tyler,Investigation,124
+Grimes,2021,7-Austin,Family Preservation,1
+Grimes,2021,7-Austin,Investigation,29
+Guadalupe,2021,8-San Antonio,Family Preservation,3
+Guadalupe,2021,8-San Antonio,Investigation,12
+Hale,2021,1-Lubbock,Family Preservation,5
+Hale,2021,1-Lubbock,Investigation,31
+Hall,2021,1-Lubbock,Family Preservation,0
+Hall,2021,1-Lubbock,Investigation,8
+Hamilton,2021,7-Austin,Family Preservation,4
+Hamilton,2021,7-Austin,Investigation,5
+Hansford,2021,1-Lubbock,Family Preservation,0
+Hansford,2021,1-Lubbock,Investigation,4
+Hardeman,2021,2-Abilene,Family Preservation,0
+Hardeman,2021,2-Abilene,Investigation,5
+Hardin,2021,5-Beaumont,Family Preservation,4
+Hardin,2021,5-Beaumont,Investigation,54
+Harris,2021,6-Houston,Family Preservation,162
+Harris,2021,6-Houston,Investigation,829
+Harrison,2021,4-Tyler,Family Preservation,14
+Harrison,2021,4-Tyler,Investigation,45
+Hartley,2021,1-Lubbock,Family Preservation,0
+Hartley,2021,1-Lubbock,Investigation,5
+Haskell,2021,2-Abilene,Family Preservation,0
+Haskell,2021,2-Abilene,Investigation,23
+Hays,2021,7-Austin,Family Preservation,33
+Hays,2021,7-Austin,Investigation,153
+Henderson,2021,4-Tyler,Family Preservation,23
+Henderson,2021,4-Tyler,Investigation,70
+Hidalgo,2021,11-Edinburg,Family Preservation,81
+Hidalgo,2021,11-Edinburg,Investigation,129
+Hill,2021,7-Austin,Family Preservation,2
+Hill,2021,7-Austin,Investigation,76
+Hockley,2021,1-Lubbock,Family Preservation,2
+Hockley,2021,1-Lubbock,Investigation,29
+Hood,2021,3-Arlington,Family Preservation,2
+Hood,2021,3-Arlington,Investigation,44
+Hopkins,2021,4-Tyler,Family Preservation,5
+Hopkins,2021,4-Tyler,Investigation,40
+Houston,2021,5-Beaumont,Family Preservation,1
+Houston,2021,5-Beaumont,Investigation,18
+Howard,2021,9-Midland,Family Preservation,1
+Howard,2021,9-Midland,Investigation,26
+Hunt,2021,3-Arlington,Family Preservation,12
+Hunt,2021,3-Arlington,Investigation,96
+Hutchinson,2021,1-Lubbock,Family Preservation,9
+Hutchinson,2021,1-Lubbock,Investigation,36
+Jack,2021,2-Abilene,Family Preservation,4
+Jack,2021,2-Abilene,Investigation,4
+Jackson,2021,8-San Antonio,Family Preservation,0
+Jackson,2021,8-San Antonio,Investigation,7
+Jasper,2021,5-Beaumont,Family Preservation,3
+Jasper,2021,5-Beaumont,Investigation,35
+Jefferson,2021,5-Beaumont,Family Preservation,29
+Jefferson,2021,5-Beaumont,Investigation,210
+Jim Hogg,2021,11-Edinburg,Family Preservation,1
+Jim Hogg,2021,11-Edinburg,Investigation,5
+Jim Wells,2021,11-Edinburg,Family Preservation,3
+Jim Wells,2021,11-Edinburg,Investigation,49
+Johnson,2021,3-Arlington,Family Preservation,17
+Johnson,2021,3-Arlington,Investigation,83
+Jones,2021,2-Abilene,Family Preservation,2
+Jones,2021,2-Abilene,Investigation,22
+Karnes,2021,8-San Antonio,Family Preservation,0
+Karnes,2021,8-San Antonio,Investigation,8
+Kaufman,2021,3-Arlington,Family Preservation,14
+Kaufman,2021,3-Arlington,Investigation,38
+Kendall,2021,8-San Antonio,Family Preservation,3
+Kendall,2021,8-San Antonio,Investigation,6
+Kerr,2021,8-San Antonio,Family Preservation,13
+Kerr,2021,8-San Antonio,Investigation,26
+Kimble,2021,9-Midland,Family Preservation,0
+Kimble,2021,9-Midland,Investigation,3
+Kinney,2021,8-San Antonio,Family Preservation,0
+Kinney,2021,8-San Antonio,Investigation,4
+Kleberg,2021,11-Edinburg,Family Preservation,17
+Kleberg,2021,11-Edinburg,Investigation,20
+Knox,2021,2-Abilene,Family Preservation,0
+Knox,2021,2-Abilene,Investigation,5
+La Salle,2021,8-San Antonio,Family Preservation,8
+La Salle,2021,8-San Antonio,Investigation,5
+Lamar,2021,4-Tyler,Family Preservation,26
+Lamar,2021,4-Tyler,Investigation,46
+Lamb,2021,1-Lubbock,Family Preservation,2
+Lamb,2021,1-Lubbock,Investigation,5
+Lampasas,2021,7-Austin,Family Preservation,4
+Lampasas,2021,7-Austin,Investigation,38
+Lavaca,2021,8-San Antonio,Family Preservation,11
+Lavaca,2021,8-San Antonio,Investigation,2
+Lee,2021,7-Austin,Family Preservation,0
+Lee,2021,7-Austin,Investigation,20
+Leon,2021,7-Austin,Family Preservation,0
+Leon,2021,7-Austin,Investigation,19
+Liberty,2021,6-Houston,Family Preservation,17
+Liberty,2021,6-Houston,Investigation,73
+Limestone,2021,7-Austin,Family Preservation,2
+Limestone,2021,7-Austin,Investigation,34
+Lipscomb,2021,1-Lubbock,Family Preservation,0
+Lipscomb,2021,1-Lubbock,Investigation,3
+Live Oak,2021,11-Edinburg,Family Preservation,0
+Live Oak,2021,11-Edinburg,Investigation,5
+Llano,2021,7-Austin,Family Preservation,9
+Llano,2021,7-Austin,Investigation,43
+Lubbock,2021,1-Lubbock,Family Preservation,48
+Lubbock,2021,1-Lubbock,Investigation,294
+Lynn,2021,1-Lubbock,Family Preservation,0
+Lynn,2021,1-Lubbock,Investigation,9
+Madison,2021,7-Austin,Family Preservation,7
+Madison,2021,7-Austin,Investigation,12
+Marion,2021,4-Tyler,Family Preservation,0
+Marion,2021,4-Tyler,Investigation,16
+Martin,2021,9-Midland,Family Preservation,0
+Martin,2021,9-Midland,Investigation,6
+Matagorda,2021,6-Houston,Family Preservation,16
+Matagorda,2021,6-Houston,Investigation,18
+Maverick,2021,8-San Antonio,Family Preservation,8
+Maverick,2021,8-San Antonio,Investigation,26
+McCulloch,2021,9-Midland,Family Preservation,3
+McCulloch,2021,9-Midland,Investigation,7
+McLennan,2021,7-Austin,Family Preservation,37
+McLennan,2021,7-Austin,Investigation,318
+Medina,2021,8-San Antonio,Family Preservation,11
+Medina,2021,8-San Antonio,Investigation,23
+Menard,2021,9-Midland,Family Preservation,2
+Menard,2021,9-Midland,Investigation,1
+Midland,2021,9-Midland,Family Preservation,12
+Midland,2021,9-Midland,Investigation,34
+Milam,2021,7-Austin,Family Preservation,9
+Milam,2021,7-Austin,Investigation,44
+Mills,2021,7-Austin,Family Preservation,0
+Mills,2021,7-Austin,Investigation,6
+Mitchell,2021,2-Abilene,Family Preservation,0
+Mitchell,2021,2-Abilene,Investigation,4
+Montague,2021,2-Abilene,Family Preservation,7
+Montague,2021,2-Abilene,Investigation,18
+Montgomery,2021,6-Houston,Family Preservation,27
+Montgomery,2021,6-Houston,Investigation,182
+Moore,2021,1-Lubbock,Family Preservation,4
+Moore,2021,1-Lubbock,Investigation,20
+Morris,2021,4-Tyler,Family Preservation,1
+Morris,2021,4-Tyler,Investigation,24
+Nacogdoches,2021,5-Beaumont,Family Preservation,21
+Nacogdoches,2021,5-Beaumont,Investigation,24
+Navarro,2021,3-Arlington,Family Preservation,5
+Navarro,2021,3-Arlington,Investigation,20
+Newton,2021,5-Beaumont,Family Preservation,0
+Newton,2021,5-Beaumont,Investigation,20
+Nolan,2021,2-Abilene,Family Preservation,10
+Nolan,2021,2-Abilene,Investigation,39
+Nueces,2021,11-Edinburg,Family Preservation,125
+Nueces,2021,11-Edinburg,Investigation,235
+Ochiltree,2021,1-Lubbock,Family Preservation,1
+Ochiltree,2021,1-Lubbock,Investigation,6
+Orange,2021,5-Beaumont,Family Preservation,6
+Orange,2021,5-Beaumont,Investigation,69
+Out of State,2021,Out of State,Family Preservation,0
+Out of State,2021,Out of State,Investigation,1
+Palo Pinto,2021,3-Arlington,Family Preservation,12
+Palo Pinto,2021,3-Arlington,Investigation,30
+Panola,2021,4-Tyler,Family Preservation,3
+Panola,2021,4-Tyler,Investigation,25
+Parker,2021,3-Arlington,Family Preservation,32
+Parker,2021,3-Arlington,Investigation,71
+Parmer,2021,1-Lubbock,Family Preservation,0
+Parmer,2021,1-Lubbock,Investigation,4
+Pecos,2021,9-Midland,Family Preservation,5
+Pecos,2021,9-Midland,Investigation,19
+Polk,2021,5-Beaumont,Family Preservation,5
+Polk,2021,5-Beaumont,Investigation,31
+Potter,2021,1-Lubbock,Family Preservation,17
+Potter,2021,1-Lubbock,Investigation,143
+Presidio,2021,10-El Paso,Family Preservation,1
+Presidio,2021,10-El Paso,Investigation,0
+Rains,2021,4-Tyler,Family Preservation,3
+Rains,2021,4-Tyler,Investigation,8
+Randall,2021,1-Lubbock,Family Preservation,12
+Randall,2021,1-Lubbock,Investigation,73
+Real,2021,8-San Antonio,Family Preservation,0
+Real,2021,8-San Antonio,Investigation,4
+Red River,2021,4-Tyler,Family Preservation,4
+Red River,2021,4-Tyler,Investigation,7
+Reeves,2021,9-Midland,Family Preservation,1
+Reeves,2021,9-Midland,Investigation,9
+Refugio,2021,11-Edinburg,Family Preservation,4
+Refugio,2021,11-Edinburg,Investigation,11
+Robertson,2021,7-Austin,Family Preservation,5
+Robertson,2021,7-Austin,Investigation,40
+Rockwall,2021,3-Arlington,Family Preservation,5
+Rockwall,2021,3-Arlington,Investigation,36
+Runnels,2021,2-Abilene,Family Preservation,6
+Runnels,2021,2-Abilene,Investigation,4
+Rusk,2021,4-Tyler,Family Preservation,4
+Rusk,2021,4-Tyler,Investigation,47
+Sabine,2021,5-Beaumont,Family Preservation,4
+Sabine,2021,5-Beaumont,Investigation,19
+San Augustine,2021,5-Beaumont,Family Preservation,3
+San Augustine,2021,5-Beaumont,Investigation,7
+San Jacinto,2021,5-Beaumont,Family Preservation,4
+San Jacinto,2021,5-Beaumont,Investigation,10
+San Patricio,2021,11-Edinburg,Family Preservation,2
+San Patricio,2021,11-Edinburg,Investigation,35
+San Saba,2021,7-Austin,Family Preservation,2
+San Saba,2021,7-Austin,Investigation,7
+Schleicher,2021,9-Midland,Family Preservation,0
+Schleicher,2021,9-Midland,Investigation,3
+Scurry,2021,2-Abilene,Family Preservation,0
+Scurry,2021,2-Abilene,Investigation,34
+Shackelford,2021,2-Abilene,Family Preservation,0
+Shackelford,2021,2-Abilene,Investigation,7
+Shelby,2021,5-Beaumont,Family Preservation,1
+Shelby,2021,5-Beaumont,Investigation,21
+Sherman,2021,1-Lubbock,Family Preservation,0
+Sherman,2021,1-Lubbock,Investigation,4
+Smith,2021,4-Tyler,Family Preservation,40
+Smith,2021,4-Tyler,Investigation,195
+Somervell,2021,3-Arlington,Family Preservation,3
+Somervell,2021,3-Arlington,Investigation,9
+Starr,2021,11-Edinburg,Family Preservation,9
+Starr,2021,11-Edinburg,Investigation,36
+Stephens,2021,2-Abilene,Family Preservation,4
+Stephens,2021,2-Abilene,Investigation,6
+Stonewall,2021,2-Abilene,Family Preservation,2
+Stonewall,2021,2-Abilene,Investigation,1
+Sutton,2021,9-Midland,Family Preservation,1
+Sutton,2021,9-Midland,Investigation,4
+Swisher,2021,1-Lubbock,Family Preservation,0
+Swisher,2021,1-Lubbock,Investigation,7
+Tarrant,2021,3-Arlington,Family Preservation,77
+Tarrant,2021,3-Arlington,Investigation,586
+Taylor,2021,2-Abilene,Family Preservation,58
+Taylor,2021,2-Abilene,Investigation,181
+Terry,2021,1-Lubbock,Family Preservation,0
+Terry,2021,1-Lubbock,Investigation,5
+Titus,2021,4-Tyler,Family Preservation,0
+Titus,2021,4-Tyler,Investigation,18
+Tom Green,2021,9-Midland,Family Preservation,46
+Tom Green,2021,9-Midland,Investigation,124
+Travis,2021,7-Austin,Family Preservation,142
+Travis,2021,7-Austin,Investigation,360
+Trinity,2021,5-Beaumont,Family Preservation,4
+Trinity,2021,5-Beaumont,Investigation,15
+Tyler,2021,5-Beaumont,Family Preservation,0
+Tyler,2021,5-Beaumont,Investigation,8
+Unknown,2021,Unknown,Family Preservation,3
+Unknown,2021,Unknown,Investigation,2
+Upshur,2021,4-Tyler,Family Preservation,5
+Upshur,2021,4-Tyler,Investigation,50
+Upton,2021,9-Midland,Family Preservation,0
+Upton,2021,9-Midland,Investigation,3
+Uvalde,2021,8-San Antonio,Family Preservation,3
+Uvalde,2021,8-San Antonio,Investigation,9
+Val Verde,2021,8-San Antonio,Family Preservation,2
+Val Verde,2021,8-San Antonio,Investigation,18
+Van Zandt,2021,4-Tyler,Family Preservation,17
+Van Zandt,2021,4-Tyler,Investigation,57
+Victoria,2021,8-San Antonio,Family Preservation,22
+Victoria,2021,8-San Antonio,Investigation,35
+Walker,2021,6-Houston,Family Preservation,0
+Walker,2021,6-Houston,Investigation,18
+Waller,2021,6-Houston,Family Preservation,1
+Waller,2021,6-Houston,Investigation,9
+Ward,2021,9-Midland,Family Preservation,6
+Ward,2021,9-Midland,Investigation,9
+Washington,2021,7-Austin,Family Preservation,0
+Washington,2021,7-Austin,Investigation,40
+Webb,2021,11-Edinburg,Family Preservation,35
+Webb,2021,11-Edinburg,Investigation,128
+Wharton,2021,6-Houston,Family Preservation,11
+Wharton,2021,6-Houston,Investigation,18
+Wheeler,2021,1-Lubbock,Family Preservation,0
+Wheeler,2021,1-Lubbock,Investigation,5
+Wichita,2021,2-Abilene,Family Preservation,20
+Wichita,2021,2-Abilene,Investigation,193
+Wilbarger,2021,2-Abilene,Family Preservation,0
+Wilbarger,2021,2-Abilene,Investigation,21
+Willacy,2021,11-Edinburg,Family Preservation,1
+Willacy,2021,11-Edinburg,Investigation,10
+Williamson,2021,7-Austin,Family Preservation,16
+Williamson,2021,7-Austin,Investigation,90
+Wilson,2021,8-San Antonio,Family Preservation,9
+Wilson,2021,8-San Antonio,Investigation,25
+Winkler,2021,9-Midland,Family Preservation,0
+Winkler,2021,9-Midland,Investigation,10
+Wise,2021,3-Arlington,Family Preservation,3
+Wise,2021,3-Arlington,Investigation,55
+Wood,2021,4-Tyler,Family Preservation,7
+Wood,2021,4-Tyler,Investigation,31
+Yoakum,2021,1-Lubbock,Family Preservation,0
+Yoakum,2021,1-Lubbock,Investigation,3
+Young,2021,2-Abilene,Family Preservation,4
+Young,2021,2-Abilene,Investigation,18
+Zapata,2021,11-Edinburg,Family Preservation,14
+Zapata,2021,11-Edinburg,Investigation,11
+Zavala,2021,8-San Antonio,Family Preservation,8
+Zavala,2021,8-San Antonio,Investigation,15
+Anderson,2020,4-Tyler,Family Preservation,15
+Anderson,2020,4-Tyler,Investigation,49
+Andrews,2020,9-Midland,Family Preservation,3
+Andrews,2020,9-Midland,Investigation,10
+Angelina,2020,5-Beaumont,Family Preservation,15
+Angelina,2020,5-Beaumont,Investigation,44
+Aransas,2020,11-Edinburg,Family Preservation,14
+Aransas,2020,11-Edinburg,Investigation,15
+Archer,2020,2-Abilene,Family Preservation,0
+Archer,2020,2-Abilene,Investigation,6
+Atascosa,2020,8-San Antonio,Family Preservation,16
+Atascosa,2020,8-San Antonio,Investigation,71
+Austin,2020,6-Houston,Family Preservation,4
+Austin,2020,6-Houston,Investigation,3
+Bailey,2020,1-Lubbock,Family Preservation,0
+Bailey,2020,1-Lubbock,Investigation,21
+Bandera,2020,8-San Antonio,Family Preservation,6
+Bandera,2020,8-San Antonio,Investigation,8
+Bastrop,2020,7-Austin,Family Preservation,12
+Bastrop,2020,7-Austin,Investigation,86
+Baylor,2020,2-Abilene,Family Preservation,8
+Baylor,2020,2-Abilene,Investigation,8
+Bee,2020,11-Edinburg,Family Preservation,5
+Bee,2020,11-Edinburg,Investigation,12
+Bell,2020,7-Austin,Family Preservation,69
+Bell,2020,7-Austin,Investigation,670
+Bexar,2020,8-San Antonio,Family Preservation,642
+Bexar,2020,8-San Antonio,Investigation,1097
+Blanco,2020,7-Austin,Family Preservation,0
+Blanco,2020,7-Austin,Investigation,11
+Bosque,2020,7-Austin,Family Preservation,1
+Bosque,2020,7-Austin,Investigation,42
+Bowie,2020,4-Tyler,Family Preservation,8
+Bowie,2020,4-Tyler,Investigation,66
+Brazoria,2020,6-Houston,Family Preservation,31
+Brazoria,2020,6-Houston,Investigation,59
+Brazos,2020,7-Austin,Family Preservation,9
+Brazos,2020,7-Austin,Investigation,89
+Brewster,2020,10-El Paso,Family Preservation,6
+Brewster,2020,10-El Paso,Investigation,1
+Brooks,2020,11-Edinburg,Family Preservation,6
+Brooks,2020,11-Edinburg,Investigation,6
+Brown,2020,2-Abilene,Family Preservation,27
+Brown,2020,2-Abilene,Investigation,64
+Burleson,2020,7-Austin,Family Preservation,4
+Burleson,2020,7-Austin,Investigation,36
+Burnet,2020,7-Austin,Family Preservation,8
+Burnet,2020,7-Austin,Investigation,93
+Caldwell,2020,7-Austin,Family Preservation,20
+Caldwell,2020,7-Austin,Investigation,42
+Calhoun,2020,8-San Antonio,Family Preservation,4
+Calhoun,2020,8-San Antonio,Investigation,6
+Callahan,2020,2-Abilene,Family Preservation,5
+Callahan,2020,2-Abilene,Investigation,10
+Cameron,2020,11-Edinburg,Family Preservation,91
+Cameron,2020,11-Edinburg,Investigation,156
+Camp,2020,4-Tyler,Family Preservation,2
+Camp,2020,4-Tyler,Investigation,10
+Carson,2020,1-Lubbock,Family Preservation,0
+Carson,2020,1-Lubbock,Investigation,1
+Cass,2020,4-Tyler,Family Preservation,3
+Cass,2020,4-Tyler,Investigation,23
+Chambers,2020,6-Houston,Family Preservation,0
+Chambers,2020,6-Houston,Investigation,3
+Cherokee,2020,4-Tyler,Family Preservation,7
+Cherokee,2020,4-Tyler,Investigation,73
+Childress,2020,1-Lubbock,Family Preservation,2
+Childress,2020,1-Lubbock,Investigation,7
+Clay,2020,2-Abilene,Family Preservation,1
+Clay,2020,2-Abilene,Investigation,6
+Cochran,2020,1-Lubbock,Family Preservation,0
+Cochran,2020,1-Lubbock,Investigation,1
+Coke,2020,9-Midland,Family Preservation,0
+Coke,2020,9-Midland,Investigation,1
+Coleman,2020,2-Abilene,Family Preservation,6
+Coleman,2020,2-Abilene,Investigation,10
+Collin,2020,3-Arlington,Family Preservation,23
+Collin,2020,3-Arlington,Investigation,119
+Collingsworth,2020,1-Lubbock,Family Preservation,1
+Collingsworth,2020,1-Lubbock,Investigation,9
+Colorado,2020,6-Houston,Family Preservation,4
+Colorado,2020,6-Houston,Investigation,2
+Comal,2020,8-San Antonio,Family Preservation,19
+Comal,2020,8-San Antonio,Investigation,95
+Comanche,2020,2-Abilene,Family Preservation,3
+Comanche,2020,2-Abilene,Investigation,7
+Concho,2020,9-Midland,Family Preservation,0
+Concho,2020,9-Midland,Investigation,5
+Cooke,2020,3-Arlington,Family Preservation,5
+Cooke,2020,3-Arlington,Investigation,43
+Coryell,2020,7-Austin,Family Preservation,11
+Coryell,2020,7-Austin,Investigation,156
+Cottle,2020,2-Abilene,Family Preservation,0
+Cottle,2020,2-Abilene,Investigation,3
+Crane,2020,9-Midland,Family Preservation,1
+Crane,2020,9-Midland,Investigation,2
+Crockett,2020,9-Midland,Family Preservation,3
+Crockett,2020,9-Midland,Investigation,3
+Crosby,2020,1-Lubbock,Family Preservation,5
+Crosby,2020,1-Lubbock,Investigation,12
+Dallam,2020,1-Lubbock,Family Preservation,0
+Dallam,2020,1-Lubbock,Investigation,21
+Dallas,2020,3-Arlington,Family Preservation,95
+Dallas,2020,3-Arlington,Investigation,982
+Dawson,2020,9-Midland,Family Preservation,2
+Dawson,2020,9-Midland,Investigation,7
+DeWitt,2020,8-San Antonio,Family Preservation,2
+DeWitt,2020,8-San Antonio,Investigation,6
+Deaf Smith,2020,1-Lubbock,Family Preservation,0
+Deaf Smith,2020,1-Lubbock,Investigation,14
+Delta,2020,4-Tyler,Family Preservation,0
+Delta,2020,4-Tyler,Investigation,5
+Denton,2020,3-Arlington,Family Preservation,38
+Denton,2020,3-Arlington,Investigation,258
+Dimmit,2020,8-San Antonio,Family Preservation,6
+Dimmit,2020,8-San Antonio,Investigation,5
+Donley,2020,1-Lubbock,Family Preservation,0
+Donley,2020,1-Lubbock,Investigation,2
+Duval,2020,11-Edinburg,Family Preservation,8
+Duval,2020,11-Edinburg,Investigation,12
+Eastland,2020,2-Abilene,Family Preservation,3
+Eastland,2020,2-Abilene,Investigation,12
+Ector,2020,9-Midland,Family Preservation,67
+Ector,2020,9-Midland,Investigation,116
+El Paso,2020,10-El Paso,Family Preservation,55
+El Paso,2020,10-El Paso,Investigation,175
+Ellis,2020,3-Arlington,Family Preservation,12
+Ellis,2020,3-Arlington,Investigation,30
+Erath,2020,3-Arlington,Family Preservation,2
+Erath,2020,3-Arlington,Investigation,21
+Falls,2020,7-Austin,Family Preservation,6
+Falls,2020,7-Austin,Investigation,45
+Fannin,2020,3-Arlington,Family Preservation,11
+Fannin,2020,3-Arlington,Investigation,41
+Fayette,2020,7-Austin,Family Preservation,10
+Fayette,2020,7-Austin,Investigation,20
+Fisher,2020,2-Abilene,Family Preservation,1
+Fisher,2020,2-Abilene,Investigation,4
+Floyd,2020,1-Lubbock,Family Preservation,2
+Floyd,2020,1-Lubbock,Investigation,6
+Foard,2020,2-Abilene,Family Preservation,0
+Foard,2020,2-Abilene,Investigation,4
+Fort Bend,2020,6-Houston,Family Preservation,8
+Fort Bend,2020,6-Houston,Investigation,51
+Franklin,2020,4-Tyler,Family Preservation,1
+Franklin,2020,4-Tyler,Investigation,10
+Freestone,2020,7-Austin,Family Preservation,0
+Freestone,2020,7-Austin,Investigation,28
+Frio,2020,8-San Antonio,Family Preservation,6
+Frio,2020,8-San Antonio,Investigation,28
+Gaines,2020,9-Midland,Family Preservation,3
+Gaines,2020,9-Midland,Investigation,15
+Galveston,2020,6-Houston,Family Preservation,41
+Galveston,2020,6-Houston,Investigation,141
+Garza,2020,1-Lubbock,Family Preservation,0
+Garza,2020,1-Lubbock,Investigation,6
+Gillespie,2020,8-San Antonio,Family Preservation,2
+Gillespie,2020,8-San Antonio,Investigation,4
+Goliad,2020,8-San Antonio,Family Preservation,0
+Goliad,2020,8-San Antonio,Investigation,5
+Gonzales,2020,8-San Antonio,Family Preservation,2
+Gonzales,2020,8-San Antonio,Investigation,10
+Gray,2020,1-Lubbock,Family Preservation,4
+Gray,2020,1-Lubbock,Investigation,29
+Grayson,2020,3-Arlington,Family Preservation,8
+Grayson,2020,3-Arlington,Investigation,93
+Gregg,2020,4-Tyler,Family Preservation,22
+Gregg,2020,4-Tyler,Investigation,166
+Grimes,2020,7-Austin,Family Preservation,1
+Grimes,2020,7-Austin,Investigation,14
+Guadalupe,2020,8-San Antonio,Family Preservation,21
+Guadalupe,2020,8-San Antonio,Investigation,28
+Hale,2020,1-Lubbock,Family Preservation,0
+Hale,2020,1-Lubbock,Investigation,21
+Hall,2020,1-Lubbock,Family Preservation,4
+Hall,2020,1-Lubbock,Investigation,0
+Hamilton,2020,7-Austin,Family Preservation,0
+Hamilton,2020,7-Austin,Investigation,8
+Hansford,2020,1-Lubbock,Family Preservation,2
+Hansford,2020,1-Lubbock,Investigation,0
+Hardin,2020,5-Beaumont,Family Preservation,8
+Hardin,2020,5-Beaumont,Investigation,56
+Harris,2020,6-Houston,Family Preservation,167
+Harris,2020,6-Houston,Investigation,783
+Harrison,2020,4-Tyler,Family Preservation,12
+Harrison,2020,4-Tyler,Investigation,58
+Hartley,2020,1-Lubbock,Family Preservation,0
+Hartley,2020,1-Lubbock,Investigation,3
+Haskell,2020,2-Abilene,Family Preservation,4
+Haskell,2020,2-Abilene,Investigation,4
+Hays,2020,7-Austin,Family Preservation,36
+Hays,2020,7-Austin,Investigation,133
+Hemphill,2020,1-Lubbock,Family Preservation,1
+Hemphill,2020,1-Lubbock,Investigation,0
+Henderson,2020,4-Tyler,Family Preservation,38
+Henderson,2020,4-Tyler,Investigation,110
+Hidalgo,2020,11-Edinburg,Family Preservation,144
+Hidalgo,2020,11-Edinburg,Investigation,162
+Hill,2020,7-Austin,Family Preservation,1
+Hill,2020,7-Austin,Investigation,49
+Hockley,2020,1-Lubbock,Family Preservation,3
+Hockley,2020,1-Lubbock,Investigation,36
+Hood,2020,3-Arlington,Family Preservation,4
+Hood,2020,3-Arlington,Investigation,31
+Hopkins,2020,4-Tyler,Family Preservation,3
+Hopkins,2020,4-Tyler,Investigation,36
+Houston,2020,5-Beaumont,Family Preservation,4
+Houston,2020,5-Beaumont,Investigation,15
+Howard,2020,9-Midland,Family Preservation,12
+Howard,2020,9-Midland,Investigation,56
+Hunt,2020,3-Arlington,Family Preservation,33
+Hunt,2020,3-Arlington,Investigation,82
+Hutchinson,2020,1-Lubbock,Family Preservation,6
+Hutchinson,2020,1-Lubbock,Investigation,20
+Jack,2020,2-Abilene,Family Preservation,5
+Jack,2020,2-Abilene,Investigation,6
+Jackson,2020,8-San Antonio,Family Preservation,4
+Jackson,2020,8-San Antonio,Investigation,7
+Jasper,2020,5-Beaumont,Family Preservation,6
+Jasper,2020,5-Beaumont,Investigation,38
+Jefferson,2020,5-Beaumont,Family Preservation,41
+Jefferson,2020,5-Beaumont,Investigation,172
+Jim Hogg,2020,11-Edinburg,Family Preservation,5
+Jim Hogg,2020,11-Edinburg,Investigation,1
+Jim Wells,2020,11-Edinburg,Family Preservation,14
+Jim Wells,2020,11-Edinburg,Investigation,21
+Johnson,2020,3-Arlington,Family Preservation,10
+Johnson,2020,3-Arlington,Investigation,80
+Jones,2020,2-Abilene,Family Preservation,4
+Jones,2020,2-Abilene,Investigation,10
+Karnes,2020,8-San Antonio,Family Preservation,5
+Karnes,2020,8-San Antonio,Investigation,12
+Kaufman,2020,3-Arlington,Family Preservation,18
+Kaufman,2020,3-Arlington,Investigation,71
+Kendall,2020,8-San Antonio,Family Preservation,5
+Kendall,2020,8-San Antonio,Investigation,6
+Kerr,2020,8-San Antonio,Family Preservation,4
+Kerr,2020,8-San Antonio,Investigation,19
+Kimble,2020,9-Midland,Family Preservation,0
+Kimble,2020,9-Midland,Investigation,6
+Kinney,2020,8-San Antonio,Family Preservation,2
+Kinney,2020,8-San Antonio,Investigation,5
+Kleberg,2020,11-Edinburg,Family Preservation,5
+Kleberg,2020,11-Edinburg,Investigation,15
+Knox,2020,2-Abilene,Family Preservation,0
+Knox,2020,2-Abilene,Investigation,2
+La Salle,2020,8-San Antonio,Family Preservation,2
+La Salle,2020,8-San Antonio,Investigation,3
+Lamar,2020,4-Tyler,Family Preservation,24
+Lamar,2020,4-Tyler,Investigation,39
+Lamb,2020,1-Lubbock,Family Preservation,0
+Lamb,2020,1-Lubbock,Investigation,10
+Lampasas,2020,7-Austin,Family Preservation,4
+Lampasas,2020,7-Austin,Investigation,48
+Lavaca,2020,8-San Antonio,Family Preservation,3
+Lavaca,2020,8-San Antonio,Investigation,2
+Lee,2020,7-Austin,Family Preservation,3
+Lee,2020,7-Austin,Investigation,18
+Leon,2020,7-Austin,Family Preservation,2
+Leon,2020,7-Austin,Investigation,10
+Liberty,2020,6-Houston,Family Preservation,2
+Liberty,2020,6-Houston,Investigation,40
+Limestone,2020,7-Austin,Family Preservation,3
+Limestone,2020,7-Austin,Investigation,23
+Lipscomb,2020,1-Lubbock,Family Preservation,0
+Lipscomb,2020,1-Lubbock,Investigation,5
+Live Oak,2020,11-Edinburg,Family Preservation,3
+Live Oak,2020,11-Edinburg,Investigation,6
+Llano,2020,7-Austin,Family Preservation,12
+Llano,2020,7-Austin,Investigation,44
+Lubbock,2020,1-Lubbock,Family Preservation,53
+Lubbock,2020,1-Lubbock,Investigation,348
+Lynn,2020,1-Lubbock,Family Preservation,4
+Lynn,2020,1-Lubbock,Investigation,1
+Madison,2020,7-Austin,Family Preservation,0
+Madison,2020,7-Austin,Investigation,8
+Marion,2020,4-Tyler,Family Preservation,0
+Marion,2020,4-Tyler,Investigation,24
+Martin,2020,9-Midland,Family Preservation,0
+Martin,2020,9-Midland,Investigation,5
+Mason,2020,9-Midland,Family Preservation,0
+Mason,2020,9-Midland,Investigation,5
+Matagorda,2020,6-Houston,Family Preservation,8
+Matagorda,2020,6-Houston,Investigation,22
+Maverick,2020,8-San Antonio,Family Preservation,11
+Maverick,2020,8-San Antonio,Investigation,1
+McCulloch,2020,9-Midland,Family Preservation,1
+McCulloch,2020,9-Midland,Investigation,15
+McLennan,2020,7-Austin,Family Preservation,106
+McLennan,2020,7-Austin,Investigation,406
+Medina,2020,8-San Antonio,Family Preservation,12
+Medina,2020,8-San Antonio,Investigation,19
+Menard,2020,9-Midland,Family Preservation,1
+Menard,2020,9-Midland,Investigation,7
+Midland,2020,9-Midland,Family Preservation,20
+Midland,2020,9-Midland,Investigation,79
+Milam,2020,7-Austin,Family Preservation,6
+Milam,2020,7-Austin,Investigation,38
+Mills,2020,7-Austin,Family Preservation,0
+Mills,2020,7-Austin,Investigation,9
+Mitchell,2020,2-Abilene,Family Preservation,3
+Mitchell,2020,2-Abilene,Investigation,25
+Montague,2020,2-Abilene,Family Preservation,3
+Montague,2020,2-Abilene,Investigation,20
+Montgomery,2020,6-Houston,Family Preservation,22
+Montgomery,2020,6-Houston,Investigation,205
+Moore,2020,1-Lubbock,Family Preservation,3
+Moore,2020,1-Lubbock,Investigation,21
+Morris,2020,4-Tyler,Family Preservation,1
+Morris,2020,4-Tyler,Investigation,24
+Nacogdoches,2020,5-Beaumont,Family Preservation,15
+Nacogdoches,2020,5-Beaumont,Investigation,88
+Navarro,2020,3-Arlington,Family Preservation,9
+Navarro,2020,3-Arlington,Investigation,15
+Nolan,2020,2-Abilene,Family Preservation,12
+Nolan,2020,2-Abilene,Investigation,23
+Nueces,2020,11-Edinburg,Family Preservation,118
+Nueces,2020,11-Edinburg,Investigation,211
+Ochiltree,2020,1-Lubbock,Family Preservation,0
+Ochiltree,2020,1-Lubbock,Investigation,11
+Oldham,2020,1-Lubbock,Family Preservation,0
+Oldham,2020,1-Lubbock,Investigation,1
+Orange,2020,5-Beaumont,Family Preservation,8
+Orange,2020,5-Beaumont,Investigation,95
+Out of State,2020,Out of State,Family Preservation,0
+Out of State,2020,Out of State,Investigation,5
+Palo Pinto,2020,3-Arlington,Family Preservation,3
+Palo Pinto,2020,3-Arlington,Investigation,44
+Panola,2020,4-Tyler,Family Preservation,2
+Panola,2020,4-Tyler,Investigation,28
+Parker,2020,3-Arlington,Family Preservation,22
+Parker,2020,3-Arlington,Investigation,78
+Parmer,2020,1-Lubbock,Family Preservation,0
+Parmer,2020,1-Lubbock,Investigation,1
+Pecos,2020,9-Midland,Family Preservation,2
+Pecos,2020,9-Midland,Investigation,25
+Polk,2020,5-Beaumont,Family Preservation,3
+Polk,2020,5-Beaumont,Investigation,31
+Potter,2020,1-Lubbock,Family Preservation,11
+Potter,2020,1-Lubbock,Investigation,157
+Rains,2020,4-Tyler,Family Preservation,4
+Rains,2020,4-Tyler,Investigation,8
+Randall,2020,1-Lubbock,Family Preservation,2
+Randall,2020,1-Lubbock,Investigation,84
+Real,2020,8-San Antonio,Family Preservation,0
+Real,2020,8-San Antonio,Investigation,3
+Red River,2020,4-Tyler,Family Preservation,3
+Red River,2020,4-Tyler,Investigation,15
+Reeves,2020,9-Midland,Family Preservation,0
+Reeves,2020,9-Midland,Investigation,17
+Refugio,2020,11-Edinburg,Family Preservation,0
+Refugio,2020,11-Edinburg,Investigation,6
+Robertson,2020,7-Austin,Family Preservation,8
+Robertson,2020,7-Austin,Investigation,35
+Rockwall,2020,3-Arlington,Family Preservation,7
+Rockwall,2020,3-Arlington,Investigation,35
+Runnels,2020,2-Abilene,Family Preservation,5
+Runnels,2020,2-Abilene,Investigation,2
+Rusk,2020,4-Tyler,Family Preservation,8
+Rusk,2020,4-Tyler,Investigation,49
+Sabine,2020,5-Beaumont,Family Preservation,5
+Sabine,2020,5-Beaumont,Investigation,2
+San Augustine,2020,5-Beaumont,Family Preservation,3
+San Augustine,2020,5-Beaumont,Investigation,7
+San Jacinto,2020,5-Beaumont,Family Preservation,3
+San Jacinto,2020,5-Beaumont,Investigation,9
+San Patricio,2020,11-Edinburg,Family Preservation,5
+San Patricio,2020,11-Edinburg,Investigation,27
+San Saba,2020,7-Austin,Family Preservation,1
+San Saba,2020,7-Austin,Investigation,12
+Scurry,2020,2-Abilene,Family Preservation,1
+Scurry,2020,2-Abilene,Investigation,31
+Shackelford,2020,2-Abilene,Family Preservation,2
+Shackelford,2020,2-Abilene,Investigation,0
+Shelby,2020,5-Beaumont,Family Preservation,9
+Shelby,2020,5-Beaumont,Investigation,24
+Sherman,2020,1-Lubbock,Family Preservation,0
+Sherman,2020,1-Lubbock,Investigation,2
+Smith,2020,4-Tyler,Family Preservation,40
+Smith,2020,4-Tyler,Investigation,169
+Somervell,2020,3-Arlington,Family Preservation,1
+Somervell,2020,3-Arlington,Investigation,2
+Starr,2020,11-Edinburg,Family Preservation,11
+Starr,2020,11-Edinburg,Investigation,15
+Stephens,2020,2-Abilene,Family Preservation,0
+Stephens,2020,2-Abilene,Investigation,14
+Sterling,2020,9-Midland,Family Preservation,1
+Sterling,2020,9-Midland,Investigation,0
+Sutton,2020,9-Midland,Family Preservation,0
+Sutton,2020,9-Midland,Investigation,1
+Swisher,2020,1-Lubbock,Family Preservation,0
+Swisher,2020,1-Lubbock,Investigation,3
+Tarrant,2020,3-Arlington,Family Preservation,159
+Tarrant,2020,3-Arlington,Investigation,489
+Taylor,2020,2-Abilene,Family Preservation,88
+Taylor,2020,2-Abilene,Investigation,242
+Terry,2020,1-Lubbock,Family Preservation,2
+Terry,2020,1-Lubbock,Investigation,26
+Throckmorton,2020,2-Abilene,Family Preservation,2
+Throckmorton,2020,2-Abilene,Investigation,4
+Titus,2020,4-Tyler,Family Preservation,7
+Titus,2020,4-Tyler,Investigation,24
+Tom Green,2020,9-Midland,Family Preservation,45
+Tom Green,2020,9-Midland,Investigation,155
+Travis,2020,7-Austin,Family Preservation,150
+Travis,2020,7-Austin,Investigation,520
+Trinity,2020,5-Beaumont,Family Preservation,0
+Trinity,2020,5-Beaumont,Investigation,5
+Tyler,2020,5-Beaumont,Family Preservation,0
+Tyler,2020,5-Beaumont,Investigation,14
+Unknown,2020,Unknown,Family Preservation,0
+Unknown,2020,Unknown,Investigation,6
+Upshur,2020,4-Tyler,Family Preservation,11
+Upshur,2020,4-Tyler,Investigation,30
+Uvalde,2020,8-San Antonio,Family Preservation,11
+Uvalde,2020,8-San Antonio,Investigation,9
+Val Verde,2020,8-San Antonio,Family Preservation,1
+Val Verde,2020,8-San Antonio,Investigation,6
+Van Zandt,2020,4-Tyler,Family Preservation,13
+Van Zandt,2020,4-Tyler,Investigation,49
+Victoria,2020,8-San Antonio,Family Preservation,17
+Victoria,2020,8-San Antonio,Investigation,22
+Walker,2020,6-Houston,Family Preservation,0
+Walker,2020,6-Houston,Investigation,14
+Waller,2020,6-Houston,Family Preservation,5
+Waller,2020,6-Houston,Investigation,13
+Ward,2020,9-Midland,Family Preservation,6
+Ward,2020,9-Midland,Investigation,34
+Washington,2020,7-Austin,Family Preservation,0
+Washington,2020,7-Austin,Investigation,23
+Webb,2020,11-Edinburg,Family Preservation,84
+Webb,2020,11-Edinburg,Investigation,90
+Wharton,2020,6-Houston,Family Preservation,5
+Wharton,2020,6-Houston,Investigation,10
+Wheeler,2020,1-Lubbock,Family Preservation,0
+Wheeler,2020,1-Lubbock,Investigation,2
+Wichita,2020,2-Abilene,Family Preservation,19
+Wichita,2020,2-Abilene,Investigation,134
+Wilbarger,2020,2-Abilene,Family Preservation,3
+Wilbarger,2020,2-Abilene,Investigation,20
+Willacy,2020,11-Edinburg,Family Preservation,11
+Willacy,2020,11-Edinburg,Investigation,9
+Williamson,2020,7-Austin,Family Preservation,19
+Williamson,2020,7-Austin,Investigation,97
+Wilson,2020,8-San Antonio,Family Preservation,6
+Wilson,2020,8-San Antonio,Investigation,19
+Winkler,2020,9-Midland,Family Preservation,4
+Winkler,2020,9-Midland,Investigation,15
+Wise,2020,3-Arlington,Family Preservation,7
+Wise,2020,3-Arlington,Investigation,35
+Wood,2020,4-Tyler,Family Preservation,5
+Wood,2020,4-Tyler,Investigation,34
+Yoakum,2020,1-Lubbock,Family Preservation,7
+Yoakum,2020,1-Lubbock,Investigation,1
+Young,2020,2-Abilene,Family Preservation,10
+Young,2020,2-Abilene,Investigation,13
+Zapata,2020,11-Edinburg,Family Preservation,0
+Zapata,2020,11-Edinburg,Investigation,1
+Zavala,2020,8-San Antonio,Family Preservation,6
+Zavala,2020,8-San Antonio,Investigation,9
+Anderson,2019,4-Tyler,Family Preservation,10
+Anderson,2019,4-Tyler,Investigation,94
+Andrews,2019,9-Midland,Family Preservation,4
+Andrews,2019,9-Midland,Investigation,23
+Angelina,2019,5-Beaumont,Family Preservation,25
+Angelina,2019,5-Beaumont,Investigation,64
+Aransas,2019,11-Edinburg,Family Preservation,14
+Aransas,2019,11-Edinburg,Investigation,57
+Archer,2019,2-Abilene,Family Preservation,1
+Archer,2019,2-Abilene,Investigation,8
+Atascosa,2019,8-San Antonio,Family Preservation,13
+Atascosa,2019,8-San Antonio,Investigation,63
+Austin,2019,6-Houston,Family Preservation,0
+Austin,2019,6-Houston,Investigation,3
+Bailey,2019,1-Lubbock,Family Preservation,0
+Bailey,2019,1-Lubbock,Investigation,18
+Bandera,2019,8-San Antonio,Family Preservation,3
+Bandera,2019,8-San Antonio,Investigation,14
+Bastrop,2019,7-Austin,Family Preservation,16
+Bastrop,2019,7-Austin,Investigation,72
+Baylor,2019,2-Abilene,Family Preservation,1
+Baylor,2019,2-Abilene,Investigation,2
+Bee,2019,11-Edinburg,Family Preservation,13
+Bee,2019,11-Edinburg,Investigation,34
+Bell,2019,7-Austin,Family Preservation,79
+Bell,2019,7-Austin,Investigation,677
+Bexar,2019,8-San Antonio,Family Preservation,645
+Bexar,2019,8-San Antonio,Investigation,1057
+Blanco,2019,7-Austin,Family Preservation,0
+Blanco,2019,7-Austin,Investigation,7
+Bosque,2019,7-Austin,Family Preservation,2
+Bosque,2019,7-Austin,Investigation,29
+Bowie,2019,4-Tyler,Family Preservation,14
+Bowie,2019,4-Tyler,Investigation,86
+Brazoria,2019,6-Houston,Family Preservation,26
+Brazoria,2019,6-Houston,Investigation,58
+Brazos,2019,7-Austin,Family Preservation,7
+Brazos,2019,7-Austin,Investigation,71
+Brewster,2019,10-El Paso,Family Preservation,0
+Brewster,2019,10-El Paso,Investigation,1
+Briscoe,2019,1-Lubbock,Family Preservation,0
+Briscoe,2019,1-Lubbock,Investigation,3
+Brooks,2019,11-Edinburg,Family Preservation,10
+Brooks,2019,11-Edinburg,Investigation,5
+Brown,2019,2-Abilene,Family Preservation,17
+Brown,2019,2-Abilene,Investigation,70
+Burleson,2019,7-Austin,Family Preservation,3
+Burleson,2019,7-Austin,Investigation,29
+Burnet,2019,7-Austin,Family Preservation,9
+Burnet,2019,7-Austin,Investigation,88
+Caldwell,2019,7-Austin,Family Preservation,13
+Caldwell,2019,7-Austin,Investigation,37
+Calhoun,2019,8-San Antonio,Family Preservation,8
+Calhoun,2019,8-San Antonio,Investigation,22
+Callahan,2019,2-Abilene,Family Preservation,0
+Callahan,2019,2-Abilene,Investigation,3
+Cameron,2019,11-Edinburg,Family Preservation,140
+Cameron,2019,11-Edinburg,Investigation,146
+Camp,2019,4-Tyler,Family Preservation,0
+Camp,2019,4-Tyler,Investigation,25
+Carson,2019,1-Lubbock,Family Preservation,0
+Carson,2019,1-Lubbock,Investigation,12
+Cass,2019,4-Tyler,Family Preservation,2
+Cass,2019,4-Tyler,Investigation,28
+Castro,2019,1-Lubbock,Family Preservation,2
+Castro,2019,1-Lubbock,Investigation,11
+Chambers,2019,6-Houston,Family Preservation,0
+Chambers,2019,6-Houston,Investigation,12
+Cherokee,2019,4-Tyler,Family Preservation,23
+Cherokee,2019,4-Tyler,Investigation,67
+Childress,2019,1-Lubbock,Family Preservation,0
+Childress,2019,1-Lubbock,Investigation,8
+Clay,2019,2-Abilene,Family Preservation,1
+Clay,2019,2-Abilene,Investigation,8
+Cochran,2019,1-Lubbock,Family Preservation,1
+Cochran,2019,1-Lubbock,Investigation,8
+Coke,2019,9-Midland,Family Preservation,6
+Coke,2019,9-Midland,Investigation,3
+Coleman,2019,2-Abilene,Family Preservation,2
+Coleman,2019,2-Abilene,Investigation,12
+Collin,2019,3-Arlington,Family Preservation,34
+Collin,2019,3-Arlington,Investigation,195
+Collingsworth,2019,1-Lubbock,Family Preservation,2
+Collingsworth,2019,1-Lubbock,Investigation,5
+Colorado,2019,6-Houston,Family Preservation,2
+Colorado,2019,6-Houston,Investigation,1
+Comal,2019,8-San Antonio,Family Preservation,16
+Comal,2019,8-San Antonio,Investigation,73
+Comanche,2019,2-Abilene,Family Preservation,4
+Comanche,2019,2-Abilene,Investigation,12
+Concho,2019,9-Midland,Family Preservation,0
+Concho,2019,9-Midland,Investigation,3
+Cooke,2019,3-Arlington,Family Preservation,9
+Cooke,2019,3-Arlington,Investigation,45
+Coryell,2019,7-Austin,Family Preservation,18
+Coryell,2019,7-Austin,Investigation,161
+Cottle,2019,2-Abilene,Family Preservation,0
+Cottle,2019,2-Abilene,Investigation,1
+Crane,2019,9-Midland,Family Preservation,0
+Crane,2019,9-Midland,Investigation,5
+Crockett,2019,9-Midland,Family Preservation,6
+Crockett,2019,9-Midland,Investigation,12
+Crosby,2019,1-Lubbock,Family Preservation,0
+Crosby,2019,1-Lubbock,Investigation,12
+Dallam,2019,1-Lubbock,Family Preservation,0
+Dallam,2019,1-Lubbock,Investigation,16
+Dallas,2019,3-Arlington,Family Preservation,135
+Dallas,2019,3-Arlington,Investigation,1370
+Dawson,2019,9-Midland,Family Preservation,0
+Dawson,2019,9-Midland,Investigation,31
+DeWitt,2019,8-San Antonio,Family Preservation,3
+DeWitt,2019,8-San Antonio,Investigation,9
+Deaf Smith,2019,1-Lubbock,Family Preservation,2
+Deaf Smith,2019,1-Lubbock,Investigation,15
+Delta,2019,4-Tyler,Family Preservation,0
+Delta,2019,4-Tyler,Investigation,5
+Denton,2019,3-Arlington,Family Preservation,44
+Denton,2019,3-Arlington,Investigation,407
+Dickens,2019,1-Lubbock,Family Preservation,0
+Dickens,2019,1-Lubbock,Investigation,1
+Dimmit,2019,8-San Antonio,Family Preservation,6
+Dimmit,2019,8-San Antonio,Investigation,7
+Donley,2019,1-Lubbock,Family Preservation,0
+Donley,2019,1-Lubbock,Investigation,7
+Duval,2019,11-Edinburg,Family Preservation,4
+Duval,2019,11-Edinburg,Investigation,16
+Eastland,2019,2-Abilene,Family Preservation,4
+Eastland,2019,2-Abilene,Investigation,13
+Ector,2019,9-Midland,Family Preservation,32
+Ector,2019,9-Midland,Investigation,152
+El Paso,2019,10-El Paso,Family Preservation,63
+El Paso,2019,10-El Paso,Investigation,154
+Ellis,2019,3-Arlington,Family Preservation,10
+Ellis,2019,3-Arlington,Investigation,38
+Erath,2019,3-Arlington,Family Preservation,1
+Erath,2019,3-Arlington,Investigation,15
+Falls,2019,7-Austin,Family Preservation,6
+Falls,2019,7-Austin,Investigation,35
+Fannin,2019,3-Arlington,Family Preservation,2
+Fannin,2019,3-Arlington,Investigation,38
+Fayette,2019,7-Austin,Family Preservation,4
+Fayette,2019,7-Austin,Investigation,15
+Fisher,2019,2-Abilene,Family Preservation,0
+Fisher,2019,2-Abilene,Investigation,1
+Floyd,2019,1-Lubbock,Family Preservation,2
+Floyd,2019,1-Lubbock,Investigation,3
+Fort Bend,2019,6-Houston,Family Preservation,11
+Fort Bend,2019,6-Houston,Investigation,52
+Franklin,2019,4-Tyler,Family Preservation,0
+Franklin,2019,4-Tyler,Investigation,12
+Freestone,2019,7-Austin,Family Preservation,5
+Freestone,2019,7-Austin,Investigation,21
+Frio,2019,8-San Antonio,Family Preservation,11
+Frio,2019,8-San Antonio,Investigation,26
+Gaines,2019,9-Midland,Family Preservation,7
+Gaines,2019,9-Midland,Investigation,9
+Galveston,2019,6-Houston,Family Preservation,31
+Galveston,2019,6-Houston,Investigation,115
+Garza,2019,1-Lubbock,Family Preservation,12
+Garza,2019,1-Lubbock,Investigation,9
+Gillespie,2019,8-San Antonio,Family Preservation,3
+Gillespie,2019,8-San Antonio,Investigation,2
+Glasscock,2019,9-Midland,Family Preservation,0
+Glasscock,2019,9-Midland,Investigation,4
+Goliad,2019,8-San Antonio,Family Preservation,3
+Goliad,2019,8-San Antonio,Investigation,2
+Gonzales,2019,8-San Antonio,Family Preservation,0
+Gonzales,2019,8-San Antonio,Investigation,4
+Gray,2019,1-Lubbock,Family Preservation,7
+Gray,2019,1-Lubbock,Investigation,30
+Grayson,2019,3-Arlington,Family Preservation,27
+Grayson,2019,3-Arlington,Investigation,95
+Gregg,2019,4-Tyler,Family Preservation,19
+Gregg,2019,4-Tyler,Investigation,165
+Grimes,2019,7-Austin,Family Preservation,2
+Grimes,2019,7-Austin,Investigation,22
+Guadalupe,2019,8-San Antonio,Family Preservation,24
+Guadalupe,2019,8-San Antonio,Investigation,36
+Hale,2019,1-Lubbock,Family Preservation,4
+Hale,2019,1-Lubbock,Investigation,40
+Hall,2019,1-Lubbock,Family Preservation,0
+Hall,2019,1-Lubbock,Investigation,4
+Hamilton,2019,7-Austin,Family Preservation,0
+Hamilton,2019,7-Austin,Investigation,14
+Hansford,2019,1-Lubbock,Family Preservation,0
+Hansford,2019,1-Lubbock,Investigation,2
+Hardin,2019,5-Beaumont,Family Preservation,11
+Hardin,2019,5-Beaumont,Investigation,61
+Harris,2019,6-Houston,Family Preservation,232
+Harris,2019,6-Houston,Investigation,930
+Harrison,2019,4-Tyler,Family Preservation,18
+Harrison,2019,4-Tyler,Investigation,46
+Hartley,2019,1-Lubbock,Family Preservation,0
+Hartley,2019,1-Lubbock,Investigation,1
+Haskell,2019,2-Abilene,Family Preservation,0
+Haskell,2019,2-Abilene,Investigation,2
+Hays,2019,7-Austin,Family Preservation,30
+Hays,2019,7-Austin,Investigation,156
+Henderson,2019,4-Tyler,Family Preservation,19
+Henderson,2019,4-Tyler,Investigation,139
+Hidalgo,2019,11-Edinburg,Family Preservation,302
+Hidalgo,2019,11-Edinburg,Investigation,207
+Hill,2019,7-Austin,Family Preservation,8
+Hill,2019,7-Austin,Investigation,41
+Hockley,2019,1-Lubbock,Family Preservation,10
+Hockley,2019,1-Lubbock,Investigation,37
+Hood,2019,3-Arlington,Family Preservation,9
+Hood,2019,3-Arlington,Investigation,37
+Hopkins,2019,4-Tyler,Family Preservation,4
+Hopkins,2019,4-Tyler,Investigation,58
+Houston,2019,5-Beaumont,Family Preservation,7
+Houston,2019,5-Beaumont,Investigation,24
+Howard,2019,9-Midland,Family Preservation,1
+Howard,2019,9-Midland,Investigation,47
+Hudspeth,2019,10-El Paso,Family Preservation,0
+Hudspeth,2019,10-El Paso,Investigation,1
+Hunt,2019,3-Arlington,Family Preservation,36
+Hunt,2019,3-Arlington,Investigation,114
+Hutchinson,2019,1-Lubbock,Family Preservation,3
+Hutchinson,2019,1-Lubbock,Investigation,28
+Irion,2019,9-Midland,Family Preservation,0
+Irion,2019,9-Midland,Investigation,8
+Jack,2019,2-Abilene,Family Preservation,0
+Jack,2019,2-Abilene,Investigation,9
+Jackson,2019,8-San Antonio,Family Preservation,2
+Jackson,2019,8-San Antonio,Investigation,3
+Jasper,2019,5-Beaumont,Family Preservation,2
+Jasper,2019,5-Beaumont,Investigation,36
+Jefferson,2019,5-Beaumont,Family Preservation,30
+Jefferson,2019,5-Beaumont,Investigation,159
+Jim Hogg,2019,11-Edinburg,Family Preservation,1
+Jim Hogg,2019,11-Edinburg,Investigation,2
+Jim Wells,2019,11-Edinburg,Family Preservation,9
+Jim Wells,2019,11-Edinburg,Investigation,32
+Johnson,2019,3-Arlington,Family Preservation,22
+Johnson,2019,3-Arlington,Investigation,100
+Jones,2019,2-Abilene,Family Preservation,15
+Jones,2019,2-Abilene,Investigation,40
+Karnes,2019,8-San Antonio,Family Preservation,1
+Karnes,2019,8-San Antonio,Investigation,11
+Kaufman,2019,3-Arlington,Family Preservation,11
+Kaufman,2019,3-Arlington,Investigation,42
+Kendall,2019,8-San Antonio,Family Preservation,13
+Kendall,2019,8-San Antonio,Investigation,8
+Kerr,2019,8-San Antonio,Family Preservation,20
+Kerr,2019,8-San Antonio,Investigation,20
+Kimble,2019,9-Midland,Family Preservation,1
+Kimble,2019,9-Midland,Investigation,2
+Kinney,2019,8-San Antonio,Family Preservation,1
+Kinney,2019,8-San Antonio,Investigation,3
+Kleberg,2019,11-Edinburg,Family Preservation,5
+Kleberg,2019,11-Edinburg,Investigation,15
+Knox,2019,2-Abilene,Family Preservation,0
+Knox,2019,2-Abilene,Investigation,1
+La Salle,2019,8-San Antonio,Family Preservation,1
+La Salle,2019,8-San Antonio,Investigation,1
+Lamar,2019,4-Tyler,Family Preservation,11
+Lamar,2019,4-Tyler,Investigation,92
+Lamb,2019,1-Lubbock,Family Preservation,3
+Lamb,2019,1-Lubbock,Investigation,20
+Lampasas,2019,7-Austin,Family Preservation,3
+Lampasas,2019,7-Austin,Investigation,45
+Lavaca,2019,8-San Antonio,Family Preservation,4
+Lavaca,2019,8-San Antonio,Investigation,3
+Lee,2019,7-Austin,Family Preservation,3
+Lee,2019,7-Austin,Investigation,22
+Leon,2019,7-Austin,Family Preservation,1
+Leon,2019,7-Austin,Investigation,3
+Liberty,2019,6-Houston,Family Preservation,11
+Liberty,2019,6-Houston,Investigation,47
+Limestone,2019,7-Austin,Family Preservation,5
+Limestone,2019,7-Austin,Investigation,29
+Live Oak,2019,11-Edinburg,Family Preservation,3
+Live Oak,2019,11-Edinburg,Investigation,3
+Llano,2019,7-Austin,Family Preservation,0
+Llano,2019,7-Austin,Investigation,37
+Lubbock,2019,1-Lubbock,Family Preservation,96
+Lubbock,2019,1-Lubbock,Investigation,439
+Lynn,2019,1-Lubbock,Family Preservation,0
+Lynn,2019,1-Lubbock,Investigation,3
+Marion,2019,4-Tyler,Family Preservation,1
+Marion,2019,4-Tyler,Investigation,28
+Martin,2019,9-Midland,Family Preservation,4
+Martin,2019,9-Midland,Investigation,2
+Matagorda,2019,6-Houston,Family Preservation,11
+Matagorda,2019,6-Houston,Investigation,39
+Maverick,2019,8-San Antonio,Family Preservation,7
+Maverick,2019,8-San Antonio,Investigation,7
+McCulloch,2019,9-Midland,Family Preservation,1
+McCulloch,2019,9-Midland,Investigation,13
+McLennan,2019,7-Austin,Family Preservation,93
+McLennan,2019,7-Austin,Investigation,339
+McMullen,2019,11-Edinburg,Family Preservation,2
+McMullen,2019,11-Edinburg,Investigation,0
+Medina,2019,8-San Antonio,Family Preservation,26
+Medina,2019,8-San Antonio,Investigation,59
+Menard,2019,9-Midland,Family Preservation,2
+Menard,2019,9-Midland,Investigation,0
+Midland,2019,9-Midland,Family Preservation,17
+Midland,2019,9-Midland,Investigation,87
+Milam,2019,7-Austin,Family Preservation,3
+Milam,2019,7-Austin,Investigation,37
+Mills,2019,7-Austin,Family Preservation,0
+Mills,2019,7-Austin,Investigation,9
+Mitchell,2019,2-Abilene,Family Preservation,7
+Mitchell,2019,2-Abilene,Investigation,9
+Montague,2019,2-Abilene,Family Preservation,0
+Montague,2019,2-Abilene,Investigation,26
+Montgomery,2019,6-Houston,Family Preservation,33
+Montgomery,2019,6-Houston,Investigation,246
+Moore,2019,1-Lubbock,Family Preservation,0
+Moore,2019,1-Lubbock,Investigation,21
+Morris,2019,4-Tyler,Family Preservation,2
+Morris,2019,4-Tyler,Investigation,24
+Motley,2019,1-Lubbock,Family Preservation,0
+Motley,2019,1-Lubbock,Investigation,4
+Nacogdoches,2019,5-Beaumont,Family Preservation,20
+Nacogdoches,2019,5-Beaumont,Investigation,98
+Navarro,2019,3-Arlington,Family Preservation,11
+Navarro,2019,3-Arlington,Investigation,19
+Newton,2019,5-Beaumont,Family Preservation,0
+Newton,2019,5-Beaumont,Investigation,14
+Nolan,2019,2-Abilene,Family Preservation,7
+Nolan,2019,2-Abilene,Investigation,27
+Nueces,2019,11-Edinburg,Family Preservation,87
+Nueces,2019,11-Edinburg,Investigation,219
+Ochiltree,2019,1-Lubbock,Family Preservation,4
+Ochiltree,2019,1-Lubbock,Investigation,7
+Oldham,2019,1-Lubbock,Family Preservation,0
+Oldham,2019,1-Lubbock,Investigation,1
+Orange,2019,5-Beaumont,Family Preservation,7
+Orange,2019,5-Beaumont,Investigation,104
+Out of State,2019,Out of State,Family Preservation,0
+Out of State,2019,Out of State,Investigation,6
+Palo Pinto,2019,3-Arlington,Family Preservation,21
+Palo Pinto,2019,3-Arlington,Investigation,36
+Panola,2019,4-Tyler,Family Preservation,4
+Panola,2019,4-Tyler,Investigation,23
+Parker,2019,3-Arlington,Family Preservation,28
+Parker,2019,3-Arlington,Investigation,69
+Parmer,2019,1-Lubbock,Family Preservation,0
+Parmer,2019,1-Lubbock,Investigation,7
+Pecos,2019,9-Midland,Family Preservation,13
+Pecos,2019,9-Midland,Investigation,24
+Polk,2019,5-Beaumont,Family Preservation,7
+Polk,2019,5-Beaumont,Investigation,31
+Potter,2019,1-Lubbock,Family Preservation,15
+Potter,2019,1-Lubbock,Investigation,197
+Presidio,2019,10-El Paso,Family Preservation,0
+Presidio,2019,10-El Paso,Investigation,1
+Rains,2019,4-Tyler,Family Preservation,5
+Rains,2019,4-Tyler,Investigation,9
+Randall,2019,1-Lubbock,Family Preservation,3
+Randall,2019,1-Lubbock,Investigation,89
+Reagan,2019,9-Midland,Family Preservation,0
+Reagan,2019,9-Midland,Investigation,5
+Real,2019,8-San Antonio,Family Preservation,2
+Real,2019,8-San Antonio,Investigation,1
+Red River,2019,4-Tyler,Family Preservation,1
+Red River,2019,4-Tyler,Investigation,14
+Reeves,2019,9-Midland,Family Preservation,2
+Reeves,2019,9-Midland,Investigation,13
+Refugio,2019,11-Edinburg,Family Preservation,3
+Refugio,2019,11-Edinburg,Investigation,11
+Robertson,2019,7-Austin,Family Preservation,3
+Robertson,2019,7-Austin,Investigation,20
+Rockwall,2019,3-Arlington,Family Preservation,10
+Rockwall,2019,3-Arlington,Investigation,33
+Runnels,2019,2-Abilene,Family Preservation,7
+Runnels,2019,2-Abilene,Investigation,8
+Rusk,2019,4-Tyler,Family Preservation,10
+Rusk,2019,4-Tyler,Investigation,68
+Sabine,2019,5-Beaumont,Family Preservation,5
+Sabine,2019,5-Beaumont,Investigation,2
+San Augustine,2019,5-Beaumont,Family Preservation,3
+San Augustine,2019,5-Beaumont,Investigation,3
+San Jacinto,2019,5-Beaumont,Family Preservation,0
+San Jacinto,2019,5-Beaumont,Investigation,28
+San Patricio,2019,11-Edinburg,Family Preservation,15
+San Patricio,2019,11-Edinburg,Investigation,57
+San Saba,2019,7-Austin,Family Preservation,0
+San Saba,2019,7-Austin,Investigation,12
+Schleicher,2019,9-Midland,Family Preservation,0
+Schleicher,2019,9-Midland,Investigation,8
+Scurry,2019,2-Abilene,Family Preservation,3
+Scurry,2019,2-Abilene,Investigation,7
+Shelby,2019,5-Beaumont,Family Preservation,2
+Shelby,2019,5-Beaumont,Investigation,23
+Sherman,2019,1-Lubbock,Family Preservation,0
+Sherman,2019,1-Lubbock,Investigation,1
+Smith,2019,4-Tyler,Family Preservation,43
+Smith,2019,4-Tyler,Investigation,142
+Somervell,2019,3-Arlington,Family Preservation,0
+Somervell,2019,3-Arlington,Investigation,6
+Starr,2019,11-Edinburg,Family Preservation,17
+Starr,2019,11-Edinburg,Investigation,46
+Stephens,2019,2-Abilene,Family Preservation,4
+Stephens,2019,2-Abilene,Investigation,11
+Stonewall,2019,2-Abilene,Family Preservation,0
+Stonewall,2019,2-Abilene,Investigation,2
+Sutton,2019,9-Midland,Family Preservation,0
+Sutton,2019,9-Midland,Investigation,17
+Swisher,2019,1-Lubbock,Family Preservation,4
+Swisher,2019,1-Lubbock,Investigation,21
+Tarrant,2019,3-Arlington,Family Preservation,126
+Tarrant,2019,3-Arlington,Investigation,535
+Taylor,2019,2-Abilene,Family Preservation,101
+Taylor,2019,2-Abilene,Investigation,260
+Terry,2019,1-Lubbock,Family Preservation,3
+Terry,2019,1-Lubbock,Investigation,9
+Throckmorton,2019,2-Abilene,Family Preservation,0
+Throckmorton,2019,2-Abilene,Investigation,1
+Titus,2019,4-Tyler,Family Preservation,3
+Titus,2019,4-Tyler,Investigation,32
+Tom Green,2019,9-Midland,Family Preservation,42
+Tom Green,2019,9-Midland,Investigation,159
+Travis,2019,7-Austin,Family Preservation,174
+Travis,2019,7-Austin,Investigation,509
+Trinity,2019,5-Beaumont,Family Preservation,3
+Trinity,2019,5-Beaumont,Investigation,31
+Tyler,2019,5-Beaumont,Family Preservation,0
+Tyler,2019,5-Beaumont,Investigation,53
+Unknown,2019,Unknown,Family Preservation,0
+Unknown,2019,Unknown,Investigation,7
+Upshur,2019,4-Tyler,Family Preservation,22
+Upshur,2019,4-Tyler,Investigation,94
+Upton,2019,9-Midland,Family Preservation,1
+Upton,2019,9-Midland,Investigation,3
+Uvalde,2019,8-San Antonio,Family Preservation,16
+Uvalde,2019,8-San Antonio,Investigation,7
+Val Verde,2019,8-San Antonio,Family Preservation,23
+Val Verde,2019,8-San Antonio,Investigation,12
+Van Zandt,2019,4-Tyler,Family Preservation,19
+Van Zandt,2019,4-Tyler,Investigation,79
+Victoria,2019,8-San Antonio,Family Preservation,24
+Victoria,2019,8-San Antonio,Investigation,39
+Walker,2019,6-Houston,Family Preservation,7
+Walker,2019,6-Houston,Investigation,15
+Waller,2019,6-Houston,Family Preservation,2
+Waller,2019,6-Houston,Investigation,4
+Ward,2019,9-Midland,Family Preservation,4
+Ward,2019,9-Midland,Investigation,32
+Washington,2019,7-Austin,Family Preservation,7
+Washington,2019,7-Austin,Investigation,27
+Webb,2019,11-Edinburg,Family Preservation,81
+Webb,2019,11-Edinburg,Investigation,87
+Wharton,2019,6-Houston,Family Preservation,6
+Wharton,2019,6-Houston,Investigation,24
+Wheeler,2019,1-Lubbock,Family Preservation,0
+Wheeler,2019,1-Lubbock,Investigation,2
+Wichita,2019,2-Abilene,Family Preservation,44
+Wichita,2019,2-Abilene,Investigation,106
+Wilbarger,2019,2-Abilene,Family Preservation,4
+Wilbarger,2019,2-Abilene,Investigation,5
+Willacy,2019,11-Edinburg,Family Preservation,21
+Willacy,2019,11-Edinburg,Investigation,10
+Williamson,2019,7-Austin,Family Preservation,22
+Williamson,2019,7-Austin,Investigation,102
+Wilson,2019,8-San Antonio,Family Preservation,9
+Wilson,2019,8-San Antonio,Investigation,7
+Winkler,2019,9-Midland,Family Preservation,0
+Winkler,2019,9-Midland,Investigation,5
+Wise,2019,3-Arlington,Family Preservation,8
+Wise,2019,3-Arlington,Investigation,38
+Wood,2019,4-Tyler,Family Preservation,6
+Wood,2019,4-Tyler,Investigation,43
+Yoakum,2019,1-Lubbock,Family Preservation,3
+Yoakum,2019,1-Lubbock,Investigation,1
+Young,2019,2-Abilene,Family Preservation,1
+Young,2019,2-Abilene,Investigation,27
+Zapata,2019,11-Edinburg,Family Preservation,11
+Zapata,2019,11-Edinburg,Investigation,6
+Zavala,2019,8-San Antonio,Family Preservation,0
+Zavala,2019,8-San Antonio,Investigation,1
+Anderson,2018,4-Tyler,Family Preservation,15
+Anderson,2018,4-Tyler,Investigation,62
+Andrews,2018,9-Midland,Family Preservation,3
+Andrews,2018,9-Midland,Investigation,30
+Angelina,2018,5-Beaumont,Family Preservation,26
+Angelina,2018,5-Beaumont,Investigation,60
+Aransas,2018,11-Edinburg,Family Preservation,3
+Aransas,2018,11-Edinburg,Investigation,36
+Archer,2018,2-Abilene,Family Preservation,1
+Archer,2018,2-Abilene,Investigation,0
+Armstrong,2018,1-Lubbock,Family Preservation,0
+Armstrong,2018,1-Lubbock,Investigation,4
+Atascosa,2018,8-San Antonio,Family Preservation,15
+Atascosa,2018,8-San Antonio,Investigation,52
+Austin,2018,6-Houston,Family Preservation,0
+Austin,2018,6-Houston,Investigation,4
+Bailey,2018,1-Lubbock,Family Preservation,2
+Bailey,2018,1-Lubbock,Investigation,9
+Bandera,2018,8-San Antonio,Family Preservation,3
+Bandera,2018,8-San Antonio,Investigation,13
+Bastrop,2018,7-Austin,Family Preservation,30
+Bastrop,2018,7-Austin,Investigation,76
+Baylor,2018,2-Abilene,Family Preservation,0
+Baylor,2018,2-Abilene,Investigation,4
+Bee,2018,11-Edinburg,Family Preservation,33
+Bee,2018,11-Edinburg,Investigation,51
+Bell,2018,7-Austin,Family Preservation,112
+Bell,2018,7-Austin,Investigation,716
+Bexar,2018,8-San Antonio,Family Preservation,697
+Bexar,2018,8-San Antonio,Investigation,1352
+Blanco,2018,7-Austin,Family Preservation,2
+Blanco,2018,7-Austin,Investigation,21
+Borden,2018,9-Midland,Family Preservation,0
+Borden,2018,9-Midland,Investigation,4
+Bosque,2018,7-Austin,Family Preservation,6
+Bosque,2018,7-Austin,Investigation,40
+Bowie,2018,4-Tyler,Family Preservation,22
+Bowie,2018,4-Tyler,Investigation,52
+Brazoria,2018,6-Houston,Family Preservation,59
+Brazoria,2018,6-Houston,Investigation,80
+Brazos,2018,7-Austin,Family Preservation,6
+Brazos,2018,7-Austin,Investigation,76
+Brewster,2018,10-El Paso,Family Preservation,0
+Brewster,2018,10-El Paso,Investigation,3
+Brooks,2018,11-Edinburg,Family Preservation,0
+Brooks,2018,11-Edinburg,Investigation,5
+Brown,2018,2-Abilene,Family Preservation,35
+Brown,2018,2-Abilene,Investigation,71
+Burleson,2018,7-Austin,Family Preservation,0
+Burleson,2018,7-Austin,Investigation,45
+Burnet,2018,7-Austin,Family Preservation,13
+Burnet,2018,7-Austin,Investigation,95
+Caldwell,2018,7-Austin,Family Preservation,12
+Caldwell,2018,7-Austin,Investigation,57
+Calhoun,2018,8-San Antonio,Family Preservation,3
+Calhoun,2018,8-San Antonio,Investigation,2
+Callahan,2018,2-Abilene,Family Preservation,7
+Callahan,2018,2-Abilene,Investigation,15
+Cameron,2018,11-Edinburg,Family Preservation,169
+Cameron,2018,11-Edinburg,Investigation,165
+Camp,2018,4-Tyler,Family Preservation,7
+Camp,2018,4-Tyler,Investigation,21
+Carson,2018,1-Lubbock,Family Preservation,0
+Carson,2018,1-Lubbock,Investigation,10
+Cass,2018,4-Tyler,Family Preservation,5
+Cass,2018,4-Tyler,Investigation,19
+Castro,2018,1-Lubbock,Family Preservation,0
+Castro,2018,1-Lubbock,Investigation,1
+Chambers,2018,6-Houston,Family Preservation,0
+Chambers,2018,6-Houston,Investigation,20
+Cherokee,2018,4-Tyler,Family Preservation,9
+Cherokee,2018,4-Tyler,Investigation,96
+Childress,2018,1-Lubbock,Family Preservation,1
+Childress,2018,1-Lubbock,Investigation,7
+Clay,2018,2-Abilene,Family Preservation,2
+Clay,2018,2-Abilene,Investigation,14
+Coke,2018,9-Midland,Family Preservation,3
+Coke,2018,9-Midland,Investigation,4
+Coleman,2018,2-Abilene,Family Preservation,8
+Coleman,2018,2-Abilene,Investigation,16
+Collin,2018,3-Arlington,Family Preservation,32
+Collin,2018,3-Arlington,Investigation,229
+Collingsworth,2018,1-Lubbock,Family Preservation,0
+Collingsworth,2018,1-Lubbock,Investigation,4
+Colorado,2018,6-Houston,Family Preservation,0
+Colorado,2018,6-Houston,Investigation,9
+Comal,2018,8-San Antonio,Family Preservation,26
+Comal,2018,8-San Antonio,Investigation,103
+Comanche,2018,2-Abilene,Family Preservation,4
+Comanche,2018,2-Abilene,Investigation,21
+Concho,2018,9-Midland,Family Preservation,0
+Concho,2018,9-Midland,Investigation,2
+Cooke,2018,3-Arlington,Family Preservation,10
+Cooke,2018,3-Arlington,Investigation,77
+Coryell,2018,7-Austin,Family Preservation,13
+Coryell,2018,7-Austin,Investigation,136
+Cottle,2018,2-Abilene,Family Preservation,1
+Cottle,2018,2-Abilene,Investigation,0
+Crockett,2018,9-Midland,Family Preservation,2
+Crockett,2018,9-Midland,Investigation,8
+Crosby,2018,1-Lubbock,Family Preservation,3
+Crosby,2018,1-Lubbock,Investigation,6
+Dallam,2018,1-Lubbock,Family Preservation,0
+Dallam,2018,1-Lubbock,Investigation,14
+Dallas,2018,3-Arlington,Family Preservation,154
+Dallas,2018,3-Arlington,Investigation,1918
+Dawson,2018,9-Midland,Family Preservation,6
+Dawson,2018,9-Midland,Investigation,15
+DeWitt,2018,8-San Antonio,Family Preservation,1
+DeWitt,2018,8-San Antonio,Investigation,7
+Deaf Smith,2018,1-Lubbock,Family Preservation,4
+Deaf Smith,2018,1-Lubbock,Investigation,18
+Delta,2018,4-Tyler,Family Preservation,0
+Delta,2018,4-Tyler,Investigation,5
+Denton,2018,3-Arlington,Family Preservation,49
+Denton,2018,3-Arlington,Investigation,381
+Dickens,2018,1-Lubbock,Family Preservation,2
+Dickens,2018,1-Lubbock,Investigation,1
+Dimmit,2018,8-San Antonio,Family Preservation,6
+Dimmit,2018,8-San Antonio,Investigation,6
+Donley,2018,1-Lubbock,Family Preservation,0
+Donley,2018,1-Lubbock,Investigation,2
+Duval,2018,11-Edinburg,Family Preservation,4
+Duval,2018,11-Edinburg,Investigation,19
+Eastland,2018,2-Abilene,Family Preservation,5
+Eastland,2018,2-Abilene,Investigation,14
+Ector,2018,9-Midland,Family Preservation,57
+Ector,2018,9-Midland,Investigation,104
+Edwards,2018,8-San Antonio,Family Preservation,0
+Edwards,2018,8-San Antonio,Investigation,1
+El Paso,2018,10-El Paso,Family Preservation,78
+El Paso,2018,10-El Paso,Investigation,178
+Ellis,2018,3-Arlington,Family Preservation,20
+Ellis,2018,3-Arlington,Investigation,39
+Erath,2018,3-Arlington,Family Preservation,1
+Erath,2018,3-Arlington,Investigation,17
+Falls,2018,7-Austin,Family Preservation,5
+Falls,2018,7-Austin,Investigation,24
+Fannin,2018,3-Arlington,Family Preservation,7
+Fannin,2018,3-Arlington,Investigation,28
+Fayette,2018,7-Austin,Family Preservation,2
+Fayette,2018,7-Austin,Investigation,26
+Fisher,2018,2-Abilene,Family Preservation,0
+Fisher,2018,2-Abilene,Investigation,3
+Floyd,2018,1-Lubbock,Family Preservation,6
+Floyd,2018,1-Lubbock,Investigation,1
+Foard,2018,2-Abilene,Family Preservation,0
+Foard,2018,2-Abilene,Investigation,4
+Fort Bend,2018,6-Houston,Family Preservation,23
+Fort Bend,2018,6-Houston,Investigation,80
+Franklin,2018,4-Tyler,Family Preservation,0
+Franklin,2018,4-Tyler,Investigation,8
+Freestone,2018,7-Austin,Family Preservation,0
+Freestone,2018,7-Austin,Investigation,26
+Frio,2018,8-San Antonio,Family Preservation,2
+Frio,2018,8-San Antonio,Investigation,17
+Gaines,2018,9-Midland,Family Preservation,5
+Gaines,2018,9-Midland,Investigation,22
+Galveston,2018,6-Houston,Family Preservation,40
+Galveston,2018,6-Houston,Investigation,149
+Garza,2018,1-Lubbock,Family Preservation,0
+Garza,2018,1-Lubbock,Investigation,3
+Gillespie,2018,8-San Antonio,Family Preservation,3
+Gillespie,2018,8-San Antonio,Investigation,2
+Goliad,2018,8-San Antonio,Family Preservation,2
+Goliad,2018,8-San Antonio,Investigation,0
+Gonzales,2018,8-San Antonio,Family Preservation,7
+Gonzales,2018,8-San Antonio,Investigation,11
+Gray,2018,1-Lubbock,Family Preservation,1
+Gray,2018,1-Lubbock,Investigation,23
+Grayson,2018,3-Arlington,Family Preservation,22
+Grayson,2018,3-Arlington,Investigation,103
+Gregg,2018,4-Tyler,Family Preservation,73
+Gregg,2018,4-Tyler,Investigation,212
+Grimes,2018,7-Austin,Family Preservation,4
+Grimes,2018,7-Austin,Investigation,25
+Guadalupe,2018,8-San Antonio,Family Preservation,29
+Guadalupe,2018,8-San Antonio,Investigation,49
+Hale,2018,1-Lubbock,Family Preservation,8
+Hale,2018,1-Lubbock,Investigation,24
+Hall,2018,1-Lubbock,Family Preservation,0
+Hall,2018,1-Lubbock,Investigation,9
+Hamilton,2018,7-Austin,Family Preservation,1
+Hamilton,2018,7-Austin,Investigation,8
+Hardeman,2018,2-Abilene,Family Preservation,0
+Hardeman,2018,2-Abilene,Investigation,6
+Hardin,2018,5-Beaumont,Family Preservation,15
+Hardin,2018,5-Beaumont,Investigation,62
+Harris,2018,6-Houston,Family Preservation,352
+Harris,2018,6-Houston,Investigation,1280
+Harrison,2018,4-Tyler,Family Preservation,12
+Harrison,2018,4-Tyler,Investigation,61
+Hartley,2018,1-Lubbock,Family Preservation,0
+Hartley,2018,1-Lubbock,Investigation,2
+Haskell,2018,2-Abilene,Family Preservation,1
+Haskell,2018,2-Abilene,Investigation,15
+Hays,2018,7-Austin,Family Preservation,52
+Hays,2018,7-Austin,Investigation,177
+Henderson,2018,4-Tyler,Family Preservation,24
+Henderson,2018,4-Tyler,Investigation,121
+Hidalgo,2018,11-Edinburg,Family Preservation,251
+Hidalgo,2018,11-Edinburg,Investigation,218
+Hill,2018,7-Austin,Family Preservation,5
+Hill,2018,7-Austin,Investigation,69
+Hockley,2018,1-Lubbock,Family Preservation,11
+Hockley,2018,1-Lubbock,Investigation,33
+Hood,2018,3-Arlington,Family Preservation,8
+Hood,2018,3-Arlington,Investigation,65
+Hopkins,2018,4-Tyler,Family Preservation,6
+Hopkins,2018,4-Tyler,Investigation,24
+Houston,2018,5-Beaumont,Family Preservation,12
+Houston,2018,5-Beaumont,Investigation,32
+Howard,2018,9-Midland,Family Preservation,6
+Howard,2018,9-Midland,Investigation,35
+Hunt,2018,3-Arlington,Family Preservation,37
+Hunt,2018,3-Arlington,Investigation,129
+Hutchinson,2018,1-Lubbock,Family Preservation,3
+Hutchinson,2018,1-Lubbock,Investigation,14
+Jack,2018,2-Abilene,Family Preservation,0
+Jack,2018,2-Abilene,Investigation,10
+Jackson,2018,8-San Antonio,Family Preservation,3
+Jackson,2018,8-San Antonio,Investigation,5
+Jasper,2018,5-Beaumont,Family Preservation,16
+Jasper,2018,5-Beaumont,Investigation,58
+Jeff Davis,2018,10-El Paso,Family Preservation,2
+Jeff Davis,2018,10-El Paso,Investigation,0
+Jefferson,2018,5-Beaumont,Family Preservation,30
+Jefferson,2018,5-Beaumont,Investigation,149
+Jim Hogg,2018,11-Edinburg,Family Preservation,9
+Jim Hogg,2018,11-Edinburg,Investigation,3
+Jim Wells,2018,11-Edinburg,Family Preservation,32
+Jim Wells,2018,11-Edinburg,Investigation,31
+Johnson,2018,3-Arlington,Family Preservation,12
+Johnson,2018,3-Arlington,Investigation,100
+Jones,2018,2-Abilene,Family Preservation,15
+Jones,2018,2-Abilene,Investigation,30
+Karnes,2018,8-San Antonio,Family Preservation,1
+Karnes,2018,8-San Antonio,Investigation,14
+Kaufman,2018,3-Arlington,Family Preservation,9
+Kaufman,2018,3-Arlington,Investigation,41
+Kendall,2018,8-San Antonio,Family Preservation,0
+Kendall,2018,8-San Antonio,Investigation,5
+Kerr,2018,8-San Antonio,Family Preservation,15
+Kerr,2018,8-San Antonio,Investigation,25
+Kimble,2018,9-Midland,Family Preservation,1
+Kimble,2018,9-Midland,Investigation,16
+Kinney,2018,8-San Antonio,Family Preservation,0
+Kinney,2018,8-San Antonio,Investigation,1
+Kleberg,2018,11-Edinburg,Family Preservation,12
+Kleberg,2018,11-Edinburg,Investigation,41
+Knox,2018,2-Abilene,Family Preservation,0
+Knox,2018,2-Abilene,Investigation,2
+La Salle,2018,8-San Antonio,Family Preservation,0
+La Salle,2018,8-San Antonio,Investigation,1
+Lamar,2018,4-Tyler,Family Preservation,10
+Lamar,2018,4-Tyler,Investigation,74
+Lamb,2018,1-Lubbock,Family Preservation,0
+Lamb,2018,1-Lubbock,Investigation,20
+Lampasas,2018,7-Austin,Family Preservation,0
+Lampasas,2018,7-Austin,Investigation,27
+Lavaca,2018,8-San Antonio,Family Preservation,6
+Lavaca,2018,8-San Antonio,Investigation,2
+Lee,2018,7-Austin,Family Preservation,4
+Lee,2018,7-Austin,Investigation,17
+Leon,2018,7-Austin,Family Preservation,2
+Leon,2018,7-Austin,Investigation,11
+Liberty,2018,6-Houston,Family Preservation,33
+Liberty,2018,6-Houston,Investigation,42
+Limestone,2018,7-Austin,Family Preservation,2
+Limestone,2018,7-Austin,Investigation,17
+Live Oak,2018,11-Edinburg,Family Preservation,2
+Live Oak,2018,11-Edinburg,Investigation,8
+Llano,2018,7-Austin,Family Preservation,6
+Llano,2018,7-Austin,Investigation,50
+Lubbock,2018,1-Lubbock,Family Preservation,77
+Lubbock,2018,1-Lubbock,Investigation,390
+Madison,2018,7-Austin,Family Preservation,0
+Madison,2018,7-Austin,Investigation,8
+Marion,2018,4-Tyler,Family Preservation,3
+Marion,2018,4-Tyler,Investigation,13
+Martin,2018,9-Midland,Family Preservation,0
+Martin,2018,9-Midland,Investigation,1
+Mason,2018,9-Midland,Family Preservation,0
+Mason,2018,9-Midland,Investigation,8
+Matagorda,2018,6-Houston,Family Preservation,15
+Matagorda,2018,6-Houston,Investigation,39
+Maverick,2018,8-San Antonio,Family Preservation,7
+Maverick,2018,8-San Antonio,Investigation,3
+McCulloch,2018,9-Midland,Family Preservation,4
+McCulloch,2018,9-Midland,Investigation,15
+McLennan,2018,7-Austin,Family Preservation,61
+McLennan,2018,7-Austin,Investigation,357
+Medina,2018,8-San Antonio,Family Preservation,21
+Medina,2018,8-San Antonio,Investigation,43
+Menard,2018,9-Midland,Family Preservation,3
+Menard,2018,9-Midland,Investigation,1
+Midland,2018,9-Midland,Family Preservation,15
+Midland,2018,9-Midland,Investigation,59
+Milam,2018,7-Austin,Family Preservation,9
+Milam,2018,7-Austin,Investigation,53
+Mills,2018,7-Austin,Family Preservation,0
+Mills,2018,7-Austin,Investigation,7
+Mitchell,2018,2-Abilene,Family Preservation,0
+Mitchell,2018,2-Abilene,Investigation,23
+Montague,2018,2-Abilene,Family Preservation,1
+Montague,2018,2-Abilene,Investigation,25
+Montgomery,2018,6-Houston,Family Preservation,52
+Montgomery,2018,6-Houston,Investigation,293
+Moore,2018,1-Lubbock,Family Preservation,0
+Moore,2018,1-Lubbock,Investigation,12
+Morris,2018,4-Tyler,Family Preservation,11
+Morris,2018,4-Tyler,Investigation,29
+Motley,2018,1-Lubbock,Family Preservation,0
+Motley,2018,1-Lubbock,Investigation,2
+Nacogdoches,2018,5-Beaumont,Family Preservation,6
+Nacogdoches,2018,5-Beaumont,Investigation,87
+Navarro,2018,3-Arlington,Family Preservation,6
+Navarro,2018,3-Arlington,Investigation,15
+Newton,2018,5-Beaumont,Family Preservation,0
+Newton,2018,5-Beaumont,Investigation,16
+Nolan,2018,2-Abilene,Family Preservation,1
+Nolan,2018,2-Abilene,Investigation,37
+Nueces,2018,11-Edinburg,Family Preservation,120
+Nueces,2018,11-Edinburg,Investigation,231
+Ochiltree,2018,1-Lubbock,Family Preservation,1
+Ochiltree,2018,1-Lubbock,Investigation,14
+Oldham,2018,1-Lubbock,Family Preservation,0
+Oldham,2018,1-Lubbock,Investigation,9
+Orange,2018,5-Beaumont,Family Preservation,11
+Orange,2018,5-Beaumont,Investigation,112
+Out of State,2018,Out of State,Family Preservation,0
+Out of State,2018,Out of State,Investigation,4
+Palo Pinto,2018,3-Arlington,Family Preservation,14
+Palo Pinto,2018,3-Arlington,Investigation,40
+Panola,2018,4-Tyler,Family Preservation,7
+Panola,2018,4-Tyler,Investigation,16
+Parker,2018,3-Arlington,Family Preservation,24
+Parker,2018,3-Arlington,Investigation,68
+Parmer,2018,1-Lubbock,Family Preservation,3
+Parmer,2018,1-Lubbock,Investigation,2
+Pecos,2018,9-Midland,Family Preservation,4
+Pecos,2018,9-Midland,Investigation,18
+Polk,2018,5-Beaumont,Family Preservation,6
+Polk,2018,5-Beaumont,Investigation,40
+Potter,2018,1-Lubbock,Family Preservation,9
+Potter,2018,1-Lubbock,Investigation,194
+Presidio,2018,10-El Paso,Family Preservation,0
+Presidio,2018,10-El Paso,Investigation,2
+Rains,2018,4-Tyler,Family Preservation,0
+Rains,2018,4-Tyler,Investigation,7
+Randall,2018,1-Lubbock,Family Preservation,16
+Randall,2018,1-Lubbock,Investigation,118
+Reagan,2018,9-Midland,Family Preservation,3
+Reagan,2018,9-Midland,Investigation,4
+Real,2018,8-San Antonio,Family Preservation,1
+Real,2018,8-San Antonio,Investigation,0
+Red River,2018,4-Tyler,Family Preservation,4
+Red River,2018,4-Tyler,Investigation,10
+Reeves,2018,9-Midland,Family Preservation,0
+Reeves,2018,9-Midland,Investigation,10
+Refugio,2018,11-Edinburg,Family Preservation,4
+Refugio,2018,11-Edinburg,Investigation,6
+Robertson,2018,7-Austin,Family Preservation,6
+Robertson,2018,7-Austin,Investigation,23
+Rockwall,2018,3-Arlington,Family Preservation,8
+Rockwall,2018,3-Arlington,Investigation,45
+Runnels,2018,2-Abilene,Family Preservation,5
+Runnels,2018,2-Abilene,Investigation,9
+Rusk,2018,4-Tyler,Family Preservation,11
+Rusk,2018,4-Tyler,Investigation,58
+Sabine,2018,5-Beaumont,Family Preservation,0
+Sabine,2018,5-Beaumont,Investigation,10
+San Augustine,2018,5-Beaumont,Family Preservation,0
+San Augustine,2018,5-Beaumont,Investigation,13
+San Jacinto,2018,5-Beaumont,Family Preservation,2
+San Jacinto,2018,5-Beaumont,Investigation,24
+San Patricio,2018,11-Edinburg,Family Preservation,27
+San Patricio,2018,11-Edinburg,Investigation,44
+San Saba,2018,7-Austin,Family Preservation,0
+San Saba,2018,7-Austin,Investigation,13
+Schleicher,2018,9-Midland,Family Preservation,1
+Schleicher,2018,9-Midland,Investigation,0
+Scurry,2018,2-Abilene,Family Preservation,8
+Scurry,2018,2-Abilene,Investigation,20
+Shackelford,2018,2-Abilene,Family Preservation,0
+Shackelford,2018,2-Abilene,Investigation,6
+Shelby,2018,5-Beaumont,Family Preservation,6
+Shelby,2018,5-Beaumont,Investigation,33
+Sherman,2018,1-Lubbock,Family Preservation,0
+Sherman,2018,1-Lubbock,Investigation,1
+Smith,2018,4-Tyler,Family Preservation,28
+Smith,2018,4-Tyler,Investigation,176
+Somervell,2018,3-Arlington,Family Preservation,4
+Somervell,2018,3-Arlington,Investigation,8
+Starr,2018,11-Edinburg,Family Preservation,23
+Starr,2018,11-Edinburg,Investigation,26
+Stephens,2018,2-Abilene,Family Preservation,2
+Stephens,2018,2-Abilene,Investigation,2
+Stonewall,2018,2-Abilene,Family Preservation,0
+Stonewall,2018,2-Abilene,Investigation,1
+Sutton,2018,9-Midland,Family Preservation,2
+Sutton,2018,9-Midland,Investigation,5
+Swisher,2018,1-Lubbock,Family Preservation,1
+Swisher,2018,1-Lubbock,Investigation,12
+Tarrant,2018,3-Arlington,Family Preservation,156
+Tarrant,2018,3-Arlington,Investigation,529
+Taylor,2018,2-Abilene,Family Preservation,125
+Taylor,2018,2-Abilene,Investigation,228
+Terrell,2018,9-Midland,Family Preservation,0
+Terrell,2018,9-Midland,Investigation,2
+Terry,2018,1-Lubbock,Family Preservation,1
+Terry,2018,1-Lubbock,Investigation,9
+Throckmorton,2018,2-Abilene,Family Preservation,0
+Throckmorton,2018,2-Abilene,Investigation,3
+Titus,2018,4-Tyler,Family Preservation,8
+Titus,2018,4-Tyler,Investigation,28
+Tom Green,2018,9-Midland,Family Preservation,28
+Tom Green,2018,9-Midland,Investigation,119
+Travis,2018,7-Austin,Family Preservation,198
+Travis,2018,7-Austin,Investigation,554
+Trinity,2018,5-Beaumont,Family Preservation,5
+Trinity,2018,5-Beaumont,Investigation,19
+Tyler,2018,5-Beaumont,Family Preservation,6
+Tyler,2018,5-Beaumont,Investigation,37
+Unknown,2018,Unknown,Family Preservation,4
+Unknown,2018,Unknown,Investigation,3
+Upshur,2018,4-Tyler,Family Preservation,9
+Upshur,2018,4-Tyler,Investigation,89
+Upton,2018,9-Midland,Family Preservation,2
+Upton,2018,9-Midland,Investigation,13
+Uvalde,2018,8-San Antonio,Family Preservation,4
+Uvalde,2018,8-San Antonio,Investigation,16
+Val Verde,2018,8-San Antonio,Family Preservation,6
+Val Verde,2018,8-San Antonio,Investigation,20
+Van Zandt,2018,4-Tyler,Family Preservation,2
+Van Zandt,2018,4-Tyler,Investigation,53
+Victoria,2018,8-San Antonio,Family Preservation,36
+Victoria,2018,8-San Antonio,Investigation,25
+Walker,2018,6-Houston,Family Preservation,5
+Walker,2018,6-Houston,Investigation,51
+Waller,2018,6-Houston,Family Preservation,9
+Waller,2018,6-Houston,Investigation,30
+Ward,2018,9-Midland,Family Preservation,0
+Ward,2018,9-Midland,Investigation,13
+Washington,2018,7-Austin,Family Preservation,2
+Washington,2018,7-Austin,Investigation,29
+Webb,2018,11-Edinburg,Family Preservation,46
+Webb,2018,11-Edinburg,Investigation,82
+Wharton,2018,6-Houston,Family Preservation,8
+Wharton,2018,6-Houston,Investigation,25
+Wheeler,2018,1-Lubbock,Family Preservation,0
+Wheeler,2018,1-Lubbock,Investigation,6
+Wichita,2018,2-Abilene,Family Preservation,25
+Wichita,2018,2-Abilene,Investigation,152
+Wilbarger,2018,2-Abilene,Family Preservation,0
+Wilbarger,2018,2-Abilene,Investigation,12
+Willacy,2018,11-Edinburg,Family Preservation,8
+Willacy,2018,11-Edinburg,Investigation,7
+Williamson,2018,7-Austin,Family Preservation,54
+Williamson,2018,7-Austin,Investigation,212
+Wilson,2018,8-San Antonio,Family Preservation,3
+Wilson,2018,8-San Antonio,Investigation,26
+Winkler,2018,9-Midland,Family Preservation,0
+Winkler,2018,9-Midland,Investigation,12
+Wise,2018,3-Arlington,Family Preservation,10
+Wise,2018,3-Arlington,Investigation,48
+Wood,2018,4-Tyler,Family Preservation,4
+Wood,2018,4-Tyler,Investigation,31
+Young,2018,2-Abilene,Family Preservation,0
+Young,2018,2-Abilene,Investigation,18
+Zapata,2018,11-Edinburg,Family Preservation,1
+Zapata,2018,11-Edinburg,Investigation,2
+Zavala,2018,8-San Antonio,Family Preservation,2
+Zavala,2018,8-San Antonio,Investigation,6
+Anderson,2017,4-Tyler,Family Preservation,9
+Anderson,2017,4-Tyler,Investigation,88
+Andrews,2017,9-Midland,Family Preservation,5
+Andrews,2017,9-Midland,Investigation,9
+Angelina,2017,5-Beaumont,Family Preservation,38
+Angelina,2017,5-Beaumont,Investigation,59
+Aransas,2017,11-Edinburg,Family Preservation,13
+Aransas,2017,11-Edinburg,Investigation,45
+Archer,2017,2-Abilene,Family Preservation,0
+Archer,2017,2-Abilene,Investigation,6
+Atascosa,2017,8-San Antonio,Family Preservation,21
+Atascosa,2017,8-San Antonio,Investigation,68
+Austin,2017,6-Houston,Family Preservation,0
+Austin,2017,6-Houston,Investigation,6
+Bailey,2017,1-Lubbock,Family Preservation,0
+Bailey,2017,1-Lubbock,Investigation,4
+Bandera,2017,8-San Antonio,Family Preservation,1
+Bandera,2017,8-San Antonio,Investigation,24
+Bastrop,2017,7-Austin,Family Preservation,9
+Bastrop,2017,7-Austin,Investigation,56
+Baylor,2017,2-Abilene,Family Preservation,0
+Baylor,2017,2-Abilene,Investigation,4
+Bee,2017,11-Edinburg,Family Preservation,19
+Bee,2017,11-Edinburg,Investigation,36
+Bell,2017,7-Austin,Family Preservation,129
+Bell,2017,7-Austin,Investigation,534
+Bexar,2017,8-San Antonio,Family Preservation,902
+Bexar,2017,8-San Antonio,Investigation,1478
+Blanco,2017,7-Austin,Family Preservation,0
+Blanco,2017,7-Austin,Investigation,8
+Bosque,2017,7-Austin,Family Preservation,0
+Bosque,2017,7-Austin,Investigation,35
+Bowie,2017,4-Tyler,Family Preservation,20
+Bowie,2017,4-Tyler,Investigation,85
+Brazoria,2017,6-Houston,Family Preservation,32
+Brazoria,2017,6-Houston,Investigation,71
+Brazos,2017,7-Austin,Family Preservation,8
+Brazos,2017,7-Austin,Investigation,40
+Brewster,2017,10-El Paso,Family Preservation,2
+Brewster,2017,10-El Paso,Investigation,2
+Brooks,2017,11-Edinburg,Family Preservation,1
+Brooks,2017,11-Edinburg,Investigation,5
+Brown,2017,2-Abilene,Family Preservation,25
+Brown,2017,2-Abilene,Investigation,119
+Burleson,2017,7-Austin,Family Preservation,0
+Burleson,2017,7-Austin,Investigation,13
+Burnet,2017,7-Austin,Family Preservation,11
+Burnet,2017,7-Austin,Investigation,82
+Caldwell,2017,7-Austin,Family Preservation,8
+Caldwell,2017,7-Austin,Investigation,50
+Calhoun,2017,8-San Antonio,Family Preservation,4
+Calhoun,2017,8-San Antonio,Investigation,18
+Callahan,2017,2-Abilene,Family Preservation,2
+Callahan,2017,2-Abilene,Investigation,4
+Cameron,2017,11-Edinburg,Family Preservation,224
+Cameron,2017,11-Edinburg,Investigation,127
+Camp,2017,4-Tyler,Family Preservation,0
+Camp,2017,4-Tyler,Investigation,23
+Carson,2017,1-Lubbock,Family Preservation,2
+Carson,2017,1-Lubbock,Investigation,8
+Cass,2017,4-Tyler,Family Preservation,12
+Cass,2017,4-Tyler,Investigation,27
+Castro,2017,1-Lubbock,Family Preservation,0
+Castro,2017,1-Lubbock,Investigation,10
+Chambers,2017,6-Houston,Family Preservation,3
+Chambers,2017,6-Houston,Investigation,19
+Cherokee,2017,4-Tyler,Family Preservation,10
+Cherokee,2017,4-Tyler,Investigation,80
+Childress,2017,1-Lubbock,Family Preservation,2
+Childress,2017,1-Lubbock,Investigation,11
+Clay,2017,2-Abilene,Family Preservation,0
+Clay,2017,2-Abilene,Investigation,5
+Cochran,2017,1-Lubbock,Family Preservation,0
+Cochran,2017,1-Lubbock,Investigation,4
+Coke,2017,9-Midland,Family Preservation,3
+Coke,2017,9-Midland,Investigation,0
+Coleman,2017,2-Abilene,Family Preservation,6
+Coleman,2017,2-Abilene,Investigation,14
+Collin,2017,3-Arlington,Family Preservation,37
+Collin,2017,3-Arlington,Investigation,212
+Collingsworth,2017,1-Lubbock,Family Preservation,1
+Collingsworth,2017,1-Lubbock,Investigation,0
+Colorado,2017,6-Houston,Family Preservation,1
+Colorado,2017,6-Houston,Investigation,3
+Comal,2017,8-San Antonio,Family Preservation,11
+Comal,2017,8-San Antonio,Investigation,149
+Comanche,2017,2-Abilene,Family Preservation,6
+Comanche,2017,2-Abilene,Investigation,6
+Cooke,2017,3-Arlington,Family Preservation,27
+Cooke,2017,3-Arlington,Investigation,80
+Coryell,2017,7-Austin,Family Preservation,8
+Coryell,2017,7-Austin,Investigation,104
+Crane,2017,9-Midland,Family Preservation,3
+Crane,2017,9-Midland,Investigation,4
+Crockett,2017,9-Midland,Family Preservation,2
+Crockett,2017,9-Midland,Investigation,6
+Crosby,2017,1-Lubbock,Family Preservation,6
+Crosby,2017,1-Lubbock,Investigation,6
+Culberson,2017,10-El Paso,Family Preservation,0
+Culberson,2017,10-El Paso,Investigation,4
+Dallam,2017,1-Lubbock,Family Preservation,0
+Dallam,2017,1-Lubbock,Investigation,11
+Dallas,2017,3-Arlington,Family Preservation,161
+Dallas,2017,3-Arlington,Investigation,1422
+Dawson,2017,9-Midland,Family Preservation,4
+Dawson,2017,9-Midland,Investigation,6
+DeWitt,2017,8-San Antonio,Family Preservation,6
+DeWitt,2017,8-San Antonio,Investigation,15
+Deaf Smith,2017,1-Lubbock,Family Preservation,3
+Deaf Smith,2017,1-Lubbock,Investigation,18
+Delta,2017,4-Tyler,Family Preservation,0
+Delta,2017,4-Tyler,Investigation,6
+Denton,2017,3-Arlington,Family Preservation,43
+Denton,2017,3-Arlington,Investigation,255
+Dickens,2017,1-Lubbock,Family Preservation,0
+Dickens,2017,1-Lubbock,Investigation,1
+Dimmit,2017,8-San Antonio,Family Preservation,4
+Dimmit,2017,8-San Antonio,Investigation,11
+Donley,2017,1-Lubbock,Family Preservation,4
+Donley,2017,1-Lubbock,Investigation,9
+Duval,2017,11-Edinburg,Family Preservation,4
+Duval,2017,11-Edinburg,Investigation,0
+Eastland,2017,2-Abilene,Family Preservation,8
+Eastland,2017,2-Abilene,Investigation,13
+Ector,2017,9-Midland,Family Preservation,42
+Ector,2017,9-Midland,Investigation,101
+El Paso,2017,10-El Paso,Family Preservation,97
+El Paso,2017,10-El Paso,Investigation,147
+Ellis,2017,3-Arlington,Family Preservation,6
+Ellis,2017,3-Arlington,Investigation,29
+Erath,2017,3-Arlington,Family Preservation,17
+Erath,2017,3-Arlington,Investigation,15
+Falls,2017,7-Austin,Family Preservation,3
+Falls,2017,7-Austin,Investigation,22
+Fannin,2017,3-Arlington,Family Preservation,12
+Fannin,2017,3-Arlington,Investigation,44
+Fayette,2017,7-Austin,Family Preservation,5
+Fayette,2017,7-Austin,Investigation,19
+Fisher,2017,2-Abilene,Family Preservation,4
+Fisher,2017,2-Abilene,Investigation,6
+Floyd,2017,1-Lubbock,Family Preservation,0
+Floyd,2017,1-Lubbock,Investigation,10
+Fort Bend,2017,6-Houston,Family Preservation,26
+Fort Bend,2017,6-Houston,Investigation,85
+Franklin,2017,4-Tyler,Family Preservation,6
+Franklin,2017,4-Tyler,Investigation,5
+Freestone,2017,7-Austin,Family Preservation,2
+Freestone,2017,7-Austin,Investigation,16
+Frio,2017,8-San Antonio,Family Preservation,8
+Frio,2017,8-San Antonio,Investigation,24
+Gaines,2017,9-Midland,Family Preservation,8
+Gaines,2017,9-Midland,Investigation,14
+Galveston,2017,6-Houston,Family Preservation,30
+Galveston,2017,6-Houston,Investigation,83
+Garza,2017,1-Lubbock,Family Preservation,0
+Garza,2017,1-Lubbock,Investigation,1
+Gillespie,2017,8-San Antonio,Family Preservation,0
+Gillespie,2017,8-San Antonio,Investigation,2
+Goliad,2017,8-San Antonio,Family Preservation,1
+Goliad,2017,8-San Antonio,Investigation,3
+Gonzales,2017,8-San Antonio,Family Preservation,2
+Gonzales,2017,8-San Antonio,Investigation,12
+Gray,2017,1-Lubbock,Family Preservation,8
+Gray,2017,1-Lubbock,Investigation,39
+Grayson,2017,3-Arlington,Family Preservation,29
+Grayson,2017,3-Arlington,Investigation,90
+Gregg,2017,4-Tyler,Family Preservation,38
+Gregg,2017,4-Tyler,Investigation,135
+Grimes,2017,7-Austin,Family Preservation,0
+Grimes,2017,7-Austin,Investigation,29
+Guadalupe,2017,8-San Antonio,Family Preservation,37
+Guadalupe,2017,8-San Antonio,Investigation,54
+Hale,2017,1-Lubbock,Family Preservation,4
+Hale,2017,1-Lubbock,Investigation,42
+Hall,2017,1-Lubbock,Family Preservation,0
+Hall,2017,1-Lubbock,Investigation,10
+Hamilton,2017,7-Austin,Family Preservation,0
+Hamilton,2017,7-Austin,Investigation,5
+Hansford,2017,1-Lubbock,Family Preservation,0
+Hansford,2017,1-Lubbock,Investigation,2
+Hardeman,2017,2-Abilene,Family Preservation,0
+Hardeman,2017,2-Abilene,Investigation,2
+Hardin,2017,5-Beaumont,Family Preservation,5
+Hardin,2017,5-Beaumont,Investigation,19
+Harris,2017,6-Houston,Family Preservation,464
+Harris,2017,6-Houston,Investigation,1336
+Harrison,2017,4-Tyler,Family Preservation,27
+Harrison,2017,4-Tyler,Investigation,45
+Haskell,2017,2-Abilene,Family Preservation,0
+Haskell,2017,2-Abilene,Investigation,4
+Hays,2017,7-Austin,Family Preservation,22
+Hays,2017,7-Austin,Investigation,84
+Hemphill,2017,1-Lubbock,Family Preservation,0
+Hemphill,2017,1-Lubbock,Investigation,1
+Henderson,2017,4-Tyler,Family Preservation,49
+Henderson,2017,4-Tyler,Investigation,102
+Hidalgo,2017,11-Edinburg,Family Preservation,280
+Hidalgo,2017,11-Edinburg,Investigation,209
+Hill,2017,7-Austin,Family Preservation,3
+Hill,2017,7-Austin,Investigation,56
+Hockley,2017,1-Lubbock,Family Preservation,19
+Hockley,2017,1-Lubbock,Investigation,34
+Hood,2017,3-Arlington,Family Preservation,6
+Hood,2017,3-Arlington,Investigation,54
+Hopkins,2017,4-Tyler,Family Preservation,5
+Hopkins,2017,4-Tyler,Investigation,41
+Houston,2017,5-Beaumont,Family Preservation,2
+Houston,2017,5-Beaumont,Investigation,21
+Howard,2017,9-Midland,Family Preservation,10
+Howard,2017,9-Midland,Investigation,36
+Hudspeth,2017,10-El Paso,Family Preservation,3
+Hudspeth,2017,10-El Paso,Investigation,1
+Hunt,2017,3-Arlington,Family Preservation,30
+Hunt,2017,3-Arlington,Investigation,118
+Hutchinson,2017,1-Lubbock,Family Preservation,9
+Hutchinson,2017,1-Lubbock,Investigation,28
+Irion,2017,9-Midland,Family Preservation,0
+Irion,2017,9-Midland,Investigation,1
+Jack,2017,2-Abilene,Family Preservation,1
+Jack,2017,2-Abilene,Investigation,13
+Jackson,2017,8-San Antonio,Family Preservation,1
+Jackson,2017,8-San Antonio,Investigation,1
+Jasper,2017,5-Beaumont,Family Preservation,17
+Jasper,2017,5-Beaumont,Investigation,79
+Jefferson,2017,5-Beaumont,Family Preservation,26
+Jefferson,2017,5-Beaumont,Investigation,152
+Jim Hogg,2017,11-Edinburg,Family Preservation,0
+Jim Hogg,2017,11-Edinburg,Investigation,2
+Jim Wells,2017,11-Edinburg,Family Preservation,39
+Jim Wells,2017,11-Edinburg,Investigation,20
+Johnson,2017,3-Arlington,Family Preservation,33
+Johnson,2017,3-Arlington,Investigation,126
+Jones,2017,2-Abilene,Family Preservation,3
+Jones,2017,2-Abilene,Investigation,13
+Karnes,2017,8-San Antonio,Family Preservation,15
+Karnes,2017,8-San Antonio,Investigation,27
+Kaufman,2017,3-Arlington,Family Preservation,20
+Kaufman,2017,3-Arlington,Investigation,56
+Kendall,2017,8-San Antonio,Family Preservation,0
+Kendall,2017,8-San Antonio,Investigation,12
+Kerr,2017,8-San Antonio,Family Preservation,8
+Kerr,2017,8-San Antonio,Investigation,18
+Kimble,2017,9-Midland,Family Preservation,4
+Kimble,2017,9-Midland,Investigation,9
+Kinney,2017,8-San Antonio,Family Preservation,0
+Kinney,2017,8-San Antonio,Investigation,1
+Kleberg,2017,11-Edinburg,Family Preservation,6
+Kleberg,2017,11-Edinburg,Investigation,15
+La Salle,2017,8-San Antonio,Family Preservation,1
+La Salle,2017,8-San Antonio,Investigation,4
+Lamar,2017,4-Tyler,Family Preservation,25
+Lamar,2017,4-Tyler,Investigation,98
+Lamb,2017,1-Lubbock,Family Preservation,5
+Lamb,2017,1-Lubbock,Investigation,12
+Lampasas,2017,7-Austin,Family Preservation,5
+Lampasas,2017,7-Austin,Investigation,42
+Lavaca,2017,8-San Antonio,Family Preservation,2
+Lavaca,2017,8-San Antonio,Investigation,7
+Lee,2017,7-Austin,Family Preservation,0
+Lee,2017,7-Austin,Investigation,21
+Leon,2017,7-Austin,Family Preservation,0
+Leon,2017,7-Austin,Investigation,10
+Liberty,2017,6-Houston,Family Preservation,36
+Liberty,2017,6-Houston,Investigation,92
+Limestone,2017,7-Austin,Family Preservation,0
+Limestone,2017,7-Austin,Investigation,8
+Lipscomb,2017,1-Lubbock,Family Preservation,2
+Lipscomb,2017,1-Lubbock,Investigation,0
+Live Oak,2017,11-Edinburg,Family Preservation,7
+Live Oak,2017,11-Edinburg,Investigation,8
+Llano,2017,7-Austin,Family Preservation,9
+Llano,2017,7-Austin,Investigation,33
+Lubbock,2017,1-Lubbock,Family Preservation,146
+Lubbock,2017,1-Lubbock,Investigation,426
+Lynn,2017,1-Lubbock,Family Preservation,0
+Lynn,2017,1-Lubbock,Investigation,6
+Madison,2017,7-Austin,Family Preservation,1
+Madison,2017,7-Austin,Investigation,4
+Marion,2017,4-Tyler,Family Preservation,4
+Marion,2017,4-Tyler,Investigation,34
+Martin,2017,9-Midland,Family Preservation,5
+Martin,2017,9-Midland,Investigation,0
+Mason,2017,9-Midland,Family Preservation,7
+Mason,2017,9-Midland,Investigation,0
+Matagorda,2017,6-Houston,Family Preservation,2
+Matagorda,2017,6-Houston,Investigation,25
+Maverick,2017,8-San Antonio,Family Preservation,5
+Maverick,2017,8-San Antonio,Investigation,4
+McCulloch,2017,9-Midland,Family Preservation,3
+McCulloch,2017,9-Midland,Investigation,11
+McLennan,2017,7-Austin,Family Preservation,97
+McLennan,2017,7-Austin,Investigation,269
+Medina,2017,8-San Antonio,Family Preservation,11
+Medina,2017,8-San Antonio,Investigation,28
+Menard,2017,9-Midland,Family Preservation,4
+Menard,2017,9-Midland,Investigation,1
+Midland,2017,9-Midland,Family Preservation,2
+Midland,2017,9-Midland,Investigation,60
+Milam,2017,7-Austin,Family Preservation,16
+Milam,2017,7-Austin,Investigation,53
+Mills,2017,7-Austin,Family Preservation,0
+Mills,2017,7-Austin,Investigation,3
+Mitchell,2017,2-Abilene,Family Preservation,1
+Mitchell,2017,2-Abilene,Investigation,7
+Montague,2017,2-Abilene,Family Preservation,2
+Montague,2017,2-Abilene,Investigation,34
+Montgomery,2017,6-Houston,Family Preservation,58
+Montgomery,2017,6-Houston,Investigation,228
+Moore,2017,1-Lubbock,Family Preservation,0
+Moore,2017,1-Lubbock,Investigation,31
+Morris,2017,4-Tyler,Family Preservation,3
+Morris,2017,4-Tyler,Investigation,10
+Motley,2017,1-Lubbock,Family Preservation,0
+Motley,2017,1-Lubbock,Investigation,1
+Nacogdoches,2017,5-Beaumont,Family Preservation,9
+Nacogdoches,2017,5-Beaumont,Investigation,84
+Navarro,2017,3-Arlington,Family Preservation,10
+Navarro,2017,3-Arlington,Investigation,24
+Newton,2017,5-Beaumont,Family Preservation,0
+Newton,2017,5-Beaumont,Investigation,6
+Nolan,2017,2-Abilene,Family Preservation,4
+Nolan,2017,2-Abilene,Investigation,19
+Nueces,2017,11-Edinburg,Family Preservation,145
+Nueces,2017,11-Edinburg,Investigation,260
+Ochiltree,2017,1-Lubbock,Family Preservation,4
+Ochiltree,2017,1-Lubbock,Investigation,6
+Orange,2017,5-Beaumont,Family Preservation,18
+Orange,2017,5-Beaumont,Investigation,61
+Out of State,2017,Out of State,Family Preservation,0
+Out of State,2017,Out of State,Investigation,4
+Palo Pinto,2017,3-Arlington,Family Preservation,19
+Palo Pinto,2017,3-Arlington,Investigation,51
+Panola,2017,4-Tyler,Family Preservation,4
+Panola,2017,4-Tyler,Investigation,24
+Parker,2017,3-Arlington,Family Preservation,17
+Parker,2017,3-Arlington,Investigation,60
+Parmer,2017,1-Lubbock,Family Preservation,0
+Parmer,2017,1-Lubbock,Investigation,2
+Pecos,2017,9-Midland,Family Preservation,5
+Pecos,2017,9-Midland,Investigation,8
+Polk,2017,5-Beaumont,Family Preservation,10
+Polk,2017,5-Beaumont,Investigation,46
+Potter,2017,1-Lubbock,Family Preservation,59
+Potter,2017,1-Lubbock,Investigation,191
+Rains,2017,4-Tyler,Family Preservation,1
+Rains,2017,4-Tyler,Investigation,20
+Randall,2017,1-Lubbock,Family Preservation,52
+Randall,2017,1-Lubbock,Investigation,121
+Reagan,2017,9-Midland,Family Preservation,0
+Reagan,2017,9-Midland,Investigation,7
+Real,2017,8-San Antonio,Family Preservation,3
+Real,2017,8-San Antonio,Investigation,3
+Red River,2017,4-Tyler,Family Preservation,1
+Red River,2017,4-Tyler,Investigation,14
+Reeves,2017,9-Midland,Family Preservation,1
+Reeves,2017,9-Midland,Investigation,5
+Refugio,2017,11-Edinburg,Family Preservation,3
+Refugio,2017,11-Edinburg,Investigation,1
+Robertson,2017,7-Austin,Family Preservation,1
+Robertson,2017,7-Austin,Investigation,9
+Rockwall,2017,3-Arlington,Family Preservation,4
+Rockwall,2017,3-Arlington,Investigation,24
+Runnels,2017,2-Abilene,Family Preservation,4
+Runnels,2017,2-Abilene,Investigation,8
+Rusk,2017,4-Tyler,Family Preservation,12
+Rusk,2017,4-Tyler,Investigation,61
+Sabine,2017,5-Beaumont,Family Preservation,12
+Sabine,2017,5-Beaumont,Investigation,18
+San Augustine,2017,5-Beaumont,Family Preservation,5
+San Augustine,2017,5-Beaumont,Investigation,3
+San Jacinto,2017,5-Beaumont,Family Preservation,5
+San Jacinto,2017,5-Beaumont,Investigation,25
+San Patricio,2017,11-Edinburg,Family Preservation,21
+San Patricio,2017,11-Edinburg,Investigation,56
+San Saba,2017,7-Austin,Family Preservation,1
+San Saba,2017,7-Austin,Investigation,11
+Schleicher,2017,9-Midland,Family Preservation,0
+Schleicher,2017,9-Midland,Investigation,5
+Scurry,2017,2-Abilene,Family Preservation,1
+Scurry,2017,2-Abilene,Investigation,4
+Shackelford,2017,2-Abilene,Family Preservation,0
+Shackelford,2017,2-Abilene,Investigation,2
+Shelby,2017,5-Beaumont,Family Preservation,0
+Shelby,2017,5-Beaumont,Investigation,37
+Sherman,2017,1-Lubbock,Family Preservation,0
+Sherman,2017,1-Lubbock,Investigation,1
+Smith,2017,4-Tyler,Family Preservation,42
+Smith,2017,4-Tyler,Investigation,103
+Somervell,2017,3-Arlington,Family Preservation,1
+Somervell,2017,3-Arlington,Investigation,6
+Starr,2017,11-Edinburg,Family Preservation,11
+Starr,2017,11-Edinburg,Investigation,39
+Stephens,2017,2-Abilene,Family Preservation,4
+Stephens,2017,2-Abilene,Investigation,2
+Stonewall,2017,2-Abilene,Family Preservation,0
+Stonewall,2017,2-Abilene,Investigation,1
+Sutton,2017,9-Midland,Family Preservation,0
+Sutton,2017,9-Midland,Investigation,10
+Swisher,2017,1-Lubbock,Family Preservation,5
+Swisher,2017,1-Lubbock,Investigation,8
+Tarrant,2017,3-Arlington,Family Preservation,117
+Tarrant,2017,3-Arlington,Investigation,588
+Taylor,2017,2-Abilene,Family Preservation,105
+Taylor,2017,2-Abilene,Investigation,202
+Terry,2017,1-Lubbock,Family Preservation,5
+Terry,2017,1-Lubbock,Investigation,17
+Titus,2017,4-Tyler,Family Preservation,6
+Titus,2017,4-Tyler,Investigation,34
+Tom Green,2017,9-Midland,Family Preservation,66
+Tom Green,2017,9-Midland,Investigation,145
+Travis,2017,7-Austin,Family Preservation,207
+Travis,2017,7-Austin,Investigation,485
+Trinity,2017,5-Beaumont,Family Preservation,9
+Trinity,2017,5-Beaumont,Investigation,12
+Tyler,2017,5-Beaumont,Family Preservation,3
+Tyler,2017,5-Beaumont,Investigation,25
+Unknown,2017,Unknown,Family Preservation,1
+Unknown,2017,Unknown,Investigation,7
+Upshur,2017,4-Tyler,Family Preservation,10
+Upshur,2017,4-Tyler,Investigation,75
+Upton,2017,9-Midland,Family Preservation,5
+Upton,2017,9-Midland,Investigation,4
+Uvalde,2017,8-San Antonio,Family Preservation,7
+Uvalde,2017,8-San Antonio,Investigation,20
+Val Verde,2017,8-San Antonio,Family Preservation,5
+Val Verde,2017,8-San Antonio,Investigation,9
+Van Zandt,2017,4-Tyler,Family Preservation,17
+Van Zandt,2017,4-Tyler,Investigation,55
+Victoria,2017,8-San Antonio,Family Preservation,12
+Victoria,2017,8-San Antonio,Investigation,36
+Walker,2017,6-Houston,Family Preservation,2
+Walker,2017,6-Houston,Investigation,17
+Waller,2017,6-Houston,Family Preservation,11
+Waller,2017,6-Houston,Investigation,4
+Ward,2017,9-Midland,Family Preservation,2
+Ward,2017,9-Midland,Investigation,13
+Washington,2017,7-Austin,Family Preservation,4
+Washington,2017,7-Austin,Investigation,22
+Webb,2017,11-Edinburg,Family Preservation,44
+Webb,2017,11-Edinburg,Investigation,107
+Wharton,2017,6-Houston,Family Preservation,11
+Wharton,2017,6-Houston,Investigation,39
+Wheeler,2017,1-Lubbock,Family Preservation,0
+Wheeler,2017,1-Lubbock,Investigation,3
+Wichita,2017,2-Abilene,Family Preservation,41
+Wichita,2017,2-Abilene,Investigation,124
+Wilbarger,2017,2-Abilene,Family Preservation,2
+Wilbarger,2017,2-Abilene,Investigation,12
+Willacy,2017,11-Edinburg,Family Preservation,7
+Willacy,2017,11-Edinburg,Investigation,9
+Williamson,2017,7-Austin,Family Preservation,48
+Williamson,2017,7-Austin,Investigation,113
+Wilson,2017,8-San Antonio,Family Preservation,2
+Wilson,2017,8-San Antonio,Investigation,33
+Winkler,2017,9-Midland,Family Preservation,1
+Winkler,2017,9-Midland,Investigation,4
+Wise,2017,3-Arlington,Family Preservation,11
+Wise,2017,3-Arlington,Investigation,46
+Wood,2017,4-Tyler,Family Preservation,5
+Wood,2017,4-Tyler,Investigation,70
+Yoakum,2017,1-Lubbock,Family Preservation,0
+Yoakum,2017,1-Lubbock,Investigation,4
+Young,2017,2-Abilene,Family Preservation,2
+Young,2017,2-Abilene,Investigation,21
+Zapata,2017,11-Edinburg,Family Preservation,2
+Zapata,2017,11-Edinburg,Investigation,6
+Zavala,2017,8-San Antonio,Family Preservation,9
+Zavala,2017,8-San Antonio,Investigation,1
+Anderson,2016,4-Tyler,Family Preservation,6
+Anderson,2016,4-Tyler,Investigation,42
+Andrews,2016,9-Midland,Family Preservation,8
+Andrews,2016,9-Midland,Investigation,20
+Angelina,2016,5-Beaumont,Family Preservation,9
+Angelina,2016,5-Beaumont,Investigation,62
+Aransas,2016,11-Edinburg,Family Preservation,13
+Aransas,2016,11-Edinburg,Investigation,5
+Archer,2016,2-Abilene,Family Preservation,1
+Archer,2016,2-Abilene,Investigation,1
+Armstrong,2016,1-Lubbock,Family Preservation,0
+Armstrong,2016,1-Lubbock,Investigation,1
+Atascosa,2016,8-San Antonio,Family Preservation,21
+Atascosa,2016,8-San Antonio,Investigation,38
+Austin,2016,6-Houston,Family Preservation,0
+Austin,2016,6-Houston,Investigation,8
+Bailey,2016,1-Lubbock,Family Preservation,3
+Bailey,2016,1-Lubbock,Investigation,2
+Bandera,2016,8-San Antonio,Family Preservation,3
+Bandera,2016,8-San Antonio,Investigation,12
+Bastrop,2016,7-Austin,Family Preservation,11
+Bastrop,2016,7-Austin,Investigation,80
+Baylor,2016,2-Abilene,Family Preservation,1
+Baylor,2016,2-Abilene,Investigation,6
+Bee,2016,11-Edinburg,Family Preservation,26
+Bee,2016,11-Edinburg,Investigation,28
+Bell,2016,7-Austin,Family Preservation,83
+Bell,2016,7-Austin,Investigation,430
+Bexar,2016,8-San Antonio,Family Preservation,782
+Bexar,2016,8-San Antonio,Investigation,1128
+Blanco,2016,7-Austin,Family Preservation,5
+Blanco,2016,7-Austin,Investigation,12
+Bosque,2016,7-Austin,Family Preservation,1
+Bosque,2016,7-Austin,Investigation,23
+Bowie,2016,4-Tyler,Family Preservation,28
+Bowie,2016,4-Tyler,Investigation,86
+Brazoria,2016,6-Houston,Family Preservation,14
+Brazoria,2016,6-Houston,Investigation,68
+Brazos,2016,7-Austin,Family Preservation,12
+Brazos,2016,7-Austin,Investigation,39
+Brooks,2016,11-Edinburg,Family Preservation,9
+Brooks,2016,11-Edinburg,Investigation,7
+Brown,2016,2-Abilene,Family Preservation,33
+Brown,2016,2-Abilene,Investigation,75
+Burleson,2016,7-Austin,Family Preservation,0
+Burleson,2016,7-Austin,Investigation,32
+Burnet,2016,7-Austin,Family Preservation,10
+Burnet,2016,7-Austin,Investigation,69
+Caldwell,2016,7-Austin,Family Preservation,7
+Caldwell,2016,7-Austin,Investigation,53
+Calhoun,2016,8-San Antonio,Family Preservation,2
+Calhoun,2016,8-San Antonio,Investigation,13
+Callahan,2016,2-Abilene,Family Preservation,1
+Callahan,2016,2-Abilene,Investigation,5
+Cameron,2016,11-Edinburg,Family Preservation,152
+Cameron,2016,11-Edinburg,Investigation,176
+Camp,2016,4-Tyler,Family Preservation,0
+Camp,2016,4-Tyler,Investigation,16
+Carson,2016,1-Lubbock,Family Preservation,1
+Carson,2016,1-Lubbock,Investigation,2
+Cass,2016,4-Tyler,Family Preservation,17
+Cass,2016,4-Tyler,Investigation,34
+Castro,2016,1-Lubbock,Family Preservation,4
+Castro,2016,1-Lubbock,Investigation,8
+Chambers,2016,6-Houston,Family Preservation,16
+Chambers,2016,6-Houston,Investigation,36
+Cherokee,2016,4-Tyler,Family Preservation,9
+Cherokee,2016,4-Tyler,Investigation,85
+Childress,2016,1-Lubbock,Family Preservation,3
+Childress,2016,1-Lubbock,Investigation,5
+Clay,2016,2-Abilene,Family Preservation,1
+Clay,2016,2-Abilene,Investigation,3
+Cochran,2016,1-Lubbock,Family Preservation,0
+Cochran,2016,1-Lubbock,Investigation,2
+Coke,2016,9-Midland,Family Preservation,1
+Coke,2016,9-Midland,Investigation,2
+Coleman,2016,2-Abilene,Family Preservation,1
+Coleman,2016,2-Abilene,Investigation,6
+Collin,2016,3-Arlington,Family Preservation,21
+Collin,2016,3-Arlington,Investigation,166
+Collingsworth,2016,1-Lubbock,Family Preservation,0
+Collingsworth,2016,1-Lubbock,Investigation,1
+Colorado,2016,6-Houston,Family Preservation,0
+Colorado,2016,6-Houston,Investigation,7
+Comal,2016,8-San Antonio,Family Preservation,34
+Comal,2016,8-San Antonio,Investigation,134
+Comanche,2016,2-Abilene,Family Preservation,2
+Comanche,2016,2-Abilene,Investigation,13
+Concho,2016,9-Midland,Family Preservation,0
+Concho,2016,9-Midland,Investigation,2
+Cooke,2016,3-Arlington,Family Preservation,14
+Cooke,2016,3-Arlington,Investigation,63
+Coryell,2016,7-Austin,Family Preservation,10
+Coryell,2016,7-Austin,Investigation,107
+Crane,2016,9-Midland,Family Preservation,3
+Crane,2016,9-Midland,Investigation,5
+Crockett,2016,9-Midland,Family Preservation,2
+Crockett,2016,9-Midland,Investigation,7
+Crosby,2016,1-Lubbock,Family Preservation,0
+Crosby,2016,1-Lubbock,Investigation,26
+Dallam,2016,1-Lubbock,Family Preservation,0
+Dallam,2016,1-Lubbock,Investigation,10
+Dallas,2016,3-Arlington,Family Preservation,215
+Dallas,2016,3-Arlington,Investigation,1551
+Dawson,2016,9-Midland,Family Preservation,3
+Dawson,2016,9-Midland,Investigation,17
+DeWitt,2016,8-San Antonio,Family Preservation,6
+DeWitt,2016,8-San Antonio,Investigation,34
+Deaf Smith,2016,1-Lubbock,Family Preservation,8
+Deaf Smith,2016,1-Lubbock,Investigation,26
+Denton,2016,3-Arlington,Family Preservation,60
+Denton,2016,3-Arlington,Investigation,210
+Dickens,2016,1-Lubbock,Family Preservation,0
+Dickens,2016,1-Lubbock,Investigation,2
+Dimmit,2016,8-San Antonio,Family Preservation,2
+Dimmit,2016,8-San Antonio,Investigation,8
+Donley,2016,1-Lubbock,Family Preservation,0
+Donley,2016,1-Lubbock,Investigation,4
+Duval,2016,11-Edinburg,Family Preservation,5
+Duval,2016,11-Edinburg,Investigation,7
+Eastland,2016,2-Abilene,Family Preservation,4
+Eastland,2016,2-Abilene,Investigation,20
+Ector,2016,9-Midland,Family Preservation,27
+Ector,2016,9-Midland,Investigation,121
+Edwards,2016,8-San Antonio,Family Preservation,0
+Edwards,2016,8-San Antonio,Investigation,1
+El Paso,2016,10-El Paso,Family Preservation,104
+El Paso,2016,10-El Paso,Investigation,140
+Ellis,2016,3-Arlington,Family Preservation,8
+Ellis,2016,3-Arlington,Investigation,39
+Erath,2016,3-Arlington,Family Preservation,2
+Erath,2016,3-Arlington,Investigation,13
+Falls,2016,7-Austin,Family Preservation,0
+Falls,2016,7-Austin,Investigation,14
+Fannin,2016,3-Arlington,Family Preservation,17
+Fannin,2016,3-Arlington,Investigation,29
+Fayette,2016,7-Austin,Family Preservation,3
+Fayette,2016,7-Austin,Investigation,29
+Fisher,2016,2-Abilene,Family Preservation,0
+Fisher,2016,2-Abilene,Investigation,2
+Floyd,2016,1-Lubbock,Family Preservation,1
+Floyd,2016,1-Lubbock,Investigation,5
+Foard,2016,2-Abilene,Family Preservation,0
+Foard,2016,2-Abilene,Investigation,2
+Fort Bend,2016,6-Houston,Family Preservation,15
+Fort Bend,2016,6-Houston,Investigation,90
+Franklin,2016,4-Tyler,Family Preservation,10
+Franklin,2016,4-Tyler,Investigation,14
+Freestone,2016,7-Austin,Family Preservation,4
+Freestone,2016,7-Austin,Investigation,10
+Frio,2016,8-San Antonio,Family Preservation,4
+Frio,2016,8-San Antonio,Investigation,31
+Gaines,2016,9-Midland,Family Preservation,0
+Gaines,2016,9-Midland,Investigation,9
+Galveston,2016,6-Houston,Family Preservation,47
+Galveston,2016,6-Houston,Investigation,88
+Garza,2016,1-Lubbock,Family Preservation,0
+Garza,2016,1-Lubbock,Investigation,2
+Gillespie,2016,8-San Antonio,Family Preservation,11
+Gillespie,2016,8-San Antonio,Investigation,8
+Goliad,2016,8-San Antonio,Family Preservation,0
+Goliad,2016,8-San Antonio,Investigation,2
+Gonzales,2016,8-San Antonio,Family Preservation,2
+Gonzales,2016,8-San Antonio,Investigation,15
+Gray,2016,1-Lubbock,Family Preservation,3
+Gray,2016,1-Lubbock,Investigation,20
+Grayson,2016,3-Arlington,Family Preservation,40
+Grayson,2016,3-Arlington,Investigation,197
+Gregg,2016,4-Tyler,Family Preservation,23
+Gregg,2016,4-Tyler,Investigation,112
+Grimes,2016,7-Austin,Family Preservation,3
+Grimes,2016,7-Austin,Investigation,16
+Guadalupe,2016,8-San Antonio,Family Preservation,19
+Guadalupe,2016,8-San Antonio,Investigation,65
+Hale,2016,1-Lubbock,Family Preservation,13
+Hale,2016,1-Lubbock,Investigation,27
+Hall,2016,1-Lubbock,Family Preservation,1
+Hall,2016,1-Lubbock,Investigation,0
+Hamilton,2016,7-Austin,Family Preservation,0
+Hamilton,2016,7-Austin,Investigation,9
+Hardeman,2016,2-Abilene,Family Preservation,1
+Hardeman,2016,2-Abilene,Investigation,0
+Hardin,2016,5-Beaumont,Family Preservation,4
+Hardin,2016,5-Beaumont,Investigation,14
+Harris,2016,6-Houston,Family Preservation,618
+Harris,2016,6-Houston,Investigation,1568
+Harrison,2016,4-Tyler,Family Preservation,28
+Harrison,2016,4-Tyler,Investigation,62
+Hartley,2016,1-Lubbock,Family Preservation,5
+Hartley,2016,1-Lubbock,Investigation,0
+Haskell,2016,2-Abilene,Family Preservation,4
+Haskell,2016,2-Abilene,Investigation,1
+Hays,2016,7-Austin,Family Preservation,31
+Hays,2016,7-Austin,Investigation,106
+Hemphill,2016,1-Lubbock,Family Preservation,3
+Hemphill,2016,1-Lubbock,Investigation,0
+Henderson,2016,4-Tyler,Family Preservation,36
+Henderson,2016,4-Tyler,Investigation,139
+Hidalgo,2016,11-Edinburg,Family Preservation,213
+Hidalgo,2016,11-Edinburg,Investigation,145
+Hill,2016,7-Austin,Family Preservation,0
+Hill,2016,7-Austin,Investigation,42
+Hockley,2016,1-Lubbock,Family Preservation,7
+Hockley,2016,1-Lubbock,Investigation,22
+Hood,2016,3-Arlington,Family Preservation,15
+Hood,2016,3-Arlington,Investigation,55
+Hopkins,2016,4-Tyler,Family Preservation,6
+Hopkins,2016,4-Tyler,Investigation,38
+Houston,2016,5-Beaumont,Family Preservation,4
+Houston,2016,5-Beaumont,Investigation,54
+Howard,2016,9-Midland,Family Preservation,7
+Howard,2016,9-Midland,Investigation,58
+Hunt,2016,3-Arlington,Family Preservation,26
+Hunt,2016,3-Arlington,Investigation,129
+Hutchinson,2016,1-Lubbock,Family Preservation,3
+Hutchinson,2016,1-Lubbock,Investigation,9
+Jack,2016,2-Abilene,Family Preservation,2
+Jack,2016,2-Abilene,Investigation,12
+Jackson,2016,8-San Antonio,Family Preservation,9
+Jackson,2016,8-San Antonio,Investigation,7
+Jasper,2016,5-Beaumont,Family Preservation,9
+Jasper,2016,5-Beaumont,Investigation,80
+Jefferson,2016,5-Beaumont,Family Preservation,18
+Jefferson,2016,5-Beaumont,Investigation,181
+Jim Hogg,2016,11-Edinburg,Family Preservation,0
+Jim Hogg,2016,11-Edinburg,Investigation,3
+Jim Wells,2016,11-Edinburg,Family Preservation,19
+Jim Wells,2016,11-Edinburg,Investigation,36
+Johnson,2016,3-Arlington,Family Preservation,37
+Johnson,2016,3-Arlington,Investigation,121
+Jones,2016,2-Abilene,Family Preservation,2
+Jones,2016,2-Abilene,Investigation,12
+Karnes,2016,8-San Antonio,Family Preservation,2
+Karnes,2016,8-San Antonio,Investigation,12
+Kaufman,2016,3-Arlington,Family Preservation,23
+Kaufman,2016,3-Arlington,Investigation,47
+Kendall,2016,8-San Antonio,Family Preservation,1
+Kendall,2016,8-San Antonio,Investigation,6
+Kerr,2016,8-San Antonio,Family Preservation,22
+Kerr,2016,8-San Antonio,Investigation,51
+Kimble,2016,9-Midland,Family Preservation,0
+Kimble,2016,9-Midland,Investigation,1
+Kleberg,2016,11-Edinburg,Family Preservation,9
+Kleberg,2016,11-Edinburg,Investigation,20
+La Salle,2016,8-San Antonio,Family Preservation,0
+La Salle,2016,8-San Antonio,Investigation,6
+Lamar,2016,4-Tyler,Family Preservation,7
+Lamar,2016,4-Tyler,Investigation,62
+Lamb,2016,1-Lubbock,Family Preservation,1
+Lamb,2016,1-Lubbock,Investigation,17
+Lampasas,2016,7-Austin,Family Preservation,5
+Lampasas,2016,7-Austin,Investigation,8
+Lavaca,2016,8-San Antonio,Family Preservation,4
+Lavaca,2016,8-San Antonio,Investigation,11
+Lee,2016,7-Austin,Family Preservation,3
+Lee,2016,7-Austin,Investigation,20
+Leon,2016,7-Austin,Family Preservation,0
+Leon,2016,7-Austin,Investigation,4
+Liberty,2016,6-Houston,Family Preservation,20
+Liberty,2016,6-Houston,Investigation,93
+Limestone,2016,7-Austin,Family Preservation,0
+Limestone,2016,7-Austin,Investigation,16
+Lipscomb,2016,1-Lubbock,Family Preservation,0
+Lipscomb,2016,1-Lubbock,Investigation,1
+Live Oak,2016,11-Edinburg,Family Preservation,1
+Live Oak,2016,11-Edinburg,Investigation,6
+Llano,2016,7-Austin,Family Preservation,0
+Llano,2016,7-Austin,Investigation,44
+Lubbock,2016,1-Lubbock,Family Preservation,124
+Lubbock,2016,1-Lubbock,Investigation,366
+Lynn,2016,1-Lubbock,Family Preservation,0
+Lynn,2016,1-Lubbock,Investigation,7
+Madison,2016,7-Austin,Family Preservation,0
+Madison,2016,7-Austin,Investigation,2
+Marion,2016,4-Tyler,Family Preservation,5
+Marion,2016,4-Tyler,Investigation,19
+Martin,2016,9-Midland,Family Preservation,6
+Martin,2016,9-Midland,Investigation,2
+Matagorda,2016,6-Houston,Family Preservation,8
+Matagorda,2016,6-Houston,Investigation,22
+Maverick,2016,8-San Antonio,Family Preservation,3
+Maverick,2016,8-San Antonio,Investigation,5
+McCulloch,2016,9-Midland,Family Preservation,8
+McCulloch,2016,9-Midland,Investigation,7
+McLennan,2016,7-Austin,Family Preservation,57
+McLennan,2016,7-Austin,Investigation,261
+Medina,2016,8-San Antonio,Family Preservation,17
+Medina,2016,8-San Antonio,Investigation,40
+Menard,2016,9-Midland,Family Preservation,0
+Menard,2016,9-Midland,Investigation,4
+Midland,2016,9-Midland,Family Preservation,13
+Midland,2016,9-Midland,Investigation,92
+Milam,2016,7-Austin,Family Preservation,9
+Milam,2016,7-Austin,Investigation,43
+Mills,2016,7-Austin,Family Preservation,0
+Mills,2016,7-Austin,Investigation,3
+Mitchell,2016,2-Abilene,Family Preservation,1
+Mitchell,2016,2-Abilene,Investigation,7
+Montague,2016,2-Abilene,Family Preservation,9
+Montague,2016,2-Abilene,Investigation,39
+Montgomery,2016,6-Houston,Family Preservation,27
+Montgomery,2016,6-Houston,Investigation,173
+Moore,2016,1-Lubbock,Family Preservation,0
+Moore,2016,1-Lubbock,Investigation,21
+Morris,2016,4-Tyler,Family Preservation,0
+Morris,2016,4-Tyler,Investigation,18
+Motley,2016,1-Lubbock,Family Preservation,0
+Motley,2016,1-Lubbock,Investigation,1
+Nacogdoches,2016,5-Beaumont,Family Preservation,11
+Nacogdoches,2016,5-Beaumont,Investigation,60
+Navarro,2016,3-Arlington,Family Preservation,13
+Navarro,2016,3-Arlington,Investigation,32
+Newton,2016,5-Beaumont,Family Preservation,0
+Newton,2016,5-Beaumont,Investigation,23
+Nolan,2016,2-Abilene,Family Preservation,5
+Nolan,2016,2-Abilene,Investigation,9
+Nueces,2016,11-Edinburg,Family Preservation,154
+Nueces,2016,11-Edinburg,Investigation,220
+Ochiltree,2016,1-Lubbock,Family Preservation,0
+Ochiltree,2016,1-Lubbock,Investigation,7
+Oldham,2016,1-Lubbock,Family Preservation,0
+Oldham,2016,1-Lubbock,Investigation,1
+Orange,2016,5-Beaumont,Family Preservation,13
+Orange,2016,5-Beaumont,Investigation,108
+Out of State,2016,Out of State,Family Preservation,0
+Out of State,2016,Out of State,Investigation,1
+Palo Pinto,2016,3-Arlington,Family Preservation,32
+Palo Pinto,2016,3-Arlington,Investigation,53
+Panola,2016,4-Tyler,Family Preservation,13
+Panola,2016,4-Tyler,Investigation,27
+Parker,2016,3-Arlington,Family Preservation,42
+Parker,2016,3-Arlington,Investigation,78
+Parmer,2016,1-Lubbock,Family Preservation,0
+Parmer,2016,1-Lubbock,Investigation,7
+Pecos,2016,9-Midland,Family Preservation,4
+Pecos,2016,9-Midland,Investigation,3
+Polk,2016,5-Beaumont,Family Preservation,6
+Polk,2016,5-Beaumont,Investigation,46
+Potter,2016,1-Lubbock,Family Preservation,12
+Potter,2016,1-Lubbock,Investigation,128
+Rains,2016,4-Tyler,Family Preservation,0
+Rains,2016,4-Tyler,Investigation,15
+Randall,2016,1-Lubbock,Family Preservation,9
+Randall,2016,1-Lubbock,Investigation,77
+Reagan,2016,9-Midland,Family Preservation,0
+Reagan,2016,9-Midland,Investigation,2
+Real,2016,8-San Antonio,Family Preservation,0
+Real,2016,8-San Antonio,Investigation,4
+Red River,2016,4-Tyler,Family Preservation,4
+Red River,2016,4-Tyler,Investigation,20
+Reeves,2016,9-Midland,Family Preservation,2
+Reeves,2016,9-Midland,Investigation,9
+Refugio,2016,11-Edinburg,Family Preservation,2
+Refugio,2016,11-Edinburg,Investigation,3
+Robertson,2016,7-Austin,Family Preservation,3
+Robertson,2016,7-Austin,Investigation,7
+Rockwall,2016,3-Arlington,Family Preservation,2
+Rockwall,2016,3-Arlington,Investigation,19
+Runnels,2016,2-Abilene,Family Preservation,1
+Runnels,2016,2-Abilene,Investigation,4
+Rusk,2016,4-Tyler,Family Preservation,24
+Rusk,2016,4-Tyler,Investigation,55
+Sabine,2016,5-Beaumont,Family Preservation,4
+Sabine,2016,5-Beaumont,Investigation,3
+San Augustine,2016,5-Beaumont,Family Preservation,0
+San Augustine,2016,5-Beaumont,Investigation,4
+San Jacinto,2016,5-Beaumont,Family Preservation,3
+San Jacinto,2016,5-Beaumont,Investigation,25
+San Patricio,2016,11-Edinburg,Family Preservation,17
+San Patricio,2016,11-Edinburg,Investigation,49
+San Saba,2016,7-Austin,Family Preservation,2
+San Saba,2016,7-Austin,Investigation,16
+Schleicher,2016,9-Midland,Family Preservation,2
+Schleicher,2016,9-Midland,Investigation,3
+Scurry,2016,2-Abilene,Family Preservation,7
+Scurry,2016,2-Abilene,Investigation,14
+Shackelford,2016,2-Abilene,Family Preservation,0
+Shackelford,2016,2-Abilene,Investigation,3
+Shelby,2016,5-Beaumont,Family Preservation,7
+Shelby,2016,5-Beaumont,Investigation,23
+Sherman,2016,1-Lubbock,Family Preservation,1
+Sherman,2016,1-Lubbock,Investigation,5
+Smith,2016,4-Tyler,Family Preservation,33
+Smith,2016,4-Tyler,Investigation,137
+Somervell,2016,3-Arlington,Family Preservation,0
+Somervell,2016,3-Arlington,Investigation,13
+Starr,2016,11-Edinburg,Family Preservation,14
+Starr,2016,11-Edinburg,Investigation,1
+Stephens,2016,2-Abilene,Family Preservation,5
+Stephens,2016,2-Abilene,Investigation,2
+Sterling,2016,9-Midland,Family Preservation,0
+Sterling,2016,9-Midland,Investigation,4
+Sutton,2016,9-Midland,Family Preservation,1
+Sutton,2016,9-Midland,Investigation,8
+Swisher,2016,1-Lubbock,Family Preservation,0
+Swisher,2016,1-Lubbock,Investigation,7
+Tarrant,2016,3-Arlington,Family Preservation,102
+Tarrant,2016,3-Arlington,Investigation,607
+Taylor,2016,2-Abilene,Family Preservation,75
+Taylor,2016,2-Abilene,Investigation,184
+Terry,2016,1-Lubbock,Family Preservation,0
+Terry,2016,1-Lubbock,Investigation,12
+Titus,2016,4-Tyler,Family Preservation,3
+Titus,2016,4-Tyler,Investigation,38
+Tom Green,2016,9-Midland,Family Preservation,51
+Tom Green,2016,9-Midland,Investigation,106
+Travis,2016,7-Austin,Family Preservation,187
+Travis,2016,7-Austin,Investigation,574
+Trinity,2016,5-Beaumont,Family Preservation,6
+Trinity,2016,5-Beaumont,Investigation,15
+Tyler,2016,5-Beaumont,Family Preservation,0
+Tyler,2016,5-Beaumont,Investigation,9
+Unknown,2016,Unknown,Family Preservation,0
+Unknown,2016,Unknown,Investigation,5
+Upshur,2016,4-Tyler,Family Preservation,7
+Upshur,2016,4-Tyler,Investigation,45
+Upton,2016,9-Midland,Family Preservation,0
+Upton,2016,9-Midland,Investigation,2
+Uvalde,2016,8-San Antonio,Family Preservation,6
+Uvalde,2016,8-San Antonio,Investigation,34
+Val Verde,2016,8-San Antonio,Family Preservation,3
+Val Verde,2016,8-San Antonio,Investigation,18
+Van Zandt,2016,4-Tyler,Family Preservation,18
+Van Zandt,2016,4-Tyler,Investigation,92
+Victoria,2016,8-San Antonio,Family Preservation,32
+Victoria,2016,8-San Antonio,Investigation,23
+Walker,2016,6-Houston,Family Preservation,2
+Walker,2016,6-Houston,Investigation,15
+Waller,2016,6-Houston,Family Preservation,11
+Waller,2016,6-Houston,Investigation,24
+Ward,2016,9-Midland,Family Preservation,8
+Ward,2016,9-Midland,Investigation,4
+Washington,2016,7-Austin,Family Preservation,2
+Washington,2016,7-Austin,Investigation,25
+Webb,2016,11-Edinburg,Family Preservation,50
+Webb,2016,11-Edinburg,Investigation,110
+Wharton,2016,6-Houston,Family Preservation,8
+Wharton,2016,6-Houston,Investigation,17
+Wheeler,2016,1-Lubbock,Family Preservation,3
+Wheeler,2016,1-Lubbock,Investigation,1
+Wichita,2016,2-Abilene,Family Preservation,35
+Wichita,2016,2-Abilene,Investigation,101
+Wilbarger,2016,2-Abilene,Family Preservation,0
+Wilbarger,2016,2-Abilene,Investigation,8
+Willacy,2016,11-Edinburg,Family Preservation,11
+Willacy,2016,11-Edinburg,Investigation,12
+Williamson,2016,7-Austin,Family Preservation,57
+Williamson,2016,7-Austin,Investigation,130
+Wilson,2016,8-San Antonio,Family Preservation,7
+Wilson,2016,8-San Antonio,Investigation,17
+Winkler,2016,9-Midland,Family Preservation,8
+Winkler,2016,9-Midland,Investigation,3
+Wise,2016,3-Arlington,Family Preservation,10
+Wise,2016,3-Arlington,Investigation,52
+Wood,2016,4-Tyler,Family Preservation,17
+Wood,2016,4-Tyler,Investigation,30
+Yoakum,2016,1-Lubbock,Family Preservation,0
+Yoakum,2016,1-Lubbock,Investigation,1
+Young,2016,2-Abilene,Family Preservation,5
+Young,2016,2-Abilene,Investigation,11
+Zapata,2016,11-Edinburg,Family Preservation,0
+Zapata,2016,11-Edinburg,Investigation,3
+Zavala,2016,8-San Antonio,Family Preservation,7
+Zavala,2016,8-San Antonio,Investigation,4

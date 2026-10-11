@@ -1,0 +1,2402 @@
+children,county,fiscal_year,region
+41,Houston,2023,5-Beaumont
+58,Maverick,2021,8-San Antonio
+9,Hartley,2023,1-Lubbock
+10,Yoakum,2022,1-Lubbock
+91,Aransas,2016,11-Edinburg
+14,Andrews,2025,9-Midland
+359,Hunt,2019,3-Arlington
+40,Stephens,2022,2-Abilene
+29,DeWitt,2024,8-San Antonio
+17,Garza,2016,1-Lubbock
+35,Llano,2025,7-Austin
+34,Ward,2017,9-Midland
+438,Williamson,2017,7-Austin
+25,Crockett,2020,9-Midland
+791,Lubbock,2022,1-Lubbock
+382,Wichita,2019,2-Abilene
+630,El Paso,2016,10-El Paso
+5,Franklin,2024,4-Tyler
+56,Freestone,2019,7-Austin
+5,Hall,2025,1-Lubbock
+219,Henderson,2023,4-Tyler
+499,Smith,2019,4-Tyler
+3505,Bexar,2023,8-San Antonio
+170,Lamar,2016,4-Tyler
+1,Kenedy,2025,11-Edinburg
+50,Grimes,2017,7-Austin
+112,Victoria,2024,8-San Antonio
+10,Collingsworth,2019,1-Lubbock
+237,Angelina,2017,5-Beaumont
+94,Starr,2017,11-Edinburg
+8,Hardeman,2018,2-Abilene
+35,Ochiltree,2019,1-Lubbock
+37,Tyler,2016,5-Beaumont
+25,Brooks,2016,11-Edinburg
+523,Montgomery,2022,6-Houston
+62,Kerr,2024,8-San Antonio
+36,Runnels,2019,2-Abilene
+213,Victoria,2016,8-San Antonio
+36,McCulloch,2017,9-Midland
+59,Starr,2016,11-Edinburg
+56,Frio,2024,8-San Antonio
+114,Hill,2020,7-Austin
+214,Victoria,2020,8-San Antonio
+13,Donley,2021,1-Lubbock
+42,Comanche,2019,2-Abilene
+145,Hill,2019,7-Austin
+1,Hansford,2023,1-Lubbock
+6,Wheeler,2024,1-Lubbock
+196,Lamar,2018,4-Tyler
+232,Fort Bend,2020,6-Houston
+14,Madison,2025,7-Austin
+267,Fort Bend,2019,6-Houston
+5,Kinney,2019,8-San Antonio
+47,Mitchell,2020,2-Abilene
+3,Stonewall,2019,2-Abilene
+42,Shelby,2022,5-Beaumont
+26,Blanco,2017,7-Austin
+1,Crane,2025,9-Midland
+135,Hill,2017,7-Austin
+395,Potter,2023,1-Lubbock
+95,Kerr,2021,8-San Antonio
+223,Cooke,2018,3-Arlington
+436,Jefferson,2024,5-Beaumont
+16,Somervell,2020,3-Arlington
+187,Grayson,2023,3-Arlington
+71,Rusk,2023,4-Tyler
+10,Parmer,2017,1-Lubbock
+22,Jack,2019,2-Abilene
+1143,Lubbock,2020,1-Lubbock
+6,Dickens,2022,1-Lubbock
+7,Sherman,2022,1-Lubbock
+28,Madison,2021,7-Austin
+91,Titus,2019,4-Tyler
+26,Dimmit,2024,8-San Antonio
+907,McLennan,2017,7-Austin
+5,Delta,2025,4-Tyler
+15,Archer,2022,2-Abilene
+558,McLennan,2024,7-Austin
+4,Hansford,2021,1-Lubbock
+9,Culberson,2022,10-El Paso
+41,Jack,2017,2-Abilene
+66,Milam,2025,7-Austin
+6,Culberson,2017,10-El Paso
+10,Sutton,2022,9-Midland
+3,Stonewall,2022,2-Abilene
+13,Upton,2017,9-Midland
+33,Lee,2023,7-Austin
+57,Nolan,2023,2-Abilene
+122,Medina,2021,8-San Antonio
+10,Sherman,2023,1-Lubbock
+120,Van Zandt,2024,4-Tyler
+7,Foard,2021,2-Abilene
+283,Williamson,2022,7-Austin
+38,Red River,2020,4-Tyler
+264,Guadalupe,2016,8-San Antonio
+27,Swisher,2018,1-Lubbock
+256,Randall,2021,1-Lubbock
+32,Crosby,2020,1-Lubbock
+31,Kendall,2020,8-San Antonio
+2,Out of State,2017,Out of State
+72,Rockwall,2022,3-Arlington
+157,Rusk,2018,4-Tyler
+33,Reeves,2020,9-Midland
+455,Comal,2016,8-San Antonio
+4626,Dallas,2016,3-Arlington
+327,Hunt,2020,3-Arlington
+22,Trinity,2025,5-Beaumont
+559,Montgomery,2016,6-Houston
+20,Gillespie,2023,8-San Antonio
+39,Zapata,2021,11-Edinburg
+113,Wise,2024,3-Arlington
+39,Waller,2021,6-Houston
+12,Baylor,2018,2-Abilene
+164,Brazoria,2024,6-Houston
+477,Tom Green,2017,9-Midland
+127,Starr,2019,11-Edinburg
+6,Oldham,2020,1-Lubbock
+338,Randall,2019,1-Lubbock
+30,Ward,2018,9-Midland
+104,Robertson,2022,7-Austin
+100,Nacogdoches,2024,5-Beaumont
+547,Tom Green,2020,9-Midland
+36,Wilbarger,2025,2-Abilene
+45,Zavala,2021,8-San Antonio
+19,Carson,2020,1-Lubbock
+457,Webb,2021,11-Edinburg
+80,Milam,2024,7-Austin
+86,Midland,2025,9-Midland
+207,Midland,2019,9-Midland
+29,Blanco,2020,7-Austin
+12,Clay,2024,2-Abilene
+22,Crockett,2016,9-Midland
+97,Bee,2020,11-Edinburg
+42,Young,2023,2-Abilene
+1,Foard,2017,2-Abilene
+18,Gillespie,2020,8-San Antonio
+20,Gillespie,2019,8-San Antonio
+48,Eastland,2016,2-Abilene
+39,Gillespie,2016,8-San Antonio
+213,Van Zandt,2017,4-Tyler
+4858,Bexar,2021,8-San Antonio
+56,Polk,2024,5-Beaumont
+65,Comanche,2024,2-Abilene
+45,Dawson,2018,9-Midland
+22,Grimes,2023,7-Austin
+354,Ector,2018,9-Midland
+11,Shackelford,2016,2-Abilene
+40,Bosque,2023,7-Austin
+36,Moore,2024,1-Lubbock
+92,Walker,2019,6-Houston
+4,Cochran,2016,1-Lubbock
+33,Leon,2022,7-Austin
+24,Brooks,2019,11-Edinburg
+5,Brewster,2021,10-El Paso
+3,Knox,2023,2-Abilene
+13,Fisher,2022,2-Abilene
+410,Hays,2018,7-Austin
+36,Marion,2016,4-Tyler
+21,Swisher,2016,1-Lubbock
+399,El Paso,2024,10-El Paso
+4,Motley,2020,1-Lubbock
+7,Sherman,2018,1-Lubbock
+88,Gray,2020,1-Lubbock
+34,Moore,2025,1-Lubbock
+154,Milam,2016,7-Austin
+23,Lynn,2022,1-Lubbock
+332,Williamson,2023,7-Austin
+121,Lampasas,2021,7-Austin
+95,Ellis,2022,3-Arlington
+117,Polk,2018,5-Beaumont
+59,Grimes,2019,7-Austin
+648,El Paso,2017,10-El Paso
+9,Kimble,2021,9-Midland
+485,Smith,2017,4-Tyler
+9,Collingsworth,2022,1-Lubbock
+203,Angelina,2021,5-Beaumont
+49,Gaines,2019,9-Midland
+6,Refugio,2016,11-Edinburg
+117,Houston,2018,5-Beaumont
+3768,Dallas,2020,3-Arlington
+531,McLennan,2025,7-Austin
+95,Waller,2018,6-Houston
+773,Nueces,2019,11-Edinburg
+140,Midland,2022,9-Midland
+24,Maverick,2016,8-San Antonio
+104,Aransas,2017,11-Edinburg
+30,Deaf Smith,2023,1-Lubbock
+433,Webb,2018,11-Edinburg
+598,El Paso,2021,10-El Paso
+34,Walker,2024,6-Houston
+13,Castro,2023,1-Lubbock
+197,Johnson,2022,3-Arlington
+32,Freestone,2024,7-Austin
+63,Hardin,2017,5-Beaumont
+112,Hood,2021,3-Arlington
+16,Reeves,2018,9-Midland
+48,Lee,2017,7-Austin
+88,Cooke,2022,3-Arlington
+24,Kimble,2019,9-Midland
+5,Floyd,2025,1-Lubbock
+42,Zavala,2023,8-San Antonio
+88,Shelby,2016,5-Beaumont
+97,Kleberg,2016,11-Edinburg
+10,Live Oak,2023,11-Edinburg
+26,Castro,2016,1-Lubbock
+199,Lamar,2021,4-Tyler
+1064,Denton,2019,3-Arlington
+26,Jack,2020,2-Abilene
+250,Burnet,2018,7-Austin
+187,Harrison,2017,4-Tyler
+4,Garza,2018,1-Lubbock
+1,Sterling,2021,9-Midland
+3640,Harris,2021,6-Houston
+4892,Harris,2019,6-Houston
+34,Dallam,2023,1-Lubbock
+45,Caldwell,2024,7-Austin
+170,Orange,2023,5-Beaumont
+41,Camp,2017,4-Tyler
+28,Washington,2025,7-Austin
+29,Uvalde,2022,8-San Antonio
+167,Fort Bend,2022,6-Houston
+61,San Jacinto,2016,5-Beaumont
+49,Moore,2020,1-Lubbock
+4,Fisher,2023,2-Abilene
+201,Atascosa,2017,8-San Antonio
+60,Palo Pinto,2025,3-Arlington
+74,Kleberg,2019,11-Edinburg
+46,Marion,2019,4-Tyler
+104,Nolan,2021,2-Abilene
+65,Duval,2022,11-Edinburg
+67,Moore,2021,1-Lubbock
+2984,Harris,2022,6-Houston
+243,Bastrop,2020,7-Austin
+20,Colorado,2018,6-Houston
+73,Washington,2022,7-Austin
+128,Fannin,2018,3-Arlington
+9,Wheeler,2018,1-Lubbock
+174,Kerr,2016,8-San Antonio
+6,Yoakum,2019,1-Lubbock
+31,Kimble,2018,9-Midland
+308,Grayson,2019,3-Arlington
+148,Caldwell,2017,7-Austin
+5,Floyd,2022,1-Lubbock
+18,Jim Hogg,2022,11-Edinburg
+77,Frio,2022,8-San Antonio
+279,Johnson,2020,3-Arlington
+295,Gregg,2023,4-Tyler
+172,Nacogdoches,2022,5-Beaumont
+52,Calhoun,2019,8-San Antonio
+56,Medina,2024,8-San Antonio
+547,Webb,2016,11-Edinburg
+34,Camp,2022,4-Tyler
+31,Walker,2025,6-Houston
+2,McMullen,2019,11-Edinburg
+9,Oldham,2019,1-Lubbock
+24,Hamilton,2016,7-Austin
+16,Bailey,2023,1-Lubbock
+245,Gregg,2024,4-Tyler
+100,Matagorda,2018,6-Houston
+13,Parmer,2016,1-Lubbock
+81,Waller,2016,6-Houston
+155,San Patricio,2016,11-Edinburg
+16,Reeves,2017,9-Midland
+389,Williamson,2020,7-Austin
+9,Oldham,2018,1-Lubbock
+245,Parker,2017,3-Arlington
+37,Dallam,2022,1-Lubbock
+21,Calhoun,2025,8-San Antonio
+93,Llano,2017,7-Austin
+25,Fannin,2025,3-Arlington
+29,Reeves,2016,9-Midland
+40,Bosque,2024,7-Austin
+35,McCulloch,2019,9-Midland
+34,Calhoun,2022,8-San Antonio
+1998,Tarrant,2017,3-Arlington
+34,Callahan,2018,2-Abilene
+30,Zapata,2017,11-Edinburg
+4,Foard,2018,2-Abilene
+123,Fort Bend,2024,6-Houston
+12,Mason,2020,9-Midland
+34,Blanco,2019,7-Austin
+1,Armstrong,2019,1-Lubbock
+221,Cherokee,2017,4-Tyler
+121,Lampasas,2020,7-Austin
+107,Fannin,2019,3-Arlington
+56,Cass,2019,4-Tyler
+7,Crane,2020,9-Midland
+1,Edwards,2019,8-San Antonio
+281,Montgomery,2025,6-Houston
+1,Presidio,2021,10-El Paso
+109,Hill,2025,7-Austin
+139,Bee,2016,11-Edinburg
+25,Brooks,2017,11-Edinburg
+10,Mason,2022,9-Midland
+73,Deaf Smith,2016,1-Lubbock
+5,Culberson,2018,10-El Paso
+8,Hall,2024,1-Lubbock
+20,Sabine,2024,5-Beaumont
+21,Morris,2023,4-Tyler
+8,Hemphill,2024,1-Lubbock
+30,Live Oak,2016,11-Edinburg
+40,Ward,2025,9-Midland
+66,Dimmit,2016,8-San Antonio
+56,Cass,2025,4-Tyler
+43,Callahan,2025,2-Abilene
+2,Oldham,2022,1-Lubbock
+13,Fisher,2025,2-Abilene
+117,Milam,2022,7-Austin
+47,Zavala,2022,8-San Antonio
+30,Wilbarger,2019,2-Abilene
+448,Gregg,2017,4-Tyler
+442,Jefferson,2017,5-Beaumont
+533,Denton,2023,3-Arlington
+32,Trinity,2024,5-Beaumont
+71,Shelby,2020,5-Beaumont
+13,Newton,2024,5-Beaumont
+43,Tyler,2023,5-Beaumont
+7,Archer,2024,2-Abilene
+54,Fayette,2020,7-Austin
+95,San Patricio,2024,11-Edinburg
+28,Lamb,2023,1-Lubbock
+11,Hemphill,2017,1-Lubbock
+84,Hood,2025,3-Arlington
+34,Waller,2022,6-Houston
+225,Guadalupe,2019,8-San Antonio
+62,Freestone,2020,7-Austin
+36,Terry,2021,1-Lubbock
+25,Ochiltree,2021,1-Lubbock
+6,Concho,2019,9-Midland
+715,Cameron,2016,11-Edinburg
+283,Coryell,2018,7-Austin
+54,Gaines,2018,9-Midland
+209,Johnson,2023,3-Arlington
+12,Runnels,2024,2-Abilene
+2,Hansford,2025,1-Lubbock
+15,Crane,2017,9-Midland
+204,Brazoria,2023,6-Houston
+192,Comal,2024,8-San Antonio
+52,Val Verde,2018,8-San Antonio
+482,Williamson,2016,7-Austin
+33,Maverick,2019,8-San Antonio
+42,Bandera,2016,8-San Antonio
+230,Anderson,2020,4-Tyler
+484,Gregg,2020,4-Tyler
+507,Gregg,2019,4-Tyler
+15,Hemphill,2016,1-Lubbock
+63,Wood,2025,4-Tyler
+118,Cherokee,2025,4-Tyler
+35,Coleman,2024,2-Abilene
+47,Scurry,2016,2-Abilene
+4,Hansford,2018,1-Lubbock
+149,Fort Bend,2023,6-Houston
+2,Foard,2025,2-Abilene
+45,Cass,2024,4-Tyler
+22,Hall,2018,1-Lubbock
+280,Nacogdoches,2020,5-Beaumont
+91,Titus,2018,4-Tyler
+232,Bastrop,2019,7-Austin
+62,Montague,2022,2-Abilene
+23,Dawson,2022,9-Midland
+708,Nueces,2023,11-Edinburg
+162,Bee,2019,11-Edinburg
+147,Howard,2016,9-Midland
+4,Briscoe,2021,1-Lubbock
+38,Fannin,2023,3-Arlington
+73,Jones,2018,2-Abilene
+78,Falls,2021,7-Austin
+408,Henderson,2019,4-Tyler
+14,Reeves,2024,9-Midland
+9,Fisher,2024,2-Abilene
+53,Hale,2025,1-Lubbock
+191,Randall,2024,1-Lubbock
+15,Goliad,2021,8-San Antonio
+4,Sterling,2016,9-Midland
+27,Lavaca,2025,8-San Antonio
+49,Bandera,2017,8-San Antonio
+131,Orange,2025,5-Beaumont
+28,Leon,2016,7-Austin
+71,Panola,2018,4-Tyler
+138,Anderson,2022,4-Tyler
+105,Hopkins,2019,4-Tyler
+15,Mason,2018,9-Midland
+33,Duval,2017,11-Edinburg
+64,Shelby,2019,5-Beaumont
+446,Galveston,2019,6-Houston
+111,Harrison,2022,4-Tyler
+47,Dallam,2020,1-Lubbock
+44,McCulloch,2021,9-Midland
+230,Bowie,2017,4-Tyler
+4,Foard,2019,2-Abilene
+4,Cochran,2018,1-Lubbock
+161,Jim Wells,2018,11-Edinburg
+4,Hudspeth,2017,10-El Paso
+54,Freestone,2018,7-Austin
+13,San Saba,2024,7-Austin
+5,Ochiltree,2025,1-Lubbock
+36,Mitchell,2019,2-Abilene
+840,Travis,2023,7-Austin
+5,Collingsworth,2023,1-Lubbock
+95,Harrison,2023,4-Tyler
+50,Nolan,2016,2-Abilene
+239,Angelina,2018,5-Beaumont
+28,Coleman,2023,2-Abilene
+41,Aransas,2023,11-Edinburg
+78,Panola,2017,4-Tyler
+236,Van Zandt,2016,4-Tyler
+40,Newton,2017,5-Beaumont
+33,Franklin,2016,4-Tyler
+156,Palo Pinto,2021,3-Arlington
+17,Colorado,2019,6-Houston
+142,Bee,2017,11-Edinburg
+32,Mitchell,2018,2-Abilene
+94,Hale,2019,1-Lubbock
+11,Crane,2016,9-Midland
+208,Angelina,2016,5-Beaumont
+443,Webb,2020,11-Edinburg
+86,Comanche,2025,2-Abilene
+42,Wilbarger,2020,2-Abilene
+211,Brown,2016,2-Abilene
+41,Coleman,2020,2-Abilene
+12,Archer,2021,2-Abilene
+253,Parker,2021,3-Arlington
+28,Zapata,2019,11-Edinburg
+50,Scurry,2018,2-Abilene
+73,Matagorda,2024,6-Houston
+11,Kinney,2021,8-San Antonio
+21,Gillespie,2024,8-San Antonio
+33,Trinity,2022,5-Beaumont
+114,Coryell,2024,7-Austin
+140,Llano,2021,7-Austin
+64,Robertson,2019,7-Austin
+128,Brazos,2017,7-Austin
+96,Hardin,2023,5-Beaumont
+1,Briscoe,2017,1-Lubbock
+48,Andrews,2020,9-Midland
+6,Shackelford,2017,2-Abilene
+57,Howard,2023,9-Midland
+13,Grimes,2025,7-Austin
+34,DeWitt,2022,8-San Antonio
+47,Lampasas,2016,7-Austin
+2,Hartley,2018,1-Lubbock
+62,San Jacinto,2017,5-Beaumont
+1233,Travis,2022,7-Austin
+46,Bandera,2020,8-San Antonio
+43,Dimmit,2020,8-San Antonio
+103,Hopkins,2020,4-Tyler
+69,Fannin,2022,3-Arlington
+193,Rusk,2016,4-Tyler
+14,Goliad,2017,8-San Antonio
+217,Burnet,2017,7-Austin
+409,Ector,2020,9-Midland
+231,Burnet,2019,7-Austin
+12,Floyd,2020,1-Lubbock
+1958,Tarrant,2016,3-Arlington
+3,Fisher,2016,2-Abilene
+201,Randall,2025,1-Lubbock
+46,Moore,2023,1-Lubbock
+13,Archer,2023,2-Abilene
+114,Milam,2021,7-Austin
+1,Throckmorton,2019,2-Abilene
+3,Stonewall,2021,2-Abilene
+515,Williamson,2019,7-Austin
+4,Dickens,2016,1-Lubbock
+1872,Travis,2016,7-Austin
+790,Bell,2025,7-Austin
+11,Franklin,2025,4-Tyler
+20,Jim Hogg,2023,11-Edinburg
+74,Andrews,2019,9-Midland
+162,Anderson,2016,4-Tyler
+15,Parmer,2020,1-Lubbock
+30,Karnes,2025,8-San Antonio
+162,Tom Green,2025,9-Midland
+36,Rains,2017,4-Tyler
+219,Bastrop,2021,7-Austin
+32,Burleson,2023,7-Austin
+1,Cottle,2025,2-Abilene
+80,Wilson,2021,8-San Antonio
+2,Mason,2016,9-Midland
+3,Castro,2025,1-Lubbock
+5893,Harris,2017,6-Houston
+112,Hill,2023,7-Austin
+48,Robertson,2018,7-Austin
+63,Burleson,2016,7-Austin
+98,Kerr,2019,8-San Antonio
+29,Dimmit,2023,8-San Antonio
+2,Terrell,2018,9-Midland
+199,Johnson,2024,3-Arlington
+45,Bee,2025,11-Edinburg
+29,Ward,2024,9-Midland
+119,Houston,2016,5-Beaumont
+83,Hockley,2021,1-Lubbock
+381,Henderson,2018,4-Tyler
+200,Orange,2022,5-Beaumont
+88,Brown,2024,2-Abilene
+73,Washington,2019,7-Austin
+247,Galveston,2025,6-Houston
+25,Lavaca,2018,8-San Antonio
+113,Van Zandt,2025,4-Tyler
+54,Burleson,2017,7-Austin
+9,Parmer,2024,1-Lubbock
+62,Eastland,2024,2-Abilene
+38,Rains,2018,4-Tyler
+663,Lubbock,2023,1-Lubbock
+22,Franklin,2018,4-Tyler
+9,Irion,2019,9-Midland
+11,Menard,2020,9-Midland
+65,Hockley,2016,1-Lubbock
+49,Lee,2022,7-Austin
+28,Runnels,2020,2-Abilene
+7,Real,2020,8-San Antonio
+28,Falls,2016,7-Austin
+20,Floyd,2017,1-Lubbock
+21,Winkler,2018,9-Midland
+4,Upton,2023,9-Midland
+8,Archer,2018,2-Abilene
+16,Marion,2024,4-Tyler
+229,Brown,2022,2-Abilene
+278,Brown,2020,2-Abilene
+265,Randall,2016,1-Lubbock
+33,Jack,2018,2-Abilene
+5,Kinney,2023,8-San Antonio
+12,Schleicher,2016,9-Midland
+20,Newton,2020,5-Beaumont
+716,Denton,2022,3-Arlington
+90,Rockwall,2018,3-Arlington
+411,Wichita,2020,2-Abilene
+16,Hamilton,2017,7-Austin
+1850,Travis,2019,7-Austin
+183,Palo Pinto,2019,3-Arlington
+50,Eastland,2023,2-Abilene
+57,Cass,2020,4-Tyler
+168,Cherokee,2022,4-Tyler
+55,Trinity,2018,5-Beaumont
+8,Hemphill,2025,1-Lubbock
+8,Delta,2017,4-Tyler
+45,San Saba,2016,7-Austin
+94,Polk,2022,5-Beaumont
+18,Lynn,2024,1-Lubbock
+6,Winkler,2025,9-Midland
+4568,Dallas,2019,3-Arlington
+29,Chambers,2020,6-Houston
+8,Sherman,2017,1-Lubbock
+17,Lamb,2025,1-Lubbock
+4,Wheeler,2020,1-Lubbock
+75,Lampasas,2018,7-Austin
+183,Harrison,2018,4-Tyler
+470,Smith,2018,4-Tyler
+140,Medina,2017,8-San Antonio
+445,Tom Green,2018,9-Midland
+2,McMullen,2020,11-Edinburg
+4,Coke,2023,9-Midland
+802,Montgomery,2019,6-Houston
+500,Hays,2020,7-Austin
+1,Hudspeth,2020,10-El Paso
+20,Waller,2025,6-Houston
+9,Crosby,2024,1-Lubbock
+14,Franklin,2022,4-Tyler
+33,Chambers,2021,6-Houston
+45,Calhoun,2021,8-San Antonio
+109,Victoria,2025,8-San Antonio
+8,Cottle,2024,2-Abilene
+10,Wheeler,2016,1-Lubbock
+587,Potter,2020,1-Lubbock
+63,San Jacinto,2018,5-Beaumont
+77,Burleson,2018,7-Austin
+7,Throckmorton,2020,2-Abilene
+367,Collin,2025,3-Arlington
+155,Henderson,2024,4-Tyler
+220,Angelina,2024,5-Beaumont
+18,San Augustine,2023,5-Beaumont
+3,Culberson,2020,10-El Paso
+792,Nueces,2022,11-Edinburg
+25,Sabine,2023,5-Beaumont
+98,Walker,2018,6-Houston
+24,Marion,2023,4-Tyler
+108,Bowie,2023,4-Tyler
+6,Sherman,2020,1-Lubbock
+21,Terry,2025,1-Lubbock
+63,Hockley,2022,1-Lubbock
+13,Live Oak,2024,11-Edinburg
+44,Karnes,2021,8-San Antonio
+1,Hemphill,2021,1-Lubbock
+36,Leon,2023,7-Austin
+18,Floyd,2016,1-Lubbock
+146,Caldwell,2020,7-Austin
+3,Borden,2020,9-Midland
+94,Ellis,2024,3-Arlington
+22,La Salle,2024,8-San Antonio
+6,Edwards,2016,8-San Antonio
+54,Falls,2022,7-Austin
+17,Castro,2019,1-Lubbock
+6,Menard,2016,9-Midland
+18,Castro,2022,1-Lubbock
+73,Navarro,2020,3-Arlington
+55,Nolan,2025,2-Abilene
+136,San Patricio,2021,11-Edinburg
+84,Lampasas,2019,7-Austin
+540,Williamson,2018,7-Austin
+68,Fayette,2021,7-Austin
+391,Smith,2024,4-Tyler
+228,Liberty,2019,6-Houston
+34,Bailey,2019,1-Lubbock
+54,Hutchinson,2024,1-Lubbock
+76,Burleson,2021,7-Austin
+2612,Harris,2023,6-Houston
+404,Webb,2022,11-Edinburg
+43,Newton,2016,5-Beaumont
+34,Montague,2024,2-Abilene
+216,Midland,2016,9-Midland
+177,Angelina,2025,5-Beaumont
+47,Erath,2020,3-Arlington
+490,Hays,2019,7-Austin
+9,Mills,2025,7-Austin
+36,San Jacinto,2022,5-Beaumont
+19,Brooks,2025,11-Edinburg
+6,Menard,2019,9-Midland
+3,Kinney,2018,8-San Antonio
+14,Baylor,2022,2-Abilene
+17,Garza,2021,1-Lubbock
+30,Newton,2022,5-Beaumont
+16,Mills,2021,7-Austin
+133,Wise,2020,3-Arlington
+757,Taylor,2021,2-Abilene
+1,Knox,2019,2-Abilene
+2,Jeff Davis,2019,10-El Paso
+11,Winkler,2022,9-Midland
+17,Castro,2017,1-Lubbock
+71,Harrison,2024,4-Tyler
+106,Guadalupe,2025,8-San Antonio
+57,Coleman,2018,2-Abilene
+414,Comal,2018,8-San Antonio
+49,Panola,2024,4-Tyler
+1016,McLennan,2018,7-Austin
+16,Andrews,2023,9-Midland
+2050,Dallas,2024,3-Arlington
+39,Walker,2022,6-Houston
+113,Frio,2017,8-San Antonio
+10,Menard,2017,9-Midland
+69,Matagorda,2017,6-Houston
+18,Sabine,2020,5-Beaumont
+99,Frio,2021,8-San Antonio
+6,Foard,2023,2-Abilene
+18,Chambers,2024,6-Houston
+7,Parmer,2022,1-Lubbock
+26,Madison,2024,7-Austin
+16,Ochiltree,2016,1-Lubbock
+4,Dickens,2017,1-Lubbock
+40,Trinity,2021,5-Beaumont
+8,Martin,2024,9-Midland
+346,Coryell,2021,7-Austin
+153,Burnet,2016,7-Austin
+10,Coke,2016,9-Midland
+80,Lampasas,2017,7-Austin
+624,Taylor,2025,2-Abilene
+321,Hays,2016,7-Austin
+24,Hamilton,2020,7-Austin
+58,Val Verde,2022,8-San Antonio
+22,Lavaca,2022,8-San Antonio
+333,Webb,2024,11-Edinburg
+283,Orange,2020,5-Beaumont
+31,Morris,2017,4-Tyler
+77,Hale,2022,1-Lubbock
+193,Palo Pinto,2018,3-Arlington
+105,Tyler,2019,5-Beaumont
+203,Parker,2023,3-Arlington
+4209,Bexar,2022,8-San Antonio
+865,Taylor,2019,2-Abilene
+73,Hutchinson,2020,1-Lubbock
+19,Real,2016,8-San Antonio
+52,Scurry,2019,2-Abilene
+38,Lamb,2020,1-Lubbock
+4,Motley,2025,1-Lubbock
+21,Fayette,2023,7-Austin
+42,Jones,2023,2-Abilene
+412,Wichita,2018,2-Abilene
+110,Hardin,2018,5-Beaumont
+2,Floyd,2023,1-Lubbock
+34,Fayette,2025,7-Austin
+83,Wharton,2017,6-Houston
+520,Smith,2022,4-Tyler
+11,Jack,2024,2-Abilene
+4,Delta,2023,4-Tyler
+631,Taylor,2022,2-Abilene
+81,Wilson,2019,8-San Antonio
+15,Jim Hogg,2021,11-Edinburg
+40,Brooks,2021,11-Edinburg
+22,Kimble,2017,9-Midland
+27,Refugio,2019,11-Edinburg
+103,Montague,2016,2-Abilene
+79,Ellis,2021,3-Arlington
+69,Kerr,2022,8-San Antonio
+33,Morris,2016,4-Tyler
+13,Rains,2025,4-Tyler
+61,Gray,2016,1-Lubbock
+24,Zavala,2018,8-San Antonio
+4735,Dallas,2018,3-Arlington
+73,Burnet,2025,7-Austin
+24,Haskell,2018,2-Abilene
+80,Matagorda,2023,6-Houston
+19,Callahan,2016,2-Abilene
+23,Red River,2024,4-Tyler
+47,Hale,2024,1-Lubbock
+58,Washington,2020,7-Austin
+721,Nueces,2024,11-Edinburg
+465,Galveston,2016,6-Houston
+17,Carson,2017,1-Lubbock
+32,Terry,2018,1-Lubbock
+1,Dickens,2024,1-Lubbock
+106,Rockwall,2019,3-Arlington
+211,Van Zandt,2021,4-Tyler
+40,San Jacinto,2025,5-Beaumont
+73,Matagorda,2025,6-Houston
+103,Hood,2020,3-Arlington
+34,Wilson,2024,8-San Antonio
+7,Coke,2022,9-Midland
+1,Donley,2023,1-Lubbock
+4,Briscoe,2022,1-Lubbock
+655,McLennan,2023,7-Austin
+333,Wichita,2024,2-Abilene
+5,Wheeler,2017,1-Lubbock
+19,Mills,2019,7-Austin
+82,Kleberg,2024,11-Edinburg
+9,Gaines,2023,9-Midland
+113,Llano,2022,7-Austin
+33,Titus,2025,4-Tyler
+19,Kendall,2024,8-San Antonio
+61,Deaf Smith,2018,1-Lubbock
+15,Mitchell,2023,2-Abilene
+143,Orange,2024,5-Beaumont
+31,Dallam,2018,1-Lubbock
+69,Houston,2020,5-Beaumont
+687,Denton,2016,3-Arlington
+14,Madison,2017,7-Austin
+12,Kinney,2020,8-San Antonio
+22,Somervell,2016,3-Arlington
+301,Brazoria,2021,6-Houston
+11,Archer,2017,2-Abilene
+463,Wichita,2021,2-Abilene
+974,McLennan,2022,7-Austin
+45,Willacy,2017,11-Edinburg
+47,Rockwall,2025,3-Arlington
+120,Bee,2021,11-Edinburg
+11,Terry,2024,1-Lubbock
+35,Starr,2024,11-Edinburg
+51,Wharton,2022,6-Houston
+97,Hutchinson,2021,1-Lubbock
+15,Lavaca,2023,8-San Antonio
+23,Crockett,2018,9-Midland
+4,Menard,2023,9-Midland
+41,Gray,2024,1-Lubbock
+41,Fannin,2024,3-Arlington
+744,Denton,2017,3-Arlington
+41,Camp,2021,4-Tyler
+13,Jackson,2025,8-San Antonio
+92,Frio,2019,8-San Antonio
+52,Dimmit,2017,8-San Antonio
+215,Anderson,2018,4-Tyler
+47,Rockwall,2024,3-Arlington
+4,Reagan,2016,9-Midland
+9,Reagan,2017,9-Midland
+35,Pecos,2018,9-Midland
+159,San Patricio,2020,11-Edinburg
+158,Kaufman,2017,3-Arlington
+42,DeWitt,2021,8-San Antonio
+241,Guadalupe,2018,8-San Antonio
+10,Sabine,2025,5-Beaumont
+456,Galveston,2020,6-Houston
+77,Ward,2020,9-Midland
+74,Eastland,2021,2-Abilene
+40,Howard,2024,9-Midland
+190,Victoria,2017,8-San Antonio
+23,Kendall,2018,8-San Antonio
+29,Gonzales,2020,8-San Antonio
+36,Reeves,2021,9-Midland
+100,Wood,2020,4-Tyler
+1679,Bell,2020,7-Austin
+2,Foard,2016,2-Abilene
+4,Jackson,2024,8-San Antonio
+40,McCulloch,2023,9-Midland
+55,Calhoun,2016,8-San Antonio
+12,Kimble,2016,9-Midland
+668,Taylor,2024,2-Abilene
+2,Kent,2024,2-Abilene
+15,Deaf Smith,2025,1-Lubbock
+16,Hamilton,2023,7-Austin
+19,Live Oak,2019,11-Edinburg
+8,Knox,2021,2-Abilene
+21,Crosby,2022,1-Lubbock
+150,Jim Wells,2017,11-Edinburg
+72,Hopkins,2022,4-Tyler
+91,Nacogdoches,2025,5-Beaumont
+17,La Salle,2017,8-San Antonio
+4,Oldham,2025,1-Lubbock
+32,Gonzales,2025,8-San Antonio
+5,Austin,2024,6-Houston
+172,Hardin,2021,5-Beaumont
+22,Austin,2022,6-Houston
+20,Sutton,2017,9-Midland
+6,Motley,2019,1-Lubbock
+334,Ector,2023,9-Midland
+47,Moore,2019,1-Lubbock
+38,Marion,2018,4-Tyler
+9,Franklin,2023,4-Tyler
+1856,Travis,2017,7-Austin
+20,Coke,2019,9-Midland
+187,Hardin,2020,5-Beaumont
+45,Terry,2020,1-Lubbock
+457,Montgomery,2023,6-Houston
+23,Karnes,2023,8-San Antonio
+39,Zavala,2017,8-San Antonio
+178,Midland,2021,9-Midland
+19,Colorado,2022,6-Houston
+27,San Saba,2020,7-Austin
+3,Childress,2024,1-Lubbock
+1,Presidio,2024,10-El Paso
+37,Stephens,2023,2-Abilene
+2,Hardeman,2019,2-Abilene
+432,Wichita,2022,2-Abilene
+54,Dawson,2019,9-Midland
+14,Collingsworth,2021,1-Lubbock
+2,Cochran,2025,1-Lubbock
+10,Haskell,2016,2-Abilene
+25,Brooks,2022,11-Edinburg
+67,Pecos,2020,9-Midland
+24,Upton,2018,9-Midland
+31,Stephens,2021,2-Abilene
+18,Camp,2024,4-Tyler
+4,Hardeman,2022,2-Abilene
+134,Jim Wells,2016,11-Edinburg
+82,Hutchinson,2022,1-Lubbock
+4,Delta,2024,4-Tyler
+23,Hamilton,2019,7-Austin
+76,Hutchinson,2018,1-Lubbock
+562,Smith,2016,4-Tyler
+123,Hale,2016,1-Lubbock
+66,Kerr,2025,8-San Antonio
+33,Erath,2025,3-Arlington
+181,Medina,2019,8-San Antonio
+593,Lubbock,2025,1-Lubbock
+106,Howard,2021,9-Midland
+1,Lipscomb,2025,1-Lubbock
+39,Duval,2018,11-Edinburg
+28,San Saba,2017,7-Austin
+20,Lavaca,2020,8-San Antonio
+28,Ward,2016,9-Midland
+474,Hidalgo,2025,11-Edinburg
+139,Rusk,2021,4-Tyler
+48,Lee,2019,7-Austin
+98,Ellis,2023,3-Arlington
+6,Carson,2023,1-Lubbock
+1647,Bell,2019,7-Austin
+29,Waller,2023,6-Houston
+121,Hill,2022,7-Austin
+1,Stonewall,2020,2-Abilene
+59,Fayette,2022,7-Austin
+157,Wise,2021,3-Arlington
+2,Stonewall,2018,2-Abilene
+37,Red River,2019,4-Tyler
+10,Clay,2016,2-Abilene
+118,Hopkins,2017,4-Tyler
+51,San Jacinto,2023,5-Beaumont
+13,Carson,2016,1-Lubbock
+37,Scurry,2025,2-Abilene
+26,Sutton,2019,9-Midland
+465,Johnson,2017,3-Arlington
+13,Schleicher,2017,9-Midland
+11,Castro,2018,1-Lubbock
+12,Baylor,2019,2-Abilene
+16,Refugio,2018,11-Edinburg
+59,Pecos,2019,9-Midland
+76,Chambers,2017,6-Houston
+44,Dawson,2020,9-Midland
+77,Falls,2019,7-Austin
+16,Marion,2022,4-Tyler
+7,Yoakum,2018,1-Lubbock
+59,Matagorda,2016,6-Houston
+3,Coke,2024,9-Midland
+25,Hamilton,2022,7-Austin
+91,Burnet,2024,7-Austin
+12,Mills,2018,7-Austin
+5,Culberson,2021,10-El Paso
+32,Bandera,2024,8-San Antonio
+790,Taylor,2018,2-Abilene
+198,Jasper,2018,5-Beaumont
+17,Somervell,2025,3-Arlington
+129,Hardin,2022,5-Beaumont
+108,Atascosa,2024,8-San Antonio
+103,Upshur,2022,4-Tyler
+13,Clay,2023,2-Abilene
+4,Motley,2024,1-Lubbock
+24,Gaines,2016,9-Midland
+59,Duval,2021,11-Edinburg
+16,Ochiltree,2022,1-Lubbock
+381,Tom Green,2022,9-Midland
+48,Lamb,2016,1-Lubbock
+15,Childress,2022,1-Lubbock
+36,Falls,2023,7-Austin
+91,Llano,2016,7-Austin
+6,Brewster,2024,10-El Paso
+60,Hutchinson,2016,1-Lubbock
+27,Gaines,2021,9-Midland
+348,Hunt,2018,3-Arlington
+71,Hutchinson,2025,1-Lubbock
+88,Kerr,2020,8-San Antonio
+50,Comanche,2018,2-Abilene
+63,Medina,2025,8-San Antonio
+222,Victoria,2019,8-San Antonio
+49,Houston,2021,5-Beaumont
+37,Rains,2021,4-Tyler
+377,Coryell,2019,7-Austin
+2,Knox,2017,2-Abilene
+33,Leon,2024,7-Austin
+13,Clay,2017,2-Abilene
+53,Duval,2024,11-Edinburg
+15,Swisher,2022,1-Lubbock
+29,Zapata,2016,11-Edinburg
+40,Houston,2022,5-Beaumont
+23,Clay,2018,2-Abilene
+20,Calhoun,2023,8-San Antonio
+54,Scurry,2024,2-Abilene
+2,Cochran,2023,1-Lubbock
+3,Lipscomb,2017,1-Lubbock
+36,Maverick,2020,8-San Antonio
+57,Willacy,2025,11-Edinburg
+19,Stephens,2025,2-Abilene
+24,Zapata,2024,11-Edinburg
+12,Martin,2021,9-Midland
+8,Brewster,2018,10-El Paso
+103,San Patricio,2022,11-Edinburg
+355,Coryell,2020,7-Austin
+124,Jim Wells,2021,11-Edinburg
+182,Bowie,2019,4-Tyler
+177,Hood,2016,3-Arlington
+238,Brazos,2024,7-Austin
+27,Coleman,2025,2-Abilene
+10,Brooks,2023,11-Edinburg
+344,Collin,2024,3-Arlington
+57,Shelby,2024,5-Beaumont
+776,Nueces,2020,11-Edinburg
+161,Harrison,2020,4-Tyler
+45,Wharton,2016,6-Houston
+32,Young,2025,2-Abilene
+17,Archer,2020,2-Abilene
+9,Sutton,2023,9-Midland
+15,La Salle,2016,8-San Antonio
+2,Roberts,2025,1-Lubbock
+13,Childress,2016,1-Lubbock
+46,Pecos,2025,9-Midland
+3,Delta,2022,4-Tyler
+496,Potter,2017,1-Lubbock
+34,Bandera,2025,8-San Antonio
+111,Rockwall,2021,3-Arlington
+68,Chambers,2018,6-Houston
+28,Crosby,2019,1-Lubbock
+321,Parker,2016,3-Arlington
+41,Zavala,2016,8-San Antonio
+15,Donley,2020,1-Lubbock
+49,Swisher,2019,1-Lubbock
+16,Sutton,2021,9-Midland
+22,Freestone,2016,7-Austin
+24,Crosby,2021,1-Lubbock
+13,Hall,2017,1-Lubbock
+35,Runnels,2017,2-Abilene
+103,Bowie,2022,4-Tyler
+17,Bailey,2017,1-Lubbock
+247,Cherokee,2018,4-Tyler
+105,Jim Wells,2023,11-Edinburg
+131,Kaufman,2024,3-Arlington
+47,Maverick,2024,8-San Antonio
+174,Liberty,2022,6-Houston
+31,Dallam,2017,1-Lubbock
+25,Somervell,2018,3-Arlington
+183,Harrison,2019,4-Tyler
+142,Cherokee,2023,4-Tyler
+11,Andrews,2024,9-Midland
+2,Lipscomb,2023,1-Lubbock
+135,Caldwell,2019,7-Austin
+58,Chambers,2019,6-Houston
+3,Mason,2023,9-Midland
+92,Llano,2023,7-Austin
+29,Red River,2018,4-Tyler
+48,Limestone,2024,7-Austin
+28,Tyler,2025,5-Beaumont
+8,Mason,2017,9-Midland
+9,Baylor,2023,2-Abilene
+3148,Bexar,2025,8-San Antonio
+63,Washington,2016,7-Austin
+56,Dawson,2016,9-Midland
+2048,Tarrant,2020,3-Arlington
+387,Ector,2019,9-Midland
+8,Knox,2022,2-Abilene
+8,Crockett,2023,9-Midland
+1802,Bell,2021,7-Austin
+193,Van Zandt,2019,4-Tyler
+25,DeWitt,2023,8-San Antonio
+39,Terry,2017,1-Lubbock
+87,Scurry,2022,2-Abilene
+107,Kleberg,2018,11-Edinburg
+22,Winkler,2016,9-Midland
+97,Hood,2022,3-Arlington
+934,Denton,2021,3-Arlington
+85,Navarro,2016,3-Arlington
+31,Red River,2021,4-Tyler
+867,Denton,2018,3-Arlington
+9,Sherman,2024,1-Lubbock
+5341,Bexar,2019,8-San Antonio
+151,Caldwell,2018,7-Austin
+38,Limestone,2018,7-Austin
+478,El Paso,2023,10-El Paso
+15,Mills,2016,7-Austin
+654,Hidalgo,2021,11-Edinburg
+467,Jefferson,2023,5-Beaumont
+8,La Salle,2019,8-San Antonio
+99,Fort Bend,2025,6-Houston
+32,Freestone,2023,7-Austin
+14,Mitchell,2016,2-Abilene
+13,Childress,2023,1-Lubbock
+50,Rockwall,2016,3-Arlington
+1,Brewster,2016,10-El Paso
+25,Terry,2019,1-Lubbock
+166,Milam,2017,7-Austin
+9,Yoakum,2025,1-Lubbock
+63,Young,2021,2-Abilene
+15,Fisher,2021,2-Abilene
+190,Burnet,2021,7-Austin
+20,San Augustine,2018,5-Beaumont
+20,Floyd,2018,1-Lubbock
+30,Clay,2022,2-Abilene
+8,Upton,2022,9-Midland
+15,Coke,2018,9-Midland
+66,Hardin,2024,5-Beaumont
+70,Waller,2020,6-Houston
+8,Concho,2021,9-Midland
+18,Chambers,2025,6-Houston
+92,Hale,2018,1-Lubbock
+36,Blanco,2018,7-Austin
+5437,Bexar,2017,8-San Antonio
+112,Palo Pinto,2022,3-Arlington
+12,Swisher,2025,1-Lubbock
+35,Jackson,2020,8-San Antonio
+14,San Augustine,2017,5-Beaumont
+27,Franklin,2017,4-Tyler
+23,Waller,2024,6-Houston
+125,Fannin,2020,3-Arlington
+505,Denton,2024,3-Arlington
+104,Hockley,2020,1-Lubbock
+5,Archer,2016,2-Abilene
+8,Gaines,2022,9-Midland
+1,Hardeman,2020,2-Abilene
+52,Erath,2018,3-Arlington
+42,Freestone,2022,7-Austin
+325,Webb,2023,11-Edinburg
+215,Coryell,2022,7-Austin
+2,Oldham,2024,1-Lubbock
+154,Rusk,2020,4-Tyler
+23,Pecos,2017,9-Midland
+1,Reagan,2021,9-Midland
+36,Scurry,2017,2-Abilene
+26,Zavala,2020,8-San Antonio
+467,Johnson,2016,3-Arlington
+11,Schleicher,2018,9-Midland
+49,Tyler,2021,5-Beaumont
+423,Potter,2016,1-Lubbock
+264,Brown,2019,2-Abilene
+385,Hays,2022,7-Austin
+272,Wichita,2025,2-Abilene
+41,Cass,2023,4-Tyler
+83,Wilson,2018,8-San Antonio
+139,Burnet,2022,7-Austin
+37,Jackson,2021,8-San Antonio
+89,Gray,2019,1-Lubbock
+35,Dawson,2021,9-Midland
+283,Hunt,2021,3-Arlington
+250,Anderson,2019,4-Tyler
+1,Armstrong,2022,1-Lubbock
+3,Sterling,2023,9-Midland
+26,Terry,2022,1-Lubbock
+57,Falls,2024,7-Austin
+2186,Dallas,2023,3-Arlington
+44,Fayette,2019,7-Austin
+36,Aransas,2025,11-Edinburg
+399,Collin,2022,3-Arlington
+3,Hudspeth,2019,10-El Paso
+563,Denton,2025,3-Arlington
+321,Brazoria,2018,6-Houston
+80,Bosque,2019,7-Austin
+6,Foard,2022,2-Abilene
+6,Coke,2021,9-Midland
+95,Llano,2019,7-Austin
+40,Crosby,2017,1-Lubbock
+858,Taylor,2020,2-Abilene
+9,Goliad,2018,8-San Antonio
+23,Maverick,2018,8-San Antonio
+14,Castro,2020,1-Lubbock
+1010,Denton,2020,3-Arlington
+337,Potter,2024,1-Lubbock
+5,Shackelford,2022,2-Abilene
+5,Garza,2023,1-Lubbock
+16,Sutton,2020,9-Midland
+9,Fisher,2019,2-Abilene
+36,DeWitt,2019,8-San Antonio
+9,Hartley,2021,1-Lubbock
+156,Medina,2016,8-San Antonio
+56,Wilbarger,2021,2-Abilene
+18,Haskell,2020,2-Abilene
+199,Randall,2023,1-Lubbock
+4,Briscoe,2020,1-Lubbock
+398,Ector,2017,9-Midland
+54,Willacy,2019,11-Edinburg
+21,Swisher,2017,1-Lubbock
+26,Gonzales,2021,8-San Antonio
+10,Blanco,2024,7-Austin
+20,Red River,2022,4-Tyler
+425,Ector,2016,9-Midland
+5670,Harris,2018,6-Houston
+13,Castro,2024,1-Lubbock
+8,Winkler,2023,9-Midland
+52,Walker,2021,6-Houston
+41,Ward,2022,9-Midland
+94,Guadalupe,2023,8-San Antonio
+6,Carson,2025,1-Lubbock
+235,Bastrop,2018,7-Austin
+1137,Bell,2016,7-Austin
+102,Wood,2021,4-Tyler
+157,Hill,2018,7-Austin
+40,Deaf Smith,2021,1-Lubbock
+174,Atascosa,2022,8-San Antonio
+6,Martin,2018,9-Midland
+6,Kimble,2023,9-Midland
+8,Wheeler,2022,1-Lubbock
+5,Armstrong,2023,1-Lubbock
+28,Crockett,2019,9-Midland
+31,Swisher,2021,1-Lubbock
+14,Lynn,2017,1-Lubbock
+128,Wise,2019,3-Arlington
+34,Zavala,2025,8-San Antonio
+29,Morris,2025,4-Tyler
+10,Parmer,2025,1-Lubbock
+39,Callahan,2024,2-Abilene
+4,Borden,2019,9-Midland
+21,Floyd,2019,1-Lubbock
+4,Dickens,2019,1-Lubbock
+13,Martin,2022,9-Midland
+1,Irion,2023,9-Midland
+450,Hidalgo,2022,11-Edinburg
+61,Falls,2018,7-Austin
+157,Wise,2017,3-Arlington
+5,Brewster,2025,10-El Paso
+119,Hockley,2018,1-Lubbock
+35,Terry,2016,1-Lubbock
+31,Franklin,2020,4-Tyler
+396,Henderson,2017,4-Tyler
+69,Aransas,2022,11-Edinburg
+486,Potter,2022,1-Lubbock
+10,Sutton,2016,9-Midland
+36,Swisher,2020,1-Lubbock
+7,Cottle,2023,2-Abilene
+120,Wood,2018,4-Tyler
+3,Motley,2016,1-Lubbock
+226,Upshur,2019,4-Tyler
+39,Limestone,2016,7-Austin
+5,Throckmorton,2021,2-Abilene
+61,Moore,2022,1-Lubbock
+293,Orange,2016,5-Beaumont
+56,Andrews,2016,9-Midland
+86,Kleberg,2017,11-Edinburg
+132,Hunt,2024,3-Arlington
+10,Garza,2017,1-Lubbock
+288,Brown,2021,2-Abilene
+362,Henderson,2021,4-Tyler
+75,Eastland,2022,2-Abilene
+19,McCulloch,2025,9-Midland
+108,Cass,2016,4-Tyler
+145,Henderson,2025,4-Tyler
+29,Coleman,2022,2-Abilene
+196,Cooke,2019,3-Arlington
+286,Williamson,2024,7-Austin
+33,Rains,2016,4-Tyler
+44,Comanche,2022,2-Abilene
+22,Morris,2024,4-Tyler
+22,Austin,2016,6-Houston
+27,Kendall,2016,8-San Antonio
+88,Atascosa,2025,8-San Antonio
+1116,Hidalgo,2018,11-Edinburg
+1276,Bell,2017,7-Austin
+71,Wharton,2024,6-Houston
+65,Lampasas,2023,7-Austin
+11,Real,2019,8-San Antonio
+149,Milam,2018,7-Austin
+133,Hill,2016,7-Austin
+38,Willacy,2018,11-Edinburg
+7,Collingsworth,2018,1-Lubbock
+152,Kaufman,2022,3-Arlington
+32,Jack,2016,2-Abilene
+55,Calhoun,2018,8-San Antonio
+37,McCulloch,2018,9-Midland
+20,Hall,2021,1-Lubbock
+179,Fort Bend,2021,6-Houston
+18,Blanco,2023,7-Austin
+264,Liberty,2018,6-Houston
+3,Briscoe,2024,1-Lubbock
+4072,Harris,2020,6-Houston
+163,Kaufman,2018,3-Arlington
+24,Jackson,2017,8-San Antonio
+51,Freestone,2021,7-Austin
+57,Callahan,2022,2-Abilene
+84,Nolan,2020,2-Abilene
+6,Sherman,2021,1-Lubbock
+25,Reeves,2019,9-Midland
+15,Jim Hogg,2024,11-Edinburg
+1,Oldham,2023,1-Lubbock
+114,Houston,2017,5-Beaumont
+448,Jefferson,2016,5-Beaumont
+2,Collingsworth,2025,1-Lubbock
+125,Matagorda,2019,6-Houston
+116,Jim Wells,2022,11-Edinburg
+66,Wood,2023,4-Tyler
+1,Presidio,2019,10-El Paso
+6,Colorado,2025,6-Houston
+207,Van Zandt,2020,4-Tyler
+37,Sabine,2018,5-Beaumont
+98,Liberty,2023,6-Houston
+1241,McLennan,2020,7-Austin
+42,Montague,2023,2-Abilene
+92,Milam,2023,7-Austin
+76,Wood,2022,4-Tyler
+20,Fayette,2024,7-Austin
+29,Jackson,2016,8-San Antonio
+10,Yoakum,2021,1-Lubbock
+14,Menard,2018,9-Midland
+268,Brazoria,2017,6-Houston
+11,San Augustine,2016,5-Beaumont
+96,Gray,2018,1-Lubbock
+963,Bell,2024,7-Austin
+92,Montague,2017,2-Abilene
+15,Madison,2018,7-Austin
+106,Hill,2024,7-Austin
+91,Hale,2021,1-Lubbock
+49,Hale,2023,1-Lubbock
+3,Knox,2018,2-Abilene
+22,Uvalde,2023,8-San Antonio
+279,Grayson,2020,3-Arlington
+59,Val Verde,2023,8-San Antonio
+58,Uvalde,2021,8-San Antonio
+28,Young,2024,2-Abilene
+144,Wise,2022,3-Arlington
+18,La Salle,2023,8-San Antonio
+584,El Paso,2020,10-El Paso
+57,Shelby,2021,5-Beaumont
+34,Red River,2025,4-Tyler
+8,Yoakum,2023,1-Lubbock
+10,Yoakum,2024,1-Lubbock
+179,Nacogdoches,2016,5-Beaumont
+386,Grayson,2017,3-Arlington
+19,Colorado,2021,6-Houston
+25,Coleman,2016,2-Abilene
+9,Kinney,2022,8-San Antonio
+95,Jasper,2022,5-Beaumont
+83,Medina,2023,8-San Antonio
+109,Jim Wells,2020,11-Edinburg
+304,Liberty,2017,6-Houston
+98,Wharton,2018,6-Houston
+41,Willacy,2022,11-Edinburg
+26,Mills,2020,7-Austin
+17,Culberson,2025,10-El Paso
+16,Camp,2025,4-Tyler
+70,Hutchinson,2019,1-Lubbock
+9,Cochran,2021,1-Lubbock
+6,Carson,2022,1-Lubbock
+4,Shackelford,2023,2-Abilene
+37,Duval,2025,11-Edinburg
+9,Shackelford,2019,2-Abilene
+23,Upton,2019,9-Midland
+20,Jackson,2022,8-San Antonio
+25,Callahan,2017,2-Abilene
+45,Lamb,2017,1-Lubbock
+4,Floyd,2024,1-Lubbock
+45,Red River,2017,4-Tyler
+874,Hidalgo,2020,11-Edinburg
+1,Dickens,2025,1-Lubbock
+99,Jasper,2021,5-Beaumont
+47,Camp,2020,4-Tyler
+15,Live Oak,2020,11-Edinburg
+70,Scurry,2023,2-Abilene
+134,San Patricio,2025,11-Edinburg
+147,Wise,2018,3-Arlington
+553,Gregg,2018,4-Tyler
+56,Liberty,2025,6-Houston
+86,Starr,2021,11-Edinburg
+148,Bowie,2021,4-Tyler
+148,Tom Green,2024,9-Midland
+116,Lamar,2024,4-Tyler
+51,Karnes,2020,8-San Antonio
+7,Refugio,2023,11-Edinburg
+61,Gray,2023,1-Lubbock
+195,Victoria,2021,8-San Antonio
+52,Coleman,2019,2-Abilene
+121,Ellis,2018,3-Arlington
+81,Jones,2021,2-Abilene
+442,Galveston,2018,6-Houston
+15,Parmer,2018,1-Lubbock
+3,Hartley,2024,1-Lubbock
+57,Cass,2018,4-Tyler
+18,Real,2018,8-San Antonio
+76,Howard,2022,9-Midland
+29,Childress,2019,1-Lubbock
+24,Lamb,2022,1-Lubbock
+1,Irion,2018,9-Midland
+67,Hardin,2025,5-Beaumont
+105,Frio,2018,8-San Antonio
+13,Fisher,2017,2-Abilene
+230,Randall,2022,1-Lubbock
+7,Collingsworth,2016,1-Lubbock
+145,Hood,2019,3-Arlington
+33,Val Verde,2025,8-San Antonio
+79,Shelby,2017,5-Beaumont
+19,Bailey,2018,1-Lubbock
+27,Ochiltree,2018,1-Lubbock
+14,Martin,2017,9-Midland
+45,Dimmit,2021,8-San Antonio
+70,Panola,2020,4-Tyler
+652,Montgomery,2017,6-Houston
+13,Reagan,2019,9-Midland
+33,Newton,2019,5-Beaumont
+157,Harrison,2021,4-Tyler
+388,Jefferson,2025,5-Beaumont
+275,Ector,2024,9-Midland
+5,Dickens,2018,1-Lubbock
+19,Winkler,2019,9-Midland
+151,Hays,2025,7-Austin
+8,Menard,2022,9-Midland
+14,Carson,2021,1-Lubbock
+3,Briscoe,2016,1-Lubbock
+26,Childress,2017,1-Lubbock
+6,Dickens,2021,1-Lubbock
+191,Comal,2025,8-San Antonio
+58,Pecos,2022,9-Midland
+39,Lamb,2018,1-Lubbock
+7,Crockett,2024,9-Midland
+154,Hood,2018,3-Arlington
+96,Milam,2019,7-Austin
+86,Jones,2020,2-Abilene
+1211,Bell,2023,7-Austin
+163,Parker,2024,3-Arlington
+235,Brazos,2025,7-Austin
+20,Runnels,2022,2-Abilene
+13,Crockett,2021,9-Midland
+6,Hardeman,2021,2-Abilene
+12,Archer,2019,2-Abilene
+31,Wilbarger,2018,2-Abilene
+338,Wichita,2016,2-Abilene
+53,Navarro,2025,3-Arlington
+116,Caldwell,2022,7-Austin
+538,Jefferson,2021,5-Beaumont
+53,Crosby,2016,1-Lubbock
+2,Hemphill,2023,1-Lubbock
+53,Bandera,2021,8-San Antonio
+3,Hardeman,2025,2-Abilene
+40,Trinity,2020,5-Beaumont
+885,McLennan,2016,7-Austin
+148,Aransas,2019,11-Edinburg
+30,Madison,2023,7-Austin
+63,Scurry,2020,2-Abilene
+155,Hunt,2025,3-Arlington
+16,Fisher,2018,2-Abilene
+3,Motley,2017,1-Lubbock
+55,Lee,2020,7-Austin
+52,Dimmit,2018,8-San Antonio
+13,Kimble,2020,9-Midland
+15,Culberson,2024,10-El Paso
+1298,Lubbock,2017,1-Lubbock
+57,Caldwell,2025,7-Austin
+3,Hartley,2025,1-Lubbock
+117,Fannin,2017,3-Arlington
+96,Robertson,2021,7-Austin
+2,Armstrong,2016,1-Lubbock
+20,Rains,2023,4-Tyler
+3,Roberts,2022,1-Lubbock
+16,San Saba,2022,7-Austin
+17,Zavala,2019,8-San Antonio
+6,Yoakum,2016,1-Lubbock
+52,Grimes,2021,7-Austin
+174,Bee,2018,11-Edinburg
+31,Stephens,2020,2-Abilene
+10,Schleicher,2019,9-Midland
+448,Smith,2023,4-Tyler
+50,Ward,2019,9-Midland
+20,Jones,2025,2-Abilene
+9,Jack,2023,2-Abilene
+107,Llano,2020,7-Austin
+24,Clay,2019,2-Abilene
+107,Ellis,2020,3-Arlington
+3157,Bexar,2024,8-San Antonio
+10,Wheeler,2025,1-Lubbock
+120,Grayson,2024,3-Arlington
+7,Ochiltree,2024,1-Lubbock
+4,Briscoe,2023,1-Lubbock
+7,Dawson,2025,9-Midland
+658,Travis,2025,7-Austin
+14,Coke,2020,9-Midland
+79,Kleberg,2023,11-Edinburg
+329,Brazoria,2020,6-Houston
+17,Karnes,2024,8-San Antonio
+211,Hunt,2022,3-Arlington
+29,Wilbarger,2016,2-Abilene
+46,Shelby,2023,5-Beaumont
+1,Oldham,2016,1-Lubbock
+24,Haskell,2022,2-Abilene
+171,Bowie,2020,4-Tyler
+74,Cass,2021,4-Tyler
+180,Harrison,2016,4-Tyler
+49,McCulloch,2022,9-Midland
+27,Lavaca,2019,8-San Antonio
+90,Milam,2020,7-Austin
+28,Stephens,2019,2-Abilene
+275,Liberty,2016,6-Houston
+45,Bailey,2020,1-Lubbock
+4,Hansford,2020,1-Lubbock
+45,Grimes,2022,7-Austin
+11,Marion,2025,4-Tyler
+435,Jefferson,2018,5-Beaumont
+26,Childress,2021,1-Lubbock
+230,Atascosa,2021,8-San Antonio
+2005,Tarrant,2019,3-Arlington
+14,Swisher,2023,1-Lubbock
+66,Cooke,2023,3-Arlington
+7,Crane,2018,9-Midland
+21,Hamilton,2021,7-Austin
+9,Cochran,2019,1-Lubbock
+230,Parker,2018,3-Arlington
+26,Carson,2019,1-Lubbock
+51,Gaines,2020,9-Midland
+167,Brown,2023,2-Abilene
+170,Van Zandt,2022,4-Tyler
+9,Blanco,2025,7-Austin
+24,Robertson,2017,7-Austin
+1996,Tarrant,2018,3-Arlington
+10,Wheeler,2023,1-Lubbock
+21,Newton,2021,5-Beaumont
+111,Polk,2019,5-Beaumont
+16,Blanco,2022,7-Austin
+7,Carson,2024,1-Lubbock
+6,Colorado,2023,6-Houston
+31,Lamb,2021,1-Lubbock
+19,San Augustine,2020,5-Beaumont
+57,Deaf Smith,2019,1-Lubbock
+30,Crosby,2018,1-Lubbock
+11,Coke,2017,9-Midland
+193,Lamar,2020,4-Tyler
+2367,Harris,2024,6-Houston
+30,Montague,2025,2-Abilene
+53,Dallam,2025,1-Lubbock
+43,Lee,2018,7-Austin
+89,Starr,2020,11-Edinburg
+2,Concho,2016,9-Midland
+14,Yoakum,2020,1-Lubbock
+47,Callahan,2021,2-Abilene
+42,Walker,2023,6-Houston
+55,Upshur,2023,4-Tyler
+12,Somervell,2023,3-Arlington
+185,Anderson,2021,4-Tyler
+74,Polk,2023,5-Beaumont
+309,Potter,2025,1-Lubbock
+551,Potter,2021,1-Lubbock
+266,Williamson,2025,7-Austin
+64,Jones,2022,2-Abilene
+188,Atascosa,2018,8-San Antonio
+102,Hopkins,2021,4-Tyler
+79,Kleberg,2025,11-Edinburg
+12,Hockley,2025,1-Lubbock
+7,Floyd,2021,1-Lubbock
+633,Montgomery,2020,6-Houston
+234,Nacogdoches,2021,5-Beaumont
+50,Navarro,2023,3-Arlington
+32,Washington,2024,7-Austin
+3,Hemphill,2018,1-Lubbock
+15,Bailey,2024,1-Lubbock
+22,Leon,2020,7-Austin
+185,Van Zandt,2018,4-Tyler
+81,Montague,2019,2-Abilene
+31,Rains,2022,4-Tyler
+2,Refugio,2025,11-Edinburg
+83,Palo Pinto,2023,3-Arlington
+65,Hopkins,2023,4-Tyler
+47,San Jacinto,2021,5-Beaumont
+16,Sabine,2016,5-Beaumont
+7,Schleicher,2021,9-Midland
+52,Lee,2021,7-Austin
+126,Wood,2016,4-Tyler
+33,Camp,2016,4-Tyler
+29,Jones,2016,2-Abilene
+43,Moore,2016,1-Lubbock
+127,Wise,2023,3-Arlington
+179,San Patricio,2017,11-Edinburg
+85,Cass,2017,4-Tyler
+79,Navarro,2019,3-Arlington
+32,Maverick,2025,8-San Antonio
+25,San Saba,2018,7-Austin
+4,Glasscock,2019,9-Midland
+27,San Saba,2021,7-Austin
+239,Burnet,2020,7-Austin
+21,Haskell,2019,2-Abilene
+156,Cooke,2020,3-Arlington
+34,Gonzales,2018,8-San Antonio
+114,Jim Wells,2024,11-Edinburg
+12,Garza,2022,1-Lubbock
+729,Cameron,2018,11-Edinburg
+8,Real,2021,8-San Antonio
+33,DeWitt,2025,8-San Antonio
+12,Mitchell,2024,2-Abilene
+2,Hansford,2024,1-Lubbock
+15,Somervell,2024,3-Arlington
+85,Anderson,2025,4-Tyler
+20,Baylor,2020,2-Abilene
+158,Wise,2016,3-Arlington
+600,Cameron,2021,11-Edinburg
+1,Dickens,2020,1-Lubbock
+79,Navarro,2021,3-Arlington
+197,Atascosa,2019,8-San Antonio
+113,Hopkins,2016,4-Tyler
+1656,Tarrant,2025,3-Arlington
+533,Tom Green,2021,9-Midland
+28,Refugio,2021,11-Edinburg
+19,Swisher,2024,1-Lubbock
+199,Lamar,2019,4-Tyler
+266,Orange,2017,5-Beaumont
+16,San Augustine,2022,5-Beaumont
+6,Knox,2025,2-Abilene
+53,Rockwall,2017,3-Arlington
+33,Bosque,2025,7-Austin
+313,Hunt,2017,3-Arlington
+15,Live Oak,2025,11-Edinburg
+416,Galveston,2022,6-Houston
+564,Smith,2021,4-Tyler
+2,Presidio,2018,10-El Paso
+12,Lynn,2025,1-Lubbock
+58,Gonzales,2016,8-San Antonio
+23,Donley,2017,1-Lubbock
+283,Hays,2023,7-Austin
+4,Shackelford,2020,2-Abilene
+16,Castro,2021,1-Lubbock
+31,Live Oak,2018,11-Edinburg
+8,Cochran,2020,1-Lubbock
+402,Cameron,2024,11-Edinburg
+5938,Harris,2016,6-Houston
+181,San Patricio,2018,11-Edinburg
+2,Shackelford,2024,2-Abilene
+9,Donley,2016,1-Lubbock
+161,Hood,2017,3-Arlington
+13,Reeves,2025,9-Midland
+42,Shelby,2025,5-Beaumont
+44,Jasper,2025,5-Beaumont
+24,Comanche,2016,2-Abilene
+3,Reagan,2025,9-Midland
+651,Nueces,2025,11-Edinburg
+105,Fannin,2021,3-Arlington
+136,Kerr,2017,8-San Antonio
+18,Clay,2025,2-Abilene
+82,Nolan,2019,2-Abilene
+31,McCulloch,2016,9-Midland
+59,Grimes,2018,7-Austin
+1,Stonewall,2017,2-Abilene
+23,Bailey,2022,1-Lubbock
+149,Jim Wells,2019,11-Edinburg
+306,Brown,2017,2-Abilene
+18,Donley,2018,1-Lubbock
+813,Nueces,2016,11-Edinburg
+14,Lavaca,2024,8-San Antonio
+7,Lynn,2019,1-Lubbock
+43,Lampasas,2025,7-Austin
+16,Jack,2022,2-Abilene
+62,Wharton,2020,6-Houston
+102,Houston,2019,5-Beaumont
+279,Bastrop,2016,7-Austin
+76,DeWitt,2017,8-San Antonio
+121,Aransas,2018,11-Edinburg
+37,Marion,2020,4-Tyler
+12,Concho,2020,9-Midland
+11,Jack,2025,2-Abilene
+28,Kendall,2019,8-San Antonio
+26,Jackson,2019,8-San Antonio
+29,Dallam,2016,1-Lubbock
+31,Haskell,2023,2-Abilene
+406,Grayson,2016,3-Arlington
+2,Hemphill,2020,1-Lubbock
+20,Haskell,2024,2-Abilene
+93,Uvalde,2017,8-San Antonio
+285,Fort Bend,2016,6-Houston
+3,Real,2023,8-San Antonio
+419,Henderson,2016,4-Tyler
+46,Bosque,2022,7-Austin
+47,Moore,2018,1-Lubbock
+1,Lipscomb,2024,1-Lubbock
+10,Terry,2023,1-Lubbock
+46,Polk,2025,5-Beaumont
+331,Johnson,2019,3-Arlington
+26,Crockett,2017,9-Midland
+31,Pecos,2023,9-Midland
+92,Titus,2020,4-Tyler
+6,Cochran,2017,1-Lubbock
+10,Madison,2019,7-Austin
+123,Ellis,2017,3-Arlington
+13,Delta,2020,4-Tyler
+501,Smith,2020,4-Tyler
+107,Burnet,2023,7-Austin
+29,Gonzales,2022,8-San Antonio
+93,Falls,2020,7-Austin
+75,Jasper,2024,5-Beaumont
+18,Jim Hogg,2018,11-Edinburg
+51,Limestone,2023,7-Austin
+143,Hunt,2023,3-Arlington
+282,Grayson,2021,3-Arlington
+221,Angelina,2022,5-Beaumont
+19,Lamb,2024,1-Lubbock
+28,Winkler,2021,9-Midland
+18,Austin,2020,6-Houston
+18,Lee,2024,7-Austin
+32,Wilbarger,2024,2-Abilene
+5,Upton,2025,9-Midland
+7,Gaines,2024,9-Midland
+85,Titus,2017,4-Tyler
+112,Llano,2018,7-Austin
+16,Hartley,2022,1-Lubbock
+87,Tyler,2020,5-Beaumont
+15,Brooks,2018,11-Edinburg
+75,Panola,2021,4-Tyler
+473,Cameron,2022,11-Edinburg
+1,Briscoe,2018,1-Lubbock
+39,Wilbarger,2017,2-Abilene
+1861,Travis,2018,7-Austin
+615,Taylor,2023,2-Abilene
+38,Gaines,2017,9-Midland
+74,Karnes,2018,8-San Antonio
+70,San Jacinto,2019,5-Beaumont
+21,Ochiltree,2017,1-Lubbock
+4,Armstrong,2018,1-Lubbock
+51,Young,2022,2-Abilene
+35,Morris,2022,4-Tyler
+9,Baylor,2024,2-Abilene
+21,Zapata,2018,11-Edinburg
+82,Wilson,2020,8-San Antonio
+92,Uvalde,2018,8-San Antonio
+20,La Salle,2021,8-San Antonio
+2,Jeff Davis,2021,10-El Paso
+168,Rusk,2017,4-Tyler
+219,Midland,2020,9-Midland
+121,Bowie,2025,4-Tyler
+379,Wichita,2017,2-Abilene
+5,Baylor,2025,2-Abilene
+2,Jeff Davis,2018,10-El Paso
+85,Robertson,2020,7-Austin
+104,Rusk,2022,4-Tyler
+6,Knox,2024,2-Abilene
+4,Hardeman,2023,2-Abilene
+4,Irion,2022,9-Midland
+51,Cooke,2024,3-Arlington
+178,Guadalupe,2020,8-San Antonio
+603,Collin,2019,3-Arlington
+179,Anderson,2017,4-Tyler
+232,Comal,2023,8-San Antonio
+16,San Augustine,2024,5-Beaumont
+10,La Salle,2020,8-San Antonio
+120,Cooke,2021,3-Arlington
+26,Stephens,2024,2-Abilene
+36,Limestone,2017,7-Austin
+140,Caldwell,2021,7-Austin
+27,Andrews,2022,9-Midland
+8,Wheeler,2021,1-Lubbock
+79,Burleson,2019,7-Austin
+8,Schleicher,2020,9-Midland
+220,Parker,2022,3-Arlington
+33,Erath,2024,3-Arlington
+167,Upshur,2017,4-Tyler
+32,Titus,2024,4-Tyler
+103,Frio,2020,8-San Antonio
+13,Kimble,2024,9-Midland
+2,Sutton,2024,9-Midland
+57,Titus,2021,4-Tyler
+184,Midland,2018,9-Midland
+1,Lipscomb,2018,1-Lubbock
+41,Gray,2025,1-Lubbock
+571,El Paso,2022,10-El Paso
+2,Hansford,2019,1-Lubbock
+25,Lavaca,2021,8-San Antonio
+48,Rusk,2025,4-Tyler
+116,Howard,2018,9-Midland
+9,Shackelford,2021,2-Abilene
+27,Kendall,2021,8-San Antonio
+11,Austin,2019,6-Houston
+12,Kimble,2025,9-Midland
+180,Bowie,2018,4-Tyler
+9,Brewster,2020,10-El Paso
+247,Brazoria,2022,6-Houston
+18,Hamilton,2018,7-Austin
+1,Throckmorton,2022,2-Abilene
+7,Hartley,2020,1-Lubbock
+69,Panola,2016,4-Tyler
+11,Runnels,2025,2-Abilene
+10,Hall,2022,1-Lubbock
+267,Galveston,2024,6-Houston
+63,Montague,2020,2-Abilene
+15,Rains,2024,4-Tyler
+29,Leon,2018,7-Austin
+495,Cameron,2025,11-Edinburg
+160,Hays,2024,7-Austin
+57,Nolan,2024,2-Abilene
+56,Trinity,2017,5-Beaumont
+9,Shackelford,2025,2-Abilene
+7,Sherman,2016,1-Lubbock
+2,Culberson,2016,10-El Paso
+70,Willacy,2020,11-Edinburg
+17,Gillespie,2025,8-San Antonio
+14,Dawson,2023,9-Midland
+9,Real,2022,8-San Antonio
+25,Real,2017,8-San Antonio
+13,Delta,2016,4-Tyler
+36,Comanche,2021,2-Abilene
+39,Rains,2019,4-Tyler
+14,Goliad,2020,8-San Antonio
+1030,Lubbock,2021,1-Lubbock
+18,Somervell,2021,3-Arlington
+1,Edwards,2024,8-San Antonio
+11,Goliad,2023,8-San Antonio
+358,Grayson,2018,3-Arlington
+410,Gregg,2022,4-Tyler
+61,Andrews,2017,9-Midland
+36,Mitchell,2021,2-Abilene
+110,Bee,2023,11-Edinburg
+11,Madison,2016,7-Austin
+52,San Jacinto,2020,5-Beaumont
+69,Montague,2021,2-Abilene
+93,Hopkins,2018,4-Tyler
+53,Calhoun,2020,8-San Antonio
+144,Bastrop,2023,7-Austin
+76,Chambers,2016,6-Houston
+4,Sterling,2022,9-Midland
+38,Haskell,2021,2-Abilene
+74,Nolan,2018,2-Abilene
+66,Washington,2021,7-Austin
+7,Concho,2022,9-Midland
+128,Parker,2025,3-Arlington
+288,Comal,2020,8-San Antonio
+508,Webb,2017,11-Edinburg
+42,Ward,2023,9-Midland
+4,Hemphill,2019,1-Lubbock
+9,Dawson,2024,9-Midland
+6,Lynn,2018,1-Lubbock
+54,Fayette,2018,7-Austin
+10,Goliad,2022,8-San Antonio
+3,Schleicher,2022,9-Midland
+284,Randall,2020,1-Lubbock
+371,Collin,2023,3-Arlington
+517,Galveston,2021,6-Houston
+78,Eastland,2025,2-Abilene
+118,Jim Wells,2025,11-Edinburg
+1127,McLennan,2019,7-Austin
+36,Zapata,2023,11-Edinburg
+257,Angelina,2019,5-Beaumont
+24,Baylor,2021,2-Abilene
+586,Montgomery,2021,6-Houston
+28,Deaf Smith,2022,1-Lubbock
+27,Gonzales,2019,8-San Antonio
+2227,Dallas,2025,3-Arlington
+483,Jefferson,2020,5-Beaumont
+29,Jackson,2018,8-San Antonio
+150,Caldwell,2016,7-Austin
+36,Bandera,2023,8-San Antonio
+1439,Bell,2022,7-Austin
+8,Baylor,2016,2-Abilene
+5,Upton,2024,9-Midland
+42,Falls,2017,7-Austin
+11,Upton,2020,9-Midland
+39,Jones,2017,2-Abilene
+13,Delta,2018,4-Tyler
+10,Jim Hogg,2016,11-Edinburg
+187,Bastrop,2022,7-Austin
+96,Guadalupe,2024,8-San Antonio
+8,Lipscomb,2022,1-Lubbock
+123,Rockwall,2020,3-Arlington
+27,Erath,2023,3-Arlington
+229,Palo Pinto,2016,3-Arlington
+18,Newton,2023,5-Beaumont
+32,Willacy,2023,11-Edinburg
+9,Jackson,2023,8-San Antonio
+267,Orange,2018,5-Beaumont
+729,Cameron,2017,11-Edinburg
+1232,McLennan,2021,7-Austin
+36,Bailey,2021,1-Lubbock
+83,Anderson,2023,4-Tyler
+103,Howard,2019,9-Midland
+1285,Lubbock,2019,1-Lubbock
+50,Wilson,2023,8-San Antonio
+1,Sterling,2020,9-Midland
+12,Martin,2020,9-Midland
+65,Wood,2024,4-Tyler
+142,Hill,2021,7-Austin
+32,Young,2016,2-Abilene
+62,Palo Pinto,2024,3-Arlington
+91,Polk,2016,5-Beaumont
+6,Fisher,2020,2-Abilene
+114,Jones,2019,2-Abilene
+53,Liberty,2024,6-Houston
+101,Robertson,2024,7-Austin
+7,Lipscomb,2020,1-Lubbock
+20,Blanco,2021,7-Austin
+8,Crane,2021,9-Midland
+149,Grayson,2025,3-Arlington
+9,La Salle,2018,8-San Antonio
+8,Austin,2023,6-Houston
+306,Comal,2021,8-San Antonio
+12,Ochiltree,2023,1-Lubbock
+1040,Hidalgo,2017,11-Edinburg
+180,Atascosa,2016,8-San Antonio
+48,Duval,2019,11-Edinburg
+13,Grimes,2024,7-Austin
+36,Pecos,2024,9-Midland
+43,Navarro,2024,3-Arlington
+166,Brazoria,2025,6-Houston
+25,Gillespie,2022,8-San Antonio
+57,Washington,2017,7-Austin
+13,Culberson,2023,10-El Paso
+8,Mills,2024,7-Austin
+1813,Travis,2020,7-Austin
+65,Starr,2022,11-Edinburg
+149,Coryell,2023,7-Austin
+58,Eastland,2018,2-Abilene
+718,Travis,2024,7-Austin
+100,Polk,2017,5-Beaumont
+23,Leon,2025,7-Austin
+21,Leon,2019,7-Austin
+5,Collingsworth,2017,1-Lubbock
+119,Hale,2017,1-Lubbock
+217,Cherokee,2016,4-Tyler
+484,Gregg,2021,4-Tyler
+28,Gonzales,2023,8-San Antonio
+11,Garza,2025,1-Lubbock
+34,Karnes,2022,8-San Antonio
+49,Morris,2020,4-Tyler
+87,Matagorda,2021,6-Houston
+87,Titus,2016,4-Tyler
+141,Van Zandt,2023,4-Tyler
+1160,Lubbock,2016,1-Lubbock
+78,Bosque,2021,7-Austin
+73,Shelby,2018,5-Beaumont
+7,Lipscomb,2021,1-Lubbock
+55,DeWitt,2018,8-San Antonio
+53,Navarro,2022,3-Arlington
+47,Panola,2023,4-Tyler
+26,Camp,2023,4-Tyler
+41,Wilbarger,2022,2-Abilene
+5,Cottle,2022,2-Abilene
+3,Hartley,2019,1-Lubbock
+192,Victoria,2018,8-San Antonio
+323,El Paso,2025,10-El Paso
+1,Throckmorton,2018,2-Abilene
+103,Polk,2020,5-Beaumont
+95,Wilson,2016,8-San Antonio
+429,Gregg,2016,4-Tyler
+50,Willacy,2021,11-Edinburg
+180,Liberty,2021,6-Houston
+36,Winkler,2020,9-Midland
+1,Culberson,2019,10-El Paso
+75,Karnes,2017,8-San Antonio
+109,Robertson,2023,7-Austin
+458,Collin,2021,3-Arlington
+17,Garza,2020,1-Lubbock
+8,Parmer,2021,1-Lubbock
+65,Deaf Smith,2017,1-Lubbock
+11,Baylor,2017,2-Abilene
+220,Cherokee,2019,4-Tyler
+86,Bowie,2024,4-Tyler
+1,Presidio,2025,10-El Paso
+76,Uvalde,2020,8-San Antonio
+205,Midland,2017,9-Midland
+114,Lamar,2025,4-Tyler
+38,Freestone,2017,7-Austin
+54,Walker,2017,6-Houston
+8,Irion,2021,9-Midland
+2,Crane,2022,9-Midland
+122,Lamar,2022,4-Tyler
+330,Comal,2019,8-San Antonio
+1943,Tarrant,2022,3-Arlington
+2,Concho,2017,9-Midland
+18,Mitchell,2017,2-Abilene
+615,Taylor,2016,2-Abilene
+9,Hall,2016,1-Lubbock
+14,San Saba,2023,7-Austin
+149,Jasper,2019,5-Beaumont
+119,Cherokee,2024,4-Tyler
+10,Refugio,2022,11-Edinburg
+62,Rusk,2024,4-Tyler
+222,Ector,2025,9-Midland
+40,Titus,2022,4-Tyler
+29,Madison,2022,7-Austin
+54,Maverick,2023,8-San Antonio
+630,Cameron,2020,11-Edinburg
+312,Brazos,2022,7-Austin
+305,Fort Bend,2018,6-Houston
+67,Comanche,2023,2-Abilene
+90,Burleson,2020,7-Austin
+59,Lee,2016,7-Austin
+120,Frio,2016,8-San Antonio
+51,Erath,2017,3-Arlington
+13,Hansford,2017,1-Lubbock
+49,Bandera,2019,8-San Antonio
+7,Delta,2021,4-Tyler
+160,Cooke,2016,3-Arlington
+375,Smith,2025,4-Tyler
+14,Stephens,2016,2-Abilene
+3,Hudspeth,2018,10-El Paso
+1,Cottle,2018,2-Abilene
+17,Parmer,2019,1-Lubbock
+3,Sterling,2024,9-Midland
+257,Johnson,2021,3-Arlington
+3,Concho,2023,9-Midland
+89,Montague,2018,2-Abilene
+10,Goliad,2019,8-San Antonio
+5,San Augustine,2025,5-Beaumont
+17,Jim Hogg,2019,11-Edinburg
+188,Jasper,2017,5-Beaumont
+203,Brazos,2019,7-Austin
+55,Moore,2017,1-Lubbock
+4834,Bexar,2016,8-San Antonio
+53,Llano,2024,7-Austin
+35,Gonzales,2024,8-San Antonio
+10,Goliad,2016,8-San Antonio
+10,Bailey,2025,1-Lubbock
+16,Lynn,2021,1-Lubbock
+591,Potter,2018,1-Lubbock
+4,Borden,2018,9-Midland
+8,Jim Hogg,2025,11-Edinburg
+165,Rusk,2019,4-Tyler
+40,Marion,2021,4-Tyler
+18,Uvalde,2025,8-San Antonio
+296,Galveston,2023,6-Houston
+11,Hall,2023,1-Lubbock
+36,Aransas,2024,11-Edinburg
+614,El Paso,2018,10-El Paso
+46,Eastland,2019,2-Abilene
+804,Montgomery,2018,6-Houston
+66,Wharton,2023,6-Houston
+27,Mitchell,2022,2-Abilene
+41,Val Verde,2024,8-San Antonio
+22,Freestone,2025,7-Austin
+36,Howard,2025,9-Midland
+241,Angelina,2023,5-Beaumont
+53,Duval,2023,11-Edinburg
+94,Bosque,2017,7-Austin
+8,Crane,2019,9-Midland
+40,Tyler,2024,5-Beaumont
+34,Newton,2018,5-Beaumont
+87,Guadalupe,2022,8-San Antonio
+17,Jack,2021,2-Abilene
+4,Brewster,2017,10-El Paso
+8,Donley,2022,1-Lubbock
+43,Upshur,2024,4-Tyler
+414,Hidalgo,2024,11-Edinburg
+78,Brown,2025,2-Abilene
+62,Upshur,2025,4-Tyler
+48,Tyler,2017,5-Beaumont
+57,Washington,2018,7-Austin
+72,Young,2019,2-Abilene
+70,Anderson,2024,4-Tyler
+1,Throckmorton,2023,2-Abilene
+43,Grimes,2016,7-Austin
+36,Comanche,2017,2-Abilene
+348,Randall,2017,1-Lubbock
+26,Refugio,2020,11-Edinburg
+47,Grimes,2020,7-Austin
+48,Washington,2023,7-Austin
+55,Morris,2019,4-Tyler
+57,Callahan,2023,2-Abilene
+503,Tom Green,2016,9-Midland
+16,Reeves,2023,9-Midland
+118,Gray,2022,1-Lubbock
+9,Reagan,2020,9-Midland
+51,Val Verde,2016,8-San Antonio
+104,Jasper,2020,5-Beaumont
+33,Limestone,2025,7-Austin
+11,Mills,2023,7-Austin
+26,Brooks,2020,11-Edinburg
+14,Reagan,2018,9-Midland
+25,Gillespie,2018,8-San Antonio
+7,Brewster,2022,10-El Paso
+133,Jasper,2016,5-Beaumont
+3,Knox,2020,2-Abilene
+5,Sherman,2025,1-Lubbock
+136,Nacogdoches,2023,5-Beaumont
+313,Fort Bend,2017,6-Houston
+46,Duval,2016,11-Edinburg
+6,Archer,2025,2-Abilene
+64,Andrews,2018,9-Midland
+112,Guadalupe,2021,8-San Antonio
+87,Navarro,2017,3-Arlington
+69,Tyler,2018,5-Beaumont
+397,Cameron,2023,11-Edinburg
+19,Mitchell,2025,2-Abilene
+79,Robertson,2025,7-Austin
+28,Lavaca,2017,8-San Antonio
+8,Cochran,2022,1-Lubbock
+63,Hardin,2016,5-Beaumont
+6,Martin,2019,9-Midland
+10,Menard,2021,9-Midland
+538,Jefferson,2022,5-Beaumont
+209,Lamar,2017,4-Tyler
+45,Gonzales,2017,8-San Antonio
+350,Montgomery,2024,6-Houston
+24,Kendall,2022,8-San Antonio
+64,Starr,2023,11-Edinburg
+311,Hays,2017,7-Austin
+50,Wharton,2021,6-Houston
+117,Hockley,2019,1-Lubbock
+31,Zapata,2022,11-Edinburg
+9,Upton,2021,9-Midland
+152,Upshur,2021,4-Tyler
+50,Camp,2019,4-Tyler
+3,Briscoe,2019,1-Lubbock
+36,Wilbarger,2023,2-Abilene
+92,Gray,2017,1-Lubbock
+25,Clay,2021,2-Abilene
+3,Motley,2018,1-Lubbock
+3,Goliad,2024,8-San Antonio
+1,Mason,2024,9-Midland
+9,Refugio,2017,11-Edinburg
+262,Orange,2021,5-Beaumont
+93,Nolan,2022,2-Abilene
+133,Howard,2020,9-Midland
+69,Karnes,2016,8-San Antonio
+417,Comal,2017,8-San Antonio
+645,Lubbock,2024,1-Lubbock
+190,Johnson,2025,3-Arlington
+6,Hardeman,2024,2-Abilene
+3,Armstrong,2025,1-Lubbock
+24,Deaf Smith,2024,1-Lubbock
+2576,Harris,2025,6-Houston
+1613,Travis,2021,7-Austin
+60,Trinity,2019,5-Beaumont
+38,Dimmit,2019,8-San Antonio
+35,Dimmit,2022,8-San Antonio
+34,Zavala,2024,8-San Antonio
+118,Bee,2022,11-Edinburg
+67,Bee,2024,11-Edinburg
+24,Chambers,2023,6-Houston
+1,Reagan,2022,9-Midland
+44,Erath,2022,3-Arlington
+98,Wilson,2017,8-San Antonio
+80,Lampasas,2022,7-Austin
+536,Collin,2017,3-Arlington
+241,Tom Green,2023,9-Midland
+21,Kendall,2025,8-San Antonio
+29,Starr,2025,11-Edinburg
+267,Nacogdoches,2019,5-Beaumont
+50,Dallam,2021,1-Lubbock
+21,Runnels,2023,2-Abilene
+1,Edwards,2025,8-San Antonio
+15,Kendall,2023,8-San Antonio
+399,Galveston,2017,6-Houston
+186,San Patricio,2019,11-Edinburg
+29,Live Oak,2017,11-Edinburg
+1761,Tarrant,2024,3-Arlington
+76,Fannin,2016,3-Arlington
+23,San Saba,2019,7-Austin
+62,Fayette,2016,7-Austin
+22,Somervell,2022,3-Arlington
+11,Lee,2025,7-Austin
+33,Sabine,2021,5-Beaumont
+692,Cameron,2019,11-Edinburg
+387,Hidalgo,2023,11-Edinburg
+36,Callahan,2020,2-Abilene
+42,Lamb,2019,1-Lubbock
+18,Delta,2019,4-Tyler
+11,Mason,2019,9-Midland
+76,Hood,2024,3-Arlington
+19,Colorado,2016,6-Houston
+91,Navarro,2018,3-Arlington
+432,Henderson,2020,4-Tyler
+31,Sabine,2019,5-Beaumont
+65,Young,2020,2-Abilene
+2845,Dallas,2022,3-Arlington
+19,La Salle,2022,8-San Antonio
+89,Hockley,2017,1-Lubbock
+8,Upton,2016,9-Midland
+515,Collin,2016,3-Arlington
+25,Childress,2020,1-Lubbock
+4,Hansford,2022,1-Lubbock
+98,Wharton,2019,6-Houston
+47,Eastland,2020,2-Abilene
+71,Harrison,2025,4-Tyler
+153,Kaufman,2016,3-Arlington
+160,Liberty,2020,6-Houston
+19,Calhoun,2024,8-San Antonio
+31,Runnels,2016,2-Abilene
+21,Burleson,2025,7-Austin
+258,Brazoria,2016,6-Houston
+26,Maverick,2017,8-San Antonio
+7,Donley,2024,1-Lubbock
+3329,Dallas,2021,3-Arlington
+254,Guadalupe,2017,8-San Antonio
+4,Garza,2024,1-Lubbock
+19,Stephens,2017,2-Abilene
+20,Jim Hogg,2020,11-Edinburg
+106,Victoria,2023,8-San Antonio
+384,Johnson,2018,3-Arlington
+334,Webb,2025,11-Edinburg
+69,Val Verde,2019,8-San Antonio
+46,Val Verde,2017,8-San Antonio
+10,Lynn,2020,1-Lubbock
+44,Andrews,2021,9-Midland
+61,Hopkins,2025,4-Tyler
+32,Leon,2021,7-Austin
+110,Polk,2021,5-Beaumont
+39,Houston,2024,5-Beaumont
+225,Palo Pinto,2017,3-Arlington
+49,Falls,2025,7-Austin
+18,Lynn,2016,1-Lubbock
+9,Parmer,2023,1-Lubbock
+64,Fayette,2017,7-Austin
+29,Franklin,2019,4-Tyler
+39,Willacy,2024,11-Edinburg
+27,Austin,2021,6-Houston
+6,Jim Hogg,2017,11-Edinburg
+9,Childress,2025,1-Lubbock
+2,Presidio,2016,10-El Paso
+16,Bailey,2016,1-Lubbock
+214,Nacogdoches,2017,5-Beaumont
+3,Hardeman,2017,2-Abilene
+2,Jeff Davis,2020,10-El Paso
+13,Mills,2022,7-Austin
+28,Leon,2017,7-Austin
+52,Lampasas,2024,7-Austin
+92,San Patricio,2023,11-Edinburg
+311,Hunt,2016,3-Arlington
+86,Matagorda,2022,6-Houston
+5751,Bexar,2018,8-San Antonio
+29,DeWitt,2020,8-San Antonio
+55,Karnes,2019,8-San Antonio
+2,Kinney,2017,8-San Antonio
+4,Sterling,2017,9-Midland
+145,Kaufman,2025,3-Arlington
+62,Maverick,2022,8-San Antonio
+19,Collingsworth,2020,1-Lubbock
+18,Madison,2020,7-Austin
+66,Hutchinson,2023,1-Lubbock
+4,Brewster,2023,10-El Paso
+211,Cooke,2017,3-Arlington
+11,Martin,2023,9-Midland
+19,Reeves,2022,9-Midland
+89,Bastrop,2025,7-Austin
+4990,Bexar,2020,8-San Antonio
+47,Kerr,2023,8-San Antonio
+383,Wichita,2023,2-Abilene
+12,Gaines,2025,9-Midland
+63,Panola,2019,4-Tyler
+5,Austin,2025,6-Houston
+504,Collin,2020,3-Arlington
+17,Pecos,2016,9-Midland
+170,Hardin,2019,5-Beaumont
+53,Wharton,2025,6-Houston
+2,Collingsworth,2024,1-Lubbock
+20,San Augustine,2019,5-Beaumont
+129,Gray,2021,1-Lubbock
+3,Refugio,2024,11-Edinburg
+4,Cottle,2020,2-Abilene
+97,DeWitt,2016,8-San Antonio
+84,Ellis,2025,3-Arlington
+7,Cottle,2021,2-Abilene
+1770,Tarrant,2023,3-Arlington
+68,Kleberg,2022,11-Edinburg
+212,Cherokee,2021,4-Tyler
+621,Potter,2019,1-Lubbock
+384,Ector,2022,9-Midland
+139,Medina,2018,8-San Antonio
+58,Burleson,2022,7-Austin
+8,San Saba,2025,7-Austin
+15,Haskell,2017,2-Abilene
+42,Cooke,2025,3-Arlington
+29,Hockley,2024,1-Lubbock
+5,Hardeman,2016,2-Abilene
+224,Nacogdoches,2018,5-Beaumont
+5,Foard,2020,2-Abilene
+86,Bosque,2018,7-Austin
+37,Runnels,2018,2-Abilene
+77,Hopkins,2024,4-Tyler
+20,Winkler,2017,9-Midland
+961,Hidalgo,2016,11-Edinburg
+9,Crockett,2022,9-Midland
+32,Dawson,2017,9-Midland
+5,Yoakum,2017,1-Lubbock
+55,Trinity,2016,5-Beaumont
+18,Stephens,2018,2-Abilene
+615,Collin,2018,3-Arlington
+7,Kimble,2022,9-Midland
+21,Austin,2017,6-Houston
+12,La Salle,2025,8-San Antonio
+113,Brazos,2016,7-Austin
+78,Waller,2019,6-Houston
+31,Ochiltree,2020,1-Lubbock
+116,Upshur,2016,4-Tyler
+94,Hale,2020,1-Lubbock
+281,Brazos,2023,7-Austin
+12,Winkler,2024,9-Midland
+39,Erath,2019,3-Arlington
+2,Reagan,2024,9-Midland
+25,Newton,2025,5-Beaumont
+9,Haskell,2025,2-Abilene
+12,Live Oak,2021,11-Edinburg
+73,Cass,2022,4-Tyler
+11,Mason,2021,9-Midland
+707,Taylor,2017,2-Abilene
+28,Franklin,2021,4-Tyler
+10,Crosby,2023,1-Lubbock
+244,Parker,2019,3-Arlington
+47,Morris,2021,4-Tyler
+27,Callahan,2019,2-Abilene
+202,Bastrop,2017,7-Austin
+51,Duval,2020,11-Edinburg
+68,Ward,2021,9-Midland
+117,Lamar,2023,4-Tyler
+81,Hood,2023,3-Arlington
+16,Hall,2020,1-Lubbock
+421,Webb,2019,11-Edinburg
+295,Brown,2018,2-Abilene
+48,Red River,2016,4-Tyler
+41,Deaf Smith,2020,1-Lubbock
+1573,Bell,2018,7-Austin
+40,Comanche,2020,2-Abilene
+18,Lynn,2023,1-Lubbock
+120,Ellis,2019,3-Arlington
+40,Hockley,2023,1-Lubbock
+235,Bowie,2016,4-Tyler
+347,Williamson,2021,7-Austin
+59,Val Verde,2021,8-San Antonio
+1,Hudspeth,2021,10-El Paso
+12,Goliad,2025,8-San Antonio
+4,Crockett,2025,9-Midland
+29,Burleson,2024,7-Austin
+5,Armstrong,2024,1-Lubbock
+61,Willacy,2016,11-Edinburg
+13,Austin,2018,6-Houston
+64,Young,2018,2-Abilene
+34,Rains,2020,4-Tyler
+23,Sutton,2018,9-Midland
+95,Midland,2023,9-Midland
+53,Young,2017,2-Abilene
+396,Randall,2018,1-Lubbock
+20,Jones,2024,2-Abilene
+132,Ellis,2016,3-Arlington
+52,Nolan,2017,2-Abilene
+26,Red River,2023,4-Tyler
+164,Brazos,2018,7-Austin
+7,Crosby,2025,1-Lubbock
+84,Wood,2019,4-Tyler
+77,Caldwell,2023,7-Austin
+95,Kerr,2018,8-San Antonio
+49,Dallam,2024,1-Lubbock
+76,Hutchinson,2017,1-Lubbock
+56,Camp,2018,4-Tyler
+5,Concho,2018,9-Midland
+40,Erath,2016,3-Arlington
+186,Kaufman,2021,3-Arlington
+38,Sabine,2017,5-Beaumont
+59,Tyler,2022,5-Beaumont
+67,Limestone,2022,7-Austin
+284,Orange,2019,5-Beaumont
+49,Rockwall,2023,3-Arlington
+68,Pecos,2021,9-Midland
+2,Cottle,2019,2-Abilene
+34,Panola,2025,4-Tyler
+117,Matagorda,2020,6-Houston
+4310,Dallas,2017,3-Arlington
+183,Upshur,2020,4-Tyler
+108,Bastrop,2024,7-Austin
+176,Kaufman,2020,3-Arlington
+59,Walker,2016,6-Houston
+69,Scurry,2021,2-Abilene
+43,Wilson,2025,8-San Antonio
+1,Presidio,2020,10-El Paso
+147,Medina,2020,8-San Antonio
+210,Cherokee,2020,4-Tyler
+5,Edwards,2017,8-San Antonio
+283,Comal,2022,8-San Antonio
+132,Victoria,2022,8-San Antonio
+24,Garza,2019,1-Lubbock
+217,Gregg,2025,4-Tyler
+107,Uvalde,2016,8-San Antonio
+217,Atascosa,2020,8-San Antonio
+23,San Augustine,2021,5-Beaumont
+143,Palo Pinto,2020,3-Arlington
+12,Colorado,2020,6-Houston
+94,Wise,2025,3-Arlington
+15,Mills,2017,7-Austin
+15,Hall,2019,1-Lubbock
+1,Oldham,2017,1-Lubbock
+16,Hamilton,2024,7-Austin
+8,Martin,2016,9-Midland
+5,Hartley,2017,1-Lubbock
+41,Coleman,2021,2-Abilene
+225,Grayson,2022,3-Arlington
+25,Somervell,2017,3-Arlington
+40,Coleman,2017,2-Abilene
+59,Eastland,2017,2-Abilene
+1,Lipscomb,2016,1-Lubbock
+16,Donley,2019,1-Lubbock
+308,Brazos,2021,7-Austin
+2,Knox,2016,2-Abilene
+15,Hamilton,2025,7-Austin
+18,Dimmit,2025,8-San Antonio
+28,Zapata,2025,11-Edinburg
+68,Waller,2017,6-Houston
+102,Jasper,2023,5-Beaumont
+160,Kaufman,2019,3-Arlington
+56,Frio,2025,8-San Antonio
+78,Bosque,2016,7-Austin
+40,Trinity,2023,5-Beaumont
+47,Bandera,2022,8-San Antonio
+27,Blanco,2016,7-Austin
+8,Colorado,2024,6-Houston
+2,Edwards,2018,8-San Antonio
+8,Sherman,2019,1-Lubbock
+133,Howard,2017,9-Midland
+28,Runnels,2021,2-Abilene
+27,Gillespie,2021,8-San Antonio
+442,Jefferson,2019,5-Beaumont
+34,Dallam,2019,1-Lubbock
+3,Roberts,2023,1-Lubbock
+58,Erath,2021,3-Arlington
+73,Wilson,2022,8-San Antonio
+17,Robertson,2016,7-Austin
+107,Coryell,2025,7-Austin
+1,Throckmorton,2024,2-Abilene
+9,Donley,2025,1-Lubbock
+58,Kleberg,2020,11-Edinburg
+67,Walker,2020,6-Houston
+24,Zapata,2020,11-Edinburg
+105,Medina,2022,8-San Antonio
+51,Morris,2018,4-Tyler
+64,Calhoun,2017,8-San Antonio
+32,Chambers,2022,6-Houston
+74,Kleberg,2021,11-Edinburg
+143,Wood,2017,4-Tyler
+482,Hays,2021,7-Austin
+26,Sabine,2022,5-Beaumont
+98,Aransas,2021,11-Edinburg
+36,McCulloch,2020,9-Midland
+10,Wheeler,2019,1-Lubbock
+27,Childress,2018,1-Lubbock
+15,Uvalde,2024,8-San Antonio
+65,Panola,2022,4-Tyler
+219,Upshur,2018,4-Tyler
+114,Aransas,2020,11-Edinburg
+31,Lavaca,2016,8-San Antonio
+477,Tom Green,2019,9-Midland
+55,Marion,2017,4-Tyler
+143,Kaufman,2023,3-Arlington
+73,Limestone,2021,7-Austin
+4,Briscoe,2025,1-Lubbock
+43,Houston,2025,5-Beaumont
+20,Somervell,2019,3-Arlington
+244,Coryell,2017,7-Austin
+209,Brazos,2020,7-Austin
+893,Nueces,2017,11-Edinburg
+85,Midland,2024,9-Midland
+130,Atascosa,2023,8-San Antonio
+2044,Tarrant,2021,3-Arlington
+235,Angelina,2020,5-Beaumont
+220,Coryell,2016,7-Austin
+594,El Paso,2019,10-El Paso
+55,Val Verde,2020,8-San Antonio
+9,Irion,2020,9-Midland
+1291,Lubbock,2018,1-Lubbock
+35,McCulloch,2024,9-Midland
+80,Bosque,2020,7-Austin
+5,Hartley,2016,1-Lubbock
+114,Starr,2018,11-Edinburg
+1,Hudspeth,2022,10-El Paso
+18,Clay,2020,2-Abilene
+68,Limestone,2020,7-Austin
+840,Nueces,2021,11-Edinburg
+17,Hansford,2016,1-Lubbock
+35,Gillespie,2017,8-San Antonio
+864,Nueces,2018,11-Edinburg
+1126,Hidalgo,2019,11-Edinburg
+75,Uvalde,2019,8-San Antonio
+270,Henderson,2022,4-Tyler
+59,Frio,2023,8-San Antonio
+54,Bandera,2018,8-San Antonio
+356,Brazoria,2019,6-Houston
+5,Brewster,2019,10-El Paso
+1,Irion,2017,9-Midland
+58,Limestone,2019,7-Austin
+1,Hemphill,2022,1-Lubbock
+32,Titus,2023,4-Tyler
+13,Brooks,2024,11-Edinburg
+45,San Jacinto,2024,5-Beaumont
+16,Colorado,2017,6-Houston
+23,Carson,2018,1-Lubbock
+7,Live Oak,2022,11-Edinburg
+29,Kendall,2017,8-San Antonio
+435,Ector,2021,9-Midland
+9,Shackelford,2018,2-Abilene
+247,Parker,2020,3-Arlington

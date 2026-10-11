@@ -1,0 +1,124 @@
+rule_id,fiscal_year,records_checked,records_failed,dollars_affected,detail
+DQ-01,2016,1519,0,0.0,
+DQ-01,2017,1316,11,82766991.72,
+DQ-01,2018,1314,11,86747996.35,
+DQ-01,2019,1330,12,102109788.05,
+DQ-01,2020,5558,76,129325252.09,
+DQ-01,2021,1248,11,186408779.58,
+DQ-01,2022,1366,11,230870647.94,
+DQ-01,2023,1220,10,240475459.35,
+DQ-01,2024,1226,13,324033253.14,
+DQ-02,2016,1519,7,1246764.0,DE WITT
+DQ-02,2017,1316,0,0.0,
+DQ-02,2018,1314,0,0.0,
+DQ-02,2019,1330,0,0.0,
+DQ-02,2020,5558,23,490819.04,"RAINES, INTEX, LASALLE"
+DQ-02,2021,1248,5,767813.84,"RAINES, LASALLE"
+DQ-02,2022,1366,7,900022.42,"RAINES, LASALLE"
+DQ-02,2023,1220,9,911391.15,"RAINES, LASALLE"
+DQ-02,2024,1226,9,891910.27,"LASALLE, RAINES"
+DQ-03,2016,1519,653,,
+DQ-03,2017,1316,0,,
+DQ-03,2018,1314,0,,
+DQ-03,2019,1330,0,,
+DQ-03,2020,5558,0,,
+DQ-03,2021,1248,0,,
+DQ-03,2022,1366,0,,
+DQ-03,2023,1220,1054,,
+DQ-03,2024,1226,0,,
+DQ-04,2016,1519,0,,
+DQ-04,2017,1316,0,,
+DQ-04,2018,1314,0,,
+DQ-04,2019,1330,0,,
+DQ-04,2020,5558,0,,
+DQ-04,2021,1248,0,,
+DQ-04,2022,1366,0,,
+DQ-04,2023,1220,0,,
+DQ-04,2024,1226,0,,
+DQ-05,2016,1519,869,,
+DQ-05,2017,1316,0,,
+DQ-05,2018,1314,0,,
+DQ-05,2019,1330,0,,
+DQ-05,2020,5558,0,,
+DQ-05,2021,1248,0,,
+DQ-05,2022,1366,0,,
+DQ-05,2023,1220,0,,
+DQ-05,2024,1226,0,,
+DQ-06,2016,1519,0,0.0,
+DQ-06,2017,1316,1316,1897748017.4,exp_fy2018
+DQ-06,2018,1314,0,0.0,
+DQ-06,2019,1330,0,0.0,
+DQ-06,2020,5558,0,0.0,
+DQ-06,2021,1248,0,0.0,
+DQ-06,2022,1366,0,0.0,
+DQ-06,2023,1220,0,0.0,
+DQ-06,2024,1226,0,0.0,
+DQ-07,2016,1519,0,0.0,
+DQ-07,2017,1316,0,0.0,
+DQ-07,2018,1314,0,0.0,
+DQ-07,2019,1330,0,0.0,
+DQ-07,2020,5558,0,0.0,
+DQ-07,2021,1248,0,0.0,
+DQ-07,2022,1366,0,0.0,
+DQ-07,2023,1220,0,0.0,
+DQ-07,2024,1226,0,0.0,
+DQ-08,2017,1316,0,0.0,max rows in one group: 1
+DQ-08,2018,1314,0,0.0,max rows in one group: 1
+DQ-08,2019,1330,0,0.0,max rows in one group: 1
+DQ-08,2020,5558,5241,2137234897.27,max rows in one group: 20
+DQ-08,2021,1248,0,0.0,max rows in one group: 1
+DQ-08,2022,1366,0,0.0,max rows in one group: 1
+DQ-08,2023,1220,0,0.0,max rows in one group: 1
+DQ-08,2024,1226,0,0.0,max rows in one group: 1
+DQ-09,2017,1316,0,0.0,
+DQ-09,2018,1314,0,0.0,
+DQ-09,2019,1330,0,0.0,
+DQ-09,2020,5558,1,7.72,
+DQ-09,2021,1248,0,0.0,
+DQ-09,2022,1366,0,0.0,
+DQ-09,2023,1220,0,0.0,
+DQ-09,2024,1226,0,0.0,
+DQ-10,2016,1519,0,0.0,
+DQ-10,2017,1316,3,-2505.05,
+DQ-10,2018,1314,0,0.0,
+DQ-10,2019,1330,2,-615.03,
+DQ-10,2020,5558,15,-1234101.42,
+DQ-10,2021,1248,2,-4798777.53,
+DQ-10,2022,1366,2,-758.71,
+DQ-10,2023,1220,0,0.0,
+DQ-10,2024,1226,0,0.0,
+DQ-11,2016,254,40,,"Armstrong, Borden, Glasscock, Grayson, Gregg, Grimes, Hall, Hamilton, Hansford, Hardeman, Hardin, Harris, Houston, Kenedy, Kent, King, Loving, Potter, Presidio, Rains, Randall, Reagan, Real, Red River, Reeves, Refugio, Roberts, Robertson, Rockwall, Runnels, Rusk, Sabine, San Augustine, San Jacinto, San Patricio, San Saba, Schleicher, Scurry, Shackelford, Young"
+DQ-11,2017,254,7,,"Borden, Briscoe, Cottle, Glasscock, Kenedy, King, Loving"
+DQ-11,2018,254,7,,"Borden, Briscoe, Cottle, Glasscock, Kenedy, King, Loving"
+DQ-11,2019,254,7,,"Borden, Cottle, Glasscock, Kenedy, King, Loving, Roberts"
+DQ-11,2020,254,5,,"Borden, Glasscock, King, Loving, Roberts"
+DQ-11,2021,254,5,,"Borden, Glasscock, King, Loving, Roberts"
+DQ-11,2022,254,6,,"Borden, Glasscock, King, Loving, Roberts, Terrell"
+DQ-11,2023,254,7,,"Borden, Glasscock, Jeff Davis, King, Loving, Stonewall, Terrell"
+DQ-11,2024,254,8,,"Borden, Cottle, Glasscock, Jeff Davis, King, Loving, Roberts, Stonewall"
+DQ-12,2016,1450,7,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2017,1459,9,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: None Specified; APS investigations: Out of State; children in care: Out of State
+DQ-12,2018,1475,7,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2019,1470,7,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2020,1458,7,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2021,1453,7,,removals: Out of State; removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2022,1436,3,,CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2023,1414,5,,removals: Out of State; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2024,1421,5,,removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-12,2025,1407,5,,removals: Unknown; CPI victims: Out of State; APS investigations: Out of State
+DQ-13,2016,254,0,,
+DQ-13,2017,254,0,,
+DQ-13,2018,254,0,,
+DQ-13,2019,254,0,,
+DQ-13,2020,254,0,,
+DQ-13,2021,254,0,,
+DQ-13,2022,254,0,,
+DQ-13,2023,254,0,,
+DQ-13,2024,254,0,,
+DQ-13,2025,254,0,,
+DQ-14,2016,8,1,,"FY2016: agency_name, agency_number, capital_outlays, county_name, highway_construction, intergovernmental_payments, labor_costs, misc, operating_expenses, public_assistance, total"
+DQ-14,2018,8,3,,"FY2018, FY2020, FY2021: agency_name, agency_number, amount, county, fiscal_year, major_spending_category"
+DQ-14,2019,8,1,,"FY2019: agency, agency_name, amount, county_name, fiscal_year, major_spending_category"
+DQ-14,2022,8,2,,"FY2022, FY2024: agency_name, agency_number, agency_number_and_name, amount, county, fiscal_year, major_spending_category"
+DQ-14,2023,8,1,,"FY2023: agency_name, agency_name_and_number, amount, county, expenditure_category, fiscal_year, number"
+DQ-15,2016,217,6,4679203.0,"ARCHER x2, HOPKINS x2, YOAKUM x2"

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DFPS Spending Data Quality</title>
+<meta name="description" content="Independent portfolio project: SQL data-quality and reconciliation pipeline over public Texas DFPS expenditure and service data, FY2016-FY2024.">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="data.js"></script>
+<style>
+  :root {
+    --bg: #ffffff; --surface: #f5f7fa; --text: #1b1f24; --muted: #4a5360; --border: #d5dbe3;
+    --accent: #0b5cad; --pass: #136f3a; --warn: #8a5300; --crit: #a4161a;
+    --c1: #0b5cad; --c2: #c45a00; --c3: #5b3fa3; --c4: #6b7785;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #12161b; --surface: #1b2129; --text: #e8ecf1; --muted: #a9b3bf; --border: #313a45;
+      --accent: #6aaef5; --pass: #5fd08d; --warn: #f0b45a; --crit: #ff8a8a;
+      --c1: #6aaef5; --c2: #f0a35a; --c3: #b39cf0; --c4: #9aa6b4;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 16px 64px; }
+  header p { color: var(--muted); max-width: 820px; margin: 6px 0; }
+  h1 { font-size: 1.9rem; margin: 0 0 4px; line-height: 1.2; }
+  h2 { font-size: 1.3rem; margin: 44px 0 6px; padding-bottom: 6px; border-bottom: 2px solid var(--border); }
+  h3 { font-size: 1.05rem; margin: 0 0 4px; }
+  .note { font-size: .9rem; color: var(--muted); }
+  .disclaimer { background: var(--surface); border-left: 4px solid var(--accent); padding: 10px 14px;
+                font-size: .9rem; margin: 16px 0 0; border-radius: 4px; }
+  a { color: var(--accent); }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 24px; }
+  .kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
+  .kpi .v { font-size: 1.7rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .kpi .l { font-size: .88rem; color: var(--muted); }
+  .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: 20px; margin-top: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; min-width: 0; }
+  .chart { position: relative; height: 300px; }
+  .finding { font-size: .95rem; margin: 4px 0 10px; }
+  .tbl-wrap { overflow-x: auto; margin-top: 12px; }
+  table { border-collapse: collapse; width: 100%; font-size: .88rem; font-variant-numeric: tabular-nums; }
+  th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { background: var(--surface); position: sticky; top: 0; }
+  td.num, th.num { text-align: right; }
+  .badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: .78rem; font-weight: 600;
+           border: 1px solid currentColor; white-space: nowrap; }
+  .Critical { color: var(--crit); } .Warning { color: var(--warn); } .Info { color: var(--muted); }
+  .PASS { color: var(--pass); } .INFO { color: var(--muted); } .FAIL { color: var(--crit); }
+  details { margin-top: 8px; font-size: .88rem; }
+  summary { cursor: pointer; color: var(--accent); }
+  ul.tight li { margin-bottom: 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>DFPS Spending vs. Services: Data Quality &amp; Reconciliation</h1>
+  <p>A SQL pipeline that integrates nine years of Texas Comptroller expenditure data for the Department of
+     Family and Protective Services with DFPS Data Book service volumes, applies 15 documented data-quality rules,
+     and proves every dollar reconciles to its source before any analysis is reported.</p>
+  <p class="note">Built by <strong>Tejaswi Yadala</strong> &middot;
+     <a href="https://github.com/TejaswiYadala5/dfps-spending-data-quality">Source code &amp; SQL on GitHub</a> &middot;
+     Data pulled from <a href="https://data.texas.gov">data.texas.gov</a> on <span id="asof"></span></p>
+  <p class="disclaimer">Independent portfolio project using only public, aggregate data. Not affiliated with or endorsed
+     by DFPS or the Texas Comptroller. No confidential or case-level information is used.</p>
+</header>
+
+<section class="kpis" aria-label="Headline figures">
+  <div class="kpi"><div class="v" id="k-spend"></div><div class="l">DFPS expenditures, FY2024</div></div>
+  <div class="kpi"><div class="v" id="k-recon"></div><div class="l">Reconciliation control checks passed</div></div>
+  <div class="kpi"><div class="v" id="k-rules"></div><div class="l">Data-quality rules with findings (of 15)</div></div>
+  <div class="kpi"><div class="v" id="k-unattr"></div><div class="l">FY2024 spending with no county recorded</div></div>
+</section>
+
+<h2>1. Findings</h2>
+<div class="grid2">
+  <div class="card">
+    <h3>Spending grew 31% from FY2017 to FY2024</h3>
+    <p class="finding">Client assistance payments drove most of the growth. FY2016 is excluded because its
+       published scope is not comparable (see DQ-11 and DQ-15).</p>
+    <div class="chart"><canvas id="ch-trend" role="img" aria-label="Stacked bar chart of DFPS spending by category, FY2017 to FY2024"></canvas></div>
+    <details><summary>Show data table</summary><div class="tbl-wrap" id="t-trend"></div></details>
+  </div>
+  <div class="card">
+    <h3>Spending with no county attached tripled to 13%</h3>
+    <p class="finding">Unattributed spending rose from $83M (4.4%) to $324M (13.1%). That limits how far
+       county- and region-level cost reporting can be trusted.</p>
+    <div class="chart"><canvas id="ch-unattr" role="img" aria-label="Line chart of unattributed spending share by fiscal year"></canvas></div>
+    <details><summary>Show data table</summary><div class="tbl-wrap" id="t-unattr"></div></details>
+  </div>
+  <div class="card">
+    <h3>Spending rose while children in DFPS care fell 44%</h3>
+    <p class="finding">Indexed to FY2017 = 100. Spending covers every DFPS program (APS, investigations, prevention),
+       not only foster care, so this gap is a question for program data, not a unit cost.</p>
+    <div class="chart"><canvas id="ch-index" role="img" aria-label="Line chart comparing indexed spending and children in DFPS legal responsibility"></canvas></div>
+    <details><summary>Show data table</summary><div class="tbl-wrap" id="t-index"></div></details>
+  </div>
+  <div class="card">
+    <h3>County-attributed spending per child in care, FY2024</h3>
+    <p class="finding">There is a fourfold spread across regions. A plausible driver is where payments are recorded
+       (contractor location) rather than where children are served. I'd validate that with the finance team before using it for decisions.</p>
+    <div class="chart"><canvas id="ch-region" role="img" aria-label="Horizontal bar chart of spending per child in care by DFPS region, FY2024"></canvas></div>
+    <details><summary>Show data table</summary><div class="tbl-wrap" id="t-region"></div></details>
+  </div>
+</div>
+
+<h2>2. Data-quality scorecard</h2>
+<p class="note">Each rule runs in SQL (<code>sql/03_data_quality.sql</code>) per fiscal year and records the rows checked, rows
+   failing, dollars affected, and the action taken. Nothing is silently dropped.</p>
+<div class="tbl-wrap" id="t-dq"></div>
+
+<h2>3. Reconciliation controls</h2>
+<p class="note">Each check compares two independent figures that should agree (<code>sql/05_reconciliation.sql</code>).</p>
+<div class="tbl-wrap" id="t-recon"></div>
+
+<h2>4. Method &amp; caveats</h2>
+<ul class="tight">
+  <li><strong>Pipeline:</strong> extract (Socrata API) &rarr; raw layer kept as received &rarr; reference data and
+      crosswalks &rarr; staging that conforms 5 different yearly layouts &rarr; 15 quality rules &rarr; reporting marts
+      &rarr; control-total reconciliation &rarr; this dashboard.</li>
+  <li><strong>Spending</strong> is the Comptroller's "State Expenditures by County" for agency 530 (DFPS). County reflects where the
+      Comptroller attributes the payment, which is not necessarily where services were delivered.</li>
+  <li><strong>Services</strong> are DFPS Data Book counts: children in DFPS legal responsibility during the year, removals,
+      CPI alleged and confirmed victims, and APS completed investigations.</li>
+  <li><strong>Accessibility:</strong> every chart has a text alternative and a data table, colors meet WCAG 2.1 AA
+      contrast, and the page follows the system light or dark setting.</li>
+</ul>
+</div>
+
+<script>
+const D = window.DFPS_DATA;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const $m = v => (v < 0 ? '-' : '') + (Math.abs(v) < 1e5 ? '$' + Math.abs(v).toLocaleString(undefined, {maximumFractionDigits: 0})
+  : '$' + (Math.abs(v) / 1e6).toLocaleString(undefined, {maximumFractionDigits: 1}) + 'M');
+const $b = v => '$' + (v / 1e9).toFixed(2) + 'B';
+const num = v => v == null ? '' : Number(v).toLocaleString();
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function table(el, cols, rows) {
+  const h = cols.map(c => `<th scope="col" class="${c.num ? 'num' : ''}">${c.label}</th>`).join('');
+  const b = rows.map(r => '<tr>' + cols.map(c =>
+    `<td class="${c.num ? 'num' : ''}">${c.html ? c.html(r) : esc(c.fmt ? c.fmt(r[c.key], r) : r[c.key])}</td>`).join('') + '</tr>').join('');
+  document.getElementById(el).innerHTML = `<table><thead><tr>${h}</tr></thead><tbody>${b}</tbody></table>`;
+}
+
+document.getElementById('asof').textContent = D.generated_from.slice(0, 10);
+const trend = D.trend.filter(r => r.fiscal_year >= 2017);
+const last = trend[trend.length - 1], first = trend[0];
+document.getElementById('k-spend').textContent = $b(last.total_spend);
+const scored = D.recon.filter(r => r.status !== 'INFO');
+document.getElementById('k-recon').textContent = scored.filter(r => r.status === 'PASS').length + ' / ' + scored.length;
+document.getElementById('k-rules').textContent = D.dq_summary.filter(r => r.records_failed > 0).length;
+document.getElementById('k-unattr').textContent = $m(last.unattributed) + ' (' + (100 * last.unattributed / last.total_spend).toFixed(1) + '%)';
+
+Chart.defaults.color = css('--muted');
+Chart.defaults.borderColor = css('--border');
+Chart.defaults.font.family = 'system-ui, -apple-system, Segoe UI, Roboto, sans-serif';
+const years = trend.map(r => 'FY' + r.fiscal_year);
+const moneyAxis = {ticks: {callback: v => '$' + (v / 1e9).toFixed(1) + 'B'}};
+
+new Chart('ch-trend', {type: 'bar', data: {labels: years, datasets: [
+  ['Client assistance payments', 'client_assistance', '--c1'],
+  ['Salaries & benefits', 'salaries_benefits', '--c2'],
+  ['Professional services & fees', 'professional_services', '--c3'],
+  ['Operations & other', 'operations_other', '--c4']].map(([l, k, c]) =>
+  ({label: l, data: trend.map(r => r[k]), backgroundColor: css(c)}))},
+  options: {maintainAspectRatio: false, scales: {x: {stacked: true}, y: {stacked: true, ...moneyAxis}},
+    plugins: {tooltip: {callbacks: {label: c => c.dataset.label + ': ' + $m(c.raw)}}}}});
+table('t-trend', [{key: 'fiscal_year', label: 'FY'},
+  {key: 'client_assistance', label: 'Client assistance', num: 1, fmt: $m},
+  {key: 'salaries_benefits', label: 'Salaries & benefits', num: 1, fmt: $m},
+  {key: 'professional_services', label: 'Prof. services', num: 1, fmt: $m},
+  {key: 'operations_other', label: 'Operations & other', num: 1, fmt: $m},
+  {key: 'total_spend', label: 'Total', num: 1, fmt: $m}], trend);
+
+new Chart('ch-unattr', {type: 'line', data: {labels: years, datasets: [{label: 'Share of spending with no county',
+  data: trend.map(r => 100 * r.unattributed / r.total_spend), borderColor: css('--c2'), backgroundColor: css('--c2'),
+  tension: .25, pointRadius: 4}]},
+  options: {maintainAspectRatio: false, scales: {y: {beginAtZero: true, ticks: {callback: v => v + '%'}}},
+    plugins: {legend: {display: false}, tooltip: {callbacks: {label: c => c.raw.toFixed(1) + '%'}}}}});
+table('t-unattr', [{key: 'fiscal_year', label: 'FY'}, {key: 'unattributed', label: 'Unattributed', num: 1, fmt: $m},
+  {key: 'total_spend', label: 'Total', num: 1, fmt: $m},
+  {key: 'pct', label: 'Share', num: 1, fmt: (v, r) => (100 * r.unattributed / r.total_spend).toFixed(1) + '%'}], trend);
+
+const byYear = {};
+D.region.forEach(r => { const y = byYear[r.fiscal_year] ||= {kids: 0}; y.kids += r.children_in_care; });
+const idx = trend.map(r => ({fy: r.fiscal_year, spend: 100 * r.total_spend / first.total_spend,
+  kids: 100 * byYear[r.fiscal_year].kids / byYear[first.fiscal_year].kids, n: byYear[r.fiscal_year].kids}));
+new Chart('ch-index', {type: 'line', data: {labels: years, datasets: [
+  {label: 'DFPS spending', data: idx.map(r => r.spend), borderColor: css('--c1'), backgroundColor: css('--c1'), tension: .25},
+  {label: 'Children in DFPS legal responsibility', data: idx.map(r => r.kids), borderColor: css('--c2'),
+   backgroundColor: css('--c2'), borderDash: [6, 4], tension: .25}]},
+  options: {maintainAspectRatio: false, scales: {y: {min: 40}},
+    plugins: {tooltip: {callbacks: {label: c => c.dataset.label + ': ' + c.raw.toFixed(0)}}}}});
+table('t-index', [{key: 'fy', label: 'FY'}, {key: 'spend', label: 'Spending index', num: 1, fmt: v => v.toFixed(0)},
+  {key: 'kids', label: 'Children index', num: 1, fmt: v => v.toFixed(0)},
+  {key: 'n', label: 'Children in legal resp.', num: 1, fmt: num}], idx);
+
+const reg = D.region.filter(r => r.fiscal_year === last.fiscal_year).sort((a, b) => b.spend_per_child_in_care - a.spend_per_child_in_care);
+new Chart('ch-region', {type: 'bar', data: {labels: reg.map(r => r.region),
+  datasets: [{label: 'Spend per child in care', data: reg.map(r => r.spend_per_child_in_care), backgroundColor: css('--c1')}]},
+  options: {indexAxis: 'y', maintainAspectRatio: false,
+    scales: {x: {ticks: {callback: v => '$' + v / 1000 + 'K'}}},
+    plugins: {legend: {display: false}, tooltip: {callbacks: {label: c => '$' + num(c.raw)}}}}});
+table('t-region', [{key: 'region', label: 'Region'}, {key: 'attributed_spend', label: 'Attributed spend', num: 1, fmt: $m},
+  {key: 'children_in_care', label: 'Children in care', num: 1, fmt: num},
+  {key: 'spend_per_child_in_care', label: 'Per child', num: 1, fmt: v => '$' + num(v)},
+  {key: 'confirmed_victims_per_1k', label: 'Confirmed victims / 1K children', num: 1},
+  {key: 'confirmation_rate_pct', label: 'Confirmation rate %', num: 1}], reg);
+
+table('t-dq', [
+  {key: 'rule_id', label: 'Rule'}, {key: 'dimension', label: 'Dimension'}, {key: 'rule', label: 'Check'},
+  {key: 'severity', label: 'Severity', html: r => `<span class="badge ${r.severity}">${r.severity}</span>`},
+  {key: 'records_failed', label: 'Rows flagged', num: 1, fmt: num},
+  {key: 'dollars_affected', label: '$ affected', num: 1, fmt: v => v == null || v === 0 ? '' : $m(v)},
+  {key: 'years_affected', label: 'Years', fmt: v => v || 'none'},
+  {key: 'action', label: 'Action taken'}], D.dq_summary);
+
+const groups = {};
+D.recon.forEach(r => { const g = groups[r.check_id] ||= {check_id: r.check_id, check_name: r.check_name, n: 0, pass: 0, status: r.status, maxvar: 0};
+  g.n++; if (r.status === 'PASS') g.pass++; if (r.status === 'FAIL') g.status = 'FAIL';
+  g.maxvar = Math.max(g.maxvar, Math.abs(r.variance || 0)); });
+table('t-recon', [{key: 'check_id', label: 'Check'}, {key: 'check_name', label: 'Control'},
+  {key: 'n', label: 'Comparisons', num: 1},
+  {key: 'maxvar', label: 'Largest variance', num: 1, fmt: (v, r) => r.status === 'INFO' ? $m(v) + ' dropped' : r.check_id === 'REC-05' ? num(v) + ' people' : '$' + v.toFixed(2)},
+  {key: 'status', label: 'Result', html: r => `<span class="badge ${r.status}">${r.status === 'INFO' ? 'INFO' : r.pass + '/' + r.n + ' PASS'}</span>`}],
+  Object.values(groups));
+</script>
+</body>
+</html>

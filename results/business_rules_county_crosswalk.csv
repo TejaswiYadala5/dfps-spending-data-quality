@@ -1,0 +1,5 @@
+raw_value,canonical_county,rule_note
+DE WITT,DEWITT,Spacing variant (FY2016 file)
+LASALLE,LA SALLE,Spelling changed in source system from FY2020 onward
+RAINES,RAINS,Misspelling present in source system from FY2020 onward
+INTEX,,Not a Texas county (FY2020 only); routed to unattributed

@@ -1,0 +1,2525 @@
+completed_investigations,county,fiscal_year,region
+2,Armstrong,2025,1-Lubbock
+19,Bailey,2025,1-Lubbock
+7,Briscoe,2025,1-Lubbock
+23,Carson,2025,1-Lubbock
+14,Castro,2025,1-Lubbock
+31,Childress,2025,1-Lubbock
+35,Cochran,2025,1-Lubbock
+12,Collingsworth,2025,1-Lubbock
+69,Crosby,2025,1-Lubbock
+17,Dallam,2025,1-Lubbock
+36,Deaf Smith,2025,1-Lubbock
+19,Dickens,2025,1-Lubbock
+21,Donley,2025,1-Lubbock
+141,Floyd,2025,1-Lubbock
+30,Garza,2025,1-Lubbock
+115,Gray,2025,1-Lubbock
+145,Hale,2025,1-Lubbock
+14,Hall,2025,1-Lubbock
+27,Hansford,2025,1-Lubbock
+11,Hartley,2025,1-Lubbock
+8,Hemphill,2025,1-Lubbock
+114,Hockley,2025,1-Lubbock
+112,Hutchinson,2025,1-Lubbock
+2,King,2025,1-Lubbock
+79,Lamb,2025,1-Lubbock
+3,Lipscomb,2025,1-Lubbock
+1855,Lubbock,2025,1-Lubbock
+46,Lynn,2025,1-Lubbock
+52,Moore,2025,1-Lubbock
+11,Motley,2025,1-Lubbock
+26,Ochiltree,2025,1-Lubbock
+3,Oldham,2025,1-Lubbock
+12,Parmer,2025,1-Lubbock
+758,Potter,2025,1-Lubbock
+404,Randall,2025,1-Lubbock
+2,Sherman,2025,1-Lubbock
+25,Swisher,2025,1-Lubbock
+179,Terry,2025,1-Lubbock
+18,Wheeler,2025,1-Lubbock
+38,Yoakum,2025,1-Lubbock
+42,Archer,2025,2-Abilene
+23,Baylor,2025,2-Abilene
+272,Brown,2025,2-Abilene
+108,Callahan,2025,2-Abilene
+94,Clay,2025,2-Abilene
+68,Coleman,2025,2-Abilene
+62,Comanche,2025,2-Abilene
+13,Cottle,2025,2-Abilene
+132,Eastland,2025,2-Abilene
+29,Fisher,2025,2-Abilene
+11,Foard,2025,2-Abilene
+47,Hardeman,2025,2-Abilene
+53,Haskell,2025,2-Abilene
+54,Jack,2025,2-Abilene
+107,Jones,2025,2-Abilene
+3,Kent,2025,2-Abilene
+22,Knox,2025,2-Abilene
+51,Mitchell,2025,2-Abilene
+140,Montague,2025,2-Abilene
+105,Nolan,2025,2-Abilene
+73,Runnels,2025,2-Abilene
+66,Scurry,2025,2-Abilene
+29,Shackelford,2025,2-Abilene
+72,Stephens,2025,2-Abilene
+5,Stonewall,2025,2-Abilene
+1303,Taylor,2025,2-Abilene
+11,Throckmorton,2025,2-Abilene
+1218,Wichita,2025,2-Abilene
+123,Wilbarger,2025,2-Abilene
+139,Young,2025,2-Abilene
+1327,Collin,2025,3-Arlington
+108,Cooke,2025,3-Arlington
+5692,Dallas,2025,3-Arlington
+1054,Denton,2025,3-Arlington
+387,Ellis,2025,3-Arlington
+106,Erath,2025,3-Arlington
+112,Fannin,2025,3-Arlington
+505,Grayson,2025,3-Arlington
+240,Hood,2025,3-Arlington
+311,Hunt,2025,3-Arlington
+497,Johnson,2025,3-Arlington
+267,Kaufman,2025,3-Arlington
+168,Navarro,2025,3-Arlington
+139,Palo Pinto,2025,3-Arlington
+372,Parker,2025,3-Arlington
+167,Rockwall,2025,3-Arlington
+24,Somervell,2025,3-Arlington
+4911,Tarrant,2025,3-Arlington
+209,Wise,2025,3-Arlington
+221,Anderson,2025,4-Tyler
+337,Bowie,2025,4-Tyler
+46,Camp,2025,4-Tyler
+130,Cass,2025,4-Tyler
+234,Cherokee,2025,4-Tyler
+27,Delta,2025,4-Tyler
+45,Franklin,2025,4-Tyler
+466,Gregg,2025,4-Tyler
+233,Harrison,2025,4-Tyler
+506,Henderson,2025,4-Tyler
+146,Hopkins,2025,4-Tyler
+278,Lamar,2025,4-Tyler
+71,Marion,2025,4-Tyler
+79,Morris,2025,4-Tyler
+73,Panola,2025,4-Tyler
+47,Rains,2025,4-Tyler
+70,Red River,2025,4-Tyler
+180,Rusk,2025,4-Tyler
+1033,Smith,2025,4-Tyler
+103,Titus,2025,4-Tyler
+216,Upshur,2025,4-Tyler
+257,Van Zandt,2025,4-Tyler
+274,Wood,2025,4-Tyler
+380,Angelina,2025,5-Beaumont
+203,Hardin,2025,5-Beaumont
+95,Houston,2025,5-Beaumont
+159,Jasper,2025,5-Beaumont
+1124,Jefferson,2025,5-Beaumont
+206,Nacogdoches,2025,5-Beaumont
+39,Newton,2025,5-Beaumont
+331,Orange,2025,5-Beaumont
+290,Polk,2025,5-Beaumont
+57,Sabine,2025,5-Beaumont
+67,San Augustine,2025,5-Beaumont
+146,San Jacinto,2025,5-Beaumont
+100,Shelby,2025,5-Beaumont
+84,Trinity,2025,5-Beaumont
+108,Tyler,2025,5-Beaumont
+65,Austin,2025,6-Houston
+791,Brazoria,2025,6-Houston
+84,Chambers,2025,6-Houston
+76,Colorado,2025,6-Houston
+1213,Fort Bend,2025,6-Houston
+1165,Galveston,2025,6-Houston
+11142,Harris,2025,6-Houston
+317,Liberty,2025,6-Houston
+92,Matagorda,2025,6-Houston
+1466,Montgomery,2025,6-Houston
+175,Walker,2025,6-Houston
+112,Waller,2025,6-Houston
+124,Wharton,2025,6-Houston
+310,Bastrop,2025,7-Austin
+1398,Bell,2025,7-Austin
+46,Blanco,2025,7-Austin
+58,Bosque,2025,7-Austin
+423,Brazos,2025,7-Austin
+87,Burleson,2025,7-Austin
+195,Burnet,2025,7-Austin
+132,Caldwell,2025,7-Austin
+202,Coryell,2025,7-Austin
+58,Falls,2025,7-Austin
+81,Fayette,2025,7-Austin
+65,Freestone,2025,7-Austin
+85,Grimes,2025,7-Austin
+30,Hamilton,2025,7-Austin
+393,Hays,2025,7-Austin
+160,Hill,2025,7-Austin
+92,Lampasas,2025,7-Austin
+57,Lee,2025,7-Austin
+54,Leon,2025,7-Austin
+84,Limestone,2025,7-Austin
+109,Llano,2025,7-Austin
+50,Madison,2025,7-Austin
+739,McLennan,2025,7-Austin
+91,Milam,2025,7-Austin
+9,Mills,2025,7-Austin
+53,Robertson,2025,7-Austin
+13,San Saba,2025,7-Austin
+2413,Travis,2025,7-Austin
+108,Washington,2025,7-Austin
+1082,Williamson,2025,7-Austin
+154,Atascosa,2025,8-San Antonio
+112,Bandera,2025,8-San Antonio
+7128,Bexar,2025,8-San Antonio
+80,Calhoun,2025,8-San Antonio
+533,Comal,2025,8-San Antonio
+80,DeWitt,2025,8-San Antonio
+24,Dimmit,2025,8-San Antonio
+12,Edwards,2025,8-San Antonio
+56,Frio,2025,8-San Antonio
+113,Gillespie,2025,8-San Antonio
+14,Goliad,2025,8-San Antonio
+51,Gonzales,2025,8-San Antonio
+424,Guadalupe,2025,8-San Antonio
+31,Jackson,2025,8-San Antonio
+37,Karnes,2025,8-San Antonio
+101,Kendall,2025,8-San Antonio
+262,Kerr,2025,8-San Antonio
+15,Kinney,2025,8-San Antonio
+18,La Salle,2025,8-San Antonio
+67,Lavaca,2025,8-San Antonio
+146,Maverick,2025,8-San Antonio
+184,Medina,2025,8-San Antonio
+9,Real,2025,8-San Antonio
+115,Uvalde,2025,8-San Antonio
+108,Val Verde,2025,8-San Antonio
+309,Victoria,2025,8-San Antonio
+167,Wilson,2025,8-San Antonio
+39,Zavala,2025,8-San Antonio
+45,Andrews,2025,9-Midland
+3,Borden,2025,9-Midland
+25,Coke,2025,9-Midland
+17,Concho,2025,9-Midland
+17,Crane,2025,9-Midland
+13,Crockett,2025,9-Midland
+60,Dawson,2025,9-Midland
+465,Ector,2025,9-Midland
+42,Gaines,2025,9-Midland
+2,Glasscock,2025,9-Midland
+164,Howard,2025,9-Midland
+9,Irion,2025,9-Midland
+26,Kimble,2025,9-Midland
+24,Martin,2025,9-Midland
+18,Mason,2025,9-Midland
+75,McCulloch,2025,9-Midland
+18,Menard,2025,9-Midland
+389,Midland,2025,9-Midland
+47,Pecos,2025,9-Midland
+8,Reagan,2025,9-Midland
+53,Reeves,2025,9-Midland
+8,Schleicher,2025,9-Midland
+4,Sterling,2025,9-Midland
+13,Sutton,2025,9-Midland
+5,Terrell,2025,9-Midland
+1116,Tom Green,2025,9-Midland
+11,Upton,2025,9-Midland
+44,Ward,2025,9-Midland
+27,Winkler,2025,9-Midland
+155,Brewster,2025,10-El Paso
+11,Culberson,2025,10-El Paso
+3144,El Paso,2025,10-El Paso
+22,Hudspeth,2025,10-El Paso
+14,Jeff Davis,2025,10-El Paso
+23,Presidio,2025,10-El Paso
+179,Aransas,2025,11-Edinburg
+118,Bee,2025,11-Edinburg
+33,Brooks,2025,11-Edinburg
+1245,Cameron,2025,11-Edinburg
+35,Duval,2025,11-Edinburg
+2085,Hidalgo,2025,11-Edinburg
+10,Jim Hogg,2025,11-Edinburg
+152,Jim Wells,2025,11-Edinburg
+3,Kenedy,2025,11-Edinburg
+102,Kleberg,2025,11-Edinburg
+45,Live Oak,2025,11-Edinburg
+5,McMullen,2025,11-Edinburg
+1671,Nueces,2025,11-Edinburg
+23,Refugio,2025,11-Edinburg
+280,San Patricio,2025,11-Edinburg
+120,Starr,2025,11-Edinburg
+516,Webb,2025,11-Edinburg
+84,Willacy,2025,11-Edinburg
+34,Zapata,2025,11-Edinburg
+29,Out of State,2025,Out of State
+4,Armstrong,2024,1-Lubbock
+20,Bailey,2024,1-Lubbock
+2,Briscoe,2024,1-Lubbock
+30,Carson,2024,1-Lubbock
+30,Castro,2024,1-Lubbock
+34,Childress,2024,1-Lubbock
+35,Cochran,2024,1-Lubbock
+15,Collingsworth,2024,1-Lubbock
+88,Crosby,2024,1-Lubbock
+32,Dallam,2024,1-Lubbock
+37,Deaf Smith,2024,1-Lubbock
+27,Dickens,2024,1-Lubbock
+25,Donley,2024,1-Lubbock
+75,Floyd,2024,1-Lubbock
+38,Garza,2024,1-Lubbock
+137,Gray,2024,1-Lubbock
+163,Hale,2024,1-Lubbock
+15,Hall,2024,1-Lubbock
+18,Hansford,2024,1-Lubbock
+4,Hartley,2024,1-Lubbock
+8,Hemphill,2024,1-Lubbock
+137,Hockley,2024,1-Lubbock
+109,Hutchinson,2024,1-Lubbock
+106,Lamb,2024,1-Lubbock
+9,Lipscomb,2024,1-Lubbock
+2251,Lubbock,2024,1-Lubbock
+69,Lynn,2024,1-Lubbock
+48,Moore,2024,1-Lubbock
+15,Motley,2024,1-Lubbock
+32,Ochiltree,2024,1-Lubbock
+4,Oldham,2024,1-Lubbock
+18,Parmer,2024,1-Lubbock
+783,Potter,2024,1-Lubbock
+420,Randall,2024,1-Lubbock
+1,Roberts,2024,1-Lubbock
+5,Sherman,2024,1-Lubbock
+37,Swisher,2024,1-Lubbock
+191,Terry,2024,1-Lubbock
+17,Wheeler,2024,1-Lubbock
+47,Yoakum,2024,1-Lubbock
+54,Archer,2024,2-Abilene
+44,Baylor,2024,2-Abilene
+282,Brown,2024,2-Abilene
+86,Callahan,2024,2-Abilene
+93,Clay,2024,2-Abilene
+55,Coleman,2024,2-Abilene
+90,Comanche,2024,2-Abilene
+14,Cottle,2024,2-Abilene
+164,Eastland,2024,2-Abilene
+11,Fisher,2024,2-Abilene
+12,Foard,2024,2-Abilene
+52,Hardeman,2024,2-Abilene
+46,Haskell,2024,2-Abilene
+40,Jack,2024,2-Abilene
+107,Jones,2024,2-Abilene
+8,Kent,2024,2-Abilene
+37,Knox,2024,2-Abilene
+40,Mitchell,2024,2-Abilene
+173,Montague,2024,2-Abilene
+119,Nolan,2024,2-Abilene
+66,Runnels,2024,2-Abilene
+82,Scurry,2024,2-Abilene
+14,Shackelford,2024,2-Abilene
+44,Stephens,2024,2-Abilene
+7,Stonewall,2024,2-Abilene
+1275,Taylor,2024,2-Abilene
+7,Throckmorton,2024,2-Abilene
+1549,Wichita,2024,2-Abilene
+149,Wilbarger,2024,2-Abilene
+148,Young,2024,2-Abilene
+1225,Collin,2024,3-Arlington
+115,Cooke,2024,3-Arlington
+6080,Dallas,2024,3-Arlington
+1035,Denton,2024,3-Arlington
+342,Ellis,2024,3-Arlington
+111,Erath,2024,3-Arlington
+141,Fannin,2024,3-Arlington
+555,Grayson,2024,3-Arlington
+231,Hood,2024,3-Arlington
+331,Hunt,2024,3-Arlington
+461,Johnson,2024,3-Arlington
+253,Kaufman,2024,3-Arlington
+159,Navarro,2024,3-Arlington
+132,Palo Pinto,2024,3-Arlington
+347,Parker,2024,3-Arlington
+153,Rockwall,2024,3-Arlington
+39,Somervell,2024,3-Arlington
+5538,Tarrant,2024,3-Arlington
+201,Wise,2024,3-Arlington
+231,Anderson,2024,4-Tyler
+388,Bowie,2024,4-Tyler
+40,Camp,2024,4-Tyler
+119,Cass,2024,4-Tyler
+239,Cherokee,2024,4-Tyler
+31,Delta,2024,4-Tyler
+40,Franklin,2024,4-Tyler
+457,Gregg,2024,4-Tyler
+208,Harrison,2024,4-Tyler
+559,Henderson,2024,4-Tyler
+161,Hopkins,2024,4-Tyler
+279,Lamar,2024,4-Tyler
+74,Marion,2024,4-Tyler
+81,Morris,2024,4-Tyler
+76,Panola,2024,4-Tyler
+59,Rains,2024,4-Tyler
+67,Red River,2024,4-Tyler
+150,Rusk,2024,4-Tyler
+1016,Smith,2024,4-Tyler
+98,Titus,2024,4-Tyler
+162,Upshur,2024,4-Tyler
+272,Van Zandt,2024,4-Tyler
+307,Wood,2024,4-Tyler
+423,Angelina,2024,5-Beaumont
+200,Hardin,2024,5-Beaumont
+96,Houston,2024,5-Beaumont
+165,Jasper,2024,5-Beaumont
+1120,Jefferson,2024,5-Beaumont
+275,Nacogdoches,2024,5-Beaumont
+40,Newton,2024,5-Beaumont
+369,Orange,2024,5-Beaumont
+279,Polk,2024,5-Beaumont
+58,Sabine,2024,5-Beaumont
+75,San Augustine,2024,5-Beaumont
+124,San Jacinto,2024,5-Beaumont
+117,Shelby,2024,5-Beaumont
+111,Trinity,2024,5-Beaumont
+119,Tyler,2024,5-Beaumont
+82,Austin,2024,6-Houston
+748,Brazoria,2024,6-Houston
+130,Chambers,2024,6-Houston
+66,Colorado,2024,6-Houston
+1351,Fort Bend,2024,6-Houston
+1274,Galveston,2024,6-Houston
+12988,Harris,2024,6-Houston
+327,Liberty,2024,6-Houston
+122,Matagorda,2024,6-Houston
+1405,Montgomery,2024,6-Houston
+200,Walker,2024,6-Houston
+106,Waller,2024,6-Houston
+110,Wharton,2024,6-Houston
+298,Bastrop,2024,7-Austin
+1210,Bell,2024,7-Austin
+49,Blanco,2024,7-Austin
+72,Bosque,2024,7-Austin
+438,Brazos,2024,7-Austin
+53,Burleson,2024,7-Austin
+156,Burnet,2024,7-Austin
+154,Caldwell,2024,7-Austin
+212,Coryell,2024,7-Austin
+61,Falls,2024,7-Austin
+86,Fayette,2024,7-Austin
+59,Freestone,2024,7-Austin
+82,Grimes,2024,7-Austin
+31,Hamilton,2024,7-Austin
+454,Hays,2024,7-Austin
+163,Hill,2024,7-Austin
+106,Lampasas,2024,7-Austin
+50,Lee,2024,7-Austin
+62,Leon,2024,7-Austin
+84,Limestone,2024,7-Austin
+122,Llano,2024,7-Austin
+41,Madison,2024,7-Austin
+805,McLennan,2024,7-Austin
+96,Milam,2024,7-Austin
+18,Mills,2024,7-Austin
+46,Robertson,2024,7-Austin
+28,San Saba,2024,7-Austin
+2463,Travis,2024,7-Austin
+85,Washington,2024,7-Austin
+1018,Williamson,2024,7-Austin
+160,Atascosa,2024,8-San Antonio
+132,Bandera,2024,8-San Antonio
+7396,Bexar,2024,8-San Antonio
+66,Calhoun,2024,8-San Antonio
+513,Comal,2024,8-San Antonio
+71,DeWitt,2024,8-San Antonio
+33,Dimmit,2024,8-San Antonio
+6,Edwards,2024,8-San Antonio
+61,Frio,2024,8-San Antonio
+101,Gillespie,2024,8-San Antonio
+20,Goliad,2024,8-San Antonio
+77,Gonzales,2024,8-San Antonio
+442,Guadalupe,2024,8-San Antonio
+57,Jackson,2024,8-San Antonio
+43,Karnes,2024,8-San Antonio
+113,Kendall,2024,8-San Antonio
+264,Kerr,2024,8-San Antonio
+14,Kinney,2024,8-San Antonio
+13,La Salle,2024,8-San Antonio
+67,Lavaca,2024,8-San Antonio
+151,Maverick,2024,8-San Antonio
+212,Medina,2024,8-San Antonio
+9,Real,2024,8-San Antonio
+83,Uvalde,2024,8-San Antonio
+127,Val Verde,2024,8-San Antonio
+328,Victoria,2024,8-San Antonio
+174,Wilson,2024,8-San Antonio
+39,Zavala,2024,8-San Antonio
+36,Andrews,2024,9-Midland
+31,Coke,2024,9-Midland
+31,Concho,2024,9-Midland
+7,Crane,2024,9-Midland
+13,Crockett,2024,9-Midland
+70,Dawson,2024,9-Midland
+478,Ector,2024,9-Midland
+34,Gaines,2024,9-Midland
+1,Glasscock,2024,9-Midland
+189,Howard,2024,9-Midland
+5,Irion,2024,9-Midland
+29,Kimble,2024,9-Midland
+1,Loving,2024,9-Midland
+15,Martin,2024,9-Midland
+24,Mason,2024,9-Midland
+47,McCulloch,2024,9-Midland
+9,Menard,2024,9-Midland
+382,Midland,2024,9-Midland
+62,Pecos,2024,9-Midland
+9,Reagan,2024,9-Midland
+52,Reeves,2024,9-Midland
+12,Schleicher,2024,9-Midland
+8,Sterling,2024,9-Midland
+22,Sutton,2024,9-Midland
+5,Terrell,2024,9-Midland
+1226,Tom Green,2024,9-Midland
+12,Upton,2024,9-Midland
+38,Ward,2024,9-Midland
+24,Winkler,2024,9-Midland
+110,Brewster,2024,10-El Paso
+11,Culberson,2024,10-El Paso
+3210,El Paso,2024,10-El Paso
+21,Hudspeth,2024,10-El Paso
+14,Jeff Davis,2024,10-El Paso
+41,Presidio,2024,10-El Paso
+173,Aransas,2024,11-Edinburg
+142,Bee,2024,11-Edinburg
+47,Brooks,2024,11-Edinburg
+1399,Cameron,2024,11-Edinburg
+47,Duval,2024,11-Edinburg
+2316,Hidalgo,2024,11-Edinburg
+20,Jim Hogg,2024,11-Edinburg
+153,Jim Wells,2024,11-Edinburg
+1,Kenedy,2024,11-Edinburg
+118,Kleberg,2024,11-Edinburg
+46,Live Oak,2024,11-Edinburg
+4,McMullen,2024,11-Edinburg
+1756,Nueces,2024,11-Edinburg
+25,Refugio,2024,11-Edinburg
+249,San Patricio,2024,11-Edinburg
+147,Starr,2024,11-Edinburg
+546,Webb,2024,11-Edinburg
+66,Willacy,2024,11-Edinburg
+26,Zapata,2024,11-Edinburg
+23,Out of State,2024,Out of State
+12,Armstrong,2023,1-Lubbock
+34,Bailey,2023,1-Lubbock
+5,Briscoe,2023,1-Lubbock
+26,Carson,2023,1-Lubbock
+16,Castro,2023,1-Lubbock
+32,Childress,2023,1-Lubbock
+31,Cochran,2023,1-Lubbock
+9,Collingsworth,2023,1-Lubbock
+47,Crosby,2023,1-Lubbock
+21,Dallam,2023,1-Lubbock
+53,Deaf Smith,2023,1-Lubbock
+17,Dickens,2023,1-Lubbock
+12,Donley,2023,1-Lubbock
+61,Floyd,2023,1-Lubbock
+43,Garza,2023,1-Lubbock
+131,Gray,2023,1-Lubbock
+112,Hale,2023,1-Lubbock
+10,Hall,2023,1-Lubbock
+8,Hansford,2023,1-Lubbock
+12,Hartley,2023,1-Lubbock
+10,Hemphill,2023,1-Lubbock
+106,Hockley,2023,1-Lubbock
+127,Hutchinson,2023,1-Lubbock
+94,Lamb,2023,1-Lubbock
+9,Lipscomb,2023,1-Lubbock
+1904,Lubbock,2023,1-Lubbock
+37,Lynn,2023,1-Lubbock
+68,Moore,2023,1-Lubbock
+4,Motley,2023,1-Lubbock
+27,Ochiltree,2023,1-Lubbock
+4,Oldham,2023,1-Lubbock
+22,Parmer,2023,1-Lubbock
+719,Potter,2023,1-Lubbock
+387,Randall,2023,1-Lubbock
+3,Roberts,2023,1-Lubbock
+4,Sherman,2023,1-Lubbock
+28,Swisher,2023,1-Lubbock
+182,Terry,2023,1-Lubbock
+23,Wheeler,2023,1-Lubbock
+45,Yoakum,2023,1-Lubbock
+61,Archer,2023,2-Abilene
+32,Baylor,2023,2-Abilene
+232,Brown,2023,2-Abilene
+98,Callahan,2023,2-Abilene
+94,Clay,2023,2-Abilene
+67,Coleman,2023,2-Abilene
+97,Comanche,2023,2-Abilene
+7,Cottle,2023,2-Abilene
+150,Eastland,2023,2-Abilene
+34,Fisher,2023,2-Abilene
+13,Foard,2023,2-Abilene
+25,Hardeman,2023,2-Abilene
+42,Haskell,2023,2-Abilene
+49,Jack,2023,2-Abilene
+75,Jones,2023,2-Abilene
+9,Kent,2023,2-Abilene
+42,Knox,2023,2-Abilene
+32,Mitchell,2023,2-Abilene
+166,Montague,2023,2-Abilene
+100,Nolan,2023,2-Abilene
+82,Runnels,2023,2-Abilene
+79,Scurry,2023,2-Abilene
+20,Shackelford,2023,2-Abilene
+44,Stephens,2023,2-Abilene
+6,Stonewall,2023,2-Abilene
+1207,Taylor,2023,2-Abilene
+4,Throckmorton,2023,2-Abilene
+1446,Wichita,2023,2-Abilene
+131,Wilbarger,2023,2-Abilene
+136,Young,2023,2-Abilene
+1171,Collin,2023,3-Arlington
+117,Cooke,2023,3-Arlington
+6266,Dallas,2023,3-Arlington
+1164,Denton,2023,3-Arlington
+312,Ellis,2023,3-Arlington
+107,Erath,2023,3-Arlington
+107,Fannin,2023,3-Arlington
+492,Grayson,2023,3-Arlington
+170,Hood,2023,3-Arlington
+334,Hunt,2023,3-Arlington
+462,Johnson,2023,3-Arlington
+273,Kaufman,2023,3-Arlington
+147,Navarro,2023,3-Arlington
+138,Palo Pinto,2023,3-Arlington
+362,Parker,2023,3-Arlington
+132,Rockwall,2023,3-Arlington
+20,Somervell,2023,3-Arlington
+5150,Tarrant,2023,3-Arlington
+204,Wise,2023,3-Arlington
+203,Anderson,2023,4-Tyler
+357,Bowie,2023,4-Tyler
+49,Camp,2023,4-Tyler
+124,Cass,2023,4-Tyler
+172,Cherokee,2023,4-Tyler
+32,Delta,2023,4-Tyler
+37,Franklin,2023,4-Tyler
+416,Gregg,2023,4-Tyler
+228,Harrison,2023,4-Tyler
+451,Henderson,2023,4-Tyler
+157,Hopkins,2023,4-Tyler
+236,Lamar,2023,4-Tyler
+69,Marion,2023,4-Tyler
+84,Morris,2023,4-Tyler
+63,Panola,2023,4-Tyler
+50,Rains,2023,4-Tyler
+56,Red River,2023,4-Tyler
+156,Rusk,2023,4-Tyler
+877,Smith,2023,4-Tyler
+113,Titus,2023,4-Tyler
+171,Upshur,2023,4-Tyler
+253,Van Zandt,2023,4-Tyler
+231,Wood,2023,4-Tyler
+420,Angelina,2023,5-Beaumont
+197,Hardin,2023,5-Beaumont
+106,Houston,2023,5-Beaumont
+152,Jasper,2023,5-Beaumont
+1106,Jefferson,2023,5-Beaumont
+249,Nacogdoches,2023,5-Beaumont
+42,Newton,2023,5-Beaumont
+377,Orange,2023,5-Beaumont
+312,Polk,2023,5-Beaumont
+69,Sabine,2023,5-Beaumont
+73,San Augustine,2023,5-Beaumont
+128,San Jacinto,2023,5-Beaumont
+119,Shelby,2023,5-Beaumont
+104,Trinity,2023,5-Beaumont
+112,Tyler,2023,5-Beaumont
+69,Austin,2023,6-Houston
+730,Brazoria,2023,6-Houston
+95,Chambers,2023,6-Houston
+68,Colorado,2023,6-Houston
+1240,Fort Bend,2023,6-Houston
+1179,Galveston,2023,6-Houston
+11805,Harris,2023,6-Houston
+324,Liberty,2023,6-Houston
+88,Matagorda,2023,6-Houston
+1399,Montgomery,2023,6-Houston
+196,Walker,2023,6-Houston
+98,Waller,2023,6-Houston
+130,Wharton,2023,6-Houston
+263,Bastrop,2023,7-Austin
+1188,Bell,2023,7-Austin
+30,Blanco,2023,7-Austin
+67,Bosque,2023,7-Austin
+445,Brazos,2023,7-Austin
+78,Burleson,2023,7-Austin
+169,Burnet,2023,7-Austin
+126,Caldwell,2023,7-Austin
+244,Coryell,2023,7-Austin
+58,Falls,2023,7-Austin
+64,Fayette,2023,7-Austin
+64,Freestone,2023,7-Austin
+109,Grimes,2023,7-Austin
+47,Hamilton,2023,7-Austin
+413,Hays,2023,7-Austin
+128,Hill,2023,7-Austin
+97,Lampasas,2023,7-Austin
+35,Lee,2023,7-Austin
+63,Leon,2023,7-Austin
+109,Limestone,2023,7-Austin
+91,Llano,2023,7-Austin
+50,Madison,2023,7-Austin
+884,McLennan,2023,7-Austin
+125,Milam,2023,7-Austin
+17,Mills,2023,7-Austin
+68,Robertson,2023,7-Austin
+20,San Saba,2023,7-Austin
+2526,Travis,2023,7-Austin
+80,Washington,2023,7-Austin
+931,Williamson,2023,7-Austin
+168,Atascosa,2023,8-San Antonio
+118,Bandera,2023,8-San Antonio
+6990,Bexar,2023,8-San Antonio
+77,Calhoun,2023,8-San Antonio
+477,Comal,2023,8-San Antonio
+79,DeWitt,2023,8-San Antonio
+41,Dimmit,2023,8-San Antonio
+11,Edwards,2023,8-San Antonio
+51,Frio,2023,8-San Antonio
+87,Gillespie,2023,8-San Antonio
+32,Goliad,2023,8-San Antonio
+52,Gonzales,2023,8-San Antonio
+379,Guadalupe,2023,8-San Antonio
+45,Jackson,2023,8-San Antonio
+36,Karnes,2023,8-San Antonio
+95,Kendall,2023,8-San Antonio
+219,Kerr,2023,8-San Antonio
+17,Kinney,2023,8-San Antonio
+9,La Salle,2023,8-San Antonio
+61,Lavaca,2023,8-San Antonio
+115,Maverick,2023,8-San Antonio
+141,Medina,2023,8-San Antonio
+23,Real,2023,8-San Antonio
+102,Uvalde,2023,8-San Antonio
+105,Val Verde,2023,8-San Antonio
+332,Victoria,2023,8-San Antonio
+146,Wilson,2023,8-San Antonio
+38,Zavala,2023,8-San Antonio
+26,Andrews,2023,9-Midland
+2,Borden,2023,9-Midland
+40,Coke,2023,9-Midland
+30,Concho,2023,9-Midland
+16,Crane,2023,9-Midland
+18,Crockett,2023,9-Midland
+68,Dawson,2023,9-Midland
+548,Ector,2023,9-Midland
+39,Gaines,2023,9-Midland
+3,Glasscock,2023,9-Midland
+217,Howard,2023,9-Midland
+5,Irion,2023,9-Midland
+12,Kimble,2023,9-Midland
+16,Martin,2023,9-Midland
+17,Mason,2023,9-Midland
+49,McCulloch,2023,9-Midland
+10,Menard,2023,9-Midland
+356,Midland,2023,9-Midland
+50,Pecos,2023,9-Midland
+10,Reagan,2023,9-Midland
+52,Reeves,2023,9-Midland
+11,Schleicher,2023,9-Midland
+10,Sterling,2023,9-Midland
+13,Sutton,2023,9-Midland
+4,Terrell,2023,9-Midland
+1106,Tom Green,2023,9-Midland
+15,Upton,2023,9-Midland
+40,Ward,2023,9-Midland
+26,Winkler,2023,9-Midland
+125,Brewster,2023,10-El Paso
+16,Culberson,2023,10-El Paso
+3144,El Paso,2023,10-El Paso
+26,Hudspeth,2023,10-El Paso
+11,Jeff Davis,2023,10-El Paso
+49,Presidio,2023,10-El Paso
+155,Aransas,2023,11-Edinburg
+120,Bee,2023,11-Edinburg
+45,Brooks,2023,11-Edinburg
+1445,Cameron,2023,11-Edinburg
+29,Duval,2023,11-Edinburg
+2341,Hidalgo,2023,11-Edinburg
+15,Jim Hogg,2023,11-Edinburg
+163,Jim Wells,2023,11-Edinburg
+1,Kenedy,2023,11-Edinburg
+104,Kleberg,2023,11-Edinburg
+34,Live Oak,2023,11-Edinburg
+1,McMullen,2023,11-Edinburg
+1579,Nueces,2023,11-Edinburg
+25,Refugio,2023,11-Edinburg
+296,San Patricio,2023,11-Edinburg
+131,Starr,2023,11-Edinburg
+519,Webb,2023,11-Edinburg
+73,Willacy,2023,11-Edinburg
+32,Zapata,2023,11-Edinburg
+39,Out of State,2023,Out of State
+10,Armstrong,2022,1-Lubbock
+31,Bailey,2022,1-Lubbock
+7,Briscoe,2022,1-Lubbock
+16,Carson,2022,1-Lubbock
+26,Castro,2022,1-Lubbock
+48,Childress,2022,1-Lubbock
+27,Cochran,2022,1-Lubbock
+13,Collingsworth,2022,1-Lubbock
+63,Crosby,2022,1-Lubbock
+17,Dallam,2022,1-Lubbock
+57,Deaf Smith,2022,1-Lubbock
+20,Dickens,2022,1-Lubbock
+17,Donley,2022,1-Lubbock
+70,Floyd,2022,1-Lubbock
+34,Garza,2022,1-Lubbock
+97,Gray,2022,1-Lubbock
+157,Hale,2022,1-Lubbock
+16,Hall,2022,1-Lubbock
+9,Hansford,2022,1-Lubbock
+9,Hartley,2022,1-Lubbock
+4,Hemphill,2022,1-Lubbock
+154,Hockley,2022,1-Lubbock
+108,Hutchinson,2022,1-Lubbock
+158,Lamb,2022,1-Lubbock
+1,Lipscomb,2022,1-Lubbock
+2001,Lubbock,2022,1-Lubbock
+57,Lynn,2022,1-Lubbock
+48,Moore,2022,1-Lubbock
+4,Motley,2022,1-Lubbock
+22,Ochiltree,2022,1-Lubbock
+7,Oldham,2022,1-Lubbock
+15,Parmer,2022,1-Lubbock
+871,Potter,2022,1-Lubbock
+456,Randall,2022,1-Lubbock
+5,Roberts,2022,1-Lubbock
+7,Sherman,2022,1-Lubbock
+37,Swisher,2022,1-Lubbock
+164,Terry,2022,1-Lubbock
+8,Wheeler,2022,1-Lubbock
+31,Yoakum,2022,1-Lubbock
+63,Archer,2022,2-Abilene
+40,Baylor,2022,2-Abilene
+298,Brown,2022,2-Abilene
+107,Callahan,2022,2-Abilene
+81,Clay,2022,2-Abilene
+79,Coleman,2022,2-Abilene
+77,Comanche,2022,2-Abilene
+7,Cottle,2022,2-Abilene
+143,Eastland,2022,2-Abilene
+30,Fisher,2022,2-Abilene
+7,Foard,2022,2-Abilene
+35,Hardeman,2022,2-Abilene
+42,Haskell,2022,2-Abilene
+48,Jack,2022,2-Abilene
+101,Jones,2022,2-Abilene
+6,Kent,2022,2-Abilene
+34,Knox,2022,2-Abilene
+33,Mitchell,2022,2-Abilene
+149,Montague,2022,2-Abilene
+118,Nolan,2022,2-Abilene
+73,Runnels,2022,2-Abilene
+78,Scurry,2022,2-Abilene
+16,Shackelford,2022,2-Abilene
+50,Stephens,2022,2-Abilene
+7,Stonewall,2022,2-Abilene
+1266,Taylor,2022,2-Abilene
+18,Throckmorton,2022,2-Abilene
+1363,Wichita,2022,2-Abilene
+99,Wilbarger,2022,2-Abilene
+126,Young,2022,2-Abilene
+1202,Collin,2022,3-Arlington
+122,Cooke,2022,3-Arlington
+5932,Dallas,2022,3-Arlington
+998,Denton,2022,3-Arlington
+312,Ellis,2022,3-Arlington
+95,Erath,2022,3-Arlington
+109,Fannin,2022,3-Arlington
+559,Grayson,2022,3-Arlington
+198,Hood,2022,3-Arlington
+342,Hunt,2022,3-Arlington
+454,Johnson,2022,3-Arlington
+297,Kaufman,2022,3-Arlington
+138,Navarro,2022,3-Arlington
+100,Palo Pinto,2022,3-Arlington
+411,Parker,2022,3-Arlington
+121,Rockwall,2022,3-Arlington
+27,Somervell,2022,3-Arlington
+5073,Tarrant,2022,3-Arlington
+193,Wise,2022,3-Arlington
+217,Anderson,2022,4-Tyler
+295,Bowie,2022,4-Tyler
+39,Camp,2022,4-Tyler
+118,Cass,2022,4-Tyler
+203,Cherokee,2022,4-Tyler
+32,Delta,2022,4-Tyler
+24,Franklin,2022,4-Tyler
+407,Gregg,2022,4-Tyler
+216,Harrison,2022,4-Tyler
+424,Henderson,2022,4-Tyler
+124,Hopkins,2022,4-Tyler
+224,Lamar,2022,4-Tyler
+67,Marion,2022,4-Tyler
+76,Morris,2022,4-Tyler
+67,Panola,2022,4-Tyler
+50,Rains,2022,4-Tyler
+55,Red River,2022,4-Tyler
+134,Rusk,2022,4-Tyler
+846,Smith,2022,4-Tyler
+82,Titus,2022,4-Tyler
+141,Upshur,2022,4-Tyler
+198,Van Zandt,2022,4-Tyler
+196,Wood,2022,4-Tyler
+352,Angelina,2022,5-Beaumont
+171,Hardin,2022,5-Beaumont
+98,Houston,2022,5-Beaumont
+146,Jasper,2022,5-Beaumont
+1074,Jefferson,2022,5-Beaumont
+206,Nacogdoches,2022,5-Beaumont
+43,Newton,2022,5-Beaumont
+352,Orange,2022,5-Beaumont
+260,Polk,2022,5-Beaumont
+53,Sabine,2022,5-Beaumont
+45,San Augustine,2022,5-Beaumont
+138,San Jacinto,2022,5-Beaumont
+102,Shelby,2022,5-Beaumont
+70,Trinity,2022,5-Beaumont
+117,Tyler,2022,5-Beaumont
+82,Austin,2022,6-Houston
+756,Brazoria,2022,6-Houston
+107,Chambers,2022,6-Houston
+61,Colorado,2022,6-Houston
+1207,Fort Bend,2022,6-Houston
+1193,Galveston,2022,6-Houston
+12692,Harris,2022,6-Houston
+315,Liberty,2022,6-Houston
+135,Matagorda,2022,6-Houston
+1522,Montgomery,2022,6-Houston
+184,Walker,2022,6-Houston
+126,Waller,2022,6-Houston
+110,Wharton,2022,6-Houston
+315,Bastrop,2022,7-Austin
+1207,Bell,2022,7-Austin
+30,Blanco,2022,7-Austin
+83,Bosque,2022,7-Austin
+355,Brazos,2022,7-Austin
+72,Burleson,2022,7-Austin
+153,Burnet,2022,7-Austin
+140,Caldwell,2022,7-Austin
+225,Coryell,2022,7-Austin
+68,Falls,2022,7-Austin
+87,Fayette,2022,7-Austin
+69,Freestone,2022,7-Austin
+87,Grimes,2022,7-Austin
+33,Hamilton,2022,7-Austin
+392,Hays,2022,7-Austin
+142,Hill,2022,7-Austin
+97,Lampasas,2022,7-Austin
+51,Lee,2022,7-Austin
+53,Leon,2022,7-Austin
+74,Limestone,2022,7-Austin
+105,Llano,2022,7-Austin
+28,Madison,2022,7-Austin
+970,McLennan,2022,7-Austin
+108,Milam,2022,7-Austin
+16,Mills,2022,7-Austin
+64,Robertson,2022,7-Austin
+24,San Saba,2022,7-Austin
+2551,Travis,2022,7-Austin
+94,Washington,2022,7-Austin
+991,Williamson,2022,7-Austin
+199,Atascosa,2022,8-San Antonio
+118,Bandera,2022,8-San Antonio
+7165,Bexar,2022,8-San Antonio
+84,Calhoun,2022,8-San Antonio
+492,Comal,2022,8-San Antonio
+98,DeWitt,2022,8-San Antonio
+42,Dimmit,2022,8-San Antonio
+5,Edwards,2022,8-San Antonio
+30,Frio,2022,8-San Antonio
+84,Gillespie,2022,8-San Antonio
+19,Goliad,2022,8-San Antonio
+78,Gonzales,2022,8-San Antonio
+434,Guadalupe,2022,8-San Antonio
+41,Jackson,2022,8-San Antonio
+33,Karnes,2022,8-San Antonio
+118,Kendall,2022,8-San Antonio
+284,Kerr,2022,8-San Antonio
+13,Kinney,2022,8-San Antonio
+20,La Salle,2022,8-San Antonio
+57,Lavaca,2022,8-San Antonio
+87,Maverick,2022,8-San Antonio
+149,Medina,2022,8-San Antonio
+10,Real,2022,8-San Antonio
+75,Uvalde,2022,8-San Antonio
+109,Val Verde,2022,8-San Antonio
+357,Victoria,2022,8-San Antonio
+153,Wilson,2022,8-San Antonio
+32,Zavala,2022,8-San Antonio
+41,Andrews,2022,9-Midland
+2,Borden,2022,9-Midland
+30,Coke,2022,9-Midland
+45,Concho,2022,9-Midland
+9,Crane,2022,9-Midland
+17,Crockett,2022,9-Midland
+61,Dawson,2022,9-Midland
+563,Ector,2022,9-Midland
+32,Gaines,2022,9-Midland
+4,Glasscock,2022,9-Midland
+246,Howard,2022,9-Midland
+4,Irion,2022,9-Midland
+29,Kimble,2022,9-Midland
+1,Loving,2022,9-Midland
+8,Martin,2022,9-Midland
+20,Mason,2022,9-Midland
+70,McCulloch,2022,9-Midland
+9,Menard,2022,9-Midland
+346,Midland,2022,9-Midland
+67,Pecos,2022,9-Midland
+10,Reagan,2022,9-Midland
+36,Reeves,2022,9-Midland
+6,Schleicher,2022,9-Midland
+3,Sterling,2022,9-Midland
+20,Sutton,2022,9-Midland
+2,Terrell,2022,9-Midland
+959,Tom Green,2022,9-Midland
+8,Upton,2022,9-Midland
+57,Ward,2022,9-Midland
+22,Winkler,2022,9-Midland
+102,Brewster,2022,10-El Paso
+14,Culberson,2022,10-El Paso
+3285,El Paso,2022,10-El Paso
+20,Hudspeth,2022,10-El Paso
+12,Jeff Davis,2022,10-El Paso
+44,Presidio,2022,10-El Paso
+161,Aransas,2022,11-Edinburg
+127,Bee,2022,11-Edinburg
+31,Brooks,2022,11-Edinburg
+1360,Cameron,2022,11-Edinburg
+34,Duval,2022,11-Edinburg
+2303,Hidalgo,2022,11-Edinburg
+13,Jim Hogg,2022,11-Edinburg
+188,Jim Wells,2022,11-Edinburg
+145,Kleberg,2022,11-Edinburg
+31,Live Oak,2022,11-Edinburg
+5,McMullen,2022,11-Edinburg
+1706,Nueces,2022,11-Edinburg
+33,Refugio,2022,11-Edinburg
+322,San Patricio,2022,11-Edinburg
+130,Starr,2022,11-Edinburg
+481,Webb,2022,11-Edinburg
+93,Willacy,2022,11-Edinburg
+43,Zapata,2022,11-Edinburg
+44,Out of State,2022,Out of State
+1,Armstrong,2021,1-Lubbock
+25,Bailey,2021,1-Lubbock
+13,Briscoe,2021,1-Lubbock
+19,Carson,2021,1-Lubbock
+23,Castro,2021,1-Lubbock
+30,Childress,2021,1-Lubbock
+33,Cochran,2021,1-Lubbock
+25,Collingsworth,2021,1-Lubbock
+91,Crosby,2021,1-Lubbock
+10,Dallam,2021,1-Lubbock
+58,Deaf Smith,2021,1-Lubbock
+18,Dickens,2021,1-Lubbock
+18,Donley,2021,1-Lubbock
+25,Floyd,2021,1-Lubbock
+33,Garza,2021,1-Lubbock
+113,Gray,2021,1-Lubbock
+124,Hale,2021,1-Lubbock
+20,Hall,2021,1-Lubbock
+15,Hansford,2021,1-Lubbock
+5,Hartley,2021,1-Lubbock
+3,Hemphill,2021,1-Lubbock
+145,Hockley,2021,1-Lubbock
+98,Hutchinson,2021,1-Lubbock
+2,King,2021,1-Lubbock
+111,Lamb,2021,1-Lubbock
+5,Lipscomb,2021,1-Lubbock
+1780,Lubbock,2021,1-Lubbock
+50,Lynn,2021,1-Lubbock
+43,Moore,2021,1-Lubbock
+5,Motley,2021,1-Lubbock
+43,Ochiltree,2021,1-Lubbock
+2,Oldham,2021,1-Lubbock
+18,Parmer,2021,1-Lubbock
+818,Potter,2021,1-Lubbock
+416,Randall,2021,1-Lubbock
+3,Roberts,2021,1-Lubbock
+8,Sherman,2021,1-Lubbock
+37,Swisher,2021,1-Lubbock
+177,Terry,2021,1-Lubbock
+15,Wheeler,2021,1-Lubbock
+23,Yoakum,2021,1-Lubbock
+80,Archer,2021,2-Abilene
+25,Baylor,2021,2-Abilene
+300,Brown,2021,2-Abilene
+105,Callahan,2021,2-Abilene
+69,Clay,2021,2-Abilene
+83,Coleman,2021,2-Abilene
+94,Comanche,2021,2-Abilene
+11,Cottle,2021,2-Abilene
+156,Eastland,2021,2-Abilene
+18,Fisher,2021,2-Abilene
+11,Foard,2021,2-Abilene
+22,Hardeman,2021,2-Abilene
+50,Haskell,2021,2-Abilene
+49,Jack,2021,2-Abilene
+95,Jones,2021,2-Abilene
+6,Kent,2021,2-Abilene
+48,Knox,2021,2-Abilene
+43,Mitchell,2021,2-Abilene
+150,Montague,2021,2-Abilene
+124,Nolan,2021,2-Abilene
+72,Runnels,2021,2-Abilene
+107,Scurry,2021,2-Abilene
+22,Shackelford,2021,2-Abilene
+43,Stephens,2021,2-Abilene
+14,Stonewall,2021,2-Abilene
+1207,Taylor,2021,2-Abilene
+14,Throckmorton,2021,2-Abilene
+1340,Wichita,2021,2-Abilene
+121,Wilbarger,2021,2-Abilene
+146,Young,2021,2-Abilene
+1062,Collin,2021,3-Arlington
+125,Cooke,2021,3-Arlington
+5752,Dallas,2021,3-Arlington
+945,Denton,2021,3-Arlington
+329,Ellis,2021,3-Arlington
+90,Erath,2021,3-Arlington
+119,Fannin,2021,3-Arlington
+512,Grayson,2021,3-Arlington
+184,Hood,2021,3-Arlington
+349,Hunt,2021,3-Arlington
+402,Johnson,2021,3-Arlington
+269,Kaufman,2021,3-Arlington
+175,Navarro,2021,3-Arlington
+138,Palo Pinto,2021,3-Arlington
+356,Parker,2021,3-Arlington
+130,Rockwall,2021,3-Arlington
+22,Somervell,2021,3-Arlington
+4986,Tarrant,2021,3-Arlington
+194,Wise,2021,3-Arlington
+215,Anderson,2021,4-Tyler
+288,Bowie,2021,4-Tyler
+47,Camp,2021,4-Tyler
+110,Cass,2021,4-Tyler
+208,Cherokee,2021,4-Tyler
+25,Delta,2021,4-Tyler
+24,Franklin,2021,4-Tyler
+413,Gregg,2021,4-Tyler
+220,Harrison,2021,4-Tyler
+398,Henderson,2021,4-Tyler
+141,Hopkins,2021,4-Tyler
+259,Lamar,2021,4-Tyler
+75,Marion,2021,4-Tyler
+67,Morris,2021,4-Tyler
+66,Panola,2021,4-Tyler
+51,Rains,2021,4-Tyler
+50,Red River,2021,4-Tyler
+140,Rusk,2021,4-Tyler
+811,Smith,2021,4-Tyler
+85,Titus,2021,4-Tyler
+145,Upshur,2021,4-Tyler
+239,Van Zandt,2021,4-Tyler
+224,Wood,2021,4-Tyler
+307,Angelina,2021,5-Beaumont
+204,Hardin,2021,5-Beaumont
+94,Houston,2021,5-Beaumont
+152,Jasper,2021,5-Beaumont
+1066,Jefferson,2021,5-Beaumont
+199,Nacogdoches,2021,5-Beaumont
+56,Newton,2021,5-Beaumont
+384,Orange,2021,5-Beaumont
+253,Polk,2021,5-Beaumont
+53,Sabine,2021,5-Beaumont
+51,San Augustine,2021,5-Beaumont
+139,San Jacinto,2021,5-Beaumont
+94,Shelby,2021,5-Beaumont
+51,Trinity,2021,5-Beaumont
+92,Tyler,2021,5-Beaumont
+90,Austin,2021,6-Houston
+705,Brazoria,2021,6-Houston
+102,Chambers,2021,6-Houston
+78,Colorado,2021,6-Houston
+1145,Fort Bend,2021,6-Houston
+1091,Galveston,2021,6-Houston
+11700,Harris,2021,6-Houston
+354,Liberty,2021,6-Houston
+116,Matagorda,2021,6-Houston
+1323,Montgomery,2021,6-Houston
+144,Walker,2021,6-Houston
+94,Waller,2021,6-Houston
+111,Wharton,2021,6-Houston
+287,Bastrop,2021,7-Austin
+1035,Bell,2021,7-Austin
+38,Blanco,2021,7-Austin
+68,Bosque,2021,7-Austin
+382,Brazos,2021,7-Austin
+79,Burleson,2021,7-Austin
+154,Burnet,2021,7-Austin
+166,Caldwell,2021,7-Austin
+230,Coryell,2021,7-Austin
+66,Falls,2021,7-Austin
+79,Fayette,2021,7-Austin
+61,Freestone,2021,7-Austin
+109,Grimes,2021,7-Austin
+35,Hamilton,2021,7-Austin
+414,Hays,2021,7-Austin
+142,Hill,2021,7-Austin
+107,Lampasas,2021,7-Austin
+51,Lee,2021,7-Austin
+50,Leon,2021,7-Austin
+87,Limestone,2021,7-Austin
+112,Llano,2021,7-Austin
+38,Madison,2021,7-Austin
+933,McLennan,2021,7-Austin
+118,Milam,2021,7-Austin
+17,Mills,2021,7-Austin
+51,Robertson,2021,7-Austin
+15,San Saba,2021,7-Austin
+2610,Travis,2021,7-Austin
+104,Washington,2021,7-Austin
+830,Williamson,2021,7-Austin
+190,Atascosa,2021,8-San Antonio
+113,Bandera,2021,8-San Antonio
+6834,Bexar,2021,8-San Antonio
+77,Calhoun,2021,8-San Antonio
+377,Comal,2021,8-San Antonio
+74,DeWitt,2021,8-San Antonio
+35,Dimmit,2021,8-San Antonio
+1,Edwards,2021,8-San Antonio
+49,Frio,2021,8-San Antonio
+93,Gillespie,2021,8-San Antonio
+32,Goliad,2021,8-San Antonio
+58,Gonzales,2021,8-San Antonio
+365,Guadalupe,2021,8-San Antonio
+43,Jackson,2021,8-San Antonio
+48,Karnes,2021,8-San Antonio
+82,Kendall,2021,8-San Antonio
+320,Kerr,2021,8-San Antonio
+20,Kinney,2021,8-San Antonio
+22,La Salle,2021,8-San Antonio
+57,Lavaca,2021,8-San Antonio
+96,Maverick,2021,8-San Antonio
+137,Medina,2021,8-San Antonio
+14,Real,2021,8-San Antonio
+75,Uvalde,2021,8-San Antonio
+112,Val Verde,2021,8-San Antonio
+350,Victoria,2021,8-San Antonio
+136,Wilson,2021,8-San Antonio
+37,Zavala,2021,8-San Antonio
+34,Andrews,2021,9-Midland
+29,Coke,2021,9-Midland
+23,Concho,2021,9-Midland
+10,Crane,2021,9-Midland
+19,Crockett,2021,9-Midland
+68,Dawson,2021,9-Midland
+567,Ector,2021,9-Midland
+36,Gaines,2021,9-Midland
+4,Glasscock,2021,9-Midland
+191,Howard,2021,9-Midland
+4,Irion,2021,9-Midland
+23,Kimble,2021,9-Midland
+11,Martin,2021,9-Midland
+23,Mason,2021,9-Midland
+55,McCulloch,2021,9-Midland
+11,Menard,2021,9-Midland
+328,Midland,2021,9-Midland
+95,Pecos,2021,9-Midland
+11,Reagan,2021,9-Midland
+49,Reeves,2021,9-Midland
+14,Schleicher,2021,9-Midland
+5,Sterling,2021,9-Midland
+11,Sutton,2021,9-Midland
+6,Terrell,2021,9-Midland
+1039,Tom Green,2021,9-Midland
+8,Upton,2021,9-Midland
+35,Ward,2021,9-Midland
+20,Winkler,2021,9-Midland
+93,Brewster,2021,10-El Paso
+6,Culberson,2021,10-El Paso
+3388,El Paso,2021,10-El Paso
+18,Hudspeth,2021,10-El Paso
+3,Jeff Davis,2021,10-El Paso
+31,Presidio,2021,10-El Paso
+145,Aransas,2021,11-Edinburg
+126,Bee,2021,11-Edinburg
+31,Brooks,2021,11-Edinburg
+1402,Cameron,2021,11-Edinburg
+52,Duval,2021,11-Edinburg
+2305,Hidalgo,2021,11-Edinburg
+24,Jim Hogg,2021,11-Edinburg
+194,Jim Wells,2021,11-Edinburg
+1,Kenedy,2021,11-Edinburg
+106,Kleberg,2021,11-Edinburg
+31,Live Oak,2021,11-Edinburg
+1,McMullen,2021,11-Edinburg
+1743,Nueces,2021,11-Edinburg
+22,Refugio,2021,11-Edinburg
+306,San Patricio,2021,11-Edinburg
+154,Starr,2021,11-Edinburg
+566,Webb,2021,11-Edinburg
+93,Willacy,2021,11-Edinburg
+37,Zapata,2021,11-Edinburg
+33,Out of State,2021,Out of State
+1,Armstrong,2020,1-Lubbock
+26,Bailey,2020,1-Lubbock
+2,Briscoe,2020,1-Lubbock
+18,Carson,2020,1-Lubbock
+18,Castro,2020,1-Lubbock
+27,Childress,2020,1-Lubbock
+36,Cochran,2020,1-Lubbock
+19,Collingsworth,2020,1-Lubbock
+58,Crosby,2020,1-Lubbock
+13,Dallam,2020,1-Lubbock
+52,Deaf Smith,2020,1-Lubbock
+11,Dickens,2020,1-Lubbock
+25,Donley,2020,1-Lubbock
+43,Floyd,2020,1-Lubbock
+43,Garza,2020,1-Lubbock
+127,Gray,2020,1-Lubbock
+152,Hale,2020,1-Lubbock
+15,Hall,2020,1-Lubbock
+18,Hansford,2020,1-Lubbock
+7,Hartley,2020,1-Lubbock
+7,Hemphill,2020,1-Lubbock
+163,Hockley,2020,1-Lubbock
+125,Hutchinson,2020,1-Lubbock
+125,Lamb,2020,1-Lubbock
+5,Lipscomb,2020,1-Lubbock
+1988,Lubbock,2020,1-Lubbock
+34,Lynn,2020,1-Lubbock
+49,Moore,2020,1-Lubbock
+3,Motley,2020,1-Lubbock
+31,Ochiltree,2020,1-Lubbock
+5,Oldham,2020,1-Lubbock
+17,Parmer,2020,1-Lubbock
+793,Potter,2020,1-Lubbock
+417,Randall,2020,1-Lubbock
+2,Roberts,2020,1-Lubbock
+3,Sherman,2020,1-Lubbock
+37,Swisher,2020,1-Lubbock
+149,Terry,2020,1-Lubbock
+15,Wheeler,2020,1-Lubbock
+17,Yoakum,2020,1-Lubbock
+76,Archer,2020,2-Abilene
+31,Baylor,2020,2-Abilene
+264,Brown,2020,2-Abilene
+113,Callahan,2020,2-Abilene
+76,Clay,2020,2-Abilene
+75,Coleman,2020,2-Abilene
+78,Comanche,2020,2-Abilene
+12,Cottle,2020,2-Abilene
+166,Eastland,2020,2-Abilene
+30,Fisher,2020,2-Abilene
+7,Foard,2020,2-Abilene
+49,Hardeman,2020,2-Abilene
+50,Haskell,2020,2-Abilene
+31,Jack,2020,2-Abilene
+108,Jones,2020,2-Abilene
+4,Kent,2020,2-Abilene
+28,Knox,2020,2-Abilene
+42,Mitchell,2020,2-Abilene
+153,Montague,2020,2-Abilene
+102,Nolan,2020,2-Abilene
+81,Runnels,2020,2-Abilene
+70,Scurry,2020,2-Abilene
+11,Shackelford,2020,2-Abilene
+40,Stephens,2020,2-Abilene
+14,Stonewall,2020,2-Abilene
+1307,Taylor,2020,2-Abilene
+11,Throckmorton,2020,2-Abilene
+1446,Wichita,2020,2-Abilene
+173,Wilbarger,2020,2-Abilene
+124,Young,2020,2-Abilene
+1070,Collin,2020,3-Arlington
+115,Cooke,2020,3-Arlington
+5884,Dallas,2020,3-Arlington
+972,Denton,2020,3-Arlington
+346,Ellis,2020,3-Arlington
+83,Erath,2020,3-Arlington
+135,Fannin,2020,3-Arlington
+511,Grayson,2020,3-Arlington
+189,Hood,2020,3-Arlington
+375,Hunt,2020,3-Arlington
+510,Johnson,2020,3-Arlington
+268,Kaufman,2020,3-Arlington
+181,Navarro,2020,3-Arlington
+120,Palo Pinto,2020,3-Arlington
+346,Parker,2020,3-Arlington
+115,Rockwall,2020,3-Arlington
+19,Somervell,2020,3-Arlington
+5118,Tarrant,2020,3-Arlington
+144,Wise,2020,3-Arlington
+180,Anderson,2020,4-Tyler
+337,Bowie,2020,4-Tyler
+35,Camp,2020,4-Tyler
+122,Cass,2020,4-Tyler
+242,Cherokee,2020,4-Tyler
+24,Delta,2020,4-Tyler
+26,Franklin,2020,4-Tyler
+432,Gregg,2020,4-Tyler
+217,Harrison,2020,4-Tyler
+442,Henderson,2020,4-Tyler
+194,Hopkins,2020,4-Tyler
+246,Lamar,2020,4-Tyler
+62,Marion,2020,4-Tyler
+100,Morris,2020,4-Tyler
+72,Panola,2020,4-Tyler
+45,Rains,2020,4-Tyler
+67,Red River,2020,4-Tyler
+161,Rusk,2020,4-Tyler
+809,Smith,2020,4-Tyler
+109,Titus,2020,4-Tyler
+149,Upshur,2020,4-Tyler
+249,Van Zandt,2020,4-Tyler
+241,Wood,2020,4-Tyler
+386,Angelina,2020,5-Beaumont
+147,Hardin,2020,5-Beaumont
+95,Houston,2020,5-Beaumont
+161,Jasper,2020,5-Beaumont
+1073,Jefferson,2020,5-Beaumont
+250,Nacogdoches,2020,5-Beaumont
+59,Newton,2020,5-Beaumont
+348,Orange,2020,5-Beaumont
+312,Polk,2020,5-Beaumont
+50,Sabine,2020,5-Beaumont
+63,San Augustine,2020,5-Beaumont
+159,San Jacinto,2020,5-Beaumont
+100,Shelby,2020,5-Beaumont
+84,Trinity,2020,5-Beaumont
+92,Tyler,2020,5-Beaumont
+76,Austin,2020,6-Houston
+746,Brazoria,2020,6-Houston
+103,Chambers,2020,6-Houston
+62,Colorado,2020,6-Houston
+1257,Fort Bend,2020,6-Houston
+1168,Galveston,2020,6-Houston
+12822,Harris,2020,6-Houston
+310,Liberty,2020,6-Houston
+126,Matagorda,2020,6-Houston
+1336,Montgomery,2020,6-Houston
+154,Walker,2020,6-Houston
+116,Waller,2020,6-Houston
+143,Wharton,2020,6-Houston
+277,Bastrop,2020,7-Austin
+1001,Bell,2020,7-Austin
+29,Blanco,2020,7-Austin
+71,Bosque,2020,7-Austin
+386,Brazos,2020,7-Austin
+88,Burleson,2020,7-Austin
+182,Burnet,2020,7-Austin
+169,Caldwell,2020,7-Austin
+233,Coryell,2020,7-Austin
+118,Falls,2020,7-Austin
+68,Fayette,2020,7-Austin
+96,Freestone,2020,7-Austin
+109,Grimes,2020,7-Austin
+34,Hamilton,2020,7-Austin
+329,Hays,2020,7-Austin
+148,Hill,2020,7-Austin
+99,Lampasas,2020,7-Austin
+54,Lee,2020,7-Austin
+63,Leon,2020,7-Austin
+103,Limestone,2020,7-Austin
+116,Llano,2020,7-Austin
+48,Madison,2020,7-Austin
+1040,McLennan,2020,7-Austin
+112,Milam,2020,7-Austin
+21,Mills,2020,7-Austin
+75,Robertson,2020,7-Austin
+31,San Saba,2020,7-Austin
+3054,Travis,2020,7-Austin
+98,Washington,2020,7-Austin
+1038,Williamson,2020,7-Austin
+194,Atascosa,2020,8-San Antonio
+104,Bandera,2020,8-San Antonio
+7175,Bexar,2020,8-San Antonio
+58,Calhoun,2020,8-San Antonio
+431,Comal,2020,8-San Antonio
+90,DeWitt,2020,8-San Antonio
+34,Dimmit,2020,8-San Antonio
+10,Edwards,2020,8-San Antonio
+41,Frio,2020,8-San Antonio
+86,Gillespie,2020,8-San Antonio
+27,Goliad,2020,8-San Antonio
+40,Gonzales,2020,8-San Antonio
+382,Guadalupe,2020,8-San Antonio
+47,Jackson,2020,8-San Antonio
+60,Karnes,2020,8-San Antonio
+106,Kendall,2020,8-San Antonio
+313,Kerr,2020,8-San Antonio
+15,Kinney,2020,8-San Antonio
+25,La Salle,2020,8-San Antonio
+55,Lavaca,2020,8-San Antonio
+118,Maverick,2020,8-San Antonio
+173,Medina,2020,8-San Antonio
+21,Real,2020,8-San Antonio
+116,Uvalde,2020,8-San Antonio
+142,Val Verde,2020,8-San Antonio
+300,Victoria,2020,8-San Antonio
+165,Wilson,2020,8-San Antonio
+36,Zavala,2020,8-San Antonio
+35,Andrews,2020,9-Midland
+1,Borden,2020,9-Midland
+35,Coke,2020,9-Midland
+15,Concho,2020,9-Midland
+10,Crane,2020,9-Midland
+14,Crockett,2020,9-Midland
+89,Dawson,2020,9-Midland
+473,Ector,2020,9-Midland
+38,Gaines,2020,9-Midland
+3,Glasscock,2020,9-Midland
+204,Howard,2020,9-Midland
+7,Irion,2020,9-Midland
+25,Kimble,2020,9-Midland
+12,Martin,2020,9-Midland
+14,Mason,2020,9-Midland
+96,McCulloch,2020,9-Midland
+17,Menard,2020,9-Midland
+299,Midland,2020,9-Midland
+62,Pecos,2020,9-Midland
+3,Reagan,2020,9-Midland
+50,Reeves,2020,9-Midland
+10,Schleicher,2020,9-Midland
+3,Sterling,2020,9-Midland
+12,Sutton,2020,9-Midland
+6,Terrell,2020,9-Midland
+1046,Tom Green,2020,9-Midland
+7,Upton,2020,9-Midland
+55,Ward,2020,9-Midland
+30,Winkler,2020,9-Midland
+97,Brewster,2020,10-El Paso
+23,Culberson,2020,10-El Paso
+3692,El Paso,2020,10-El Paso
+14,Hudspeth,2020,10-El Paso
+5,Jeff Davis,2020,10-El Paso
+33,Presidio,2020,10-El Paso
+158,Aransas,2020,11-Edinburg
+164,Bee,2020,11-Edinburg
+35,Brooks,2020,11-Edinburg
+1514,Cameron,2020,11-Edinburg
+62,Duval,2020,11-Edinburg
+2557,Hidalgo,2020,11-Edinburg
+13,Jim Hogg,2020,11-Edinburg
+212,Jim Wells,2020,11-Edinburg
+120,Kleberg,2020,11-Edinburg
+52,Live Oak,2020,11-Edinburg
+3,McMullen,2020,11-Edinburg
+1967,Nueces,2020,11-Edinburg
+22,Refugio,2020,11-Edinburg
+343,San Patricio,2020,11-Edinburg
+175,Starr,2020,11-Edinburg
+509,Webb,2020,11-Edinburg
+114,Willacy,2020,11-Edinburg
+45,Zapata,2020,11-Edinburg
+32,Out of State,2020,Out of State
+6,Armstrong,2019,1-Lubbock
+25,Bailey,2019,1-Lubbock
+5,Briscoe,2019,1-Lubbock
+29,Carson,2019,1-Lubbock
+13,Castro,2019,1-Lubbock
+27,Childress,2019,1-Lubbock
+65,Cochran,2019,1-Lubbock
+14,Collingsworth,2019,1-Lubbock
+74,Crosby,2019,1-Lubbock
+22,Dallam,2019,1-Lubbock
+43,Deaf Smith,2019,1-Lubbock
+22,Dickens,2019,1-Lubbock
+21,Donley,2019,1-Lubbock
+41,Floyd,2019,1-Lubbock
+60,Garza,2019,1-Lubbock
+111,Gray,2019,1-Lubbock
+166,Hale,2019,1-Lubbock
+15,Hall,2019,1-Lubbock
+8,Hansford,2019,1-Lubbock
+2,Hartley,2019,1-Lubbock
+2,Hemphill,2019,1-Lubbock
+165,Hockley,2019,1-Lubbock
+100,Hutchinson,2019,1-Lubbock
+107,Lamb,2019,1-Lubbock
+6,Lipscomb,2019,1-Lubbock
+2243,Lubbock,2019,1-Lubbock
+63,Lynn,2019,1-Lubbock
+50,Moore,2019,1-Lubbock
+10,Motley,2019,1-Lubbock
+28,Ochiltree,2019,1-Lubbock
+6,Oldham,2019,1-Lubbock
+17,Parmer,2019,1-Lubbock
+866,Potter,2019,1-Lubbock
+425,Randall,2019,1-Lubbock
+8,Sherman,2019,1-Lubbock
+35,Swisher,2019,1-Lubbock
+154,Terry,2019,1-Lubbock
+21,Wheeler,2019,1-Lubbock
+14,Yoakum,2019,1-Lubbock
+77,Archer,2019,2-Abilene
+40,Baylor,2019,2-Abilene
+262,Brown,2019,2-Abilene
+118,Callahan,2019,2-Abilene
+76,Clay,2019,2-Abilene
+100,Coleman,2019,2-Abilene
+93,Comanche,2019,2-Abilene
+6,Cottle,2019,2-Abilene
+183,Eastland,2019,2-Abilene
+23,Fisher,2019,2-Abilene
+15,Foard,2019,2-Abilene
+38,Hardeman,2019,2-Abilene
+57,Haskell,2019,2-Abilene
+33,Jack,2019,2-Abilene
+129,Jones,2019,2-Abilene
+1,Kent,2019,2-Abilene
+16,Knox,2019,2-Abilene
+35,Mitchell,2019,2-Abilene
+177,Montague,2019,2-Abilene
+106,Nolan,2019,2-Abilene
+91,Runnels,2019,2-Abilene
+66,Scurry,2019,2-Abilene
+10,Shackelford,2019,2-Abilene
+67,Stephens,2019,2-Abilene
+4,Stonewall,2019,2-Abilene
+1404,Taylor,2019,2-Abilene
+10,Throckmorton,2019,2-Abilene
+1434,Wichita,2019,2-Abilene
+120,Wilbarger,2019,2-Abilene
+144,Young,2019,2-Abilene
+1001,Collin,2019,3-Arlington
+107,Cooke,2019,3-Arlington
+5679,Dallas,2019,3-Arlington
+892,Denton,2019,3-Arlington
+346,Ellis,2019,3-Arlington
+109,Erath,2019,3-Arlington
+144,Fannin,2019,3-Arlington
+575,Grayson,2019,3-Arlington
+218,Hood,2019,3-Arlington
+405,Hunt,2019,3-Arlington
+489,Johnson,2019,3-Arlington
+290,Kaufman,2019,3-Arlington
+159,Navarro,2019,3-Arlington
+101,Palo Pinto,2019,3-Arlington
+338,Parker,2019,3-Arlington
+126,Rockwall,2019,3-Arlington
+31,Somervell,2019,3-Arlington
+4901,Tarrant,2019,3-Arlington
+143,Wise,2019,3-Arlington
+172,Anderson,2019,4-Tyler
+299,Bowie,2019,4-Tyler
+58,Camp,2019,4-Tyler
+141,Cass,2019,4-Tyler
+195,Cherokee,2019,4-Tyler
+29,Delta,2019,4-Tyler
+32,Franklin,2019,4-Tyler
+452,Gregg,2019,4-Tyler
+176,Harrison,2019,4-Tyler
+478,Henderson,2019,4-Tyler
+167,Hopkins,2019,4-Tyler
+247,Lamar,2019,4-Tyler
+62,Marion,2019,4-Tyler
+79,Morris,2019,4-Tyler
+72,Panola,2019,4-Tyler
+42,Rains,2019,4-Tyler
+70,Red River,2019,4-Tyler
+147,Rusk,2019,4-Tyler
+872,Smith,2019,4-Tyler
+92,Titus,2019,4-Tyler
+115,Upshur,2019,4-Tyler
+245,Van Zandt,2019,4-Tyler
+211,Wood,2019,4-Tyler
+442,Angelina,2019,5-Beaumont
+164,Hardin,2019,5-Beaumont
+103,Houston,2019,5-Beaumont
+187,Jasper,2019,5-Beaumont
+1110,Jefferson,2019,5-Beaumont
+248,Nacogdoches,2019,5-Beaumont
+55,Newton,2019,5-Beaumont
+347,Orange,2019,5-Beaumont
+317,Polk,2019,5-Beaumont
+59,Sabine,2019,5-Beaumont
+84,San Augustine,2019,5-Beaumont
+217,San Jacinto,2019,5-Beaumont
+135,Shelby,2019,5-Beaumont
+113,Trinity,2019,5-Beaumont
+100,Tyler,2019,5-Beaumont
+71,Austin,2019,6-Houston
+667,Brazoria,2019,6-Houston
+89,Chambers,2019,6-Houston
+77,Colorado,2019,6-Houston
+1150,Fort Bend,2019,6-Houston
+1141,Galveston,2019,6-Houston
+11542,Harris,2019,6-Houston
+309,Liberty,2019,6-Houston
+110,Matagorda,2019,6-Houston
+1302,Montgomery,2019,6-Houston
+147,Walker,2019,6-Houston
+110,Waller,2019,6-Houston
+153,Wharton,2019,6-Houston
+286,Bastrop,2019,7-Austin
+1157,Bell,2019,7-Austin
+15,Blanco,2019,7-Austin
+104,Bosque,2019,7-Austin
+401,Brazos,2019,7-Austin
+83,Burleson,2019,7-Austin
+157,Burnet,2019,7-Austin
+159,Caldwell,2019,7-Austin
+249,Coryell,2019,7-Austin
+77,Falls,2019,7-Austin
+100,Fayette,2019,7-Austin
+79,Freestone,2019,7-Austin
+102,Grimes,2019,7-Austin
+50,Hamilton,2019,7-Austin
+429,Hays,2019,7-Austin
+180,Hill,2019,7-Austin
+98,Lampasas,2019,7-Austin
+46,Lee,2019,7-Austin
+68,Leon,2019,7-Austin
+98,Limestone,2019,7-Austin
+117,Llano,2019,7-Austin
+47,Madison,2019,7-Austin
+1075,McLennan,2019,7-Austin
+87,Milam,2019,7-Austin
+19,Mills,2019,7-Austin
+82,Robertson,2019,7-Austin
+27,San Saba,2019,7-Austin
+2822,Travis,2019,7-Austin
+100,Washington,2019,7-Austin
+731,Williamson,2019,7-Austin
+200,Atascosa,2019,8-San Antonio
+100,Bandera,2019,8-San Antonio
+7073,Bexar,2019,8-San Antonio
+91,Calhoun,2019,8-San Antonio
+359,Comal,2019,8-San Antonio
+70,DeWitt,2019,8-San Antonio
+43,Dimmit,2019,8-San Antonio
+7,Edwards,2019,8-San Antonio
+64,Frio,2019,8-San Antonio
+90,Gillespie,2019,8-San Antonio
+20,Goliad,2019,8-San Antonio
+72,Gonzales,2019,8-San Antonio
+401,Guadalupe,2019,8-San Antonio
+31,Jackson,2019,8-San Antonio
+43,Karnes,2019,8-San Antonio
+120,Kendall,2019,8-San Antonio
+304,Kerr,2019,8-San Antonio
+19,Kinney,2019,8-San Antonio
+32,La Salle,2019,8-San Antonio
+52,Lavaca,2019,8-San Antonio
+155,Maverick,2019,8-San Antonio
+182,Medina,2019,8-San Antonio
+31,Real,2019,8-San Antonio
+77,Uvalde,2019,8-San Antonio
+143,Val Verde,2019,8-San Antonio
+311,Victoria,2019,8-San Antonio
+141,Wilson,2019,8-San Antonio
+55,Zavala,2019,8-San Antonio
+31,Andrews,2019,9-Midland
+2,Borden,2019,9-Midland
+16,Coke,2019,9-Midland
+16,Concho,2019,9-Midland
+10,Crane,2019,9-Midland
+17,Crockett,2019,9-Midland
+95,Dawson,2019,9-Midland
+536,Ector,2019,9-Midland
+47,Gaines,2019,9-Midland
+2,Glasscock,2019,9-Midland
+195,Howard,2019,9-Midland
+4,Irion,2019,9-Midland
+39,Kimble,2019,9-Midland
+19,Martin,2019,9-Midland
+16,Mason,2019,9-Midland
+60,McCulloch,2019,9-Midland
+13,Menard,2019,9-Midland
+323,Midland,2019,9-Midland
+63,Pecos,2019,9-Midland
+7,Reagan,2019,9-Midland
+41,Reeves,2019,9-Midland
+8,Schleicher,2019,9-Midland
+2,Sterling,2019,9-Midland
+8,Sutton,2019,9-Midland
+5,Terrell,2019,9-Midland
+1050,Tom Green,2019,9-Midland
+12,Upton,2019,9-Midland
+36,Ward,2019,9-Midland
+30,Winkler,2019,9-Midland
+76,Brewster,2019,10-El Paso
+18,Culberson,2019,10-El Paso
+3745,El Paso,2019,10-El Paso
+20,Hudspeth,2019,10-El Paso
+7,Jeff Davis,2019,10-El Paso
+41,Presidio,2019,10-El Paso
+171,Aransas,2019,11-Edinburg
+171,Bee,2019,11-Edinburg
+31,Brooks,2019,11-Edinburg
+1544,Cameron,2019,11-Edinburg
+50,Duval,2019,11-Edinburg
+2551,Hidalgo,2019,11-Edinburg
+22,Jim Hogg,2019,11-Edinburg
+215,Jim Wells,2019,11-Edinburg
+1,Kenedy,2019,11-Edinburg
+138,Kleberg,2019,11-Edinburg
+49,Live Oak,2019,11-Edinburg
+1790,Nueces,2019,11-Edinburg
+22,Refugio,2019,11-Edinburg
+331,San Patricio,2019,11-Edinburg
+176,Starr,2019,11-Edinburg
+576,Webb,2019,11-Edinburg
+107,Willacy,2019,11-Edinburg
+58,Zapata,2019,11-Edinburg
+23,Out of State,2019,Out of State
+3,Armstrong,2018,1-Lubbock
+23,Bailey,2018,1-Lubbock
+1,Briscoe,2018,1-Lubbock
+32,Carson,2018,1-Lubbock
+24,Castro,2018,1-Lubbock
+27,Childress,2018,1-Lubbock
+46,Cochran,2018,1-Lubbock
+12,Collingsworth,2018,1-Lubbock
+38,Crosby,2018,1-Lubbock
+27,Dallam,2018,1-Lubbock
+69,Deaf Smith,2018,1-Lubbock
+25,Dickens,2018,1-Lubbock
+24,Donley,2018,1-Lubbock
+37,Floyd,2018,1-Lubbock
+47,Garza,2018,1-Lubbock
+138,Gray,2018,1-Lubbock
+161,Hale,2018,1-Lubbock
+11,Hall,2018,1-Lubbock
+10,Hansford,2018,1-Lubbock
+5,Hartley,2018,1-Lubbock
+9,Hemphill,2018,1-Lubbock
+114,Hockley,2018,1-Lubbock
+85,Hutchinson,2018,1-Lubbock
+102,Lamb,2018,1-Lubbock
+12,Lipscomb,2018,1-Lubbock
+2144,Lubbock,2018,1-Lubbock
+52,Lynn,2018,1-Lubbock
+74,Moore,2018,1-Lubbock
+14,Motley,2018,1-Lubbock
+26,Ochiltree,2018,1-Lubbock
+1,Oldham,2018,1-Lubbock
+17,Parmer,2018,1-Lubbock
+843,Potter,2018,1-Lubbock
+426,Randall,2018,1-Lubbock
+1,Roberts,2018,1-Lubbock
+8,Sherman,2018,1-Lubbock
+45,Swisher,2018,1-Lubbock
+126,Terry,2018,1-Lubbock
+20,Wheeler,2018,1-Lubbock
+25,Yoakum,2018,1-Lubbock
+60,Archer,2018,2-Abilene
+34,Baylor,2018,2-Abilene
+275,Brown,2018,2-Abilene
+91,Callahan,2018,2-Abilene
+76,Clay,2018,2-Abilene
+57,Coleman,2018,2-Abilene
+72,Comanche,2018,2-Abilene
+10,Cottle,2018,2-Abilene
+130,Eastland,2018,2-Abilene
+22,Fisher,2018,2-Abilene
+22,Foard,2018,2-Abilene
+33,Hardeman,2018,2-Abilene
+26,Haskell,2018,2-Abilene
+53,Jack,2018,2-Abilene
+112,Jones,2018,2-Abilene
+2,Kent,2018,2-Abilene
+21,Knox,2018,2-Abilene
+43,Mitchell,2018,2-Abilene
+172,Montague,2018,2-Abilene
+119,Nolan,2018,2-Abilene
+66,Runnels,2018,2-Abilene
+90,Scurry,2018,2-Abilene
+14,Shackelford,2018,2-Abilene
+77,Stephens,2018,2-Abilene
+10,Stonewall,2018,2-Abilene
+1228,Taylor,2018,2-Abilene
+5,Throckmorton,2018,2-Abilene
+1407,Wichita,2018,2-Abilene
+125,Wilbarger,2018,2-Abilene
+136,Young,2018,2-Abilene
+874,Collin,2018,3-Arlington
+105,Cooke,2018,3-Arlington
+6006,Dallas,2018,3-Arlington
+1020,Denton,2018,3-Arlington
+287,Ellis,2018,3-Arlington
+93,Erath,2018,3-Arlington
+132,Fannin,2018,3-Arlington
+562,Grayson,2018,3-Arlington
+197,Hood,2018,3-Arlington
+366,Hunt,2018,3-Arlington
+431,Johnson,2018,3-Arlington
+303,Kaufman,2018,3-Arlington
+151,Navarro,2018,3-Arlington
+133,Palo Pinto,2018,3-Arlington
+350,Parker,2018,3-Arlington
+145,Rockwall,2018,3-Arlington
+25,Somervell,2018,3-Arlington
+5507,Tarrant,2018,3-Arlington
+186,Wise,2018,3-Arlington
+166,Anderson,2018,4-Tyler
+326,Bowie,2018,4-Tyler
+62,Camp,2018,4-Tyler
+129,Cass,2018,4-Tyler
+227,Cherokee,2018,4-Tyler
+22,Delta,2018,4-Tyler
+50,Franklin,2018,4-Tyler
+444,Gregg,2018,4-Tyler
+236,Harrison,2018,4-Tyler
+458,Henderson,2018,4-Tyler
+143,Hopkins,2018,4-Tyler
+233,Lamar,2018,4-Tyler
+63,Marion,2018,4-Tyler
+93,Morris,2018,4-Tyler
+73,Panola,2018,4-Tyler
+50,Rains,2018,4-Tyler
+45,Red River,2018,4-Tyler
+170,Rusk,2018,4-Tyler
+890,Smith,2018,4-Tyler
+88,Titus,2018,4-Tyler
+153,Upshur,2018,4-Tyler
+213,Van Zandt,2018,4-Tyler
+227,Wood,2018,4-Tyler
+509,Angelina,2018,5-Beaumont
+152,Hardin,2018,5-Beaumont
+125,Houston,2018,5-Beaumont
+200,Jasper,2018,5-Beaumont
+1214,Jefferson,2018,5-Beaumont
+292,Nacogdoches,2018,5-Beaumont
+60,Newton,2018,5-Beaumont
+378,Orange,2018,5-Beaumont
+316,Polk,2018,5-Beaumont
+72,Sabine,2018,5-Beaumont
+83,San Augustine,2018,5-Beaumont
+165,San Jacinto,2018,5-Beaumont
+154,Shelby,2018,5-Beaumont
+96,Trinity,2018,5-Beaumont
+82,Tyler,2018,5-Beaumont
+80,Austin,2018,6-Houston
+714,Brazoria,2018,6-Houston
+72,Chambers,2018,6-Houston
+93,Colorado,2018,6-Houston
+1062,Fort Bend,2018,6-Houston
+1146,Galveston,2018,6-Houston
+11858,Harris,2018,6-Houston
+308,Liberty,2018,6-Houston
+132,Matagorda,2018,6-Houston
+1397,Montgomery,2018,6-Houston
+152,Walker,2018,6-Houston
+115,Waller,2018,6-Houston
+134,Wharton,2018,6-Houston
+307,Bastrop,2018,7-Austin
+1154,Bell,2018,7-Austin
+25,Blanco,2018,7-Austin
+77,Bosque,2018,7-Austin
+353,Brazos,2018,7-Austin
+67,Burleson,2018,7-Austin
+139,Burnet,2018,7-Austin
+149,Caldwell,2018,7-Austin
+257,Coryell,2018,7-Austin
+103,Falls,2018,7-Austin
+66,Fayette,2018,7-Austin
+86,Freestone,2018,7-Austin
+107,Grimes,2018,7-Austin
+37,Hamilton,2018,7-Austin
+285,Hays,2018,7-Austin
+172,Hill,2018,7-Austin
+105,Lampasas,2018,7-Austin
+58,Lee,2018,7-Austin
+67,Leon,2018,7-Austin
+92,Limestone,2018,7-Austin
+87,Llano,2018,7-Austin
+38,Madison,2018,7-Austin
+1109,McLennan,2018,7-Austin
+95,Milam,2018,7-Austin
+18,Mills,2018,7-Austin
+65,Robertson,2018,7-Austin
+28,San Saba,2018,7-Austin
+2845,Travis,2018,7-Austin
+95,Washington,2018,7-Austin
+750,Williamson,2018,7-Austin
+181,Atascosa,2018,8-San Antonio
+97,Bandera,2018,8-San Antonio
+7075,Bexar,2018,8-San Antonio
+65,Calhoun,2018,8-San Antonio
+371,Comal,2018,8-San Antonio
+60,DeWitt,2018,8-San Antonio
+36,Dimmit,2018,8-San Antonio
+6,Edwards,2018,8-San Antonio
+53,Frio,2018,8-San Antonio
+99,Gillespie,2018,8-San Antonio
+23,Goliad,2018,8-San Antonio
+88,Gonzales,2018,8-San Antonio
+388,Guadalupe,2018,8-San Antonio
+45,Jackson,2018,8-San Antonio
+44,Karnes,2018,8-San Antonio
+114,Kendall,2018,8-San Antonio
+333,Kerr,2018,8-San Antonio
+18,Kinney,2018,8-San Antonio
+26,La Salle,2018,8-San Antonio
+61,Lavaca,2018,8-San Antonio
+117,Maverick,2018,8-San Antonio
+171,Medina,2018,8-San Antonio
+14,Real,2018,8-San Antonio
+104,Uvalde,2018,8-San Antonio
+148,Val Verde,2018,8-San Antonio
+305,Victoria,2018,8-San Antonio
+136,Wilson,2018,8-San Antonio
+50,Zavala,2018,8-San Antonio
+44,Andrews,2018,9-Midland
+2,Borden,2018,9-Midland
+19,Coke,2018,9-Midland
+20,Concho,2018,9-Midland
+17,Crane,2018,9-Midland
+12,Crockett,2018,9-Midland
+100,Dawson,2018,9-Midland
+497,Ector,2018,9-Midland
+60,Gaines,2018,9-Midland
+2,Glasscock,2018,9-Midland
+184,Howard,2018,9-Midland
+3,Irion,2018,9-Midland
+27,Kimble,2018,9-Midland
+2,Loving,2018,9-Midland
+18,Martin,2018,9-Midland
+14,Mason,2018,9-Midland
+70,McCulloch,2018,9-Midland
+9,Menard,2018,9-Midland
+383,Midland,2018,9-Midland
+64,Pecos,2018,9-Midland
+12,Reagan,2018,9-Midland
+36,Reeves,2018,9-Midland
+12,Schleicher,2018,9-Midland
+11,Sutton,2018,9-Midland
+4,Terrell,2018,9-Midland
+991,Tom Green,2018,9-Midland
+13,Upton,2018,9-Midland
+51,Ward,2018,9-Midland
+21,Winkler,2018,9-Midland
+82,Brewster,2018,10-El Paso
+19,Culberson,2018,10-El Paso
+2760,El Paso,2018,10-El Paso
+11,Hudspeth,2018,10-El Paso
+6,Jeff Davis,2018,10-El Paso
+43,Presidio,2018,10-El Paso
+136,Aransas,2018,11-Edinburg
+146,Bee,2018,11-Edinburg
+51,Brooks,2018,11-Edinburg
+1472,Cameron,2018,11-Edinburg
+56,Duval,2018,11-Edinburg
+2431,Hidalgo,2018,11-Edinburg
+28,Jim Hogg,2018,11-Edinburg
+227,Jim Wells,2018,11-Edinburg
+1,Kenedy,2018,11-Edinburg
+108,Kleberg,2018,11-Edinburg
+61,Live Oak,2018,11-Edinburg
+2,McMullen,2018,11-Edinburg
+1766,Nueces,2018,11-Edinburg
+27,Refugio,2018,11-Edinburg
+267,San Patricio,2018,11-Edinburg
+205,Starr,2018,11-Edinburg
+509,Webb,2018,11-Edinburg
+103,Willacy,2018,11-Edinburg
+47,Zapata,2018,11-Edinburg
+26,Out of State,2018,Out of State
+4,Armstrong,2017,1-Lubbock
+53,Bailey,2017,1-Lubbock
+1,Briscoe,2017,1-Lubbock
+23,Carson,2017,1-Lubbock
+16,Castro,2017,1-Lubbock
+41,Childress,2017,1-Lubbock
+78,Cochran,2017,1-Lubbock
+15,Collingsworth,2017,1-Lubbock
+55,Crosby,2017,1-Lubbock
+11,Dallam,2017,1-Lubbock
+44,Deaf Smith,2017,1-Lubbock
+8,Dickens,2017,1-Lubbock
+31,Donley,2017,1-Lubbock
+30,Floyd,2017,1-Lubbock
+41,Garza,2017,1-Lubbock
+106,Gray,2017,1-Lubbock
+146,Hale,2017,1-Lubbock
+23,Hall,2017,1-Lubbock
+4,Hansford,2017,1-Lubbock
+2,Hemphill,2017,1-Lubbock
+111,Hockley,2017,1-Lubbock
+111,Hutchinson,2017,1-Lubbock
+119,Lamb,2017,1-Lubbock
+2,Lipscomb,2017,1-Lubbock
+2405,Lubbock,2017,1-Lubbock
+31,Lynn,2017,1-Lubbock
+47,Moore,2017,1-Lubbock
+14,Motley,2017,1-Lubbock
+21,Ochiltree,2017,1-Lubbock
+25,Parmer,2017,1-Lubbock
+806,Potter,2017,1-Lubbock
+428,Randall,2017,1-Lubbock
+1,Roberts,2017,1-Lubbock
+6,Sherman,2017,1-Lubbock
+23,Swisher,2017,1-Lubbock
+177,Terry,2017,1-Lubbock
+18,Wheeler,2017,1-Lubbock
+22,Yoakum,2017,1-Lubbock
+52,Archer,2017,2-Abilene
+30,Baylor,2017,2-Abilene
+254,Brown,2017,2-Abilene
+98,Callahan,2017,2-Abilene
+70,Clay,2017,2-Abilene
+92,Coleman,2017,2-Abilene
+87,Comanche,2017,2-Abilene
+16,Cottle,2017,2-Abilene
+139,Eastland,2017,2-Abilene
+18,Fisher,2017,2-Abilene
+22,Foard,2017,2-Abilene
+38,Hardeman,2017,2-Abilene
+42,Haskell,2017,2-Abilene
+63,Jack,2017,2-Abilene
+100,Jones,2017,2-Abilene
+2,Kent,2017,2-Abilene
+30,Knox,2017,2-Abilene
+53,Mitchell,2017,2-Abilene
+150,Montague,2017,2-Abilene
+112,Nolan,2017,2-Abilene
+70,Runnels,2017,2-Abilene
+70,Scurry,2017,2-Abilene
+15,Shackelford,2017,2-Abilene
+84,Stephens,2017,2-Abilene
+8,Stonewall,2017,2-Abilene
+1190,Taylor,2017,2-Abilene
+4,Throckmorton,2017,2-Abilene
+1347,Wichita,2017,2-Abilene
+159,Wilbarger,2017,2-Abilene
+204,Young,2017,2-Abilene
+890,Collin,2017,3-Arlington
+102,Cooke,2017,3-Arlington
+6078,Dallas,2017,3-Arlington
+893,Denton,2017,3-Arlington
+326,Ellis,2017,3-Arlington
+107,Erath,2017,3-Arlington
+156,Fannin,2017,3-Arlington
+490,Grayson,2017,3-Arlington
+203,Hood,2017,3-Arlington
+394,Hunt,2017,3-Arlington
+417,Johnson,2017,3-Arlington
+280,Kaufman,2017,3-Arlington
+177,Navarro,2017,3-Arlington
+140,Palo Pinto,2017,3-Arlington
+355,Parker,2017,3-Arlington
+131,Rockwall,2017,3-Arlington
+16,Somervell,2017,3-Arlington
+5024,Tarrant,2017,3-Arlington
+213,Wise,2017,3-Arlington
+223,Anderson,2017,4-Tyler
+303,Bowie,2017,4-Tyler
+64,Camp,2017,4-Tyler
+117,Cass,2017,4-Tyler
+274,Cherokee,2017,4-Tyler
+23,Delta,2017,4-Tyler
+33,Franklin,2017,4-Tyler
+446,Gregg,2017,4-Tyler
+217,Harrison,2017,4-Tyler
+471,Henderson,2017,4-Tyler
+181,Hopkins,2017,4-Tyler
+274,Lamar,2017,4-Tyler
+53,Marion,2017,4-Tyler
+102,Morris,2017,4-Tyler
+96,Panola,2017,4-Tyler
+56,Rains,2017,4-Tyler
+68,Red River,2017,4-Tyler
+153,Rusk,2017,4-Tyler
+907,Smith,2017,4-Tyler
+103,Titus,2017,4-Tyler
+176,Upshur,2017,4-Tyler
+232,Van Zandt,2017,4-Tyler
+193,Wood,2017,4-Tyler
+465,Angelina,2017,5-Beaumont
+211,Hardin,2017,5-Beaumont
+119,Houston,2017,5-Beaumont
+212,Jasper,2017,5-Beaumont
+1286,Jefferson,2017,5-Beaumont
+237,Nacogdoches,2017,5-Beaumont
+63,Newton,2017,5-Beaumont
+454,Orange,2017,5-Beaumont
+308,Polk,2017,5-Beaumont
+64,Sabine,2017,5-Beaumont
+91,San Augustine,2017,5-Beaumont
+191,San Jacinto,2017,5-Beaumont
+141,Shelby,2017,5-Beaumont
+124,Trinity,2017,5-Beaumont
+121,Tyler,2017,5-Beaumont
+103,Austin,2017,6-Houston
+680,Brazoria,2017,6-Houston
+109,Chambers,2017,6-Houston
+78,Colorado,2017,6-Houston
+1057,Fort Bend,2017,6-Houston
+1145,Galveston,2017,6-Houston
+11712,Harris,2017,6-Houston
+396,Liberty,2017,6-Houston
+138,Matagorda,2017,6-Houston
+1269,Montgomery,2017,6-Houston
+180,Walker,2017,6-Houston
+113,Waller,2017,6-Houston
+148,Wharton,2017,6-Houston
+273,Bastrop,2017,7-Austin
+1181,Bell,2017,7-Austin
+27,Blanco,2017,7-Austin
+59,Bosque,2017,7-Austin
+363,Brazos,2017,7-Austin
+87,Burleson,2017,7-Austin
+148,Burnet,2017,7-Austin
+143,Caldwell,2017,7-Austin
+129,Coryell,2017,7-Austin
+85,Falls,2017,7-Austin
+79,Fayette,2017,7-Austin
+61,Freestone,2017,7-Austin
+96,Grimes,2017,7-Austin
+32,Hamilton,2017,7-Austin
+326,Hays,2017,7-Austin
+136,Hill,2017,7-Austin
+62,Lampasas,2017,7-Austin
+54,Lee,2017,7-Austin
+71,Leon,2017,7-Austin
+92,Limestone,2017,7-Austin
+97,Llano,2017,7-Austin
+57,Madison,2017,7-Austin
+840,McLennan,2017,7-Austin
+92,Milam,2017,7-Austin
+15,Mills,2017,7-Austin
+72,Robertson,2017,7-Austin
+22,San Saba,2017,7-Austin
+2948,Travis,2017,7-Austin
+86,Washington,2017,7-Austin
+789,Williamson,2017,7-Austin
+180,Atascosa,2017,8-San Antonio
+85,Bandera,2017,8-San Antonio
+7243,Bexar,2017,8-San Antonio
+71,Calhoun,2017,8-San Antonio
+338,Comal,2017,8-San Antonio
+70,DeWitt,2017,8-San Antonio
+29,Dimmit,2017,8-San Antonio
+5,Edwards,2017,8-San Antonio
+63,Frio,2017,8-San Antonio
+75,Gillespie,2017,8-San Antonio
+16,Goliad,2017,8-San Antonio
+53,Gonzales,2017,8-San Antonio
+376,Guadalupe,2017,8-San Antonio
+44,Jackson,2017,8-San Antonio
+46,Karnes,2017,8-San Antonio
+85,Kendall,2017,8-San Antonio
+294,Kerr,2017,8-San Antonio
+13,Kinney,2017,8-San Antonio
+34,La Salle,2017,8-San Antonio
+47,Lavaca,2017,8-San Antonio
+142,Maverick,2017,8-San Antonio
+162,Medina,2017,8-San Antonio
+29,Real,2017,8-San Antonio
+83,Uvalde,2017,8-San Antonio
+147,Val Verde,2017,8-San Antonio
+287,Victoria,2017,8-San Antonio
+114,Wilson,2017,8-San Antonio
+43,Zavala,2017,8-San Antonio
+31,Andrews,2017,9-Midland
+1,Borden,2017,9-Midland
+16,Coke,2017,9-Midland
+11,Concho,2017,9-Midland
+14,Crane,2017,9-Midland
+18,Crockett,2017,9-Midland
+79,Dawson,2017,9-Midland
+526,Ector,2017,9-Midland
+40,Gaines,2017,9-Midland
+201,Howard,2017,9-Midland
+2,Irion,2017,9-Midland
+27,Kimble,2017,9-Midland
+2,Loving,2017,9-Midland
+28,Martin,2017,9-Midland
+16,Mason,2017,9-Midland
+54,McCulloch,2017,9-Midland
+20,Menard,2017,9-Midland
+393,Midland,2017,9-Midland
+63,Pecos,2017,9-Midland
+9,Reagan,2017,9-Midland
+37,Reeves,2017,9-Midland
+10,Schleicher,2017,9-Midland
+3,Sterling,2017,9-Midland
+21,Sutton,2017,9-Midland
+4,Terrell,2017,9-Midland
+1089,Tom Green,2017,9-Midland
+15,Upton,2017,9-Midland
+43,Ward,2017,9-Midland
+29,Winkler,2017,9-Midland
+79,Brewster,2017,10-El Paso
+12,Culberson,2017,10-El Paso
+3023,El Paso,2017,10-El Paso
+15,Hudspeth,2017,10-El Paso
+9,Jeff Davis,2017,10-El Paso
+29,Presidio,2017,10-El Paso
+179,Aransas,2017,11-Edinburg
+150,Bee,2017,11-Edinburg
+53,Brooks,2017,11-Edinburg
+1579,Cameron,2017,11-Edinburg
+57,Duval,2017,11-Edinburg
+2475,Hidalgo,2017,11-Edinburg
+39,Jim Hogg,2017,11-Edinburg
+199,Jim Wells,2017,11-Edinburg
+1,Kenedy,2017,11-Edinburg
+132,Kleberg,2017,11-Edinburg
+46,Live Oak,2017,11-Edinburg
+4,McMullen,2017,11-Edinburg
+1751,Nueces,2017,11-Edinburg
+29,Refugio,2017,11-Edinburg
+329,San Patricio,2017,11-Edinburg
+180,Starr,2017,11-Edinburg
+554,Webb,2017,11-Edinburg
+109,Willacy,2017,11-Edinburg
+49,Zapata,2017,11-Edinburg
+39,Out of State,2017,Out of State
+3,None Specified,2017,None Specified
+9,Armstrong,2016,1-Lubbock
+56,Bailey,2016,1-Lubbock
+1,Briscoe,2016,1-Lubbock
+21,Carson,2016,1-Lubbock
+17,Castro,2016,1-Lubbock
+33,Childress,2016,1-Lubbock
+114,Cochran,2016,1-Lubbock
+19,Collingsworth,2016,1-Lubbock
+77,Crosby,2016,1-Lubbock
+22,Dallam,2016,1-Lubbock
+58,Deaf Smith,2016,1-Lubbock
+12,Dickens,2016,1-Lubbock
+27,Donley,2016,1-Lubbock
+67,Floyd,2016,1-Lubbock
+69,Garza,2016,1-Lubbock
+113,Gray,2016,1-Lubbock
+159,Hale,2016,1-Lubbock
+16,Hall,2016,1-Lubbock
+11,Hansford,2016,1-Lubbock
+14,Hartley,2016,1-Lubbock
+4,Hemphill,2016,1-Lubbock
+139,Hockley,2016,1-Lubbock
+100,Hutchinson,2016,1-Lubbock
+147,Lamb,2016,1-Lubbock
+5,Lipscomb,2016,1-Lubbock
+2325,Lubbock,2016,1-Lubbock
+51,Lynn,2016,1-Lubbock
+52,Moore,2016,1-Lubbock
+18,Motley,2016,1-Lubbock
+24,Ochiltree,2016,1-Lubbock
+5,Oldham,2016,1-Lubbock
+18,Parmer,2016,1-Lubbock
+864,Potter,2016,1-Lubbock
+450,Randall,2016,1-Lubbock
+3,Roberts,2016,1-Lubbock
+36,Swisher,2016,1-Lubbock
+179,Terry,2016,1-Lubbock
+15,Wheeler,2016,1-Lubbock
+18,Yoakum,2016,1-Lubbock
+57,Archer,2016,2-Abilene
+42,Baylor,2016,2-Abilene
+252,Brown,2016,2-Abilene
+107,Callahan,2016,2-Abilene
+93,Clay,2016,2-Abilene
+78,Coleman,2016,2-Abilene
+81,Comanche,2016,2-Abilene
+15,Cottle,2016,2-Abilene
+164,Eastland,2016,2-Abilene
+20,Fisher,2016,2-Abilene
+20,Foard,2016,2-Abilene
+37,Hardeman,2016,2-Abilene
+43,Haskell,2016,2-Abilene
+49,Jack,2016,2-Abilene
+81,Jones,2016,2-Abilene
+3,Kent,2016,2-Abilene
+26,Knox,2016,2-Abilene
+41,Mitchell,2016,2-Abilene
+185,Montague,2016,2-Abilene
+151,Nolan,2016,2-Abilene
+84,Runnels,2016,2-Abilene
+86,Scurry,2016,2-Abilene
+18,Shackelford,2016,2-Abilene
+68,Stephens,2016,2-Abilene
+12,Stonewall,2016,2-Abilene
+1252,Taylor,2016,2-Abilene
+7,Throckmorton,2016,2-Abilene
+1401,Wichita,2016,2-Abilene
+109,Wilbarger,2016,2-Abilene
+177,Young,2016,2-Abilene
+824,Collin,2016,3-Arlington
+103,Cooke,2016,3-Arlington
+6449,Dallas,2016,3-Arlington
+906,Denton,2016,3-Arlington
+266,Ellis,2016,3-Arlington
+94,Erath,2016,3-Arlington
+129,Fannin,2016,3-Arlington
+524,Grayson,2016,3-Arlington
+202,Hood,2016,3-Arlington
+403,Hunt,2016,3-Arlington
+388,Johnson,2016,3-Arlington
+303,Kaufman,2016,3-Arlington
+196,Navarro,2016,3-Arlington
+155,Palo Pinto,2016,3-Arlington
+389,Parker,2016,3-Arlington
+93,Rockwall,2016,3-Arlington
+22,Somervell,2016,3-Arlington
+5002,Tarrant,2016,3-Arlington
+151,Wise,2016,3-Arlington
+268,Anderson,2016,4-Tyler
+268,Bowie,2016,4-Tyler
+75,Camp,2016,4-Tyler
+97,Cass,2016,4-Tyler
+279,Cherokee,2016,4-Tyler
+27,Delta,2016,4-Tyler
+46,Franklin,2016,4-Tyler
+470,Gregg,2016,4-Tyler
+240,Harrison,2016,4-Tyler
+513,Henderson,2016,4-Tyler
+175,Hopkins,2016,4-Tyler
+197,Lamar,2016,4-Tyler
+84,Marion,2016,4-Tyler
+87,Morris,2016,4-Tyler
+88,Panola,2016,4-Tyler
+56,Rains,2016,4-Tyler
+46,Red River,2016,4-Tyler
+183,Rusk,2016,4-Tyler
+973,Smith,2016,4-Tyler
+104,Titus,2016,4-Tyler
+157,Upshur,2016,4-Tyler
+254,Van Zandt,2016,4-Tyler
+224,Wood,2016,4-Tyler
+406,Angelina,2016,5-Beaumont
+202,Hardin,2016,5-Beaumont
+105,Houston,2016,5-Beaumont
+216,Jasper,2016,5-Beaumont
+1269,Jefferson,2016,5-Beaumont
+280,Nacogdoches,2016,5-Beaumont
+68,Newton,2016,5-Beaumont
+391,Orange,2016,5-Beaumont
+259,Polk,2016,5-Beaumont
+68,Sabine,2016,5-Beaumont
+72,San Augustine,2016,5-Beaumont
+178,San Jacinto,2016,5-Beaumont
+128,Shelby,2016,5-Beaumont
+102,Trinity,2016,5-Beaumont
+89,Tyler,2016,5-Beaumont
+69,Austin,2016,6-Houston
+651,Brazoria,2016,6-Houston
+80,Chambers,2016,6-Houston
+51,Colorado,2016,6-Houston
+737,Fort Bend,2016,6-Houston
+1108,Galveston,2016,6-Houston
+11676,Harris,2016,6-Houston
+347,Liberty,2016,6-Houston
+151,Matagorda,2016,6-Houston
+1295,Montgomery,2016,6-Houston
+139,Walker,2016,6-Houston
+89,Waller,2016,6-Houston
+132,Wharton,2016,6-Houston
+299,Bastrop,2016,7-Austin
+1129,Bell,2016,7-Austin
+22,Blanco,2016,7-Austin
+58,Bosque,2016,7-Austin
+319,Brazos,2016,7-Austin
+70,Burleson,2016,7-Austin
+161,Burnet,2016,7-Austin
+176,Caldwell,2016,7-Austin
+215,Coryell,2016,7-Austin
+83,Falls,2016,7-Austin
+73,Fayette,2016,7-Austin
+75,Freestone,2016,7-Austin
+69,Grimes,2016,7-Austin
+31,Hamilton,2016,7-Austin
+328,Hays,2016,7-Austin
+200,Hill,2016,7-Austin
+88,Lampasas,2016,7-Austin
+53,Lee,2016,7-Austin
+77,Leon,2016,7-Austin
+114,Limestone,2016,7-Austin
+91,Llano,2016,7-Austin
+41,Madison,2016,7-Austin
+925,McLennan,2016,7-Austin
+104,Milam,2016,7-Austin
+14,Mills,2016,7-Austin
+78,Robertson,2016,7-Austin
+27,San Saba,2016,7-Austin
+2710,Travis,2016,7-Austin
+89,Washington,2016,7-Austin
+826,Williamson,2016,7-Austin
+145,Atascosa,2016,8-San Antonio
+114,Bandera,2016,8-San Antonio
+6730,Bexar,2016,8-San Antonio
+86,Calhoun,2016,8-San Antonio
+334,Comal,2016,8-San Antonio
+69,DeWitt,2016,8-San Antonio
+41,Dimmit,2016,8-San Antonio
+4,Edwards,2016,8-San Antonio
+70,Frio,2016,8-San Antonio
+65,Gillespie,2016,8-San Antonio
+24,Goliad,2016,8-San Antonio
+66,Gonzales,2016,8-San Antonio
+365,Guadalupe,2016,8-San Antonio
+24,Jackson,2016,8-San Antonio
+44,Karnes,2016,8-San Antonio
+73,Kendall,2016,8-San Antonio
+264,Kerr,2016,8-San Antonio
+6,Kinney,2016,8-San Antonio
+30,La Salle,2016,8-San Antonio
+39,Lavaca,2016,8-San Antonio
+149,Maverick,2016,8-San Antonio
+166,Medina,2016,8-San Antonio
+16,Real,2016,8-San Antonio
+80,Uvalde,2016,8-San Antonio
+133,Val Verde,2016,8-San Antonio
+296,Victoria,2016,8-San Antonio
+133,Wilson,2016,8-San Antonio
+56,Zavala,2016,8-San Antonio
+39,Andrews,2016,9-Midland
+5,Borden,2016,9-Midland
+19,Coke,2016,9-Midland
+15,Concho,2016,9-Midland
+8,Crane,2016,9-Midland
+15,Crockett,2016,9-Midland
+91,Dawson,2016,9-Midland
+569,Ector,2016,9-Midland
+28,Gaines,2016,9-Midland
+1,Glasscock,2016,9-Midland
+193,Howard,2016,9-Midland
+4,Irion,2016,9-Midland
+34,Kimble,2016,9-Midland
+13,Martin,2016,9-Midland
+18,Mason,2016,9-Midland
+62,McCulloch,2016,9-Midland
+13,Menard,2016,9-Midland
+393,Midland,2016,9-Midland
+56,Pecos,2016,9-Midland
+5,Reagan,2016,9-Midland
+64,Reeves,2016,9-Midland
+18,Schleicher,2016,9-Midland
+5,Sterling,2016,9-Midland
+23,Sutton,2016,9-Midland
+2,Terrell,2016,9-Midland
+1024,Tom Green,2016,9-Midland
+7,Upton,2016,9-Midland
+63,Ward,2016,9-Midland
+27,Winkler,2016,9-Midland
+87,Brewster,2016,10-El Paso
+20,Culberson,2016,10-El Paso
+3120,El Paso,2016,10-El Paso
+17,Hudspeth,2016,10-El Paso
+10,Jeff Davis,2016,10-El Paso
+28,Presidio,2016,10-El Paso
+172,Aransas,2016,11-Edinburg
+134,Bee,2016,11-Edinburg
+57,Brooks,2016,11-Edinburg
+1348,Cameron,2016,11-Edinburg
+63,Duval,2016,11-Edinburg
+2252,Hidalgo,2016,11-Edinburg
+18,Jim Hogg,2016,11-Edinburg
+188,Jim Wells,2016,11-Edinburg
+109,Kleberg,2016,11-Edinburg
+43,Live Oak,2016,11-Edinburg
+3,McMullen,2016,11-Edinburg
+1679,Nueces,2016,11-Edinburg
+26,Refugio,2016,11-Edinburg
+297,San Patricio,2016,11-Edinburg
+154,Starr,2016,11-Edinburg
+522,Webb,2016,11-Edinburg
+133,Willacy,2016,11-Edinburg
+35,Zapata,2016,11-Edinburg
+43,Out of State,2016,Out of State
